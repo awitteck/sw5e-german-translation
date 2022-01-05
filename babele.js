@@ -5,7 +5,7 @@ Hooks.once('init', () => {
 		Babele.get().register({
 			module: 'sw5e-german-translation',
 			lang: 'de',
-			dir: 'de'
+			dir: 'modules/sw5e-german-translation'
 		});
 	}
 });

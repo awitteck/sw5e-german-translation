@@ -1,0 +1,450 @@
+{
+	"label": "Raumschiff: Waffen",
+	"entries": [
+				{
+					"id": "5kpivuc8zKnAdtxS",
+					"name": "Adv. Cluster-Rakete",
+					"description": "<p>(Reichweite 600/2400), Auto, Burst 6, Explosiv, Rapid 6</p>\r\n<p>20 (40) lb</p>\r\n<p>3d6 (6d6) kinetisch</p>"
+				},
+				{
+					"id": "lsA23OVPdVS7f5Cn",
+					"name": "Adv. Concussion Missile",
+					"description": "<p>(Reichweite 800/3200), Auto, Burst 1, Explosiv, Rapid 1</p>\r\n<p>125 (250) lb</p>\r\n<p>2d10 (4d10) Energie</p>"
+				},
+				{
+					"id": "wL4V3nq5E31yOLor",
+					"name": "Adv. Homing Cluster Missile",
+					"description": "<p>(Reichweite 600/2400), Auto, Burst 6, Explosivstoff, Zielsuchlauf, Rapid 6</p>\r\n<p>25 (50) lb</p>\r\n<p>3d6 (6d6) kinetisch</p>"
+				},
+				{
+					"id": "IOsg8rGhGH7KEhXt",
+					"name": "Fortgeschrittener Protonentorpedo",
+					"description": "<p>(Reichweite 800/3200), explosiv, scharf 1</p>\r\n<p>85 (170) lb</p>\r\n<p>2d12 (4d12) Energie</p>"
+				},
+				{
+					"id": "vUaBUsg20A7c0F5K",
+					"name": "Angriffslaser-Kanone",
+					"description": "Kraft (Reichweite 1200/4800), Konstitution 15, Überhitzung 2"
+				},
+				{
+					"id": "4k02La2CnwiP0jHa",
+					"name": "Angriffsraketen-Werfer",
+					"description": "Munition, Nachladen 8"
+				},
+				{
+					"id": "ZZsEu5ijYwqGLMIU",
+					"name": "Angriffsraketenabschussvorrichtung",
+					"description": "Munition, nachladen 24"
+				},
+				{
+					"id": "8KOSrlyXmmjnLFnO",
+					"name": "Sturmtorpedo-Werfer",
+					"description": "Munition nachladen 8"
+				},
+				{
+					"id": "JDFOAnfLUMFkfsQ1",
+					"name": "Turbolaser-Sturmbatterie",
+					"description": "Kraft (Reichweite 1200/4800), Konst. 15, Überhitzung 2"
+				},
+				{
+					"id": "5QfEA4S8yCV4uf1D",
+					"name": "Blasterkanone",
+					"description": "Leistung (Reichweite 600/2400), versteckt, Überhitzung 18, schnell 9"
+				},
+				{
+					"id": "YGeOQhAhSjyXpVHq",
+					"name": "Blaster Punktverteidigung",
+					"description": "Leistung (Reichweite 200/800), Sättigung, Zone"
+				},
+				{
+					"id": "ZPvGkcGZjplQZUlZ",
+					"name": "Bombenabwurfvorrichtung",
+					"description": "Munition, nachladen 4"
+				},
+				{
+					"id": "tvqoh3PI2TpsrNEi",
+					"name": "Bombenleger",
+					"description": "Munition, Nachladen 8"
+				},
+				{
+					"id": "MjFYBBx3RkPRFo0N",
+					"name": "Bombenleger",
+					"description": "<p>16 (32) lb</p>\r\n<p>Wenn ein Bomblet detoniert, muss jedes Schiff im Umkreis von 50 [100] Fuß einen Geschicklichkeitswurf machen (DC 15). Bei einem misslungenen Schutzwurf erleidet ein Schiff 1d10 [2d10] Energieschaden, bei einem erfolgreichen Schutzwurf halb so viel.</p>"
+				},
+				{
+					"id": "kEwJup4NNvz9tkgu",
+					"name": "Burst-Laser-Kanone",
+					"description": "Kraft (Reichweite 200/800), Auto, Ausbruch 1, Überhitzung 2, Sättigung"
+				},
+				{
+					"id": "4KrhEoRIb6GBohNC",
+					"name": "Burst-Turbolaser-Batterie",
+					"description": "Kraft (Reichweite 200/800), Auto, Ausbruch 1, Überhitzung 2, Sättigung"
+				},
+				{
+					"id": "L6Q6mufotVD13jcl",
+					"name": "Cluster-Rakete",
+					"description": "<p>(Reichweite 600/2400), auto, burst 6, explosiv, schnell 6</p>\r\n<p>10 (20) lb</p>\r\n<p>3d4 (6d4) kinetisch</p>"
+				},
+				{
+					"id": "3gDSsr54eM9q4wir",
+					"name": "Concussion Missile (Erschütterungsrakete)",
+					"description": "<p>(Reichweite 600/2400), Auto, Burst 1, Explosiv, Rapid 1</p>\r\n<p>75 (150) lb</p>\r\n<p>2d8 (4d8) Energie</p>"
+				},
+				{
+					"id": "sdKPn9BrYznXJVNR",
+					"name": "Conner-Netz (Mine)",
+					"description": "<p>30 (60) lb</p>\r\n<p>Bei der Detonation entfaltet sich ein Konternetz auf dem Ziel, das einen Konstitutionsschutzwurf (DC 15) machen muss. Bei einem misslungenen Schutzwurf wird das Schiff für 1 Minute betäubt. Als Aktion kann ein Besatzungsmitglied in jedem seiner Züge das Schiff den Rettungswurf wiederholen lassen, wobei der Effekt bei einem Erfolg endet.</p>"
+				},
+				{
+					"id": "Jgd1xkAWZUIv1neQ",
+					"name": "Conner-Netz (Rakete)",
+					"description": "<p>(Reichweite 600/2400), Spezial</p>\r\n<p>85 (170) lb</p>\r\n<p>Bei einem misslungenen Rettungswurf für eine Rakete entfaltet sich ein Conner-Netz auf dem Ziel, das einen Konstitutionsrettungswurf (DC 15) machen muss. Bei einem misslungenen Rettungswurf wird das Schiff für 1 Minute betäubt. Als Aktion kann ein Besatzungsmitglied in jedem seiner Züge das Schiff den Rettungswurf wiederholen lassen, wobei der Effekt bei einem Erfolg endet.</p>"
+				},
+				{
+					"id": "iTyjRczpY5A6Ozsk",
+					"name": "Discord-Rakete",
+					"description": "<p>(Reichweite 600/2400), Spezial</p>\r\n<p>85 (170) lb</p>\r\n<p>Bei einem misslungenen Rettungswurf setzt die Rakete Pistoeka-Sabotage- oder \"Buzz-Droiden auf das Ziel ab. Am Ende jeder Runde des Zielschiffs erhält das Zielschiff eine Stufe Systemschaden. Als Aktion kann ein Besatzungsmitglied in jedem seiner Züge das Schiff dazu bringen, einen Rettungswurf nach Wahl auf Geschicklichkeit oder Konstitution (DC 15) zu machen, der den Effekt bei einem Erfolg beendet.</p>\""
+				},
+				{
+					"id": "0mfxOy6sLopTK2CU",
+					"name": "Doppelte Laserkanone",
+					"description": "Kraft (Reichweite 800/3200), Überhitzung 8"
+				},
+				{
+					"id": "FzlRpSOQuD7vVcod",
+					"name": "Doppelte Turbolaserbatterie",
+					"description": "Kraft (Reichweite 800/3200), Überhitzung 8"
+				},
+				{
+					"id": "wof5RrYSYgegNUCW",
+					"name": "EMP-Bombe",
+					"description": "<p>45 (90) lb</p>\r\n<p>Wenn eine EMP-Bombe detoniert, muss jedes Schiff im Umkreis von 150 [300] Fuß einen Konstitutionswettkampf ablegen (DC 15). Bei einem misslungenen Rettungswurf wird das Schiff für 1 Minute betäubt. Als Aktion kann ein Besatzungsmitglied das Schiff in jedem seiner Züge den Rettungswurf wiederholen lassen, wobei der Effekt bei einem Erfolg beendet wird.</p>"
+				},
+				{
+					"id": "WgNMcZ1lZUgoeD4v",
+					"name": "Flechette-Torpedo",
+					"description": "<p>(Reichweite 600/2400), Spezial</p>\r\n<p>85 (170) lb</p>\r\n<p>Ein Flechette-Torpedo detoniert an einem Punkt in Reichweite und erzeugt einen 200 (400) Fuß großen Würfel aus schwierigem Gelände. Jedes Schiff, das diesen Bereich betritt oder seinen Zug beginnt, muss einen Geschicklichkeitswurf (DC 15) bestehen oder 1d8 [2d8] kinetischen Schaden erleiden.</p>"
+				},
+				{
+					"id": "ctF31Bbw5yOz16g0",
+					"name": "Glop-Bombe",
+					"description": "<p>30 (60) lb</p>\r\n<p>Wenn eine Glop-Bombe detoniert, muss jedes Schiff im Umkreis von 50 [100] Fuß einen Rettungswurf in Geschicklichkeit (DC 15) machen. Bei einem misslungenen Schutzwurf ist das Schiff 1 Minute lang geblendet. Als Aktion kann ein Besatzungsmitglied das Schiff in jeder seiner Runden den Rettungswurf wiederholen lassen, wobei der Effekt bei einem Erfolg beendet wird. Schiffe, die größer sind als du, haben einen Vorteil bei ihrem Rettungswurf.</p>"
+				},
+				{
+					"id": "EryVENqviDVVElSc",
+					"name": "Schwerkraftbombe",
+					"description": "<p>40 (80) lb</p>\r\n<p>Anstatt bei Kontakt zu explodieren, detonieren Schwerkraftbomben jedes Mal, wenn ein Schiff in ihre Reichweite kommt. Wenn eine Gravitationsbombe detoniert, heftet sie sich an die nächstgelegene Schiffshülle im Umkreis von 50 [100] Fuß und erzeugt einen auf das Schiff zentrierten Massenschatten mit einem Radius von 50 Fuß, der 10 Minuten lang anhält. Ein Schiff kann zu Beginn jeder Schiffsrunde versuchen, die Gravitationsbombe durch einen Stärkewurf (DC 15) zu entfernen. Alle großen oder kleineren [Gargantuan oder kleiner] Schiffe mit einer angebrachten Gravitationsbombe können ihre Hyperantriebe nicht aktivieren.</p>"
+				},
+				{
+					"id": "FL93LvbHgyARDJfL",
+					"name": "Schwerkraft-Mine",
+					"description": "<p>30 (60) lb</p>\r\n<p>Anstatt bei Kontakt zu explodieren, detonieren Schwerkraftminen jedes Mal, wenn ein Schiff in ihre Reichweite kommt. Wenn eine Schwerkraftmine detoniert, erzeugt sie einen auf den Detonationspunkt zentrierten Massenschatten mit einem Radius von 50 [100] Fuß, der 10 Minuten lang anhält. Schiffe, die diesen Massenschatten berühren, können ihre Hyperantriebe nicht aktivieren.</p>"
+				},
+				{
+					"id": "A0LPvkVHhH3e2Aeh",
+					"name": "Schwere Blaster-Kanone",
+					"description": "Leistung (Reichweite 600/2400), schwer, Überhitzung 12"
+				},
+				{
+					"id": "9WipBdW671mpX0yF",
+					"name": "Schwere Kanonenbatterie",
+					"description": "Kraft (Reichweite 400/1600), kon. 17, Überhitzung 1, bösartig 1"
+				},
+				{
+					"id": "I4XgghXrYBj8cIYb",
+					"name": "Schwere Ionenbatterie",
+					"description": "Energie (Reichweite 1000/4000), kon. 17, schwer, ionisierend, Überhitzung 4"
+				},
+				{
+					"id": "5YxKbVoxFPO87bMU",
+					"name": "Schwere Ionenkanone",
+					"description": "Kraft (Reichweite 1000/4000), Konstitution 17, schwer, ionisierend, Überhitzung 4"
+				},
+				{
+					"id": "oeJPdO4B0x2K66eD",
+					"name": "Schwere Ionen-Railgun",
+					"description": "Kraft (Reichweite 2000/8000), Kon. 19, ionisierend, Überhitzung 4"
+				},
+				{
+					"id": "Gghakl79RceZaRMa",
+					"name": "Schwere Laserkanone",
+					"description": "Kraft (Reichweite 1200/4800), Konstitution 15, schwer, Überhitzung 2"
+				},
+				{
+					"id": "XQbYYMSYYOwbDWKE",
+					"name": "Schweres Geschoss-Railgun",
+					"description": "Kraft (Bereich 2400/9600), Kon. 17, Überhitzung 2"
+				},
+				{
+					"id": "MfqMOw3ha3eKkO39",
+					"name": "Schwere Thermit-Railgun",
+					"description": "Kraft (Bereich 2400/9600), Kon. 19, Schmelzen, Überhitzung 2"
+				},
+				{
+					"id": "JUNaJVxhweGmAsp7",
+					"name": "Schwere Turbolaser-Batterie",
+					"description": "Leistung (Bereich 1200/4800), Kon. 15, schwer, Überhitzung 2"
+				},
+				{
+					"id": "FiFdiNoB6CHoAMwK",
+					"name": "Zielsuchende Cluster-Rakete",
+					"description": "<p>(Reichweite 600/2400), auto, burst 6, explosiv, zielsuchend, schnell 6</p>\r\n<p>15 (30) lb</p>\r\n<p>3d4 (6d4) kinetic</p>"
+				},
+				{
+					"id": "rO9ytBHQAHUryhYe",
+					"name": "Zielsuchende Torpedos",
+					"description": "<p>(Reichweite 1200/4800), explosiv, zielsuchend</p>\r\n<p>25 (50) lb</p>\r\n<p>1d12 (2d12) Energie</p>"
+				},
+				{
+					"id": "xXOjPQ3dWrpelOMO",
+					"name": "Ionenimpuls-Rakete",
+					"description": "<p>(Reichweite 1000/4000), ionisierend</p>\r\n<p>70 (140) lb</p>\r\n<p>2d10 (4d10) ion</p>"
+				},
+				{
+					"id": "IjjZiOAcvJ3aZG2I",
+					"name": "Ionen-Batterie",
+					"description": "Leistung (Reichweite 800/3200), con. 13, ionisierend, Überhitzung 8"
+				},
+				{
+					"id": "XXj7bTM70p14qEJ0",
+					"name": "Ionen-Kanone",
+					"description": "Leistung (Reichweite 800/3200), Konstitution 13, ionisierend, Überhitzung 8"
+				},
+				{
+					"id": "hWzmnKof2dKYQcV7",
+					"name": "Ionen-Kanone Punkt-Verteidigung",
+					"description": "Leistung (Bereich 300/1200), ionisierend, Sättigung, Zone"
+				},
+				{
+					"id": "Mr3dAyfk4Xe3vXak",
+					"name": "Ionen-Railgun",
+					"description": "Leistung (Bereich 1000/4000), Konstitution 17, ionisierend, Überhitzung 4"
+				},
+				{
+					"id": "TpLc4yrKS27FW4Jm",
+					"name": "Laser-Kanone",
+					"description": "Leistung (Bereich 1000/4000), Konstitution 11, Überhitzung 4"
+				},
+				{
+					"id": "5B2dpQzbHwvDAPpX",
+					"name": "Laserkanone Punktverteidigung",
+					"description": "Leistung (Bereich 300/1200), Sättigung, Zone"
+				},
+				{
+					"id": "j7TPgC1bhk0dRlKJ",
+					"name": "Leichte Ionen-Batterie",
+					"description": "Leistung (Bereich 800/3200), Überhitzung 16"
+				},
+				{
+					"id": "8PcIhxTpX8fKKVTJ",
+					"name": "Leichte Ionenkanone",
+					"description": "Kraft (Bereich 800/3200), Überhitzung 16"
+				},
+				{
+					"id": "iY7buV0MyCiiFWyN",
+					"name": "Leichte Laserkanone",
+					"description": "Kraft (Bereich 800/3200), Überhitzung 16"
+				},
+				{
+					"id": "ZsqRvfrH1J6ByMvc",
+					"name": "Leichte Turbolaser-Batterie",
+					"description": "Leistung (Bereich 800/3200), Überhitzung 16"
+				},
+				{
+					"id": "r5U7pdDSItpte6SD",
+					"name": "Langstrecken-Turbolaser-Batterie",
+					"description": "Leistung (Bereich 2400/9600), kon. 15, Überhitzung 2"
+				},
+				{
+					"id": "sNop7QuAG9JwcZiG",
+					"name": "Raketenwerfer",
+					"description": "Munition, Nachladen 4"
+				},
+				{
+					"id": "YRLjNB7P90UQ7pfG",
+					"name": "Nano-Cluster-Rakete",
+					"description": "<p>(Reichweite 800/3200), explosiv, zielsuchend</p>\r\n<p>10 (20) lb</p>\r\n<p>1d4 (2d4) kinetisch</p>"
+				},
+				{
+					"id": "oXr22fJirXeQvNNu",
+					"name": "Geschütze Punktverteidigung",
+					"description": "Kraft (Reichweite 300/1200), Explosiv, Sättigung, Zone"
+				},
+				{
+					"id": "Ydd4f6RqWkY81PMp",
+					"name": "Partikel-Kanone",
+					"description": "Kraft (Reichweite 1600/6400), Kon. 13, Überhitzung 4"
+				},
+				{
+					"id": "XEdTBWBjovonIskh",
+					"name": "Partikel-Strahl",
+					"description": "Kraft (Reichweite 800/3200), Konstitution 11, Überhitzung 4"
+				},
+				{
+					"id": "0MT7KylGglybwBbB",
+					"name": "Plasburst Laserkanone",
+					"description": "Kraft (Reichweite 600/2400), Ausbruch 12, Überhitzung 12"
+				},
+				{
+					"id": "8Ppbub4AzADALYBs",
+					"name": "Plasburst-Turbolaser-Batterie",
+					"description": "Kraft (Reichweite 600/2400), Ausbruch 12, Überhitzung 12"
+				},
+				{
+					"id": "WXrR9Zukpu0tFfvl",
+					"name": "Plasma-Torpedo",
+					"description": "<p>(Reichweite 1200/4800), bösartig 1</p>\r\n<p>70 (140) lb</p>\r\n<p>2d12 (4d12) ion</p>"
+				},
+				{
+					"id": "jmaLFT987mRnFbjL",
+					"name": "Protonenbombe",
+					"description": "<p>32 (65) lb</p>\r\n<p>Wenn eine Protonenbombe detoniert, muss jedes Schiff im Umkreis von 100 [200] Fuß einen Geschicklichkeitswurf machen (DC 15). Ein Schiff erleidet 4d10 [8d10] Energieschaden bei einem misslungenen Schutzwurf, oder die Hälfte bei einem erfolgreichen Schutzwurf.</p>"
+				},
+				{
+					"id": "cXlENogdrajFZn1Y",
+					"name": "Protonenrakete",
+					"description": "<p>(Reichweite 200/800), explosiv, bösartig 1</p>\r\n<p>95 (190) lb</p>\r\n<p>10d4 (20d4) kinetisch</p>"
+				},
+				{
+					"id": "HB76MNUZTWLyMsGG",
+					"name": "Protonen-Torpedo",
+					"description": "<p>(Reichweite 1200/4800), explosiv, bösartig 1</p>\r\n<p>65 (130) lb</p>\r\n<p>2d10 (4d10) Energie</p>"
+				},
+				{
+					"id": "nuH9nxZ99oaWskKA",
+					"name": "Proximity-Mine",
+					"description": "<p>32 (65) lb</p>\r\n<p>Anstatt bei Kontakt zu explodieren, detonieren Annäherungsminen jedes Mal, wenn ein Schiff in ihre Reichweite kommt. Wenn eine Annäherungsmine detoniert, muss jedes Schiff im Umkreis von 100 [200] Fuß einen Geschicklichkeitswurf machen (DC 15). Bei einem misslungenen Schutzwurf erleidet ein Schiff 2d10 [4d10] Feuerschaden, bei einem erfolgreichen Schutzwurf halb so viel.</p>"
+				},
+				{
+					"id": "SAqOPRfqRaoSDuM8",
+					"name": "Impulsbombe",
+					"description": "<p>35 (70) lb</p>\r\n<p>Wenn eine Pulsbombe detoniert, muss jedes Schiff im Umkreis von 200 [400] Fuß einen Konstitutionsrettungswurf machen (DC 15). Bei einem misslungenen Schutzwurf erleidet das Schiff 2d10 [4d10] Ionenschaden, bei einem erfolgreichen Schutzwurf halb so viel. Außerdem wird es bei einem misslungenen Schutzwurf für 1 Minute ionisiert. Als Aktion kann ein Besatzungsmitglied in jeder seiner Runden das Schiff den Rettungswurf wiederholen lassen, wobei der Effekt bei einem Erfolg endet. Schiffe, die größer sind als du, haben einen Vorteil bei ihrem Rettungswurf.</p>"
+				},
+				{
+					"id": "10lMSP7PaFCJVB2k",
+					"name": "Puls-Laser-Kanone",
+					"description": "Kraft (Reichweite 500/2000), scharf 1, durchdringend 1, überhitzen 20"
+				},
+				{
+					"id": "U5WI1s3VVnK8yBea",
+					"name": "Puls-Turbolaser-Batterie",
+					"description": "Kraft (Reichweite 500/2000), scharf 1, durchdringend 1, Überhitzung 20"
+				},
+				{
+					"id": "OY1EPyyMtAMHA1pM",
+					"name": "Vierfach-Laser-Kanone",
+					"description": "Kraft (Reichweite 800/3200), Konstitution 13, Überhitzung 8, Schnelligkeit 2"
+				},
+				{
+					"id": "cKn87p6O9LGHkufb",
+					"name": "Vierfach-Pulslaser",
+					"description": "Kraft (Reichweite 400/1600), Überhitzung 16, Schnelligkeit 4"
+				},
+				{
+					"id": "FI9wNYmQp2AusqWm",
+					"name": "Vierfach-Impuls-Turbolaser-Batterie",
+					"description": "Kraft (Reichweite 400/1600), Überhitzung 16, Schnelligkeit 4"
+				},
+				{
+					"id": "he4KLwkVMYA1mCPT",
+					"name": "Vierfach-Turbolaser-Batterie",
+					"description": "Kraft (Bereich 800/3200), Kon. 13, Überhitzung 8, schnell 2"
+				},
+				{
+					"id": "aT793quog1Rf5hjm",
+					"name": "Schnellfeuer-Laserkanone",
+					"description": "Leistung (Bereich 400/1600), Auto, Burst 16, Überhitzung 16, Rapid 4"
+				},
+				{
+					"id": "Ifd5uBWGNkQpiGcK",
+					"name": "Schnellfeuer-Turbolaser-Batterie",
+					"description": "Kraft (Reichweite 400/1600), Automatik, Explosion 16, Überhitzung 16, Schnellfeuer 4"
+				},
+				{
+					"id": "QKr1Y5MIxgshnW3t",
+					"name": "Raketenpod-Werfer",
+					"description": "Munition, Nachladen 12"
+				},
+				{
+					"id": "eUn3TyftbJpc1uLb",
+					"name": "S-Thread Tracer",
+					"description": "<p>(Reichweite 1200/4800), Spezial</p>\r\n<p>50 (100) lb</p>\r\n<p>Bei einem misslungenen Rettungswurf heftet sich die Rakete mit einer S-Faden-Leuchtspur an das Ziel. Wenn du eine Intelligenzüberprüfung (Probe) machst, um die Hyperraumreise des S-Faden-Schiffes zu entdecken, kann sein Abflugwinkel mit einem Wurf von 15 statt 25 entdeckt werden.</p>"
+				},
+				{
+					"id": "lEw4iK8qXr2Cdj4r",
+					"name": "Seismische Ladung",
+					"description": "<p>30 (60) lb</p>\r\n<p>Wenn eine seismische Ladung detoniert, muss jedes Schiff im Umkreis von 150 [300] Fuß einen Rettungswurf in Geschicklichkeit machen (DC 15). Bei einem misslungenen Schutzwurf erleidet ein Schiff 1d10 [2d10] kinetischen Schaden, bei einem erfolgreichen Schutzwurf halb so viel.</p>"
+				},
+				{
+					"id": "T2ONU6zLHs1RNLj3",
+					"name": "Silent Thunder Rakete",
+					"description": "<p>(Reichweite 1200/4800), explosiv</p>\r\n<p>150 (300) lb</p>\r\n<p>4d10 (8d10) Energie</p>"
+				},
+				{
+					"id": "oJxJW6wjoYE1tTja",
+					"name": "Slug-Kanone",
+					"description": "Kraft (Reichweite 600/2400), Konstitution 11, Schaden 1, Überhitzung 4"
+				},
+				{
+					"id": "TkvLaCg1k8RvFFIH",
+					"name": "Geschoss-Railgun",
+					"description": "Kraft (Reichweite 1200/4800), Konstitution 15, Überhitzung 2"
+				},
+				{
+					"id": "N7pNQncmGUCuuGTS",
+					"name": "Sparkler-Ionenkanone",
+					"description": "Kraft (Reichweite 200/800), Auto, Explosion 1, Ionisierend, Überhitzung 1, Sättigung"
+				},
+				{
+					"id": "XBVRn2s5NZmzLOdz",
+					"name": "Thermit-Torpedo",
+					"description": "<p>(Reichweite 1200/4800), Schmelzen, Schärfe 1</p>\r\n<p>70 (140) lb</p>\r\n<p>2d10 (4d10) Feuer</p>"
+				},
+				{
+					"id": "fZdRTHy0U5VeeLgk",
+					"name": "Thermit-Batterie",
+					"description": "Kraft (Reichweite 1200/4800), Kon. 17, schmelzen, überhitzen 2"
+				},
+				{
+					"id": "zlDaujHDxGcLggMw",
+					"name": "Thermit-Kanone",
+					"description": "Kraft (Reichweite 1200/4800), Konstitution 17, Schmelzen, Überhitzung 2"
+				},
+				{
+					"id": "pZrbRAKG7NxUd68m",
+					"name": "Thermit-Railgun",
+					"description": "Kraft (Reichweite 1200/4800), Konstitution 17, Schmelzen, Überhitzung 2"
+				},
+				{
+					"id": "xx0sUZBtNm8bO8vb",
+					"name": "Torpedo-Werfer",
+					"description": "Munition nachladen 4"
+				},
+				{
+					"id": "fxM2opcy1BGtD1kx",
+					"name": "Turbolaser",
+					"description": "Kraft (Reichweite 1000/4000), Konstitution 13, Überhitzung 4"
+				},
+				{
+					"id": "Sn4aYPxLJt4jHTQh",
+					"name": "Turbolaser-Batterie",
+					"description": "Kraft (Reichweite 1000/4000), Konst. 11, Überhitzung 4"
+				},
+				{
+					"id": "GOruf3aeU1wbeUMy",
+					"name": "Zwillings-Autoblaster",
+					"description": "Kraft (Reichweite 250/1000), Auto, Explosion 10, versteckt, Überhitzung 20, schnell 5"
+				},
+				{
+					"id": "sHKo4DKkCRTMJwVK",
+					"name": "Zwillings-Laserkanone",
+					"description": "Kraft (Reichweite 600/2400), Konstitution 11, Schnelligkeit 3, Überhitzung 12"
+				},
+				{
+					"id": "TzewIhaVFlUMVEBI",
+					"name": "Zwillings-Turbolaser-Batterie",
+					"description": "Kraft (Reichweite 600/2400), Kon. 11, schnell 3, Überhitzung 12"
+				}
+			]
+		}

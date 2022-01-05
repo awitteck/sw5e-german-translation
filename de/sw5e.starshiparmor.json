@@ -1,0 +1,35 @@
+{
+	"label": "Raumschiff: Panzerung",
+	"entries": [
+		{
+			"id": "aG6mKPerYCFmkI00",
+			"name": "Ablenkungs-Panzerung",
+			"description": "<p>Deflection armor is the most common type of armor aboard ships, and offers no benefit or penalty to armor class or hull points.</p>"
+		},
+		{
+			"id": "RvtLP3FgKLBYBHSf",
+			"name": "Direktionale Schilde",
+			"description": "<p>Direktionale Schilde sind die am häufigsten verwendeten und ausgewogensten Schilde auf dem Markt.</p>"
+		},
+		{
+			"id": "Wj62TEtwKeG1P2DD",
+			"name": "Festungsschild",
+			"description": "<p>Festungsschilde bieten eine höhere maximale Schildpunktzahl, regenerieren sich aber langsamer als normale Schilde.</p>"
+		},
+		{
+			"id": "AAA9PWi1rTiSUIIe",
+			"name": "Leichte Rüstung",
+			"description": "<p>Leichtgewichtige Panzerung bietet den Kompromiss eines wendigeren, aber weniger widerstandsfähigen Schiffes. Ein Schiff mit Leichtgewichtiger Panzerung hat einen Bonus von +2 auf die Panzerklasse, hat aber einen maximalen Hüllenpunkt weniger pro Hüllenwürfel.</p>"
+		},
+		{
+			"id": "M7igMGsBIosGA4dS",
+			"name": "Schnelllade-Schutzschild",
+			"description": "<p>Schnellladungsschilde bieten im Gegensatz zu Festungsschilden eine reduzierte Kapazität, füllen sich aber schnell wieder auf.</p>"
+		},
+		{
+			"id": "JhX8qXjrDL3pCRmF",
+			"name": "Verstärkte Rüstung",
+			"description": "<p>Das Gegenteil von leichter Panzerung ist verstärkte Panzerung. Diese Panzerung verbessert die Widerstandsfähigkeit eines Schiffes, macht es aber weniger wahrscheinlich, Schaden zu vermeiden. Ein Schiff mit verstärkter Panzerung hat einen Malus von -1 auf die Panzerklasse, hat aber einen zusätzlichen maximalen Hüllenpunkt pro Hüllenwürfel.</p>"
+		}
+	]
+}

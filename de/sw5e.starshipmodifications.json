@@ -1,0 +1,1055 @@
+{
+	"label": "Raumschiff: Modifikationen",
+	"entries": [
+				{
+					"id": "Hzhx4W4JfDvPXnbU",
+					"name": "Ablative Beschichtungsschicht",
+					"description": "<p>Du fügst deinem Rumpf eine ablative Beschichtung hinzu, die deinem Rumpf Widerstand gegen Energieschaden verleiht.</p>"
+				},
+				{
+					"id": "VXhsESFxzTv0MP4b",
+					"name": "Absorbierende Abschirmung",
+					"description": "<p>Sie fügen Ihrem Schildgenerator einen Absorptionskondensator hinzu, der Ihre Schilde gegen kinetischen Schaden resistent macht.</p>"
+				},
+				{
+					"id": "DQlFYUhnL5pUfnDL",
+					"name": "Aktive Tarnung",
+					"description": "<p>Dieses System verbessert den Tarnmodus deines Schiffes. Während es aktiv ist, hat dein Schiff keinen Nachteil mehr bei Intelligenz- (Probe) und Weisheitsproben (Scannen), die auf Scannern beruhen, und muss nicht mehr auf die Tabelle [Hyperraum-Pannen](#Hyperraum%20Pannen) würfeln, bevor es in den Hyperraum eintritt, während der Tarnmodus aktiv ist.</p><p>Zusätzlich ist dein Schiff für Geschicklichkeits-Proben (Verstecken) gut ausgerüstet.  Wenn es bereits fachmännisch ausgerüstet ist, erhält es stattdessen einen Bonus in Höhe der halben Schiffsstufe (aufgerundet).</p>"
+				},
+				{
+					"id": "H1PmkigBok9ThtyJ",
+					"name": "Adaptive Querruder",
+					"description": "<p>Während du dich in der Atmosphäre befindest, verringert diese Modifikation deine Bewegungsgeschwindigkeit um 100 Fuß (mindestens 50 Fuß) und gewährt dir einen Bonus von +1 auf AC und Schutzwürfe auf Geschicklichkeit.</p>"
+				},
+				{
+					"id": "UK3mMCtg63OMIr9s",
+					"name": "Fortgeschrittenes SLAM",
+					"description": "<p>Der SubLight Acceleration Motor (SLAM) deines Schiffes wurde verbessert und bietet nun einen größeren Nutzen. Wenn ein Pilot die Aktion Fliegen ausführt, entspricht die Erhöhung nun dem Doppelten deiner Geschwindigkeit, nachdem alle Modifikatoren angewendet wurden. Bei einer Geschwindigkeit von 300 Fuß kann sich dein Schiff beispielsweise bis zu 900 Fuß weit bewegen, wenn du fliegst. Jede Erhöhung oder Verringerung deiner Geschwindigkeit verändert diese zusätzliche Bewegung um den gleichen Betrag. Wird die Geschwindigkeit deines Schiffes von 300 Fuß beispielsweise auf 150 Fuß verringert, kann sich dein Schiff in diesem Zug bis zu 450 Fuß weit bewegen, wenn du fliegst.</p>\r\n<p>Diese Aktion wirkt sich immer noch auf dein gesamtes Schiff aus: Jede Geschicklichkeitsprüfung oder jeder Angriffswurf, den dein Schiff oder eine Person auf ihm macht, hat einen Nachteil.</p>\r\n<p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "LtlcZYsKPVOdBJwk",
+					"name": "Alternativer Treibstoffkonverter",
+					"description": "<p>Dein Schiff ist mit einem alternativen Treibstoffkonverter ausgestattet, der die Umwandlung von Materialien in eine potenzielle Treibstoffquelle ermöglicht. Im Laufe von 10 Minuten kann ein Besatzungsmitglied eine Konstitutionsprüfung (DC = 10 oder die Hälfte der Tage seit der letzten Betankung des Schiffes, je nachdem, welche Zahl höher ist) ablegen. Bei einem Erfolg gewinnt das Schiff Treibstoff für einen Tag zurück.</p><p>Diese Fähigkeit kann so oft genutzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Werte werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>>"
+				},
+				{
+					"id": "KWcCCOTTo8UFdxhD",
+					"name": "Amphibische Systeme",
+					"description": "<p>Diese Modifikation ermöglicht es deinem Schiff und allen seinen Systemen (einschließlich der Waffen), unter Wasser zu funktionieren.  Dein Schiff erhält eine Schwimmgeschwindigkeit, die der Hälfte seiner normalen Geschwindigkeit entspricht.</p>"
+				},
+				{
+					"id": "nS8gTHr1doVZmxQr",
+					"name": "Anti-Boarding-System",
+					"description": "<p>Ein Anti-Boarding-System besteht aus einer robusten Reihe von Sprengtüren, Kameras und versteckten Geschütztürmen, die jedes Portal im gesamten Schiff sowie direkt vor jedem Schiffseingang verstärken. Diese Funktionen können vom Cockpit aus oder in der Security Suite (falls vorhanden) von einem Besatzungsmitglied gesteuert werden. Das Anti-Boarding-System verfügt über eine eigene Notstromversorgung für den Fall, dass das Hauptsystem ausfällt.</p><p>Die verstärkten Türen können mit einem DC 20 Intelligenzcheck (Security Kit) umgangen werden.</p>"
+				},
+				{
+					"id": "OLL6PDMXsLlTnJek",
+					"name": "Waffenkammer",
+					"description": "<p>Diese Suite ist mit einer Anzahl einfacher und martialischer Blaster und Vibrowaffen sowie leichter, mittlerer und schwerer Panzerung und Schilden ausgestattet, die der doppelten Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Sternengröße Suite-Kapazität}-Tabelle angegeben. Zusätzlich verfügt es über eine Anzahl von Schießständen, um eine Anzahl von Soldaten unterzubringen, die einem Viertel der Suitenkapazität des Schiffes nach Größe entspricht, wie in der Tabelle @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;table gezeigt.</p>"
+				},
+				{
+					"id": "896UAKVKGxZnCnRq",
+					"name": "Astromech-Sockel",
+					"description": "<p>Dieses System fügt Platz für ein Astromech-Besatzungsmitglied hinzu und erlaubt es einem einzelnen eingesetzten Astromech-Besatzungsmitglied, die Aktionen Triebwerke verstärken, Schilde verstärken und Waffen verstärken als Bonusaktion in seinem Zug durchzuführen.</p>"
+				},
+				{
+					"id": "mPnPvv3tTyQimg0h",
+					"name": "Automatisierte Protokolle",
+					"description": "<p>Du verbesserst dein Schadenskontrollsystem. Ein Besatzungsmitglied kann die Aktion Flicken als Reaktion ausführen.  Diese Funktion kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird. Zusätzlich kannst du den Intelligenzmodifikator deines Schiffes (mindestens +1) addieren, wenn du Hüllenwürfel wirfst, um Hüllenpunkte wiederzuerlangen.  </p><p>Schließlich ist dein Schiff für Konstitutions-Checks (Aufnäher) bestens ausgerüstet.</p>"
+				},
+				{
+					"id": "1ljWI01OuCXvlJ5H",
+					"name": "Backup-Hyperantrieb",
+					"description": "<p>Diese Modifikation fügt deinem Schiff einen Reserve-Hyperantriebsslot hinzu und beinhaltet einen Hyperantrieb der Klasse 15. Ein Besatzungsmitglied kann mit einer Aktion zum oder vom Backup-Hyperantrieb wechseln.</p>>"
+				},
+				{
+					"id": "wSPtKKS4IycBAred",
+					"name": "Kaserne",
+					"description": "<p>Diese Suite bietet einen einzelnen Raum mit einer Anzahl von Betten und individuellem Stauraum sowie gemeinschaftlichen Auffrischungsstationen (eine für jeweils acht Betten), um eine Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen unterzubringen, die dem Doppelten der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suite-Kapazität}&nbsp;Tabelle angegeben.</p>"
+				},
+				{
+					"id": "Hir2WB20wyrA4Qbe",
+					"name": "Blendende Geschosse",
+					"description": "<p>Wenn du beim Angriffswurf im Vorteil bist und triffst und der niedrigere der beiden Würfe ebenfalls treffen würde, oder wenn das Zielschiff beim Rettungswurf im Nachteil ist und scheitert und der höhere der beiden Würfe ebenfalls scheitern würde, kannst du das Ziel zu einem Konstitutionsrettungswurf zwingen (DC = 8 + dein Fertigkeitsbonus + der Stärkemodifikator des Schiffs). Bei einem misslungenen Rettungswurf ist das Schiff bis zum Beginn deines nächsten Zuges geblendet.</p><p>Ist das beschädigte Schiff größer als dein Schiff, hat es einen Vorteil beim Rettungswurf. Ist das beschädigte Schiff kleiner als dein Schiff, hat es stattdessen einen Nachteil.</p>"
+				},
+				{
+					"id": "j9KSLPXEb3Htpddi",
+					"name": "Enterhaken-Harpune",
+					"description": "<p>Dein Schiff wurde zusätzlich mit einer massiven Enterhaken-Harpune ausgestattet, durch die Kreaturen hindurchschlüpfen können. Dein Schiff ist für Stärke-(Rammen)-Würfe bestens gerüstet.</p><p>Wenn ein eingesetzter Pilot die Aktion Rammen ausführt, wird er bei einem Treffer zusätzlich harpuniert. Während er harpuniert ist, wird die Fluggeschwindigkeit des Zielschiffes auf 0 reduziert und die Fluggeschwindigkeit deines Schiffes um die Hälfte verringert. Der Pilot deines Schiffs kann das harpunierte Schiff jederzeit befreien (keine Aktion erforderlich). Das harpunierte Schiff wird automatisch freigelassen, wenn dein Schiff außer Gefecht gesetzt wird oder wenn es gewaltsam mehr als 100 Fuß von deinem Schiff entfernt wird.</p><p><em><strong>Entfernen der Harpune.</strong></em> Der Pilot eines harpunierten Schiffes kann seine Aktion nutzen, um eine umstrittene Stärke(Verstärkungs)-Überprüfung durchzuführen, die den Effekt bei einem Erfolg beendet.</p><p><em><strong>Bewegen eines harpunierten Schiffes. </strong></em> Wenn sich dein Schiff bewegt, kann es das harpunierte Schiff mit sich ziehen, es sei denn, das Schiff ist größer als dein Schiff.</p><p><em><strong>Ein harpuniertes Schiff an Bord nehmen. </strong></em> Solange das Schiff harpuniert ist, können bis zu sechs Kreaturen mittlerer Größe oder kleiner jede Runde durch die Lücke auf das harpunierte Schiff gelangen.</p><p><em><strong>Harpune wieder einholen.</strong></em> Das Einholen und Wiedereinsetzen der Harpune dauert 1 Minute.</p>"
+				},
+				{
+					"id": "9GRMJmEd2PiwZOyv",
+					"name": "Enterkapseln",
+					"description": "<p>Dieses Paket fügt deinem Schiff Enterkapseln hinzu. Diese werden auf ein Schiff abgefeuert, graben sich in die Schiffshülle ein und injizieren Wirtsdroiden, um das Zielschiff zu überwältigen. Jede Enterkapsel kann zehn mittlere oder kleinere Droiden aufnehmen. Die Anzahl der Enterkapseln entspricht einem Hundertstel der Suite-Kapazität des Schiffes, wie in der Tabelle @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;</p>\r\n<p>Boarding Pods sind klein und haben eine Fluggeschwindigkeit von 200 Fuß, eine Drehgeschwindigkeit von 100 Fuß, einen AC von 12 und 10 Hüllenpunkte. Einsteigekapseln haben keine Waffen, aber der Pilot kann die Aktion Rammen durchführen. Der DC für den Rettungswurf beträgt 12, und das Ziel hat einen Nachteil. Bei einem Fehlschlag erleidet das Schiff 2d4 kinetischen Schaden, und die Kapsel gräbt sich in die Schiffshülle ein und entlässt ihren Inhalt auf das Zielschiff.</p>"
+				},
+				{
+					"id": "fhO6bF8DimzM82zw",
+					"name": "Breitseite Hardpoint",
+					"description": "<p>Der Breitseiten-Hardpoint ist eine Modifikation von zwei festen Hardpoints, die jedem Hardpoint einen zusätzlichen begrenzten Feuerbogen gewährt, wie in Kapitel 9 beschrieben.  Die Hardpoints müssen sich mindestens einen begrenzten Feuerbogen teilen, und die beiden Feuerbögen eines Hardpoints müssen nicht nebeneinander liegen.  Mit dieser Modifikation wird für jeden Hardpoint ein eigener Geschützstand eingerichtet.  Angriffe, die mit dem zusätzlichen begrenzten Feuerbogen ausgeführt werden, können nur von einem Besatzungsmitglied ausgeführt werden, das sich an der dedizierten Kanonierstation der Waffe befindet.</p>"
+				},
+				{
+					"id": "PAPCj7dsWyVBzwVo",
+					"name": "Buzz-Droiden-Wolke",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied eine große Anzahl von Buzz Droids in einem Radius von 200 Fuß über den Raum verstreuen, der auf einen Punkt innerhalb von 1500 Fuß zentriert ist. Diese Buzz-Droiden zerreißen den Rumpf eines jeden Schiffes, das ihnen begegnet. Das Gebiet wird für die Dauer des Angriffs zu schwierigem Terrain. Wenn sich ein Schiff in das Gebiet hineinbewegt, erleidet es alle 50 Fuß, die es sich bewegt, 2d4 kinetischen Schaden direkt am Rumpf.</p><p>Die Buzz Droids sind in der Dunkelheit des Weltraums nahezu unsichtbar. Jede Kreatur oder jedes Schiff, das den Bereich nicht sehen kann, wenn er erschaffen wird, muss eine Weisheitsprüfung (Scannen) ablegen (DC 15), um die Buzz Droids zu bemerken, bevor sie den Bereich betreten.</p><p>Diese Eigenschaft kann so oft verwendet werden, wie es der Stufe deines Schiffs entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff neu ausgerüstet wird.</p>"
+				},
+				{
+					"id": "i3g2QxJpw5Xs7iQH",
+					"name": "Karbonit-Werfer, Mk I",
+					"description": "<p>Ein Besatzungsmitglied kann als Aktion eine Welle kalter Energie auslösen, die sich von deinem Schiff ausbreitet. Jedes Schiff im Umkreis von 150 Fuß muss einen Konstitutionsschutzwurf ablegen (DC = 8 + Profibonus + Weisheitsmodifikator des Schiffes). Bei einem misslungenen Schutzwurf erleidet das Schiff 2d6 Kälteschaden und wird bis zum Ende seiner nächsten Runde um eine Stufe verlangsamt. Bei einem Erfolg erleidet es nur halb so viel Schaden und erleidet keinen zusätzlichen Effekt.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffs entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "kIOJxbUqrfJiCzNS",
+					"name": "Karbonit-Werfer, Mk II",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied eine Explosion kalter Energie auslösen, die von einem Punkt seiner Wahl innerhalb von 900 Fuß ausbricht. Jedes Schiff in einem Umkreis von 50 Fuß um diesen Punkt muss einen Rettungswurf auf Geschicklichkeit machen (DC = 8 + Profibonus + Weisheitsmodifikator des Schiffs). Bei einem misslungenen Schutzwurf erleidet das Schiff 3d6 Kälteschaden und wird bis zum Beginn deines nächsten Zuges um 1 Stufe verlangsamt. Bei einem erfolgreichen Schutzwurf erleidet das Schiff nur halb so viel Schaden und wird nicht verlangsamt.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "2OMrHT03BxJMP7IW",
+					"name": "Karbonit-Werfer, Mk III",
+					"description": "<p>Ein Sturm aus kryogener Energie umgibt den Raum in einer Kugel mit einem Radius von 300 Fuß, die auf einen Punkt innerhalb von 1200 Fuß zentriert ist. Jedes Schiff im Zylinder muss einen Rettungswurf auf Geschicklichkeit machen (DC = 8 + Profibonus + Weisheitsmodifikator des Schiffs). Eine Kreatur erleidet bei einem misslungenen Schutzwurf 2d8 kinetischen Schaden und 4d6 Kälteschaden, bei einem erfolgreichen Schutzwurf halb so viel Schaden.</p><p>Der Wirkungsbereich des Sturms wird bis zum Ende deines nächsten Zuges zu schwierigem Gelände.</p><p>Diese Eigenschaft kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "p0VcVSyegCgoXOjE",
+					"name": "Karbonit-Werfer, Mk IV",
+					"description": "<p>Als Aktion kann dein Schiff eine Wolke aus eisigem Nebel in einer Sphäre mit einem Radius von 200 Fuß erzeugen, die auf einen Punkt innerhalb von 1200 Fuß zentriert ist. Die Sphäre erstreckt sich um Objekte herum, und ihr Bereich ist stark verdunkelt. Der Nebel ist halbfest und sein Gebiet gilt als schwieriges Terrain. Jedes Schiff, das das Gebiet zum ersten Mal in einem Zug betritt oder seinen Zug dort beginnt, erleidet 4d6 Kälteschaden und wird bis zum Ende seines Zuges um 1 Stufe verlangsamt. Der Nebel hält eine Minute lang an oder bis er sich auflöst.</p><p>Diese Eigenschaft kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "pGoY2bfqHabcJTBS",
+					"name": "Karbonit-Starter, Mk V",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied eine Explosion kryogener Energie in einer Kugel mit einem Radius von 600 Fuß erzeugen, die auf einen Punkt zentriert ist, den du innerhalb von 2500 Fuß sehen kannst. Jedes Schiff in dem betroffenen Gebiet muss einen Konstitutionswettkampf ablegen (DC = 8 + Profibonus + iWisdom-Modifikator des Schiffs). Bei einem misslungenen Schutzwurf erleidet das Schiff 8d6 + 20 Kälteschaden und ist 1 Minute lang betäubt, da es in Karbonit eingeschlossen ist. Bei einem erfolgreichen Schutzwurf erleidet das Schiff die Hälfte des Schadens und bleibt bis zum Ende seines nächsten Zuges betäubt.</p><p>Als Aktion kann ein Besatzungsmitglied eines betäubten Schiffes eine Stärkeprüfung ablegen (DC = 8 + Profibonus + Weisheitsmodifikator des Schiffes) und bei einem Erfolg diesen Effekt für sich selbst beenden. </p><p>Ein Schiff, das durch diese Macht auf 0 Trefferpunkte reduziert wurde, explodiert sofort, da sein Rumpf in gefrorene Stücke zerbricht.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Funktionen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "2WxwBEDni0YqbIG1",
+					"name": "Kasino",
+					"description": "<p>Dieses Paket bietet alle notwendigen Utensilien, einschließlich Möbel und angepasste Chips, um eine Glücksspieleinrichtung zu betreiben. Für den Betrieb des Casinos ist eine Anzahl von Besatzungsmitgliedern erforderlich, die einem Zehntel der Suite-Kapazität des Schiffes entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suite-Kapazität}&nbsp;Tabelle angegeben.</p>\r\n<p>Ein Kasino kann bequem eine Anzahl von Gästen beherbergen, die der Hälfte der Suite-Kapazität des Schiffes entspricht, wie in der Tabelle @JournalEntry[Mnvw9iBw8gxgfCXw]{Suite-Kapazität des Schiffes}&nbsp;</p> dargestellt.\r\n<p>Am Ende eines jeden Spieltages kann der Spielleiter einen Würfelwurf durchführen, um festzustellen, ob und wie viel Geld das Casino verdient oder verliert. Der Betrag, den das Casino verdient oder verliert, hängt von der Größe des Schiffes ab:</p>\r\n<table style=\"border: none; width: 300px;\">\r\n<tbody>\r\n<tr>\r\n<th style=\"text-align: center;\">d20-Wurf</th>\r\n<th style=\"text-align: center;\">Groß</th>\r\n<th style=\"text-align: center;\">Groß</th>\r\n<th style=\"text-align: center;\">Gargantuan</th>\r\n</tr>\r\n</tbody>\r\n<tbody>\r\n<tr>\r\n<td style=\"text-align: center;\">20</td>\r\n<td style=\"text-align: right;\">15.000 cr</td>\r\n<td style=\"text-align: right;\">150.000 cr</td>\r\n<td style=\"text-align: right;\">1.500.000 cr</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\">16-19</td>\r\n<td style=\"text-align: right;\">7.200 cr</td>\r\n<td style=\"text-align: right;\">72.000 cr</td>\r\n<td style=\"text-align: right;\">720.000 cr</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\">12-15</td>\r\n<td style=\"text-align: right;\">3.500 cr</td>\r\n<td style=\"text-align: right;\">35.000 cr</td>\r\n<td style=\"text-align: right;\">350.000 cr</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\">8-11</td>\r\n<td style=\"text-align: right;\">1.000 cr</td>\r\n<td style=\"text-align: right;\">10.000 cr</td>\r\n<td style=\"text-align: right;\">100.000 cr</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\">4-7</td>\r\n<td style=\"text-align: right;\">0 cr</td>\r\n<td style=\"text-align: right;\">0 cr</td>\r\n<td style=\"text-align: right;\">0 cr</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\">2-3</td>\r\n<td style=\"text-align: right;\">-4.800 cr</td>\r\n<td style=\"text-align: right;\">-48.000 cr</td>\r\n<td style=\"text-align: right;\">-480.000 cr</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\">1</td>\r\n<td style=\"text-align: right;\">-9.000 cr</td>\r\n<td style=\"text-align: right;\">-90.000 cr</td>\r\n<td style=\"text-align: right;\">-900.000 cr</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>In diesen Beträgen sind die Löhne der Mitarbeiter enthalten.</p>"
+				},
+				{
+					"id": "rgFrD37Cvf9tXTDQ",
+					"name": "Zentraler Computer, Behelfsmäßig",
+					"description": "<p>Du installierst einen Zentralcomputer mit künstlicher Intelligenz in deinem Schiff. Dein Schiff erhält die Fähigkeit, in seinem Zug eine eigene Aktion auszuführen.  Es kann jede Aktion ausführen, die durch eine Modifikation gewährt wird. Die künstliche Intelligenz hat einen Fertigkeitsbonus von +2. </p><p>Zusätzlich ist dein Schiff für Intelligenz (Daten)-Prüfungen kompetent ausgerüstet.</p>"
+				},
+				{
+					"id": "Hh0CyoLWJfZTWedW",
+					"name": "Zentralcomputer, Mark I",
+					"description": "<p>Du verbesserst den Zentralcomputer deines Schiffes. Dein Schiff kann nun durch Modifikationen gewährte Bonusaktionen ausführen.  Außerdem kann dein Schiff jetzt jede Standardaktion ausführen, außer der Angriffsaktion und der Aktion \"Nur Pilot\".  </p><p>Schließlich ist dein Schiff für Intelligenz (Daten)-Prüfungen bestens ausgerüstet und erhält einen Vorteil bei Intelligenz (Astrogation)-Prüfungen.</p>"
+				},
+				{
+					"id": "fAILDHuTbkVlWrdj",
+					"name": "Zentralcomputer, Mark II",
+					"description": "<p>Du verbesserst den Zentralcomputer deines Schiffes weiter. Der Leistungsbonus deiner künstlichen Intelligenz erhöht sich auf 3. Außerdem kann dein Schiff jetzt Reaktionen ausführen, die durch Modifikationen gewährt werden, und die Angriffsaktion mit Schiffswaffen durchführen.  Es ist weiterhin auf eine Aktion pro Zug beschränkt.</p>"
+				},
+				{
+					"id": "2Clm8rTqRR7GqnBp",
+					"name": "Zentralrechner, Mark III",
+					"description": "<p>Du verbesserst den Zentralcomputer deines Schiffes erheblich. Der Fertigkeitsbonus deiner künstlichen Intelligenz erhöht sich auf 4. Zusätzlich erlangt deine künstliche Intelligenz die Fertigkeit Pilotieren und kann Aktionen ausführen, die nur Piloten vorbehalten sind, wenn sie als Pilot eingesetzt wird.</p>"
+				},
+				{
+					"id": "WrOIpd3HGfhSclSX",
+					"name": "Zentralrechner, Mark IV",
+					"description": "<p>Du verbesserst den Zentralcomputer deines Schiffes massiv. Der Befähigungsbonus deiner künstlichen Intelligenz steigt auf 5. Wenn deine künstliche Intelligenz die Aktion Einmischen ausführt, hat sie außerdem einen Vorteil bei der Intelligenz (Einmischen)-Überprüfung.</p>"
+				},
+				{
+					"id": "JzaWLjwY7GXXKYUr",
+					"name": "Zentralcomputer, Mark V",
+					"description": "<p>Der Zentralcomputer deines Schiffs hat sein maximales Potenzial erreicht. Der Befähigungsbonus deiner künstlichen Intelligenz erhöht sich auf 6. Zusätzlich erhält sie Erfahrung in der Steuerung.</p>"
+				},
+				{
+					"id": "oQB0u4Zab08z5qtI",
+					"name": "Tarnvorrichtung",
+					"description": "<p>Dieses System verbessert den Tarnmodus deines Schiffes massiv und macht es zu einer echten Tarnvorrichtung. Solange es aktiv ist, ist dein Schiff unsichtbar. Wenn dein Schiff bei aktiver Tarnvorrichtung eine Geschicklichkeitsüberprüfung (Verstecken) durchführt, hat es außerdem einen Vorteil bei diesem Wurf. Wenn dein Schiff bereits einen Vorteil bei der Fähigkeitsprüfung hat, kannst du stattdessen einen der Würfel einmal wiederholen.</p>"
+				},
+				{
+					"id": "nj0NPearMzvUqECS",
+					"name": "Kommandozentrale",
+					"description": "<p>Mit dieser Suite wird eine separate Kommandozentrale geschaffen, die einen umfassenden Überblick über die Umgebung des Schiffes bietet. Wenn ein Besatzungsmitglied, das in einer Kommandozentrale eingesetzt ist, die Aktion Direkt ausführt, kann es einen zusätzlichen Verbündeten anvisieren.  Diese Fähigkeit kann nur einmal pro Schiffsrunde genutzt werden.</p>"
+				},
+				{
+					"id": "NdTB1pTCUV2Mrqy8",
+					"name": "Kommunikationspaket, Premium",
+					"description": "<p>Diese Modifikation erweitert die einheimische Kommunikation auf deinem Schiff. Die Besatzungsmitglieder können nun in Echtzeit mit allen Planeten, Raumstationen und Raumschiffen im selben Sektor wie du kommunizieren, sofern sie ähnlich ausgerüstet sind.</p><p>Zusätzlich ist dein Schiff für Charisma (Broadcast) Checks gut ausgerüstet.</p>"
+				},
+				{
+					"id": "HLafdmoUIoBmLksO",
+					"name": "Kommunikationspaket, Prototyp",
+					"description": "<p>Diese Modifikation verbessert die native Kommunikation auf deinem Schiff. Die Besatzungsmitglieder können nun in Echtzeit mit allen Planeten, Raumstationen und Raumschiffen kommunizieren, die sich im selben Gebiet wie du befinden, sofern sie ähnlich ausgerüstet sind.</p><p>Zusätzlich kann die Kommunikation, die dein Schiff aussendet, verschlüsselt werden, so dass sie nur von Empfängern mit der entsprechenden Chiffre verstanden wird. Ein Besatzungsmitglied kann die Kommunikation verschlüsseln, indem es einen Intelligenz (Slicer Tools) Check macht und den Entschlüsselungs-DC festlegt. Ein anderes Besatzungsmitglied kann 1 Minute lang versuchen, die verschlüsselte Kommunikation zu entschlüsseln, indem es einen Intelligenz-Check gegen den Entschlüsselungs-DC macht. Bei einem Erfolg entschlüsselt es die Nachricht. Bei einem Misserfolg entschlüsselt es die verschlüsselte Nachricht nicht und kann es einen Tag lang nicht erneut versuchen. </p><p>Zu guter Letzt ist dein Schiff für Charisma (Broadcast) Checks bestens ausgerüstet.</p>"
+				},
+				{
+					"id": "p7gji5QWLzqJujYU",
+					"name": "Kommunikationspaket, Renommiert",
+					"description": "<p>Diese Modifikation verbessert die Kommunikation auf deinem Schiff massiv. Die Besatzungsmitglieder können nun in Echtzeit mit allen Planeten, Raumstationen und Raumschiffen überall in der bekannten Galaxie kommunizieren, sofern sie ähnlich ausgerüstet sind.</p><p>Zusätzlich haben die Besatzungsmitglieder einen Vorteil bei Würfen zur Verschlüsselung einer Nachricht. Wenn sie bereits einen Vorteil bei dem Wurf haben, können sie stattdessen einen der Würfel einmal wiederholen.</p><p>Schließlich hat dein Schiff einen Vorteil bei Charisma-(Sende-)Checks. Wenn sie bereits einen Vorteil bei diesem Wurf haben, können sie stattdessen einen der Würfel einmal neu werfen.</p>"
+				},
+				{
+					"id": "oie2WIjNeQ48HydG",
+					"name": "Kommunikationsunterdrücker, Premium",
+					"description": "<p>Diese Modifikation fügt ein Gerät hinzu, das die Kommunikation eines Planeten, einer Raumstation oder eines Raumschiffs im Umkreis von 1 Meile von deinem Schiff unterdrückt. Als Aktion kann ein Besatzungsmitglied versuchen, die Kommunikation des Ziels zu unterdrücken, indem es einen Weisheitswurf ablegt (DC gleich 8 + Charisma-Bonus (Stören)). Bei einem Fehlschlag wird die Kommunikation des Ziels unterdrückt und jegliche Kommunikation mit oder von externen Quellen verhindert. Bei einem Erfolg ist das Ziel einen Tag lang immun gegen diese Eigenschaft.</p><p>Zusätzlich ist dein Schiff für Charisma (Einmischen)-Prüfungen kompetent ausgerüstet.  Wenn dein Schiff bereits tüchtig ausgerüstet ist, gilt es stattdessen als tüchtig ausgerüstet.</p>"
+				},
+				{
+					"id": "Zz8oodhXvn7l9XMu",
+					"name": "Kommunikationsunterdrücker, Protoyp",
+					"description": "<p>Diese Modifikation verbessert den Kommunikationsunterdrücker durch Hinzufügen eines Entschlüsslers. Deine Mannschaft hat einen Vorteil bei Intelligenzchecks zum Entschlüsseln von Nachrichten. </p><p>Zusätzlich ist dein Schiff für Charisma (Einmischen)-Würfe fachmännisch ausgerüstet.</p>"
+				},
+				{
+					"id": "nuBAQSZYIuLODy5J",
+					"name": "Kommunikationsunterdrücker, Renommiert",
+					"description": "<p>Diese Modifikation verbessert den Unterdrücker auf deinem Schiff massiv. Wenn ein Besatzungsmitglied versucht, eine Nachricht zu entschlüsseln, hat es einen Vorteil bei diesem Wurf.  </p><p>Wenn ein Besatzungsmitglied versucht, eine Nachricht zu unterdrücken oder zu entschlüsseln, kann es, wenn es bereits einen Vorteil beim Wurf hat, stattdessen einen der Würfel einmal neu werfen.</p>"
+				},
+				{
+					"id": "p5aubs14a9d4AsLz",
+					"name": "Gegenmaßnahmen",
+					"description": "<p>Diese Modifikation fügt dem Schiff eine Reihe von Gegenmaßnahmen hinzu, die ihm ein aktiveres Vorgehen bei der Abwehr von Effekten ermöglichen. Wenn dein Schiff einmal pro Runde einen Rettungswurf gegen einen Effekt machen muss, der es blenden, ionisieren, schockieren, lähmen oder betäuben würde, kann ein Besatzungsmitglied seine Reaktion nutzen, um den Weisheitsmodifikator des Schiffes zu dem Wurf hinzuzufügen (mindestens +1).</p>"
+				},
+				{
+					"id": "AVm6PGi066bIJMeS",
+					"name": "Erweiterung der Besatzung",
+					"description": "<p>Du baust eine zusätzliche Sitzordnung in dein Schiff ein. Die maximale Besatzungskapazität deines Schiffes erhöht sich um einen Betrag, der der Suitenkapazität des Schiffes nach Größe entspricht, wie in der Tabelle für die Suitenkapazität von Raumschiffen angegeben.</p>"
+				},
+				{
+					"id": "OrlQHcI2E4VP7gqe",
+					"name": "Kryogenischer Kondensator",
+					"description": "<p>Du installierst hocheffiziente Reserve-Energiezellen, die dein Schiff in die Lage versetzen, den Spitzenenergiebedarf besser zu decken.  Dein Schiff ist für Stärke (Boost)-Würfe gut ausgerüstet.</p>>"
+				},
+				{
+					"id": "MMrhnmG2blkL3e4M",
+					"name": "Tieftemperaturkondensator, Premium",
+					"description": "<p>Du verbesserst die Reserve-Energiezellen deines Schiffes.  Dein Schiff ist für Stärke-(Boost-)Checks gut gerüstet.</p>"
+				},
+				{
+					"id": "dJcTZQo0ys42giYo",
+					"name": "Schadenskontrollsystem",
+					"description": "<p>Du installierst ein Schadenskontrollsystem auf deinem Schiff.  Ein Besatzungsmitglied kann die Aktion Flicken als Bonusaktion ausführen.  Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p><p>Zusätzlich ist dein Schiff für Konstitutions-(Patch-)Checks gut ausgerüstet.</p>"
+				},
+				{
+					"id": "3GrxxmbUhglcHNar",
+					"name": "Datenkern, Behelfsmäßig",
+					"description": "<p>Du verbesserst den Datenkern deines Schiffes, allerdings zu einem gewissen Preis. Der Intelligenzwert deines Schiffes erhöht sich um 1. Ein anderer Fähigkeitswert als Intelligenz (vom Spielleiter gewählt) verringert sich um 1. Wie üblich kannst du mit diesem System den Intelligenzwert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "KibrXkKm3aGV9UlV",
+					"name": "Datenkern, Mark I",
+					"description": "<p>Du verbesserst den Datenkern deines Schiffes. Der Intelligenzwert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Intelligenzwert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "BsaMIAGtOy4ZRR0t",
+					"name": "Datenkern, Mark II",
+					"description": "<p>Du verbesserst den Datenkern deines Schiffes weiter. Der Intelligenzwert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Intelligenzwert deines Schiffes nicht über das Maximum deiner Größe hinaus steigern.</p>"
+				},
+				{
+					"id": "lySy74aLvIk7kWOl",
+					"name": "Datenkern, Mark III",
+					"description": "<p>Du verbesserst den Datenkern deines Schiffes erheblich. Der Intelligenzwert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Intelligenzwert deines Schiffes nicht über das Maximum deiner Größe hinaus steigern.</p>"
+				},
+				{
+					"id": "R694gjJ1ItlMlHH3",
+					"name": "Datenkern, Mark IV",
+					"description": "<p>Du verbesserst den Datenkern deines Schiffes massiv. Der Intelligenzwert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Intelligenzwert deines Schiffes nicht über das Maximum deiner Größe hinaus steigern.</p>"
+				},
+				{
+					"id": "YZlQuS4Urq5hqphv",
+					"name": "Datenkern, Markierung V",
+					"description": "<p>Der Datenkern deines Schiffes hat sein maximales Potenzial erreicht. Der Intelligenzwert deines Schiffes erhöht sich um 2. Das Maximum deines Schiffes für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "sPNXoBRLtrK5cc1w",
+					"name": "Ablenkungsplattierung, Mark I",
+					"description": "<p>Du verbesserst die Panzerung deines Schiffes und gibst deinem Schiff einen Bonus von +1 auf AC.</p>"
+				},
+				{
+					"id": "YcqRq0GNxIugcbBX",
+					"name": "Ablenkungsplattierung, Mark II",
+					"description": "<p>Du rüstest die Panzerung deines Schiffes weiter auf und gewährst deinem Schiff einen Gesamt-DR von 4, aber einen Nachteil bei Geschicklichkeits-Proben (Verstecken).</p>"
+				},
+				{
+					"id": "vqejyZ4GstpgXZie",
+					"name": "Ablenkungsplattierung, Mark III",
+					"description": "<p>Du verbesserst die Panzerung deines Schiffes erheblich, indem du den Nachteil deines Schiffes bei Geschicklichkeitsüberprüfungen (Verstecken), der durch die Panzerung verursacht wird, aufhebst.</p>"
+				},
+				{
+					"id": "zwMwgi8Ea13EY0uB",
+					"name": "Direkter Controller",
+					"description": "<p>Du hast eine eigene Geschützstation am oder um den Hardpoint installiert.  Ein an dieser Station eingesetztes Besatzungsmitglied kann seinen Geschicklichkeitsmodifikator anstelle des Weisheitsmodifikators des Schiffes für die Angriffswürfe oder Schutz-DCs der gewählten Waffe verwenden.</p>"
+				},
+				{
+					"id": "7lmBjM4Lol73UE6x",
+					"name": "Andockrampe",
+					"description": "<p>Diese Suite ist mit einem integrierten Mechanikerkasten ausgestattet und bietet Platz für die gesamte Ausrüstung, die zum Starten, Empfangen, Reparieren, Aufrüsten und Unterbringen eines anderen Raumschiffs erforderlich ist. Die Größe, die sie aufnehmen kann, hängt von der Größe des Schiffes ab.</p><ul><li><strong>Mittel:</strong> Eine mittlere Andockbucht kann ein kleines Schiff aufnehmen.</li><li><strong>Groß:</strong> Eine große Andockbucht kann zwei mittlere Schiffe aufnehmen. </li><li><strong>Riesig:</strong> Eine riesige Andockbucht kann ein großes Schiff beherbergen.</li><li><strong>Gargantuan:</strong> Eine gargantuanische Andockbucht kann ein riesiges Schiff beherbergen.</li></ul><p>Alternativ kann diese Suite auch mehrere Schiffe kleinerer Größe beherbergen. Ein riesiges Schiff nimmt den Platz von 10 großen Schiffen ein, die wiederum den Platz von 10 mittleren Schiffen einnehmen. Ein Medium-Schiff nimmt den Platz von fünf Small-Schiffen ein, die wiederum den Platz von zwei Tiny-Schiffen einnehmen. Du kannst ein Schiff auch durch einen Droiden oder ein Konstrukt von vier Größenklassen größer ersetzen.  Bis zu zwei Andockbuchten können kombiniert werden, um ihre Speicherkapazität zu erhöhen.</p><p>Im Laufe von 1 Minute kann ein Pilot in der Andockbucht starten oder andocken.</p>"
+				},
+				{
+					"id": "qtPyFj6l26QTFlwF",
+					"name": "Andockrampe, Schnellstart",
+					"description": "<p>Diese Suite bietet Platz für die gesamte Ausrüstung, die zum Starten und Unterbringen anderer Raumschiffe erforderlich ist. Die Anzahl der Schiffe, die hier untergebracht werden können, hängt von der Größe des Schiffes ab.</p><ul><p><li><strong>Groß:</strong> Eine große Schnellstartrampe kann fünf kleine Schiffe beherbergen.</li><li><strong>Riesen:</strong> Eine riesige Schnellstartrampe kann fünf mittlere Schiffe beherbergen.</li><li><strong>Gargantuan:</strong> Eine gargantuanische Schnellstartrampe kann fünf große Schiffe beherbergen.</li></ul><p>Alternativ kann diese Suite auch mehrere Schiffe kleinerer Größe beherbergen. Ein Großes Schiff nimmt den Platz von 10 Mittleren Schiffen ein, die wiederum den Platz von fünf Kleinen Schiffen einnehmen, die wiederum den Platz von zwei Winzigen Schiffen einnehmen. Du kannst ein Schiff auch durch einen Droiden oder ein Konstrukt von vier Größenklassen größer ersetzen.</p><p>Ein Pilot, der sich in seinem Schiff befindet, kann sein Schiff als Aktion aus der Schnellstartbucht starten.  Ein gestartetes Schiff kann nicht von einer Schnellstartbucht empfangen werden, sondern muss in einer Andockbucht desselben Schiffes empfangen werden.</p>"
+				},
+				{
+					"id": "fXJYhMhNL172I2O3",
+					"name": "Droidengehirn, Behelfsmäßig",
+					"description": "<p>Du installierst ein Droidengehirn, das dein Raumschiff allein steuern kann. Der maximale und minimale Besatzungsbedarf deines Raumschiffs wird auf 0 gesetzt, und dein Raumschiff kann nicht von Funktionen profitieren, die seine Besatzungskapazität erhöhen oder verringern würden. Das Droidengehirn kontrolliert stattdessen alle Aspekte des Schiffes. Das Droidengehirn hat einen Fertigkeitsbonus von +2 und eine Fertigkeit in Pilotenkunde. Im Kampf würfelt das Droidengehirn seine eigene Initiative, auf die es keinen Bonus erhält.</p>"
+				},
+				{
+					"id": "YvuhPSZZ746TD8Tg",
+					"name": "Droidengehirn, Mark I",
+					"description": "<p>Du verbesserst das Droidengehirn deines Schiffes. Wenn dein Schiff klein oder mittelgroß ist, erhöht sich die Anzahl der Aktionen, die es pro Zug ausführen kann:</p><p><ul><li><strong>Klein:</strong> Ein kleines Schiff kann eine Anzahl von Aktionen ausführen, die der Hälfte seines Befähigungsbonus entspricht (aufgerundet).</li><li><strong>Mittelgroß:</strong> Ein mittelgroßes Schiff kann eine Anzahl von Aktionen ausführen, die seinem Befähigungsbonus entspricht.</li></ul>"
+				},
+				{
+					"id": "h101yxfjp2NrczM1",
+					"name": "Droidengehirn, Mark II",
+					"description": "<p>Du kannst das Droidengehirn deines Schiffes weiter verbessern. Der Fähigkeits-Bonus deines Droidengehirns erhöht sich auf 3. Außerdem hat das Droidengehirn deines Schiffs einen Vorteil bei Initiativwürfen.</p>"
+				},
+				{
+					"id": "hKC1MALcSPXqzPqD",
+					"name": "Droidengehirn, Mark III",
+					"description": "<p>Du verbesserst das Droidengehirn deines Schiffes erheblich. Der Fertigkeitsbonus deines Droidengehirns erhöht sich auf 4. Außerdem erhält es einen Rang in einem Einsatz deiner Wahl.</p>>"
+				},
+				{
+					"id": "jyn2IjSbKTdqcTCI",
+					"name": "Droidengehirn, Mark IV",
+					"description": "<p>Du verbesserst das Droidengehirn deines Schiffes massiv. Der Fertigkeitsbonus deines Droidengehirns erhöht sich auf 5. Zusätzlich verfügt dein Droidengehirn über Erfahrung in Pilotenkunde.</p>"
+				},
+				{
+					"id": "V1eMLUl6MEKKT5SY",
+					"name": "Droidengehirn, Mark V",
+					"description": "<p>Das Droidengehirn deines Schiffes hat sein maximales Potenzial erreicht. Der Fertigkeitsbonus deines Droidengehirns erhöht sich auf 6. Außerdem erhält es einen Rang in einem Einsatz deiner Wahl.</p>"
+				},
+				{
+					"id": "ykVyFNPfXA0BsOIM",
+					"name": "Droiden-Speicher",
+					"description": "<p>Diese Suite bietet einen einzigen Raum mit dicht gepackten Regalen, in denen eine Anzahl mittelgroßer Droiden untergebracht werden kann, die dem Vierfachen der in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Sternenschiffsgröße Suite-Kapazität}&nbsp;Tabelle angegebenen Kapazität des Schiffes entspricht.</p>\r\n<p>Alternativ können in dieser Suite auch Droiden anderer Größen untergebracht werden. Ein Huge-Droide nimmt den Platz von zwei Large-Droiden ein, die wiederum den Platz von zwei Medium-Droiden einnehmen, und so weiter.</p>"
+				},
+				{
+					"id": "aSXtsSxKtBbloWYx",
+					"name": "EMP-Gerät",
+					"description": "<p>Diese Modifikation fügt ein wiederverwendbares EMP-Gerät hinzu, um Elektronik in der Nähe auszuschalten.  Als Aktion kann ein Besatzungsmitglied das Gerät aktivieren.  Jedes Schiff im Umkreis von 100 Fuß muss einen Konstitutionsschutzwurf ablegen (DC = 8 + Fertigkeitsbonus des Besatzungsmitglieds + Stärkemodifikator des Schiffs). Bei einem misslungenen Rettungswurf wird das Schiff für 1 Minute betäubt. Als Aktion kann ein Besatzungsmitglied in jeder Runde des Schiffes das Schiff den Rettungswurf wiederholen lassen, wobei der Effekt bei einem Erfolg endet.  Das Schiff versagt automatisch beim ersten Rettungswurf, hat aber bei nachfolgenden Rettungswürfen gegen diesen Effekt einen Vorteil.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "JwMJdDd8fJEIjTyn",
+					"name": "Auswurfkapsel",
+					"description": "<p>Du baust einen Schleudersitz in das Cockpit deines Schiffes ein. Wenn dein Schiff auf 0 Hüllenpunkte reduziert, aber nicht völlig zerstört ist, kannst du deine Reaktion nutzen, um die Kapsel aus dem Schiff zu werfen.</p>\r\n<p>Die Kapsel enthält Notrationen und Vorräte, die eine Anzahl von Kreaturen versorgen können, die der maximalen Besatzungskapazität für 1 Tag entspricht, sowohl in heißem als auch in kaltem Klima, wie in Kapitel 5 des Dungeon Master's Guide beschrieben. Die Kapsel hat die Größe eines Tiny und eine Fluggeschwindigkeit von 150 Fuß, eine Drehgeschwindigkeit von 50 Fuß, einen AC von 10 und 5 Hüllenpunkte. Die Kapsel enthält eine Einheit Treibstoff.</p>"
+				},
+				{
+					"id": "4RfHRs8adL6tbBHi",
+					"name": "Elektrische Entladungsgeräte",
+					"description": "<p>Ein Besatzungsmitglied kann mit einer Aktion dafür sorgen, dass dein Schiff einen Stromstoß aussendet. Jedes Schiff im Umkreis von 50 Fuß, außer dir, muss einen Rettungswurf auf Geschicklichkeit bestehen (DC = 8 + Profibonus + Schiffsstärke-Modifikator) oder 1d6 Blitzschaden erleiden. </p><p>Der Schaden dieser Kraft erhöht sich um 1d6 für jede Stufe deines Schiffes über der ersten Stufe: 2. Stufe (2d6), 3. Stufe (3d6), 4. Stufe (4d6) und 5. Stufe (5d6).</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie die Stufe deines Schiffes beträgt (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "vzxTSX239SWuOy2A",
+					"name": "Elektromagnetischer Scrambler, Mk I",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied ein Schiff im Umkreis von 300 Fuß mit elektronischen Interferenzen und holografischen Illusionen einhüllen. Das Ziel muss einen Weisheitswurf bestehen (DC = 8 + Profibonus + Charismamodifikator des Schiffes), oder es erleidet 1d6 Blitzschaden und bewegt sich 50 Fuß in eine zufällige Richtung, wenn es sich bewegen kann und seine Geschwindigkeit mindestens 50 Fuß beträgt. Wirf einen d4 für die Richtung: 1, Norden; 2, Süden; 3, Osten; oder 4, Westen. Wenn die gewürfelte Richtung blockiert ist, bewegt sich das Ziel nicht.</p><p>Der Schaden dieser Fähigkeit erhöht sich um 1d6 für jede Stufe, die dein Schiff über der ersten Stufe liegt: 2. Stufe (2d6), 3. Stufe (3d6), 4. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "YxKJZZqc4dGDFQhP",
+					"name": "Elektromagnetischer Scrambler, Mk II",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied bis zu drei Schiffe im Umkreis von 300 Fuß auswählen, um Weisheitswürfe zu machen (DC = 8 + Profibonus + Charismamodifikator des Schiffs). Wenn ein Ziel, dem dieser Rettungswurf misslingt, zum ersten Mal in jeder Runde einen Angriffswurf oder einen Rettungswurf macht, muss das Ziel bis zu einer Minute lang, bis die Fähigkeit endet, einen d4 werfen und die gewürfelte Zahl von dem Angriffswurf oder dem Rettungswurf abziehen.</p><p>Ein Besatzungsmitglied muss seine Bonusaktion einsetzen, um diese Fähigkeit aufrechtzuerhalten.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "vjfblL7yeZCzZeWp",
+					"name": "Elektromagnetischer Scrambler, Mk III",
+					"description": "<p>Du wählst ein Schiff, das du im Umkreis von 1200 Fuß sehen kannst, und störst seine Fähigkeit, Ziele zu unterscheiden. Das Ziel muss einen Weisheitswurf machen (DC = 8 + Profibonus + Charismamodifikator des Schiffs). Wenn das Schiff direkt von einem Humanoiden gesteuert wird, der nicht handlungsunfähig ist, erhält es einen Bonus auf den Rettungswurf in Höhe des Intelligenzmodifikators des Piloten. Bei einem misslungenen Schutzwurf verliert das Ziel die Fähigkeit, Freund und Feind zu unterscheiden, und betrachtet alle Schiffe, die es sehen kann, als Feinde, bis die Kraft endet. Jedes Mal, wenn das Ziel Schaden erleidet, kann es den Rettungswurf wiederholen und bei einem Erfolg den Effekt auf sich selbst beenden.</p><p>Wenn das betroffene Schiff ein anderes Ziel wählt, muss es das Ziel zufällig aus den Schiffen auswählen, die es innerhalb der Reichweite des Angriffs, der Kraft oder einer anderen Fähigkeit, die es gerade benutzt, sehen kann. </p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "JwPUPOP4Brpj2MMw",
+					"name": "Elektromagnetischer Scrambler, Mk IV",
+					"description": "<p>Ein Besatzungsmitglied kann als Aktion die Zielprotokolle von Schiffen in der Nähe durcheinander bringen. Jedes Schiff in einem Radius von 300 Fuß, der auf einem Punkt innerhalb von 1200 Fuß zentriert ist, muss einen Weisheitswurf machen (DC = 8 + Profibonus + Charismamodifikator des Schiffs).  Wenn das Schiff direkt von einem Humanoiden gesteuert wird, der nicht handlungsunfähig ist, erhält es einen Bonus auf den Rettungswurf in Höhe des Intelligenzmodifikators des Piloten. Bei einem misslungenen Schutzwurf verliert das Ziel die Fähigkeit, Freund und Feind zu unterscheiden, und betrachtet alle Kreaturen, die es sehen kann, bis zu einer Minute lang als Feinde, bis die Fähigkeit endet. Jedes Mal, wenn das Ziel Schaden erleidet, kann es den Rettungswurf wiederholen und bei einem Erfolg den Effekt auf sich selbst beenden.  </p><p>Ein Besatzungsmitglied muss seine Bonusaktion einsetzen, um diese Fähigkeit aufrechtzuerhalten.</p><p>Wenn das betroffene Schiff ein anderes Ziel wählt, muss es das Ziel zufällig unter den Schiffen auswählen, die es innerhalb der Reichweite des Angriffs, der Kraft oder der anderen Fähigkeit, die es einsetzt, sehen kann. </p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "toZifUoYqJsUgs2X",
+					"name": "Elektromagnetischer Scrambler, Mk V",
+					"description": "<p>Du sendest einen elektromagnetischen Impuls aus, der alle Schiffe im Umkreis von 1200 Fuß außer deinem eigenen ausschalten kann. Schiffe in Reichweite müssen einen Weisheitswurf bestehen (DC = 8 + Profibonus + Charismamodifikator des Schiffes) oder sie werden bis zu einer Minute oder bis zum Ende der Energie deaktiviert. </p><p>Ein Besatzungsmitglied muss seine Bonusaktion einsetzen, um diese Fähigkeit aufrechtzuerhalten.</p><p>Jedes Mal, wenn das Ziel Schaden erleidet, macht es einen neuen Weisheitswurf gegen die Macht. Wenn der Rettungswurf gelingt, endet die Kraft.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Kräfte werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "kUnEuzg9el3MrYTa",
+					"name": "Elektronische Ablenkplatte",
+					"description": "<p>Wenn dein Schiff ionisiert, geschockt oder betäubt werden würde, kann ein Besatzungsmitglied seine Reaktion nutzen, um einen Hüllenwürfel zu werfen und Schaden an der Hülle in Höhe des gewürfelten Betrags zu erleiden, um den auslösenden Zustand zu ignorieren.</p><p>Diese Eigenschaft kann so oft genutzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>>"
+				},
+				{
+					"id": "jCpnhkKLfpX13kAC",
+					"name": "Notstromaggregat",
+					"description": "<p>Dein Schiff ist mit einem Notgenerator ausgestattet, der die Schilde wieder auflädt. Wenn dein Schiff auf 0 Schildpunkte reduziert, aber nicht völlig zerstört wird, kann ein Besatzungsmitglied seine Reaktion einsetzen, um es stattdessen auf 1 Schildpunkt fallen zu lassen. Wenn das Schiff 0 Schildpunkte hat, kann ein Besatzungsmitglied seine Aktion nutzen, um Schildpunkte in Höhe des doppelten Stärke-Modifikators des Schiffes wiederherzustellen. </p><p>Sobald eine der beiden Möglichkeiten genutzt wurde, kann das Energie-Backup nicht mehr verwendet werden, bis das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "AvzD0oALrfWgmqgx",
+					"name": "Ausrüstungsraum",
+					"description": "<p>Diese Suite fügt einen Ausrüstungsraum hinzu, der die Modifikationskapazität um 4 Plätze erweitert.</p>"
+				},
+				{
+					"id": "377OskezarDUpB8F",
+					"name": "Rettungskapseln",
+					"description": "<p>Dieses Paket erweitert dein Schiff um Rettungskapseln. Jede Rettungskapsel ist mit Notrationen und Vorräten ausgestattet, die vier Zivilisten, Besatzungsmitglieder oder Truppen 1 Woche lang versorgen können, sowohl in heißem als auch in kaltem Klima, wie in Kapitel 5 des Dungeon Master's Guide beschrieben. Die Anzahl der Rettungskapseln entspricht einem Viertel der Suitenkapazität des Schiffes, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suitenkapazität}&nbsp;Tabelle angegeben.</p>"
+				},
+				{
+					"id": "jTvNNZNqdEmLekSq",
+					"name": "Rettungskapseln, hyperspace-fähig",
+					"description": "<p>Diese Suite erweitert dein Schiff um Rettungskapseln. Jede Rettungskapsel ist mit einem Klasse-15-Hyperantrieb, Notrationen und Vorräten ausgestattet, die vier Zivilisten, Besatzungsmitglieder oder Truppen 1 Woche lang in heißem und kaltem Klima versorgen können, wie in Kapitel 5 des Dungeon Master's Guide beschrieben. Die Anzahl der Rettungskapseln entspricht einem Viertel der Suitenkapazität des Schiffes, wie in der Tabelle @JournalEntry[Mnvw9iBw8gxgfCXw]{Sternenschiffsgröße Suitenkapazität}&nbsp;gezeigt.</p>"
+				},
+				{
+					"id": "yJAVDLFmZxxQWKJr",
+					"name": "Erhöhte Nutzlast",
+					"description": "<p>Der Nachladewert der gewählten Waffe erhöht sich um die Hälfte.</p>"
+				},
+				{
+					"id": "PDqitTZ4C5dgB9Rr",
+					"name": "Explosive Nutzlast",
+					"description": "<p>Wenn einem Schiff ein Rettungswurf gegen die gewählte Waffe misslingt und sich ein anderes Schiff im Umkreis von 50 Fuß befindet, muss das zweite Schiff ebenfalls einen Rettungswurf machen. Bei einem misslungenen Rettungswurf erleidet das zweite Schiff Schaden in Höhe des Stärke-Modifikators deines Schiffes. Der Schaden ist vom gleichen Typ wie der des ursprünglichen Angriffs.</p> <p>"
+				},
+				{
+					"id": "6YjuCoVzaVhplvT4",
+					"name": "Externes Andocksystem",
+					"description": "<p>Dein Schiff ist mit einer Luftschleuse und Kupplungen ausgestattet, die dazu dienen, sich mit einem oder mehreren Schiffen einer kleineren Größenklasse zu verbinden, wie unten beschrieben. Als Aktion kann ein Besatzungsmitglied das externe Andocksystem ein- oder auskuppeln. Während ein Schiff an dein Schiff gekoppelt ist, können die Schiffe die Primärsysteme gemeinsam nutzen, und Kreaturen können problemlos zwischen den Schiffen wechseln. Solange ein externes Andocksystem von mindestens einem Schiff besetzt ist, verringert sich die Fluggeschwindigkeit deines Schiffes um 50 Fuß (auf ein Minimum von 50 Fuß), seine Drehgeschwindigkeit erhöht sich um 50 Fuß und sein Hyperantrieb wird bei der Bestimmung der Reisezeit im Hyperraum als eine Klasse größer angesehen (auf ein Maximum von Klasse 20).</p><p>Alternativ kann diese Suite mehrere Schiffe kleinerer Größe aufnehmen. Ein riesiges Schiff nimmt den Platz von 10 großen Schiffen ein, die wiederum den Platz von 10 mittleren Schiffen einnehmen. Ein Medium-Schiff nimmt den Platz von fünf Small-Schiffen ein, die wiederum den Platz von zwei Tiny-Schiffen einnehmen. Du kannst ein Schiff auch durch einen Droiden oder ein Konstrukt von vier Größenklassen größer ersetzen. </p>"
+				},
+				{
+					"id": "e1RSrGCk8bkEWrba",
+					"name": "Extra Treibstofftank",
+					"description": "<p>Dieser Tank fügt deinem Schiff eine Treibstoffkapazität hinzu, die der Hälfte der normalen Treibstoffkapazität deines Schiffes entspricht.</p>"
+				},
+				{
+					"id": "ZeCNLOuziz3UU1BI",
+					"name": "Feedback-Schild",
+					"description": "<p>Der Schild deines Schiffes ist so verbessert, dass er Schaden an potentiellen Angreifern reflektiert. Als Reaktion darauf, dass das Schiff von einer Primär- oder Sekundärwaffe getroffen wird, kann ein Besatzungsmitglied seine Reaktion nutzen, um dem angreifenden Schiff Schaden zuzufügen. Der Schaden hängt von der Größe des Schiffes ab: 1d4 für ein winziges Schiff, 1d6 für ein kleines Schiff, 1d8 für ein mittleres Schiff, 1d10 für ein großes Schiff, 1d12 für ein riesiges Schiff oder 1d20 für ein gigantisches Schiff. Der Schaden entspricht dem des ursprünglichen Angriffs.</p>>"
+				},
+				{
+					"id": "gwH143Rt48TqS1Ps",
+					"name": "Fester Festpunkt",
+					"description": "<p>Ein fester Haltepunkt wird verwendet, um eine Primär-, Sekundär-, Tertiär- oder Quartärwaffe zu montieren. Eine Waffe, die an einem festen Hardpoint montiert ist, hat einen begrenzten Feuerbogen, wie in Kapitel 9 beschrieben, und kann von jeder Besatzungsstation aus abgefeuert werden. </p>"
+				},
+				{
+					"id": "3RMeXwni1xyQbw0J",
+					"name": "Leuchtkugeln",
+					"description": "<p>Ihr Schiff ist mit einer Reihe von Gegenmaßnahmen-Leuchtkugeln ausgestattet. Wenn dein Schiff gezwungen ist, einen Geschicklichkeitswurf zu machen, kann ein Besatzungsmitglied seine Reaktion nutzen, um eine Leuchtrakete auszulösen. Wenn es dies tut, hat dein Schiff einen Vorteil auf den auslösenden Rettungswurf. Das Besatzungsmitglied kann sich dafür entscheiden, diese Funktion zu nutzen, nachdem der Wurf gemacht wurde, aber bevor der Spielleiter sagt, ob der Wurf erfolgreich war oder nicht. Wenn es bereits einen Vorteil beim Rettungswurf hat, kann es stattdessen einen der Würfel einmal neu werfen.</p><p>Diese Eigenschaft kann so oft verwendet werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "yh8IEDYYTpfNDjan",
+					"name": "Flugcomputer",
+					"description": "<p>Dieses System erlaubt es einem Besatzungsmitglied, die Aktionen Fliegen, Ausweichen oder Schild regenerieren als Bonusaktion in seinem Zug durchzuführen.</p>"
+				},
+				{
+					"id": "4K5cyQWh4Bv2dWgP",
+					"name": "Rahmen, Behelfsrahmen",
+					"description": "<p>Du verbesserst den Rahmen deines Schiffes, allerdings zu einem gewissen Preis. Der Konstitutionswert deines Schiffes erhöht sich um 1. Ein vom Spielleiter gewählter Fähigkeitswert (außer Konstitution) verringert sich um 1. Wie üblich kannst du mit diesem System den Konstitutionswert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "0Fsxt8D98Sofxl4A",
+					"name": "Rahmen, Mark I",
+					"description": "<p>Du verbesserst den Reaktor deines Schiffes. Der Konstitutionswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Konstitutionswert deines Schiffes nicht über den Maximalwert deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "IBOdwwIxDdp8zCOM",
+					"name": "Rahmen, Mark II",
+					"description": "<p>Du verbesserst den Rahmen deines Schiffes weiter. Der Konstitutionswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Konstitutionswert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "4nlVzDZe8DJJhWPo",
+					"name": "Rahmen, Mark III",
+					"description": "<p>Du verbesserst den Rahmen deines Schiffes erheblich. Der Konstitutionswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Konstitutionswert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "i2Z1B7bX7xrJIBqC",
+					"name": "Rahmen, Mark IV",
+					"description": "<p>Du verbesserst den Rahmen deines Schiffes massiv. Der Konstitutionswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Konstitutionswert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "Jr5YKiCA6thwoOCJ",
+					"name": "Rahmen, Mark V",
+					"description": "<p>Der Rahmen deines Schiffes hat sein maximales Potenzial erreicht. Der Konstitutionswert deines Schiffes erhöht sich um 2. Das Maximum deines Schiffes für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "slKTOnbHt9rjfZVF",
+					"name": "Treibstoffspeicher",
+					"description": "<p>Dieser große Treibstofftank ist in der Lage, zusätzliche Treibstoffportionen in deinem Raumschiff zu speichern. Der Tank speichert Treibstoffeinheiten, die dem 5-fachen der normalen Treibstoffkapazität deines Schiffes entsprechen. Diese Einheiten können zum Betanken deines eigenen Raumschiffs verwendet oder auf andere Schiffe übertragen werden.</p><p>Treibstoff kann auf Schiffe anderer Größe übertragen werden. Eine Gargantuan-Treibstoffeinheit nimmt den Platz von 10 Huge-Einheiten ein, die wiederum den Platz von 10 Large-Einheiten einnehmen, die wiederum den Platz von 10 Medium-Einheiten einnehmen. Ein Medium-Schiff benötigt den Platz von zwei Small-Einheiten, die wiederum den Platz von zwei Tiny-Einheiten einnehmen.</p>"
+				},
+				{
+					"id": "Ql4JV9fxBghEdHVn",
+					"name": "Vollständiges Salvenprotokoll",
+					"description": "<p>Hardpoints, die einen zusätzlichen begrenzten oder unbegrenzten Bogen haben, können nun aus der Ferne abgefeuert werden, ohne den Nachteil zu erleiden, der durch die Entfernung von der entsprechenden Geschützstation entsteht.</p>"
+				},
+				{
+					"id": "aVFfSfkKueISUKQm",
+					"name": "Gaußgeschosse",
+					"description": "<p>Wenn du mit der gewählten Waffe eine 1 oder 2 auf einem Schadenswürfel würfelst, kannst du den Würfel neu werfen und musst den neuen Wurf verwenden, auch wenn der neue Wurf eine 1 oder 2 ist.</p>"
+				},
+				{
+					"id": "wq4a59Gtv1AkDjHq",
+					"name": "Schwerkraft-Brunnenprojektor",
+					"description": "<p>Dein Schiff ist mit einem Schwerkraftprojektor ausgestattet, der Schiffe daran hindert, in den Hyperraum zu springen, und sogar Schiffe aus dem Hyperraum zieht, indem er ein Sperrfeld verwendet. Ein Besatzungsmitglied kann den Schwerkraftprojektor mit einer Aktion aktivieren oder deaktivieren. Der Projektor hat eine Reichweite von 1.000 Fuß und einen begrenzten Feuerbogen, wie in Kapitel 9 beschrieben. Solange er aktiv ist, können dieses Schiff und Schiffe gleicher oder kleinerer Größe, die ihren Zug innerhalb des Feuerbogens des Schwerkraftprojektors beginnen, ihre Hyperantriebe nicht aktivieren.</p>"
+				},
+				{
+					"id": "y14WuCAFzY9lFJNq",
+					"name": "Gehärteter Bug",
+					"description": "<p>Dein Schiff wurde so modifiziert, dass es beim Rammen effektiver ist. Wenn ein eingesetzter Pilot die Aktion Rammen ausführt und das Ziel den Schutzwurf nicht besteht, wird der verursachte Schaden um einen Betrag erhöht, der zwei Hüllenwürfeln deines Schiffs entspricht. </p><p>Zusätzlich ist dein Schiff für Stärke (Rammen)-Würfe gut ausgerüstet.  </p>"
+				},
+				{
+					"id": "IoYVzcgMuyJ8JI45",
+					"name": "Versteckte Lagerung",
+					"description": "<p>Dieses Paket ist mit versteckten Staufächern ausgestattet, deren Fassungsvermögen der Hälfte der Grundladekapazität deines Schiffes entspricht, wie in der Tabelle @JournalEntry[pMX6ND1g3oNyo09c]{Frachtkapazität der Raumschiffsgröße} auf Seite 55 angegeben. Um die versteckten Staufächer zu finden, ist eine erfolgreiche DC 20 Intelligenz- (Untersuchung) oder Weisheitsprobe (Wahrnehmung) erforderlich, die mit Nachteil durchgeführt wird.</p>"
+				},
+				{
+					"id": "FtAWJsL0RRmXrTm5",
+					"name": "Arrestzellen",
+					"description": "<p>Diese Suite umfasst einen Sicherheitsposten und eine Reihe einzelner Zellen, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle gezeigt, die sowohl mit einem Schlüssel als auch mit einem Codeschloss ausgestattet sind. Die Türen der Zellen sind magnetisch versiegelt, damit sie sich bei einem Stromausfall nicht öffnen können.</p>"
+				},
+				{
+					"id": "CHUwghAkez6ETMyL",
+					"name": "Hydroponischer Garten",
+					"description": "<p>Diese Suite baut Pflanzen für den Konsum oder den Handel an.</p>\r\n<p>Wenn der Garten für den Verzehr konfiguriert ist, produziert er jeden Tag gewöhnliche Nahrung in einer Menge, die eine Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen ernähren kann, die einem Zehntel der Kapazität der Suite entspricht, wie in der Tabelle @JournalEntry[FP3ZDd5KEXJIpqkZ]{Nahrungskapazität der Schiffsgröße} angegeben.</p>\r\n<p>Wenn der Garten für den Handel konfiguriert ist, produziert er am Ende eines jeden Monats (7 Wochen à 5 Tage) pflanzliche Waren mit einem Marktwert in Credits, der dem 10-fachen der Kapazität der Schiffssuite entspricht, wie in der Tabelle @JournalEntry[FP3ZDd5KEXJIpqkZ]{Starship Size Food Capacity}&nbsp;gezeigt. In manchen Fällen kann ein GM entscheiden, dass dieser Wert erhöht werden kann, wenn ein besonders seltenes Pflanzengut produziert wird. In solchen Fällen müssen die Spieler möglicherweise seltenes Ausgangsmaterial wie Samen oder Stecklinge beschaffen, um die Produktion zu beginnen oder fortzusetzen.</p>"
+				},
+				{
+					"id": "7gFSZKE8qzMNC8Dk",
+					"name": "Hyperantriebsschlitz",
+					"description": "<p>Diese Modifikation fügt einen Hyperantriebsslot zu deinem Schiff hinzu und beinhaltet einen Hyperantrieb der Klasse 15.</p>"
+				},
+				{
+					"id": "XHkoaKBkRZpc6F88",
+					"name": "Verbesserte Gegenmaßnahmen",
+					"description": "<p>Diese Modifikation verbessert die Gegenmaßnahmen deines Schiffes und ermöglicht es ihm, anhaltende Effekte schnell zu beseitigen. Als Aktion kann ein Besatzungsmitglied diese Funktion aktivieren, um die Zustände \"geblendet\", \"ionisiert\", \"geschockt\", \"blockiert\" und \"betäubt\" zu beenden.</p><p>Diese Funktion kann so oft verwendet werden, wie es der Stufe deines Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p><p>Zusätzlich ist dein Schiff für Weisheitswürfe fachmännisch ausgerüstet.  Wenn es bereits fachmännisch ausgerüstet war, kann das Schiff nun die Hälfte seines Konstitutionsmodifikators (abgerundet) zu seinen Weisheitswürfen addieren.</p>"
+				},
+				{
+					"id": "pLkrFwwonWuFCJJa",
+					"name": "Verbesserte Notfallsicherung",
+					"description": "<p>Dieses System erweitert das primäre Notfallsystem deines Schiffes. Dieses Backup kann das Raumschiff nun 7 Tage lang weiter betreiben, vorausgesetzt, es ist ausreichend Treibstoff vorhanden.</p> <p>"
+				},
+				{
+					"id": "Pd0sEF20lQlgBqB8",
+					"name": "Trägheitsdämpfer",
+					"description": "<p>Dieses System vermindert die Übertragung von externen Stößen in das Innere des Schiffes.  Wenn du aufgrund von Schäden, Einschlägen oder Explosionen außerhalb des Schiffes gezwungen bist, eine Konzentrationsprüfung abzulegen, hast du einen Vorteil.</p><p>Wenn du die Aktion \"Ausweichen\" durchführst, erleiden Fertigkeitsprüfungen und Angriffswürfe, die von deinem Schiff oder einer Person auf dem Schiff durchgeführt werden, keinen Nachteil durch das Ausweichen.  Wenn diese Fähigkeit einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.  </p>"
+				},
+				{
+					"id": "XUX3PVyQPsEQQZPp",
+					"name": "Interdiktionsantrieb",
+					"description": "<p>Du installierst einen Verbotsantrieb auf deinem Schiff, der aktiviert werden kann, um Schiffe in der Umgebung zu behindern. Als Aktion kann ein Besatzungsmitglied den Sperrantrieb aktivieren. Jedes Schiff im Umkreis von 100 Fuß um dein Schiff muss einen Stärkewurf ablegen (DC = 8 + Fertigkeitsbonus des Besatzungsmitglieds + Stärkemodifikator des Schiffs). Bei einem misslungenen Rettungswurf wird die Fluggeschwindigkeit des Schiffes um 100 Fuß verringert und seine Drehgeschwindigkeit um 50 Fuß erhöht, bis zum Ende des nächsten Zuges deines Schiffes.</p><p>Ist ein Schiff zwei oder mehr Größen größer als dein Schiff, hat es einen Vorteil beim Rettungswurf. Wenn es zwei oder mehr Größen kleiner ist, hat es stattdessen einen Nachteil. </p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "iBW7FadgLhaKsULk",
+					"name": "Verhörkammer",
+					"description": "<p>Dieses Paket enthält alle notwendigen Utensilien und Geräte, um eine Anzahl von Gefangenen zu verhören oder sogar zu foltern, die der halben Paketkapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle angegeben. Beim Verhör eines Gefangenen hat der Verhörende einen Vorteil bei Charisma- (Einschüchterung) und Charisma- (Überredung) Würfen. Wenn er mindestens eine Stunde mit dem Verhör eines Gefangenen verbringt, hat der Gefangene einen Nachteil bei Charisma (Täuschung)-Überprüfungen.</p>"
+				},
+				{
+					"id": "eWCtdkMu6zUHxqSU",
+					"name": "Untersuchungssuite",
+					"description": "<p>Dieses Paket enthält ein integriertes Verkleidungsset, ein Fälschungsset, ein Sicherheitsset und ein Slicer-Set. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Beherrschungsbonus bereits auf deine Würfe anwendest, erhältst du stattdessen den doppelten Beherrschungsbonus. Wenn du deinen Fertigkeitsbonus bereits verdoppelt hast, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p><p>Zusätzlich hast du, während du eines dieser Werkzeuge benutzt, Vorteil bei Fähigkeitsprüfungen, die du mit ihnen durchführst. Wenn du bereits einen Vorteil bei der Fähigkeitsprüfung hast, kannst du stattdessen einen der Würfel einmal neu werfen.</p>"
+				},
+				{
+					"id": "P43GTMZJ97K6b8rk",
+					"name": "Unverwundbarkeits-Antrieb",
+					"description": "<p>Dein Schiff ist mit einem experimentellen Gerät ausgestattet, das es gegen jeglichen Schaden immun machen kann. Als Aktion kann ein Besatzungsmitglied den Antrieb aktivieren. Einmal aktiviert, hält der Antrieb 1d4 Runden lang an und gewährt folgende Vorteile:</p><ul><li>Dein Schiff ist immun gegen jeglichen Schaden.</li><li>Die Fluggeschwindigkeit deines Schiffes wird um die Hälfte reduziert.</li><li>Die Drehgeschwindigkeit deines Schiffes wird verdoppelt.</li></ul><p>Ein Besatzungsmitglied kann diesen Effekt jederzeit beenden, es ist keine Aktion erforderlich. Wenn der Effekt endet, muss das Besatzungsmitglied einen Zerstörungswettkampf ablegen. Bei einem Fehlschlag erleidet das Schiff 1 Stufe [Systemschaden](#System%20Schaden).</p><p>Wenn diese Eigenschaft einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "QZdhTsA8dH8d6hLv",
+					"name": "Ionisierende Kugeln",
+					"description": "<p>Wenn du mit der gewählten Waffe einen kritischen Treffer erzielst; wenn du einen Vorteil beim Angriffswurf hast und triffst und der niedrigere der beiden Würfe auf der 20er Skala ebenfalls treffen würde; wenn das Zielschiff eine 1 beim Rettungswurf würfelt, um den Effekten der Waffe zu entgehen; oder wenn das Zielschiff einen Nachteil beim Rettungswurf hat und scheitert und der höhere der beiden Würfe ebenfalls scheitern würde, kannst du das Ziel zwingen, einen Konstitutionsrettungswurf zu machen (DC = 8 + dein Fertigkeitsbonus + der Stärkemodifikator des Schiffs). Bei einem misslungenen Rettungswurf wird das Schiff bis zum Beginn deines nächsten Zuges ionisiert.</p><p>Ist das beschädigte Schiff größer als dein Schiff, hat es einen Vorteil beim Rettungswurf. Ist das beschädigte Schiff kleiner als dein Schiff, hat es stattdessen einen Nachteil.</p>"
+				},
+				{
+					"id": "cKIMaA2tK6a2eWRT",
+					"name": "Zwinger",
+					"description": "<p>Diese Suite verfügt über alle notwendigen Ausrüstungsgegenstände, um Bestien zu beherbergen. Wenn du auf deinem Schiff Tierbeherrschungstests durchführst, kannst du deinen Fertigkeitsbonus zu den Checks addieren, falls du dies nicht bereits tust. Wenn du bereits deinen Fertigkeitsbonus zu deinen Checks hinzufügst, fügst du stattdessen das Doppelte deines Fertigkeitsbonus hinzu. Wenn du bereits das Doppelte deines Fertigkeitsbonus auf deine Checks anwendest, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p>\r\n<p>Zusätzlich kann diese Suite eine Anzahl mittlerer Bestien beherbergen, die der Hälfte der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle angegeben.</p>\r\n<p>Alternativ kann diese Suite auch Bestien anderer Größen beherbergen. Eine riesige Bestie nimmt den Platz von zwei großen Bestien ein, die wiederum den Platz von zwei mittleren Bestien einnehmen und so weiter.</p>"
+				},
+				{
+					"id": "JjSlgyN3WQaaKiz8",
+					"name": "Laboratorium",
+					"description": "<p>Diese Suite ist mit einer kompletten Ausrüstung für Biochemiker, Kräuterkundler und Giftmischer ausgestattet. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du das nicht schon tust. Wenn du bereits deinen Fertigkeitsbonus zu deinen Würfen addierst, erhältst du stattdessen den doppelten Bonus. Wenn du deinen Fertigkeitsbonus bereits verdoppelt hast, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p><p>Während du eines dieser Werkzeuge benutzt, erhältst du außerdem einen Vorteil, der davon abhängt, welche Werkzeuge du benutzt. </p><ul><li><strong>Ausrüstung des Biochemikers:</strong> Während einer langen Pause kannst du die Wirksamkeit eines Medpacs vorübergehend verbessern. Wenn das Medpac vor dem Ende deiner nächsten langen Ruhepause verbraucht wird, nimmt eine Kreatur, die dieses Medpac benutzt, das Maximum, anstatt zu würfeln.</li><li><strong>Herbalismus-Ausrüstung:</strong> Im Laufe einer langen Ruhepause kannst du ein Gift oder eine Krankheit von einer befreundeten Kreatur in Reichweite entfernen.</li><li><strong>Giftmischer-Ausrüstung:</strong> Im Laufe einer langen Ruhepause kannst du die Potenz eines Giftes vorübergehend verbessern. Wird das Gift vor dem Ende deiner nächsten langen Ruhepause eingesetzt, beträgt sein DC 8 + dein Fertigkeitsbonus + dein Intelligenzmodifikator, und es verursacht zusätzlichen Giftschaden in Höhe deines Intelligenzmodifikators.</li></ul>"
+				},
+				{
+					"id": "fhhLlK8C69jhniTv",
+					"name": "Leichtgewichtige Beschichtung, Mark I",
+					"description": "<p>Du verbesserst die Panzerung deines Schiffes und gibst deinem Schiff einen +1 Bonus auf AC.</p>"
+				},
+				{
+					"id": "dwWN5V6gFD8OGgXg",
+					"name": "Leichtgewichtige Beschichtung, Mark II",
+					"description": "<p>Du rüstest die Panzerung deines Schiffes weiter auf und gewährst deinem Schiff einen zusätzlichen Bonus von +1 auf AC.</p>"
+				},
+				{
+					"id": "WhUqAtiBqBrTQoh4",
+					"name": "Leichtgewichtige Beschichtung, Mark III",
+					"description": "<p>Du verbesserst die Panzerung deines Schiffes erheblich und erhöhst deine Geschwindigkeit um 50 Fuß.</p>"
+				},
+				{
+					"id": "NRUhbz7tNTZFfpeo",
+					"name": "Wohnquartiere",
+					"description": "<p>Diese Suite verfügt über separate Räume, in denen eine von der Größe des Schiffes abhängige Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen untergebracht werden kann, sowie über gemeinsame Auffrischungsstationen (eine für alle vier Räume). Jedes Zimmer ist vollständig möbliert. Wenn eine Kreatur eine lange Ruhepause in diesem Anzug einlegt, wird ihr Erschöpfungsgrad um 2 statt nur um 1 reduziert.</p>"
+				},
+				{
+					"id": "4mUhwNPzHBDFSgKd",
+					"name": "Luxus-Quartiere",
+					"description": "<p>Dieser Anzug besteht aus separaten Zimmern, die voll möbliert sind und über eine eigene Auffrischungsstation verfügen. Wenn eine Kreatur eine lange Ruhepause in diesem Anzug beendet, erhält sie alle verbrauchten Trefferwürfel zurück, anstatt nur die Hälfte, und ihre Erschöpfungsstufe wird um 2 reduziert, anstatt nur um 1. Dieser Anzug verfügt über eine Anzahl von Privatquartieren, die der Hälfte der Suitenkapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suitenkapazität}&nbsp;Tabelle angegeben.</p>"
+				},
+				{
+					"id": "3hobQFx1yBtdO6MX",
+					"name": "Mechanikerwerkstatt",
+					"description": "<p>Diese Suite verfügt über die gesamte Ausrüstung, um Droiden und kleine Konstrukte zu beherbergen, einschließlich integrierter Astrotechnik-Werkzeuge, eines Abbruchsatzes und eines Mechaniksatzes. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Fertigkeitsbonus bereits auf deine Würfe anwendest, erhältst du stattdessen den doppelten Fertigkeitsbonus. Wenn du deinen Fertigkeitsbonus bereits auf deine Checks verdoppelt hast, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p><p>Zusätzlich erhältst du bei der Verwendung eines dieser Werkzeuge einen Vorteil, der davon abhängt, welche Werkzeuge du benutzt. </p><ul><li><strong>Entschärfungsset:</strong> Im Laufe einer langen Pause kannst du die Wirksamkeit einer Granate oder Mine vorübergehend verbessern. Wenn der gewählte Sprengstoff vor dem Ende deiner nächsten langen Ruhepause eingesetzt wird, beträgt sein DC 8 + dein Fertigkeitsbonus + dein Intelligenzmodifikator, und er verursacht zusätzlichen Schaden in Höhe deines Intelligenzmodifikators. Der Schaden ist vom selben Typ wie der des gewählten Sprengstoffs.</li><li><strong>Mechanikerbausatz:</strong> Immer wenn du eine Intelligenzüberprüfung (Mechanikerbausatz) machst, um eine Reparatur durchzuführen, kannst du einen Würfelwurf von 9 oder niedriger als 10 behandeln, solange du mindestens zehn Minuten für die Reparatur brauchst. </li></ul><p>Zu guter Letzt kann dieser Raum Droiden und Konstrukte beherbergen, abhängig von der Größe des Schiffes:</p><ul><li><strong>Klein:</strong> Eine kleine Mechanikerwerkstatt kann einen mittleren Droiden oder ein mittleres Konstrukt beherbergen. </li><li><strong>Mittel:</strong> Eine mittlere Mechanikerwerkstatt kann einen riesigen Droiden oder ein riesiges Konstrukt beherbergen.</li><li><strong>Groß:</strong> Eine große Mechanikerwerkstatt kann einen Gargantuan-Droiden oder ein riesiges Konstrukt beherbergen. </li><li><strong>Riesen:</strong> Eine riesige Mechanikerwerkstatt kann 10 Gargantuan-Droiden oder -Konstrukte beherbergen.</li><li><strong>Gargantuan:</strong> Eine Gargantuan-Mechanikerwerkstatt kann 100 Gargantuan-Droiden oder -Konstrukte beherbergen.</li></ul><p>Alternativ kann diese Suite auch Droiden anderer Größen beherbergen. Ein Gargantuan-Droide nimmt den Platz von zwei Riesendroiden ein, die wiederum den Platz von zwei Großdroiden einnehmen, und so weiter.</p>>"
+				},
+				{
+					"id": "fDSBIOgEC1JyY3T3",
+					"name": "Medbay",
+					"description": "<p>Diese Suite ist mit Erste-Hilfe-Materialien ausgestattet, um eine von der Schiffsgröße abhängige Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen zu versorgen.</p><p>Zusätzlich ist diese Suite je nach Schiffsgröße wie folgt ausgestattet:</p><ul><li><strong>Klein:</strong> Ein Biobett.</li><li><strong>Mittel:</strong> Zwei Biobetten.</li><li><strong>Groß:</strong> 10 Biobetten und vier Bacta-Tanks. </li><li><strong>Groß:</strong> 100 Biobetten und 40 Bacta-Tanks.</li><li><strong>Gargantuanisch:</strong> 100 Biobetten und 400 Bacta-Tanks.</li></ul><p>Für jede Stunde, die eine Kreatur in einem Bacta-Tank oder Biobett verbringt, verringert sich ihr Erschöpfungsgrad um 1, und sie kann einen Trefferwürfel werfen, um Trefferpunkte wiederherzustellen, ohne den Würfel auszugeben. </p><p>Wenn eine Kreatur weniger als 1 Stunde tot war, bevor sie in einen Bacta-Tank gelegt wurde. Sie kann über einen Zeitraum von 6 Stunden wiederbelebt werden. Am Ende der 6 Stunden erlangt die Kreatur 1 Trefferpunkt zurück, alle tödlichen Wunden schließen sich und die Kreatur kann nun Trefferpunkte zurückgewinnen und die Erschöpfung wie oben beschrieben verringern. Die wiederbelebte Kreatur erleidet einen Malus von -4 auf alle Fähigkeitsprüfungen, Angriffswürfe und Rettungswürfe. Jedes Mal, wenn die Kreatur eine lange Ruhepause beendet, wird der Malus um 1 verringert, bis er verschwindet. Diese Eigenschaft hat keine Wirkung auf Droiden oder Konstrukte. Wenn diese Eigenschaft einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff umgerüstet wird.</p> <p>"
+				},
+				{
+					"id": "lSTrb5mm1Cx0ZWsD",
+					"name": "Meditationskammer",
+					"description": "<p>Diese Suite verfügt über eine Anzahl separater, einzigartiger Kammern, die einem Viertel der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle angegeben. Wenn ein Forcecaster eine lange Pause mit dieser Suite absolviert, erhält er vorübergehend Kraftpunkte in Höhe seiner maximalen Kraftstufe + seinem Weisheits- oder Charisma-Modifikator (nach seiner Wahl, mindestens einer). Wenn du einen Kraftpunkt ausgeben würdest, während du temporäre Kraftpunkte hast, werden die temporären Kraftpunkte zuerst ausgegeben. Alle temporären Kraftpunkte gehen am Ende der nächsten langen Pause verloren.</p>>"
+				},
+				{
+					"id": "nIEXgLLWL2AfL1la",
+					"name": "Speisesaal",
+					"description": "<p>Diese Suite verfügt über einen kombinierten Küchen- und Essbereich mit Kochausrüstung, in dem eine Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen untergebracht werden kann, die dem Doppelten der in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße-Suite-Kapazität}&nbsp;-Tabelle angegebenen Suite-Kapazität des Schiffs entspricht. Wenn ihr dieses Werkzeug benutzt, könnt ihr euren Fertigkeitsbonus zu euren Würfen addieren, falls ihr das nicht bereits tut. Wenn du deinen Fertigkeitsbonus bereits zu deinen Würfen hinzufügst, fügst du stattdessen das Doppelte deines Fertigkeitsbonus hinzu. Wenn du bereits das Doppelte deines Fertigkeitsbonus auf deine Checks anwendest, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p>\r\n<p>Wenn eine Kreatur eine lange Ruhepause mit dieser Suite abschließt, erhält sie außerdem zwei zusätzliche Trefferwürfel und hat für die nächsten 24 Stunden einen Vorteil bei Konstitutionsschutzwürfen gegen Krankheit.</p>"
+				},
+				{
+					"id": "BO95e8sDsYBXYp5R",
+					"name": "Bergbau-Laser",
+					"description": "<p>Dein Schiff ist mit einem Laser ausgestattet, mit dem man Erze und andere Mineralien aus Objekten wie Asteroiden gewinnen kann.  Würfe, die während der Benutzung des Bergbaulasers gemacht werden, um das Ergebnis der Arbeit zu bestimmen (z.B. mit den Regeln für Ausfallzeiten aus Wretched Hives), werden mit Vorteil gemacht. Wenn du bereits einen Vorteil beim Wurf hast, kannst du stattdessen einen der Würfel einmal wiederholen.</p><p>Zusätzlich kann ein Besatzungsmitglied den Minenlaser als Aktion aktivieren, um einen Stärke-(Verstärkungs-)Check gegen ein Schiff zu machen, das dich berührt (z.B. ein Schiff, das dein Schiff rammt oder von ihm gerammt wird, oder eines, auf dem du gelandet bist) (DC = der AC des Schiffs).  Bei einem Erfolg erleidet das benachbarte Schiff 1d8 + Stärke-Modifikator Energieschaden.</p>"
+				},
+				{
+					"id": "dg2Jxd2PMPr37HKc",
+					"name": "Nano-Droiden-Verteiler",
+					"description": "<p>Dein Schiff ist mit einem Nano-Droiden-Verteiler ausgestattet, der es ihm ermöglicht, andere Schiffe zu reparieren. Wenn ein Besatzungsmitglied die Aktion Flicken ausführt, kann es stattdessen ein anderes Schiff im Umkreis von 100 Fuß reparieren. Du gibst einen Hüllenwürfel deines Schiffs aus und wirfst ihn, und das Zielschiff erhält so viele Hüllenpunkte zurück.</p>"
+				},
+				{
+					"id": "XOztlHGNYPona2Yp",
+					"name": "Navigationscomputer",
+					"description": "<p>Diese Modifikation fügt deinem Schiff einen Platz für einen Navigationscomputer hinzu und beinhaltet einen einfachen Navigationscomputer.  Dein Schiff ist für Intelligenz (Astrogation) Checks gut ausgerüstet.  Ein Besatzungsmitglied kann seine Bonusaktion nutzen, um seine Intelligenzüberprüfung (Astrogation) durchzuführen, anstatt seine Aktion. Dein Schiff kann weiterhin nur einen Check pro Runde durchführen. </p>"
+				},
+				{
+					"id": "P7ykvfuXq6zCwRnQ",
+					"name": "Navigationscomputer, Mark II",
+					"description": "<p>Diese Modifikation verbessert den Navigationscomputer deines Schiffes.  Dein Schiff ist für Intelligenz (Astrogation)-Prüfungen bestens ausgerüstet.</p>"
+				},
+				{
+					"id": "oUbIRZMJ8bh9BRcz",
+					"name": "Navigationscomputer, Mark III",
+					"description": "<p>Diese Modifikation verbessert den Navigationscomputer deines Schiffes weiter.  Du hast einen Bonus von +1 auf Intelligenz (Astrogation) Checks.</p>"
+				},
+				{
+					"id": "GzoToFFniZ6aDIF9",
+					"name": "Navigationscomputer, Mark IV",
+					"description": "<p>Diese Modifikation verbessert den Navigationscomputer deines Schiffes erheblich.  Du erhältst einen +2 (nicht kumulativen) Bonus auf Intelligenz (Astrogation)-Überprüfungen.</p>"
+				},
+				{
+					"id": "gcvyxsQxEGtAB4zO",
+					"name": "Navcomputer, Mark V",
+					"description": "<p>Diese Modifikation verbessert den Navigationscomputer deines Schiffes massiv.  Du erhältst einen +3 (nicht kumulativen) Bonus auf Intelligenz-(Astrogations-)Checks.</p>"
+				},
+				{
+					"id": "oDCfrWVKXWD9lkvp",
+					"name": "Pinpointing-Zusatz",
+					"description": "<p>Die Reichweite der gewählten Waffe deiner Wahl erhöht sich um die Hälfte. </p>"
+				},
+				{
+					"id": "dUwolCVDYga5Koy4",
+					"name": "Pinpointing-Zusatz, Premium",
+					"description": "<p>Die Nahreichweite der Waffe kehrt zu ihrer normalen Nahreichweite zurück.</p>"
+				},
+				{
+					"id": "4gyWfS6apf3osttd",
+					"name": "Power Backup",
+					"description": "<p>Dein Schiff ist mit einer Reservebatterie ausgestattet, die ihm neue Energie geben kann. Wenn dein Schiff auf 0 Hüllenpunkte reduziert, aber nicht völlig zerstört wird, kann ein Besatzungsmitglied seine Reaktion nutzen, um es stattdessen auf 1 Hüllenpunkt fallen zu lassen. Alternativ kann ein Besatzungsmitglied, wenn das Schiff Zerstörungsschutzwürfe macht, seine Aktion nutzen, um das Schiff automatisch einen Zerstörungsschutzwurf machen zu lassen.</p><p>Wenn eine der beiden Funktionen genutzt wurde, kann das Energie-Backup nicht mehr genutzt werden, bis das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "8EFk1HFrDmOaLrEY",
+					"name": "Stromwandler, Premium",
+					"description": "<p>Du verbesserst die Energiewandler deines Schiffes. Dein Schiff ist für Konstitutions- (Regulierungs-) Checks gut ausgerüstet.</p>>"
+				},
+				{
+					"id": "50FW28s2hpSXm5jr",
+					"name": "Stromwandler, Prototyp",
+					"description": "<p>Du verbesserst die Energiewandler deines Schiffes weiter. Dein Schiff ist für Konstitutions- (Regulierungs-) Checks gut gerüstet.</p>"
+				},
+				{
+					"id": "TIakSCO93mkS3Yvs",
+					"name": "Energie-Harpune",
+					"description": "<p>Ein Besatzungsmitglied kann als Aktion einen Schiffswaffenangriff mit der Machtharpune durchführen.  Die Reichweite der Harpune beträgt 400/1600 Fuß.  Bei einem Treffer wird das Ziel harpuniert, wodurch das Schiff über ein 1.600 Fuß langes Kabel mit dem Ziel verbunden wird. </p><p>Wenn die verbundenen Objekte näher als 1600 Fuß sind, kann ein Besatzungsmitglied deines Schiffes jederzeit als freie Aktion wählen, ob das Kabel schlaff oder gespannt sein soll. Wenn das Kabel gespannt ist, zieht jede Bewegung eines Objekts vom anderen weg das andere Objekt mit.  Wenn das Kabel gespannt ist, gilt die Bewegung des ersten Objekts vom anderen Objekt weg als Bewegung durch schwieriges Gelände, wenn sich das erste Objekt innerhalb einer Größenklasse des anderen Objekts befindet.  Ein Objekt, das zwei oder mehr Größenkategorien kleiner als das andere Objekt ist, kann sich nicht vom anderen Objekt wegbewegen, wenn das Kabel gelehrt wird.</p><p>Wenn die Objekte 1600 Fuß voneinander entfernt sind, wird das Kabel immer gelehrt.</p><p>Während es durch das Kabel verbunden ist, kann ein Besatzungsmitglied eine Bonusaktion nutzen, um zu taumeln, wobei es sein Schiff um 200 Fuß in Richtung des Ziels (wenn es größer als sein Schiff ist) oder das Ziel in Richtung seines Schiffs (wenn es gleich groß oder kleiner als sein Schiff ist) zieht. Zu jeder Zeit kann ein Besatzungsmitglied deines Schiffes das Seil loslassen (keine Aktion erforderlich).</p><p>Als Aktion kann ein Besatzungsmitglied eines harpunierten Schiffes versuchen, die Harpune zu entfernen. Dazu muss das Schiff einen Stärke-(Verstärkung) Check bestehen, der von deinem Stärke-(Verstärkung) oder Geschicklichkeits-(Manöver) Check angefochten wird.</p><p>Wenn diese Funktion einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "f1n93igQVbL7dBYB",
+					"name": "Reaktive Panzerungsschicht",
+					"description": "<p>Du fügst der Hülle deines Schiffes eine reaktive Schicht hinzu, die deiner Hülle Widerstand gegen kinetischen Schaden verleiht.</p>"
+				},
+				{
+					"id": "Dc7E9d6Bt0KeaNlc",
+					"name": "Reaktiver Abschirmungs-Kompensator",
+					"description": "<p>Du fügst dem Schildgenerator deines Schiffes einen reaktiven Kompensator hinzu, der deinen Schilden Widerstand gegen Energieschaden verleiht.</p>"
+				},
+				{
+					"id": "pAOSDIs0SUM6BFgT",
+					"name": "Reaktor, Behelfsmäßig",
+					"description": "<p>Du verbesserst den Reaktor deines Schiffes, allerdings zu einem gewissen Preis. Der Stärkewert deines Schiffes erhöht sich um 1. Ein anderer Fähigkeitswert als der Stärkewert (vom Spielleiter gewählt) verringert sich um 1. Wie üblich kannst du mit diesem System den Stärkewert deines Schiffes nicht über das Maximum deiner Größe erhöhen.</p>"
+				},
+				{
+					"id": "YQUxNxj9A1P1FC2K",
+					"name": "Reaktor, Mark I",
+					"description": "<p>Du verbesserst den Reaktor deines Schiffes. Der Stärkewert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Stärkewert deines Schiffes nicht über den Maximalwert deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "PI8IrRhoEIF7O3Zf",
+					"name": "Reaktor, Markierung II",
+					"description": "<p>Du verbesserst den Reaktor deines Schiffes weiter. Der Stärkewert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Stärkewert deines Schiffes nicht über den Maximalwert deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "nZQyYQjEiDbxX8B0",
+					"name": "Reaktor, Mark III",
+					"description": "<p>Du verbesserst den Reaktor deines Schiffes erheblich. Der Stärkewert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Stärkewert deines Schiffes nicht über den Maximalwert deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "COVmf2S7nlATl2la",
+					"name": "Reaktor, Mark IV",
+					"description": "<p>Du verbesserst den Reaktor deines Schiffes massiv. Der Stärkewert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Stärkewert deines Schiffes nicht über den Maximalwert deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "FMhoVBYx8RGqqNiB",
+					"name": "Reaktor, Mark V",
+					"description": "<p>Der Reaktor deines Schiffes hat sein maximales Potenzial erreicht. Der Stärkewert deines Schiffes erhöht sich um 2. Das Maximum deines Schiffes für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "Hx3L4ZThqS3uYW6t",
+					"name": "Erholung",
+					"description": "<p>Diese Suite verfügt über eine Bar und einen Lounge-Bereich sowie ein Vielfaches jedes Spielgeräts und Musikinstruments und kann eine Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen beherbergen, die der doppelten Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suite-Kapazität}&nbsp;Tabelle angegeben. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Fertigkeitsbonus bereits zu deinen Checks addierst, addierst du stattdessen das Doppelte deines Fertigkeitsbonus. Wenn du bereits deinen Fertigkeitsbonus auf deine Checks verdoppelst, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p>\r\n<p>Während du eines dieser Werkzeuge benutzt, erhältst du zusätzlich einen Vorteil, der davon abhängt, welche Werkzeuge du benutzt.</p>\r\n<ul>\r\n<li><strong>Spielgerät oder Musikinstrument:</strong> Während du eines der Spielgeräte oder Musikinstrumente spielst, kannst du die Emotionen derer, die dir zuhören, immer gut lesen. Während dieser Zeit und bis zu einer Minute nach Beendigung des Spiels hast du einen Vorteil bei Weisheitsprüfungen (Einsicht), um die Emotionen derer zu lesen, für die du gespielt hast oder gegen die du angetreten bist.</li>\r\n</ul>\r\n<p>Schließlich, wenn eine Kreatur eine lange Ruhepause mit dieser Suite abschließt, erhält sie einen Vorteil auf die erste Fähigkeitsprüfung oder den ersten Angriffswurf, den sie vor Beginn ihrer nächsten langen Ruhepause macht.</p>"
+				},
+				{
+					"id": "SuW4JICEor44cFi3",
+					"name": "Verstärkte Beschichtung, Mark I",
+					"description": "<p>Du verbesserst die Panzerung deines Schiffes, was deinem Schiff einen Gesamt-DR von 7 verleiht.</p>"
+				},
+				{
+					"id": "EtlD49vcUzZnx6xC",
+					"name": "Verstärkte Verkleidung, Mark II",
+					"description": "<p>Du verbesserst die Panzerung deines Schiffes weiter, wodurch dein Schiff einen Gesamt-DR von 8 erhält.</p>"
+				},
+				{
+					"id": "8lbxIIgD9074mQs8",
+					"name": "Verstärkte Panzerung, Mark III",
+					"description": "<p>Du verbesserst die Panzerung deines Schiffes erheblich, so dass kritische Treffer bei Angriffswürfen gegen dich wie normale Treffer behandelt werden.</p>"
+				},
+				{
+					"id": "bjjdkfw6xZwD4A8V",
+					"name": "Fernbedienungs-Konsole",
+					"description": "<p>Dieses Paket enthält die entsprechende Ausrüstung, die ein Besatzungsmitglied benötigt, um von seinem eigenen Schiff aus die Fernsteuerung eines anderen Schiffes zu übernehmen. Von dieser Suite aus können gleichzeitig so viele Besatzungsmitglieder auf entfernten Schiffen eingesetzt werden, wie es einem Viertel der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suite-Kapazität}&nbsp;Tabelle angegeben. Die Entfernung, über die diese Suite eine Verbindung zu entfernten Schiffen herstellen kann, ist durch die Kommunikation des Schiffes begrenzt, in dem diese Suite installiert ist.</p>"
+				},
+				{
+					"id": "jvzh9IjanOFusy2c",
+					"name": "Ferngesteuerte Überbrückung, behelfsmäßig",
+					"description": "<p>Sie installieren eine Fernsteuerung, die es ermöglicht, Ihr Schiff aus der Ferne zu kontrollieren, vorausgesetzt, der Kontrolleur hat Zugang zu einer Konsole und einem Sender, von dem aus er das Schiff steuern kann.  Wenn die entsprechenden Zugangsdaten nicht vorhanden sind, ist ein erfolgreicher Intelligenz (Slicer Kit) Check (DC = 10 + Schiffsebene + Intelligenzmodifikator des Schiffes) erforderlich, um das Schiff zu kontrollieren.  Wenn das Schiff gerade von einer anderen Partei kontrolliert wird, wird der Check mit Nachteil durchgeführt.</p><p>Die maximale und minimale Besatzungsanforderung deines Schiffes wird zu 1: der Fernkontrolleur.  Dein Raumschiff kann nicht von Funktionen profitieren, die seine Besatzungskapazität erhöhen oder verringern würden. Der Controller kontrolliert stattdessen alle Aspekte des Schiffes, als ob er im Inneren des Schiffes eingesetzt wäre. </p><p>Das Raumschiff hat einen Nachteil bei Angriffswürfen und Fähigkeitsüberprüfungen, während es ferngesteuert wird.</p><p>Das Schiff kann aus einer Entfernung von 10.000 Fuß ferngesteuert werden.</p><p>Wenn ein Effekt die Kommunikation des Schiffes unterdrückt, kann es für die Dauer dieser Unterdrückung nicht ferngesteuert werden.</p>"
+				},
+				{
+					"id": "fz4RoQpPk4NVhkmE",
+					"name": "Ferngesteuerte Überbrückung, Mark I",
+					"description": "<p>Das Schiff erleidet keinen Nachteil mehr bei Angriffswürfen und Fähigkeitsprüfungen, während es ferngesteuert wird.</p>"
+				},
+				{
+					"id": "XivFNk2hYbVpJ2LJ",
+					"name": "Ferngesteuerte Überbrückung, Mark II",
+					"description": "<p>Diese Modifikation erlaubt es, das Schiff, in das sie eingebaut ist, von überall im System mit einem entsprechend ausgerüsteten Controller fernzusteuern.</p>"
+				},
+				{
+					"id": "Ab2tsWl9jCQR4BUA",
+					"name": "Ferngesteuerte Überbrückung, Mark III",
+					"description": "<p>Zusätzlich wird die maximale Besatzungsstärke deines Raumschiffs auf 2 erhöht, und es kann 2 Fernlenker unterstützen.</p>"
+				},
+				{
+					"id": "dAHe6Wmk5LYFyvd7",
+					"name": "Fernüberbrückung, Mark IV",
+					"description": "<p>Die maximale Besatzungsstärke deines Raumschiffs wird auf 3 erhöht und kann 3 Fernsteuerungen unterstützen.</p><p>Zusätzlich kann dein Schiff von überall im Sektor durch einen entsprechend ausgerüsteten Controller ferngesteuert werden.</p>"
+				},
+				{
+					"id": "vK0tGQB0RVp5I19z",
+					"name": "Ferngesteuerte Überbrückung, Mark V",
+					"description": "<p>Diese Modifikation ermöglicht es, das Schiff, in das sie eingebaut ist, von jedem Ort in der bekannten Galaxie aus mit einem entsprechend ausgerüsteten Controller fernzusteuern.</p>"
+				},
+				{
+					"id": "IYa2asuIJTz4XtHn",
+					"name": "Unverwüstliche Kommunikationen",
+					"description": "<p>Du überholst die Kommunikationssysteme deines Schiffes, um sie anpassungsfähiger zu machen. Dein Schiff ist für Charisma-Würfe gut ausgerüstet.</p> <p>Dein Schiff ist für Charisma-Würfe gut ausgerüstet."
+				},
+				{
+					"id": "7VXRObiGv5oBMzNn",
+					"name": "Widerstandsfähiger Rumpf",
+					"description": "<p>Du überholst den Rumpf deines Schiffes, um ihn anpassungsfähiger zu machen. Dein Schiff ist für Konstitutions-Würfe gut ausgerüstet.</p> <p>Dein Schiff ist für Konstitutions-Würfe gut ausgerüstet."
+				},
+				{
+					"id": "9NMdRe467tsvS34R",
+					"name": "Widerstandsfähige Prozessoren",
+					"description": "<p>Du überholst den Computer deines Schiffes, um es anpassungsfähiger zu machen. Dein Schiff ist für Intelligenz-Würfe gut gerüstet.</p>"
+				},
+				{
+					"id": "iEUuuidd0RIfUJW7",
+					"name": "Widerstandsfähiger Reaktor",
+					"description": "<p>Du überholst den Reaktor deines Schiffes, um ihn anpassungsfähiger zu machen. Dein Schiff ist für Rettungswürfe in Stärke gut gerüstet.</p>"
+				},
+				{
+					"id": "LQmThkYygucU0f6y",
+					"name": "Widerstandsfähige Sensoren",
+					"description": "<p>Du überholst die Sensoren deines Schiffes, um sie anpassungsfähiger zu machen. Dein Schiff ist für Weisheitswürfe gut gerüstet.</p>"
+				},
+				{
+					"id": "M0o3LpNXhnL8SEsm",
+					"name": "Widerstandsfähige Schubdüsen",
+					"description": "<p>Du überholst die Triebwerke deines Schiffes, um sie anpassungsfähiger zu machen. Dein Schiff ist für Rettungswürfe in Geschicklichkeit gut gerüstet.</p>"
+				},
+				{
+					"id": "letwasbz0VTIpY0Q",
+					"name": "S-Folien",
+					"description": "<p>Deine Primärwaffen sind an Strike Foils montiert, die deinem Schiff variable Einsatzmöglichkeiten geben.  Als Bonusaktion kann ein Besatzungsmitglied zwischen zwei Modi wechseln:</p><p><ul><li><strong>Geschlossen:</strong> Die Geschwindigkeit deines Schiffes erhöht sich um 50 Fuß und deine Primärwaffen erleiden einen Malus von -2 auf Angriffswürfe.</li><li><strong>Entriegelt:</strong> Die Primärwaffen deines Schiffes erhalten einen Bonus von +1 auf Angriffswürfe.</li></ul>"
+				},
+				{
+					"id": "BYohq8gy1rcc3SiB",
+					"name": "SLAM",
+					"description": "<p>Dein Schiff erhält einen SubLight Acceleration Motor (SLAM).  Als Aktion kann ein Pilot den SLAM aktivieren, um zusätzliche Bewegung für die laufende Runde zu erhalten. Die Erhöhung entspricht der eigenen Geschwindigkeit nach Anwendung aller Modifikatoren. Bei einer Geschwindigkeit von 300 Fuß kann sich dein Schiff zum Beispiel bis zu 600 Fuß weit bewegen, wenn du SLAM aktivierst. Jede Erhöhung oder Verringerung deiner Geschwindigkeit verändert diese zusätzliche Bewegung um den gleichen Betrag. Wenn die Geschwindigkeit deines Schiffes von 300 Fuß beispielsweise auf 150 Fuß reduziert wird, kann sich dein Schiff in diesem Zug bis zu 300 Fuß bewegen, wenn du SLAM machst.</p><p>Diese Eigenschaft kann so oft verwendet werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "JP7bwXHUbOx4IyY6",
+					"name": "Scanner, Premium",
+					"description": "<p>Dieses System erweitert den nativen Radarscanner deines Schiffes. Dein Schiff erhält Blindsight bis zu einer Entfernung von 1.000 Fuß.</p><p>Zusätzlich ist dein Schiff für Intelligenz- (Probe) und Weisheits- (Scan) Checks gut ausgerüstet.</p>"
+				},
+				{
+					"id": "MCf4UdMxbP4S4t0o",
+					"name": "Scanner, Prototyp",
+					"description": "<p>Diese Modifikation verbessert den Radarscanner deines Schiffes.</p><p>Dein Schiff ist für Intelligenz- (Probe) und Weisheits- (Scan) Checks hervorragend ausgerüstet.</p>"
+				},
+				{
+					"id": "XoI65gAyu88yeLfi",
+					"name": "Scanner, Renommiert",
+					"description": "<p>Diese Modifikation verbessert den Radarscanner deines Schiffes massiv. Dein Schiff erhält eine Sichtweite von bis zu 1.000 Fuß.</p><p>Dein Schiff hat einen Vorteil bei Intelligenz- (Probe) und Weisheits- (Scan) Checks, die auf Scannern basieren.</p>"
+				},
+				{
+					"id": "Aok9P0HQWl1g1air",
+					"name": "Sekundärer Transponder-Code",
+					"description": "<p>Mit dieser Modifikation wird ein sekundärer Transpondercode in die Sublichttriebwerke deines Schiffes eingebaut. Dieser Transpondercode kann sich von deinem primären Transpondercode in Bezug auf den Schiffseigentümer, die Bezeichnung, die Marke und das Modell, alle registrierten Modifikationen und die Besitzgeschichte des Schiffes unterscheiden. </p><p>Ein Besatzungsmitglied kann den Transpondercode des Schiffes als Aktion wechseln. Eine Kreatur kann feststellen, dass dieser Transpondercode eine Fälschung ist, indem sie eine Intelligenz (Technologie)-Prüfung ablegt (DC = 8 + der Bonus deines Schiffes auf Charisma (Schwindel)-Prüfungen). Bei einem Erfolg stellt sie fest, dass dein Transpondercode eine Fälschung ist.</p><p>Zusätzlich ist dein Schiff für Charisma (Schwindel)-Prüfungen gut ausgerüstet.  Wenn dein Schiff bereits tüchtig ausgerüstet ist, gilt es stattdessen als tüchtig ausgerüstet.</p>"
+				},
+				{
+					"id": "aq3G0ttWFx2ifr5f",
+					"name": "Sicherheitssuite",
+					"description": "<p>Dieses Paket enthält eine komplette Sicherheitsausstattung für dein Schiff, einschließlich eines gesicherten Lagers, einer Brigg und einer kompakten Waffenkammer.</p>\r\n<ul>\r\n<li>Das gesicherte Lager kann eine Menge aufnehmen, die einem Zehntel der Basisfrachtkapazität des Schiffes entspricht, wie im @JournalEntry[pMX6ND1g3oNyo09c]{Frachtkapazität des Raumschiffs} auf Seite 79 angegeben. Das gesicherte Lager ist sowohl mit einem Schlüssel als auch mit einem Codeschloss ausgestattet und magnetisch versiegelt, damit es sich bei einem Stromausfall nicht öffnen lässt. Das gesicherte Lager kann mit einer DC 20 Intelligenzprüfung (Sicherheitsausrüstung) erreicht werden.</li>\r\n<li>Die Brigg kann eine Anzahl von Gefangenen aufnehmen, die einem Viertel der Suitenkapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suitenkapazität}&nbsp;Tabelle angegeben.</li>\r\n<li>Die Waffenkammer ist mit einer Menge einfacher Blaster und Vibrowaffen sowie leichter Rüstung und Schilden ausgestattet, um eine Truppe auszustatten, die einem Viertel der Suitenkapazität des Schiffes entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle angegeben.</li>\r\n</ul>"
+				},
+				{
+					"id": "C9NxteDU3ujgjvpJ",
+					"name": "Selbst-Zerstörungs-Mechanismus",
+					"description": "<p>Dein Schiff ist mit einem Selbstzerstörungsmechanismus ausgestattet, der immense Zerstörung auf Kosten des Schiffes verursachen kann. Ein Besatzungsmitglied kann den Selbstzerstörungsmechanismus als Aktion aktivieren und einen Timer von bis zu 10 Minuten Länge setzen. Wenn der Timer abläuft, explodiert das Schiff und fügt jedem Gegner in Reichweite Thermit-Schaden zu. Der Schaden wird wie folgt berechnet: Für jeden Hüllenwürfel, den das Schiff hat, wird gewürfelt und der Stärke-Modifikator des Schiffes zu dem Wurf addiert. </p><p>Die Reichweite des Selbstzerstörungsmechanismus hängt von der Größe des Schiffes ab:</p><ul><li><strong>Winzig:</strong> Ein winziges Schiff fügt jedem Schiff im Umkreis von 50 Fuß Schaden zu.</li><li><strong>Klein:</strong> Ein kleines Schiff fügt jedem Schiff im Umkreis von 100 Fuß Schaden zu.</li><li><li><strong>Mittel:</strong> Ein mittleres Schiff fügt jedem Schiff im Umkreis von 200 Fuß Schaden zu. </li><li><strong>Groß:</strong> Ein Großes Schiff fügt jedem Schiff im Umkreis von 400 Fuß Schaden zu.</li><li><strong>Riesen:</strong> Ein Riesiges Schiff fügt jedem Schiff im Umkreis von 1.000 Fuß Schaden zu.</li><li><strong>Gargantuan:</strong> Ein Gargantuan-Schiff fügt jedem Schiff im Umkreis von 2.000 Fuß Schaden zu.</li></ul>"
+				},
+				{
+					"id": "kgaz4R1WWw26K7Fp",
+					"name": "Sensor-Array, Behelfsmäßig",
+					"description": "<p>Du verbesserst das Sensoren-Array deines Schiffes, allerdings zu einem gewissen Preis. Der Weisheitswert deines Schiffes erhöht sich um 1. Ein anderer Fähigkeitswert als Weisheit (vom Spielleiter gewählt) verringert sich um 1. Wie üblich kannst du mit diesem System den Weisheitswert deines Schiffes nicht über das Maximum deiner Größe erhöhen.</p>"
+				},
+				{
+					"id": "B9S1eVkxKdolPW3v",
+					"name": "Sensorfeld, Mark I",
+					"description": "<p>Du verbesserst das Sensor-Array deines Schiffes. Der Weisheitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Weisheitswert deines Schiffes nicht über das Maximum für deine Größe erhöhen.</p>"
+				},
+				{
+					"id": "IOvy2IhFk8S7oVNj",
+					"name": "Sensorfeld, Mark II",
+					"description": "<p>Du verbesserst das Sensor-Array deines Schiffes weiter. Der Weisheitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Weisheitswert deines Schiffes nicht über das Maximum deiner Größe erhöhen.</p>"
+				},
+				{
+					"id": "pUdVRdx2nT7leViB",
+					"name": "Sensorfeld, Mark III",
+					"description": "<p>Du verbesserst das Sensorenfeld deines Schiffes erheblich. Der Weisheitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Weisheitswert deines Schiffes nicht über das Maximum deiner Größe erhöhen.</p>"
+				},
+				{
+					"id": "KqO60MEqXVwjKFri",
+					"name": "Sensoranordnung, Mark IV",
+					"description": "<p>Du verbesserst das Sensor-Array deines Schiffes massiv. Der Weisheitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Weisheitswert deines Schiffes nicht über das Maximum für deine Größe erhöhen.</p>"
+				},
+				{
+					"id": "E2fQEyDuj20CSvHX",
+					"name": "Sensorfeld, Markierung V",
+					"description": "<p>Das Sensorenfeld deines Schiffes hat sein maximales Potenzial erreicht. Der Weisheitswert deines Schiffes erhöht sich um 2. Das Maximum deines Schiffes für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "Gf49HqxtlDhmCCEa",
+					"name": "Sensor-Dämpfer",
+					"description": "<p>Diese Modifikation fügt deinem Schiff einen Fernsensor-Dämpfer hinzu. Als Aktion kann ein Besatzungsmitglied versuchen, die Sensoren eines Schiffes zu dämpfen, das es innerhalb von 1.000 Fuß sehen kann. Das Ziel legt einen Weisheitswurf ab (DC = 8 + dein Charisma-Bonus (Stören)). Bei einem misslungenen Schutzwurf ist das Schiff 1 Minute lang geblendet. In jeder Runde des Schiffes kann ein Besatzungsmitglied des betroffenen Schiffes als Aktion diesen Schutzwurf wiederholen, wobei der Effekt bei einem Erfolg beendet wird.</p><p>Diese Eigenschaft kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Werte werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p><p>Zusätzlich ist dein Schiff für Geschicklichkeits-Proben (Verstecken) gut ausgerüstet. Wenn dein Schiff bereits tüchtig ausgerüstet ist, gilt es stattdessen als tüchtig ausgerüstet. </p>"
+				},
+				{
+					"id": "S2ZaGImPmkWRa7N6",
+					"name": "Schilddurchdringung",
+					"description": "<p>Der Reaktor deines Schiffes wurde überholt, um die Waffenbatterien deines Schiffes vorübergehend zu verstärken. Wenn Ihr Schiff ein anderes Schiff mit einer Primär- oder Sekundärwaffe angreift, während es noch über Schildpunkte verfügt, kann ein Besatzungsmitglied seine Reaktion einsetzen, um einen Teil des Schadens durchbluten zu lassen. Der Schaden, den die Schilde des Schiffes erleiden, wird um einen Betrag in Höhe des Stärke-Modifikators deines Schiffes reduziert. Der Rumpf des Schiffes erleidet dann so viel Schaden. Dieser Schaden ist vom gleichen Typ wie der Schaden der Waffe.</p>>"
+				},
+				{
+					"id": "k81N2qizzLdaHCk1",
+					"name": "Schild-Disruptor",
+					"description": "<p>Diese Modifikation fügt einem Schiff einen Schilddisruptor hinzu, mit dem der Schild eines anderen Schiffes gestört werden kann. Als Aktion kann ein Besatzungsmitglied den Schilddisruptor aktivieren und ein Schiff auswählen, das sich in einem Umkreis von 1.000 Fuß befindet. Du machst eine Charisma-Überprüfung (Stören), die durch eine Konstitutionsüberprüfung (Regulieren) des Ziels angefochten wird. Bei einem misslungenen Schutzwurf werden die Schildkapazität und die Schildregenerationsrate des Schiffes 1 Minute lang um die Hälfte reduziert. Wenn die aktuellen Schildpunkte des Schiffes die neue Schildkapazität übersteigen würden, werden sie entsprechend reduziert. Zu Beginn jeder Runde des Zielschiffes kann ein Besatzungsmitglied mit einer Aktion den Rettungswurf wiederholen und den Effekt bei einem Erfolg beenden.</p><p>Wird ein Schiff von einem größeren Schiff angegriffen, hat es einen Nachteil beim Rettungswurf. Wenn es von einem kleineren Schiff angegriffen wird, hat es stattdessen einen Vorteil.</p><p>Der Schilddisruptor kann jederzeit beendet werden (keine Aktion erforderlich).</p><p>Diese Eigenschaft kann so oft verwendet werden, wie es der Stufe deines Schiffs entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "PbvGBsPYkv84OUKe",
+					"name": "Schiffsaufschlitzer, Mk I",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied ein kleines oder kleineres Schiff wählen, das es sehen kann. Das Ziel muss einen Intelligenzwurf (DC = 8 + Profibonus + Charisma-Modifikator des Schiffes) ablegen. Bei einem misslungenen Rettungswurf wird es bis zum Beginn deines nächsten Zuges deaktiviert. Jedes Mal, wenn das Schiff Schaden erleidet oder Ziel einer feindlichen Macht oder Fähigkeit ist, während es auf diese Weise deaktiviert ist, kann es diesen Rettungswurf wiederholen, wobei der Effekt bei einem Erfolg endet.</p>\r\n<p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "ROJWhxXIyZ7rAKXL",
+					"name": "Schiffsaufschlitzer, Mk II",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied einen Computervirus hochladen, der ein Schiff lahmlegt. Wirf 7d6; wenn die verbleibenden Hüllenpunkte des Schiffes geringer sind als die Gesamtzahl, wird das Schiff für eine Minute oder so lange, bis es Schaden erleidet, festgehalten.</p><p>Diese Funktion kann so oft eingesetzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "ETdddqryZ0EBUiKk",
+					"name": "Schiffsaufschlitzer, Mk III",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied einem Schiff, das sich in einem Umkreis von 600 Fuß befindet, einen Ein-Wort-Befehl diktieren. Das Ziel muss einen Intelligenzschutzwurf bestehen (DC = 8 + Profibonus + Charismamodifikator des Schiffes) oder dem Befehl in seinem nächsten Zug folgen. Wenn das Schiff direkt von einem Humanoiden gesteuert wird, der nicht handlungsunfähig ist, erhält es einen Bonus auf den Rettungswurf in Höhe des Intelligenzmodifikators des Piloten. Es folgen einige typische Befehle und ihre Auswirkungen. Du kannst auch einen anderen als den hier beschriebenen Befehl erteilen. Wenn du dies tust, bestimmt der Spielleiter, wie sich das Ziel verhält. Wenn das Ziel deinem Befehl nicht folgen kann, endet die Fähigkeit.</p><p>Annäherung. Das Ziel bewegt sich auf dem kürzesten und direktesten Weg auf dich zu und beendet seinen Zug, wenn es sich weniger als 5 Fuß von dir entfernt.</p><p>Deaktivieren. Das Ziel wird deaktiviert und beendet dann seinen Zug.</p><p>Fliehen. Das Ziel verbringt seinen Zug damit, sich auf dem schnellsten verfügbaren Weg von dir wegzubewegen.</p><p>Halt. Das Ziel bewegt sich nicht und führt keine Aktionen aus. </p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "TfPhFlV7VEFe9W5Y",
+					"name": "Schiffsaufschlitzer, Mk IV",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied ein Schiff, das du im Umkreis von 600 Fuß sehen kannst, dazu bringen, einen Intelligenzschutzwurf zu bestehen (DC = 8 + Profibonus + Charismamodifikator des Schiffes) oder für bis zu einer Minute handlungsunfähig zu sein, bis die Fähigkeit endet. Am Ende jeder seiner Runden kann das Schiff einen weiteren Intelligenz-Erhaltungswurf machen. Bei einem Erfolg endet die Fähigkeit für das Ziel.</p><p>Ein Besatzungsmitglied muss seine Bonusaktion einsetzen, um diese Fähigkeit aufrechtzuerhalten.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffs entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "uhD1S3jZnDgDWGqw",
+					"name": "Schiffsaufschlitzer, Mk V",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied ein Schiff in einem Umkreis von 600 Fuß wählen und versuchen, dessen Steuerung aus der Ferne außer Kraft zu setzen. Das Ziel muss einen Intelligenzschutzwurf machen (DC = 8 + Profibonus + Charismamodifikator des Schiffs). Wenn das Schiff direkt von einem Humanoiden gesteuert wird, der nicht handlungsunfähig ist, erhält es einen Bonus auf den Rettungswurf in Höhe des Intelligenzmodifikators des Piloten. Wenn du oder Schiffe, die dir freundlich gesinnt sind, gegen das Schiff kämpfen, hat es einen Vorteil auf den Rettungswurf. Bei einem fehlgeschlagenen Rettungswurf wird das Schiff für die Dauer des Kampfes von dir verzaubert.</p><p>Während das Schiff verzaubert ist, hast du eine drahtlose Verbindung zu ihm, solange ihr beide euch im selben System befindet. Über dein Schiff kannst du diese Verbindung nutzen, um dem Schiff Befehle zu erteilen, während du bei Bewusstsein bist (mit einer Bonusaktion), die es nach Kräften befolgt. Du kannst eine einfache und allgemeine Handlungsanweisung geben, wie z.B. 'Greife dieses Schiff an', 'Bewege dich dorthin' oder 'Fliege lässig'. Wenn das Schiff den Befehl ausführt und keine weiteren Anweisungen von dir erhält, verteidigt es sich nach bestem Wissen und Gewissen.</p><p>Du kannst deine Aktion nutzen, um die totale und präzise Kontrolle über das Ziel zu übernehmen. Bis zum Ende deines nächsten Zuges führt das Schiff nur die Aktionen aus, die du auswählst, und tut nichts, was du ihm nicht erlaubst zu tun. Während dieser Zeit kannst du das Schiff auch dazu bringen, eine Reaktion zu verwenden, aber dazu musst du auch deine eigene Reaktion verwenden.  Für jede Aktion, Bonusaktion oder Reaktion, zu der du das Schiff veranlasst, musst du eine gleichwertige Aktion ausgeben.</p><p>Jedes Mal, wenn das Ziel Schaden erleidet, macht es einen neuen Intelligenz-Sparwurf gegen die Macht. Wenn der Rettungswurf gelingt, endet die Macht.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Kräfte werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "W4CCvtAAmx4OC21B",
+					"name": "Schock-Absorber",
+					"description": "<p>Dein Schiff wurde so modifiziert, dass es plötzlichen Stößen widerstehen kann und beim Rammen effektiver ist. Dein Schiff hat eine Resistenz gegen kinetischen Schaden, der durch Rammen verursacht wird.</p> <p>"
+				},
+				{
+					"id": "hU3DRksAgX1IrnKs",
+					"name": "Schockierende Harpune",
+					"description": "<p>Die Harpune deines Schiffes wurde so modifiziert, dass sie Energiestöße in das harpunierte Schiff leiten kann. Ein harpuniertes Schiff hat einen Nachteil bei der Überprüfung der Stärke (Verstärkung), um die Harpune zu entfernen. Zusätzlich kann ein Besatzungsmitglied als Aktion in jedem seiner Züge einem harpunierten Schiff Impulsschaden zufügen. Der Schaden entspricht einem der Schildwürfel deines Schiffes + dem Stärke-Modifikator deines Schiffes.</p><p>Schließlich kann dein Schiff, wenn es eine Stärke-(Ramm)-Überprüfung durchführt, einen der Würfel neu werfen.</p>"
+				},
+				{
+					"id": "Wzf1sZU4bcewRZwa",
+					"name": "Schockierende Geschosse",
+					"description": "<p>Wenn du mit der gewählten Waffe einen kritischen Treffer erzielst, wenn du beim Angriffswurf einen Vorteil hast und triffst und der niedrigere der beiden Würfel aus dem Würfelwurf ebenfalls treffen würde, wenn das Zielschiff beim Rettungswurf eine 1 würfelt, um den Effekten der Waffe zu entgehen, oder wenn das Zielschiff beim Rettungswurf einen Nachteil hat und scheitert und der höhere der beiden Würfe ebenfalls scheitern würde, kannst du das Ziel zu einem Konstitutionsrettungswurf zwingen (DC = 8 + dein Fertigkeitsbonus + der Stärkemodifikator des Schiffs). Bei einem misslungenen Rettungswurf steht das Schiff bis zum Beginn deines nächsten Zuges unter Schock.</p><p>Ist das beschädigte Schiff größer als dein Schiff, hat es einen Vorteil beim Rettungswurf. Ist das beschädigte Schiff kleiner als dein Schiff, hat es stattdessen einen Nachteil.</p>"
+				},
+				{
+					"id": "4rKESBEskTCQuqqP",
+					"name": "Sklavenkreislauf",
+					"description": "<p>Du installierst einen Sklavenstromkreis in deinem Schiff, um die Automatisierung zu verbessern. Du reduzierst die Mindestbesatzung um die Hälfte.</p>"
+				},
+				{
+					"id": "u9B24muWWZbYnFVE",
+					"name": "Sklavenstifte",
+					"description": "<p>Diese Suite bietet einen einzigen Raum, der sowohl mit einem Schlüssel als auch mit einem Codeschloss ausgestattet ist und in dem eine Anzahl von Gefangenen untergebracht werden kann, die der doppelten Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle angegeben. Die Türen der Sklavenställe sind magnetisch versiegelt, damit sie sich bei einem Stromausfall nicht öffnen. Wenn eine Kreatur eine lange Ruhepause in dieser Suite einlegt, wird ihr Erschöpfungsgrad nicht verringert. Außerdem erleiden Kreaturen für jede Woche, die sie in dieser Suite verbringen, 1 Erschöpfungsgrad.</p>"
+				},
+				{
+					"id": "z6dpj9B2yJRZe6tD",
+					"name": "Tarnvorrichtung",
+					"description": "<p>Diese Modifikation fügt deinem Schiff eine Tarnvorrichtung hinzu. Dieses Gerät wirkt dem Einsatz von Scannern für und gegen dein Schiff entgegen oder hebt ihn auf. Ein Besatzungsmitglied kann einen Tarnmodus als Aktion aktivieren oder deaktivieren. Solange die Tarnvorrichtung aktiv ist, hat dein Schiff einen Vorteil bei Geschicklichkeits-Proben (Verstecken), die sich auf Scanner beziehen, aber einen Nachteil bei Intelligenz- (Probe) und Weisheitsproben (Scannen), die sich auf Scanner beziehen.</p><p>Wenn du versuchst, in den Hyperraum einzudringen, während die Tarnvorrichtung aktiv ist, musst du zusätzlich einen Wurf auf die Tabelle [Hyperraum-Pannen](#Hyperspace%20Mishaps) auf Seite 76 durchführen.</p><p>Schließlich ist dein Schiff für Geschicklichkeits-Proben (Verstecken) kompetent ausgerüstet.  Wenn dein Schiff bereits tüchtig ausgerüstet ist, gilt es stattdessen als tüchtig ausgerüstet.</p>"
+				},
+				{
+					"id": "P2gZumGzDl0eQ3fy",
+					"name": "Lagerfach",
+					"description": "<p>Dieses Paket erhöht die Frachtkapazität deines Schiffes um seine Basis-Frachtkapazität, wie im @JournalEntry[pMX6ND1g3oNyo09c]{Starship Size Cargo Capacity}&nbsp;auf Seite 55 angegeben.</p>"
+				},
+				{
+					"id": "qDyDybnuwfGynFfm",
+					"name": "Betäubende Kugeln",
+					"description": "<p>Wenn du mit der gewählten Waffe einen kritischen Treffer erzielst oder wenn das Zielschiff beim Rettungswurf eine 1 würfelt, um den Effekten der Waffe zu entgehen, kannst du das Ziel zwingen, einen Konstitutionsrettungswurf zu machen (DC = 8 + dein Fertigkeitsbonus + der Stärkemodifikator des Schiffs). Bei einem misslungenen Rettungswurf wird das Schiff bis zum Beginn deines nächsten Zuges betäubt.</p><p>Ist das beschädigte Schiff größer als dein Schiff, hat es Vorteil beim Rettungswurf. Ist das beschädigte Schiff kleiner als dein Schiff, hat es stattdessen einen Nachteil.</p>"
+				},
+				{
+					"id": "q8LMmCHW0V19SgRS",
+					"name": "Superschwere Ionenkanone",
+					"description": "<p>Dein Schiff ist mit einer Waffe ausgestattet, die feindliche Schiffe außer Gefecht setzt, ohne sie zu beschädigen, und zwar mit einer speziellen Ionenkanone, die einen starken elektromagnetischen Impuls abgibt. Ein Besatzungsmitglied kann die superschwere Ionenkanone als Aktion auf ein Ziel abfeuern. Sie hat eine Reichweite von 1.000 Fuß und einen begrenzten Feuerbogen, wie in Kapitel 9 beschrieben. Das Ziel muss einen Konstitutionsschutzwurf ablegen (DC = 8 + Fertigkeitsbonus des Besatzungsmitglieds + Stärke-Modifikator des Schiffs). Bei einem misslungenen Rettungswurf wird das Schiff für 1 Minute betäubt. Als Aktion kann ein Besatzungsmitglied in jeder Runde des Schiffes den Rettungswurf wiederholen und den Effekt bei einem Erfolg beenden.</p><p>Wird ein Schiff von einem Schiff angegriffen, das zwei oder mehr Größenklassen größer ist als es selbst, hat es beim ersten Rettungswurf einen Nachteil. Wenn es von einem Schiff angegriffen wird, das zwei oder mehr Größen kleiner ist, hat es stattdessen einen Vorteil.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "Tt5GVwK05lU1s8C3",
+					"name": "Superladestation",
+					"description": "<p>Diese Suite verfügt über eine Anzahl von separaten, einzigartigen Stationen, die einem Viertel der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der Tabelle @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;gezeigt. Wenn ein Techcaster eine lange Ruhepause mit dieser Suite beendet, erhält er, solange er seinen Techcasting-Fokus hat, vorübergehend Tech-Punkte in Höhe seiner maximalen Tech-Machtstufe + seinem Intelligenzmodifikator (mindestens einen). Wenn du einen Tech-Punkt ausgeben würdest, während du temporäre Tech-Punkte hast, werden die temporären Tech-Punkte zuerst ausgegeben. Alle temporären Tech-Punkte gehen am Ende deiner nächsten langen Pause verloren.</p>>"
+				},
+				{
+					"id": "yFYZPDFifO8qaPZU",
+					"name": "Überspannungsschutz",
+					"description": "<p>Du verstärkst die Präventivmaßnahmen deines Schiffes, um den Schaden an seinen Systemen zu verringern. Wenn dein Schiff nachgerüstet wird, wird sein [Systemschaden](#System%20Schaden) um 2 statt nur 1 reduziert.</p>"
+				},
+				{
+					"id": "NsPNIyPJB6vNW4hi",
+					"name": "Bedrohungsaufspürer",
+					"description": "<p>Du rüstest dein Schiff mit einem speziellen defensiven Computersystem aus.  Wenn du einen Rettungswurf auf Geschicklichkeit machen müsstest, kannst du stattdessen einen Rettungswurf auf Weisheit machen. Du kannst diese Fähigkeit so oft einsetzen, wie es dem</p><p>Weisheitsmodifikator deines Schiffes entspricht.  Alle verbrauchten Einsätze werden wiederhergestellt, wenn sich das Schiff wieder auflädt.</p>"
+				},
+				{
+					"id": "ZQ9JukTVtBchjN8u",
+					"name": "Triebwerke, Behelfsmäßig",
+					"description": "<p>Du verbesserst die Schubdüsen deines Schiffes, was allerdings etwas kostet. Der Geschicklichkeitswert deines Schiffes erhöht sich um 1. Ein anderer Fähigkeitswert als Geschicklichkeit (vom Spielleiter gewählt) verringert sich um 1. Wie üblich kannst du mit diesem System den Geschicklichkeitswert deines Schiffes nicht über das Maximum deiner Größe erhöhen.</p>"
+				},
+				{
+					"id": "ySGqfdHlfEjNJRqm",
+					"name": "Schubdüsen, Mark I",
+					"description": "<p>Du verbesserst die Triebwerke deines Schiffes. Der Geschicklichkeitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Geschicklichkeitswert deines Schiffes nicht über den Maximalwert deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "oad5WuVDQ205kNzL",
+					"name": "Schubdüsen, Mark II",
+					"description": "<p>Du verbesserst die Schubdüsen deines Schiffes weiter. Der Geschicklichkeitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Geschicklichkeitswert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "WPPoNVwcxaj6u9Bv",
+					"name": "Schubdüsen, Mark III",
+					"description": "<p>Du verbesserst die Schubdüsen deines Schiffes erheblich. Der Geschicklichkeitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Geschicklichkeitswert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "4qOvj79tv2XxQfMi",
+					"name": "Schubdüsen, Mark IV",
+					"description": "<p>Du verbesserst die Schubdüsen deines Schiffes massiv. Der Geschicklichkeitswert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Geschicklichkeitswert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "Ob7WgDyrwnPU62MQ",
+					"name": "Schubdüsen, Mark V",
+					"description": "<p>Die Schubdüsen deines Schiffes haben ihr maximales Potenzial erreicht. Der Geschicklichkeitswert deines Schiffes erhöht sich um 2. Der Maximalwert deines Schiffes für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "ZiUbcHuemInKki4R",
+					"name": "Tibana-Gasprojektor, Mk I",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied eine Ladung Tibanagas in einem 100-Fuß-Würfel innerhalb von 600 Fuß ablassen. Für die Dauer der Aktion handelt es sich um schwieriges Gelände.</p><p>Wenn das Gas auftaucht, muss jedes Schiff in seinem Bereich einen Geschicklichkeitswurf bestehen (DC = 8 + Profibonus + Konstitutionsmodifikator des Schiffs) oder ionisiert werden. Ein Schiff, das das Gebiet betritt oder seinen Zug dort beendet, muss ebenfalls einen Rettungswurf in Geschicklichkeit ablegen.</p><p>Das Gas ist entflammbar. Jedes 50-Fuß-Quadrat des Gases, das dem Feuer ausgesetzt ist, brennt in einer Runde ab. Jedes Schiff, das das Feuer betritt oder seinen Zug dort beginnt, muss einen Rettungswurf in Geschicklichkeit machen und erleidet bei einem misslungenen Rettungswurf 3d6 Feuerschaden, bei einem erfolgreichen Rettungswurf die Hälfte davon. Das Feuer entzündet alle brennbaren Gegenstände in der Umgebung.</p><p>Diese Eigenschaft kann so oft verwendet werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "S6hfOFjHoMMWbvT7",
+					"name": "Tibana-Gasprojektor, Mk II",
+					"description": "<p>Als Aktion kann ein Besatzungsmitglied einen dünnen Flammenstrahl aus dem Schiff schießen. Jedes Schiff in einem Kegel von 150 Fuß muss einen Rettungswurf auf Geschicklichkeit machen (DC = 8 + Profibonus + Konstitutionsmodifikator des Schiffes). Bei einem misslungenen Schutzwurf erleidet das Schiff 3d6 Feuerschaden, bei einem erfolgreichen Schutzwurf die Hälfte des Schadens.</p><p>Das Feuer entzündet alle brennbaren Objekte in der Umgebung.</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "MnhP8lE7GpYN93TA",
+					"name": "Traktorstrahl",
+					"description": "<p>Diese Modifikation fügt dem Schiff einen Traktorstrahl hinzu, mit dem man Schiffe und Trümmer erfassen und lenken kann. </p><p>Als Aktion kann man den Traktorstrahl aktivieren, der eine Reichweite von 1.000 Fuß und einen begrenzten Feuerbogen hat, wie in Kapitel 9 beschrieben. Jedes Schiff innerhalb des Feuerbogens muss einen Stärkewurf ablegen (DC = 8 + Schiffsebene + Stärkemodifikator des Schiffs). Bei einem misslungenen Schutzwurf wird das Schiff gezogen.  Als Bonusaktion kann ein Spieler ein gezogenes Schiff 100 Fuß in eine beliebige Richtung bewegen. Als Aktion kann der Pilot eines geschleppten Schiffes den Rettungswurf wiederholen, wobei der Effekt bei einem Erfolg endet.</p><p>Die Rettungswürfe werden mit Vorteil durchgeführt, wenn das Ziel größer ist als du, und mit Nachteil, wenn es kleiner ist. </p><p>Wenn du versuchst, ein Schiff zu traktieren, das größer ist als du, egal ob du scheiterst oder erfolgreich bist, kannst du dich entscheiden, den Zustand \"traktiert\" zu erlangen und dich stattdessen selbst zu bewegen.</p><p>Du kannst den Traktorstrahl jederzeit beenden (keine Aktion erforderlich).</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>>"
+				},
+				{
+					"id": "Peaahgd1s3Y5ZWE8",
+					"name": "Sender, Behelfsmäßig",
+					"description": "<p>Du verbesserst die Transmitter deines Schiffes, allerdings zu einem gewissen Preis. Der Charisma-Wert deines Schiffes erhöht sich um 1. Ein anderer Fähigkeitswert als Charisma (vom Spielleiter gewählt) verringert sich um 1. Wie üblich kannst du mit diesem System den Charisma-Wert deines Schiffes nicht über den Maximalwert für deine Größe erhöhen.</p>"
+				},
+				{
+					"id": "eUkpKJUFgjXjDP8z",
+					"name": "Sender, Mark I",
+					"description": "<p>Du verbesserst die Transmitter deines Schiffes. Der Charisma-Wert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Charisma-Wert deines Schiffes nicht über den Maximalwert deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "OGRw0vYpO6oiva5M",
+					"name": "Sender, Mark II",
+					"description": "<p>Du verbesserst die Transmitter deines Schiffes weiter. Der Charisma-Wert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Charisma-Wert deines Schiffes nicht über das Maximum deiner Größe hinaus steigern.</p>"
+				},
+				{
+					"id": "dzdPTs2HjnIGhyZa",
+					"name": "Sender, Mark III",
+					"description": "<p>Du verbesserst die Transmitter deines Schiffes erheblich. Der Charisma-Wert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Charisma-Wert deines Schiffes nicht über das Maximum deiner Größe hinaus erhöhen.</p>"
+				},
+				{
+					"id": "VObTH7byKqPYLlrj",
+					"name": "Sender, Mark IV",
+					"description": "<p>Du verbesserst die Transmitter deines Schiffes massiv. Der Charisma-Wert deines Schiffes erhöht sich um 1. Wie üblich kannst du mit diesem System den Charisma-Wert deines Schiffes nicht über das Maximum deiner Größe hinaus steigern.</p>"
+				},
+				{
+					"id": "6WERMowP2JnKaV0U",
+					"name": "Sender, Mark V",
+					"description": "<p>Die Transmitter deines Schiffes haben ihr maximales Potenzial erreicht. Der Charisma-Wert deines Schiffes erhöht sich um 2. Das Maximum deines Schiffes für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "uNkf0DvWDCBoCAj1",
+					"name": "Transport",
+					"description": "<p>Diese Suite bietet einen einzelnen Raum oder eine Reihe von Räumen, die sich typischerweise in der Nähe des Cockpits befinden, mit einer Anzahl von Sitzen und individuellem Stauraum sowie gemeinsamen Auffrischungsstationen (eine pro 16 Sitze), um eine Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen zu transportieren, die dem Vierfachen der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suite-Kapazität} Tabelle angegeben.</p>"
+				},
+				{
+					"id": "qLI4jRg1OGqonGRN",
+					"name": "Nebenträger",
+					"description": "<p>Diese Modifikation verbessert die superschwere Turbolaser-Batterie, die große Railgun oder die Superwaffe auf deinem Raumschiff. Die Waffe verursacht zusätzlich 1d10 Schaden. </p>"
+				},
+				{
+					"id": "NmeTEWrdUDF7RVJx",
+					"name": "Geschützturm Hardpoint",
+					"description": "<p>Der Geschützturm-Hardpoint ist eine Modifikation für einen festen Hardpoint, die einen verbesserten Feuerbogen gewährt. Die Waffe, die an dem gewählten Festpunkt angebracht ist, hat nun einen unbegrenzten Schussbogen zusätzlich zu ihrem begrenzten Bogen, wie in Kapitel 9 beschrieben.  Dieser Hardpoint installiert auch eine spezielle Schützenstation am oder um den Hardpoint.  Angriffe, die mit dem unbegrenzten Feuerbogen ausgeführt werden, können nur von einem Besatzungsmitglied ausgeführt werden, das an der dedizierten Kanonierstation der Waffe eingesetzt ist.</p>"
+				},
+				{
+					"id": "NhFPpQ8PHyA7d5Bf",
+					"name": "Gewölbe",
+					"description": "<p>Diese Suite ist mit einem Tresorraum ausgestattet, dessen Fassungsvermögen der Hälfte der Basis-Frachtkapazität deines Schiffes entspricht, wie in der @JournalEntry[pMX6ND1g3oNyo09c]{Starship Size Cargo Capacity}&nbsp;Tabelle auf Seite 55 angegeben. Der Tresor ist sowohl mit einem Schlüssel als auch mit einem Codeschloss ausgestattet und magnetisch versiegelt, damit er sich bei einem Stromausfall nicht öffnen lässt. Der Tresor kann mit einem DC 25 Intelligenz-Check (Security Kit) geöffnet werden. Wenn auf den Tresor zugegriffen wird, ertönt ein Alarm in der Brücke und der Security Suite (falls vorhanden). Wenn ein Spieler eine 30 oder höher bei der Intelligenzüberprüfung (Sicherheitskit) würfelt, um den Tresor zu entriegeln, oder den Schlüssel oder Code hat, kann der Alarm umgangen werden.</p>"
+				},
+				{
+					"id": "bXKJ23YuPt7XJwZO",
+					"name": "Waffensklaven-Array",
+					"description": "<p>Ein Waffen-Slave-Array ist an einem Hardpoint angebracht und wird verwendet, um die Waffe vom Cockpit oder einer anderen Crew-Station aus abzufeuern, anstatt von einer speziellen Kanonier-Station am Hardpoint.  Ein Besatzungsmitglied, das von einer dedizierten Kanonierstation aus eingesetzt wird, kann nun diese Waffe abfeuern und den zusätzlichen begrenzten oder unbegrenzten Bogen zum Nachteil nutzen.  </p>"
+				},
+				{
+					"id": "y7g0XxKnxDFpi5oa",
+					"name": "Werkstatt",
+					"description": "<p>Diese Suite bietet eine Reihe von Handwerksstationen, die bis zu einem Viertel der Suite-Kapazität des Schiffes nach Größe unterbringen können, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Suite-Kapazität für Raumschiffe}&nbsp;Tabelle angegeben. Die Handwerksstationen sind mit allen integrierten Handwerkszeugen ausgestattet. Während du an der Handwerksstation arbeitest, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Fertigkeitsbonus bereits auf deine Würfe anwendest, erhältst du stattdessen den doppelten Bonus auf deine Fertigkeit. Wenn du bereits das Doppelte deines Fertigkeitsbonus zu deinen Checks addierst, addierst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator.</p>\r\n<p>Während du an einer Handwerksstation handwerklich tätig bist, erhöht sich außerdem der Gesamtmarktwert, den du pro Tag herstellen kannst, um einen Betrag von Credits, der 5 x deiner Charakterstufe entspricht. Wenn du zu deinen Fertigkeitsprüfungen das Doppelte deines Fertigkeitsbonus hinzufügst, erhöht sich der Marktwert um das 10-fache deiner Charakterstufe.</p>"
+				}
+			]
+		}

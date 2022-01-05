@@ -1,0 +1,33 @@
+{
+  "name": "sw5e-german-translation",
+  "title": "German SW5e Translation",
+  "description": "German translation of the sw5e system using babele",
+  "version": "0.0.1",
+  "minimumCoreVersion" : "9",
+  "compatibleCoreVersion": "9",
+  "author": "awitteck",
+  "systems": ["sw5e"],
+  "esmodules": [],
+  "scripts": ["babele-register.js"],
+  "styles": [],
+  "packs": [],
+  "languages": [{
+    "lang": "de",
+    "name": "German",
+    "path": "de.json"
+  }],
+
+  "dependencies": [{
+    "name": "babele",
+    "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+    "version": "2.2.0"
+  },
+    {
+      "name": "lib-wrapper",
+      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/download/v1.11.0.1/module.json",
+      "version": "1.11.1.0"
+    }],
+  "url": "https://github.com/awitteck/sw5e-german-translation",
+  "manifest": "https://raw.githubusercontent.com/awitteck/sw5e-german-translation/master/module.json",
+  "download": "https://github.com/HonzoNebro/sw5e-german-translation/archive/master.zip"
+}

@@ -1,0 +1,100 @@
+{
+	"label": "Raumschiff: Aktionen",
+	"entries": [
+		{
+			"id": "JThEduUp9ZstS5xv",
+			"name": "Angriffslauf",
+			"description": "<p>Wenn du dich mindestens 150 Fuß auf ein Ziel zubewegst, kannst du einen Angriffslauf als Aktion deklarieren. Du musst einen klaren Weg zu deinem Ziel haben, und nichts sollte deinen Weg behindern (wie schwieriges Gelände oder Hindernisse). Wenn du diese Bewegung innerhalb der Reichweite deines Ziels beendest, darfst du eine der folgenden Optionen anwenden:</p>\n<p><strong>Feuer</strong>. Du darfst einen Angriff mit einer Schiffswaffe aus einem nach vorne gerichteten begrenzten Bogen durchführen, ohne den normalen Nachteil zu erleiden. Wenn du mit einer Tertiär- oder Quartärwaffe angreifst, verursacht der Angriff zusätzlichen Schaden in Höhe der Distanz deines Angriffslaufs geteilt durch 50, bis zum Stärke-Modifikator deines Schiffs (mindestens 1).</p>\n<p><strong>Rammen</strong>. Du kannst einen Rammversuch mit Vorteil auf deine Stärke-(Rammen)-Überprüfung machen. Wenn du erfolgreich bist, erleidet das Zielschiff zusätzlichen Schaden in Höhe der Entfernung deines Angriffslaufs geteilt durch 50, bis zum Konstitutionsmodifikator deines Schiffs (mindestens +1), oder es wird wie üblich beschädigt und bis zum Ende seines nächsten Zugs betäubt.</p>\n<p>Nur ein eingesetzter Pilot kann die Aktion Angriffslauf ausführen.</p>"
+		},
+		{
+			"id": "cbGQLqMVWB7K5RI7",
+			"name": "Boost-Motoren",
+			"description": "<p>Du kannst versuchen, deine Geschwindigkeit zu erhöhen. Wenn du die Aktion Triebwerke ankurbeln ausführst, machst du einen DC 12 Stärke (Ankurbelung) Test. Bei einem Erfolg erhöhst du deine Geschwindigkeit um 50 bis zum Ende der nächsten Runde deines Schiffes.</p>"
+		},
+		{
+			"id": "Jmp4QznVg3PSEK86",
+			"name": "Boost-Schilde",
+			"description": "<p>Du kannst versuchen, deine Schilde zu verstärken. Wenn du die Aktion Schilde verstärken ausführst, führst du einen DC 12 Stärke (Verstärkung) Check durch. Bei einem Erfolg wirfst du einen Schildwürfel, ohne ihn auszugeben, und erhältst temporäre Schildpunkte in Höhe des Ergebnisses, die bis zum Beginn des nächsten Zuges deines Schiffes reichen.</p>"
+		},
+		{
+			"id": "S1bwJL9ZutRSvCxS",
+			"name": "Boost-Waffen",
+			"description": "<p>Du kannst versuchen, deinen Waffenausstoß zu erhöhen. Wenn du die Aktion 'Waffen verstärken' ausführst und dein Schiff das nächste Mal in dieser Runde Schaden verursacht, machst du einen DC 12 Stärke (Verstärkung) Check. Bei einem Erfolg hast du einen Vorteil auf den Schadenswurf.</p>"
+		},
+		{
+			"id": "MyIsiNQaVYmuo6oK",
+			"name": "Macht ausüben",
+			"description": "<p>Normalerweise kannst du Kraft- oder Tech-Kräfte wirken. Du kannst eine feindliche Kreatur nur dann mit einer Kraft anvisieren, wenn du von ihrer Anwesenheit und ihrem Standort weißt. Die Aktion 'Kraft wirken' kann mehrmals in einem Schiffszug ausgeführt werden.</p>"
+		},
+		{
+			"id": "nZubPOivzWtY5KP6",
+			"name": "Lenken",
+			"description": "<p>Wenn du die Aktion Lenken ausführst, erhält eine Kreatur, die dich sehen oder hören kann, einen Vorteil bei der nächsten Fähigkeitsprüfung, die sie durchführt, um die Aufgabe zu erfüllen, bei der du ihr hilfst, vorausgesetzt, sie führt die Prüfung vor Beginn deines nächsten Zuges durch. Alternativ dazu kannst du eine befreundete Kreatur, die dich hören kann, anweisen, ein anderes Ziel anzugreifen. Wenn dein Verbündeter das Ziel vor dem Beginn deines nächsten Zuges angreift, wird der erste Angriffswurf mit Vorteil ausgeführt. Die Aktion Direkt kann mehrmals in einem Schiffszug ausgeführt werden.</p>>"
+		},
+		{
+			"id": "iz9DVRm7QxoNVU0Q",
+			"name": "Dogfight",
+			"description": "<p>Wenn du die Dogfight-Aktion ausführst, greifst du einen Feind an, indem du dich duckst und ausweichst, um einen guten Schuss abzugeben, während du dem Feind ausweichst. Du wählst ein Ziel, das du sehen kannst, und führst eine entgegengesetzte Geschicklichkeitsprüfung (Manöver) durch. Bei einem Erfolg verursachst du, dass der nächste Angriff des Ziels gegen dein Schiff einen Nachteil erleidet, aber du gewährst dem nächsten Angriff eines anderen Ziels gegen dein Schiff einen Vorteil. Zusätzlich kannst du einen Primär- oder Tertiärwaffenangriff aus einem nach vorne gerichteten begrenzten Feuerbogen gegen dieses Schiff durchführen, ohne den normalen Nachteil zu erleiden.</p>\n<p>Nur ein eingesetzter Pilot kann die Aktion Dogfight ausführen.</p>"
+		},
+		{
+			"id": "uSjRBX38Wnd57RYl",
+			"name": "Ausweichen",
+			"description": "<p>Wenn du die Aktion Ausweichen ausführst, konzentrierst du dich ganz darauf, Angriffen auszuweichen. Bis zum Beginn deines nächsten Zuges hat jeder Angriff gegen dich einen Nachteil, wenn du den Angreifer auf deinen Instrumenten sehen kannst, und du machst Geschicklichkeitswürfe mit Vorteil.</p>\n<p>Diese Aktion wirkt sich auf dein gesamtes Schiff aus: Jede Fertigkeitsprüfung oder jeder Angriff, der von deinem Schiff oder einer Person darauf durchgeführt wird, hat bis zum Ende des nächsten Zuges deines Schiffes ebenfalls einen Nachteil. Die Wirkung von Ausweichen endet, wenn du handlungsunfähig wirst oder deine Geschwindigkeit auf 0 sinkt.</p>\n<p>Nur ein eingesetzter Pilot kann die Aktion Ausweichen ausführen.</p>"
+		},
+		{
+			"id": "B8RW0QEq6RoF2kNF",
+			"name": "Feuern",
+			"description": "<p>Die häufigste Aktion im Kampf ist die Feuer-Aktion. Mit dieser Aktion kannst du einen Angriff (oder mehrere Angriffe) mit einer Schiffswaffe durchführen. Siehe den Abschnitt 'Angriff durchführen' für die Regeln, die für Angriffe gelten. Die Feuer-Aktion kann mehrmals in der Runde eines Schiffes ausgeführt werden, aber normalerweise nur einmal pro Waffe. Ein Pilot, der die Angriffsaktion ausführt, greift mit Nachteil an.</p>"
+		},
+		{
+			"id": "Q6q2jJrTvOWDr488",
+			"name": "Fliegen",
+			"description": "<p>When you take the Fly action, you gain extra Movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 300 feet, for example, your ship can move up to 600 feet on its turn if you Fly. Any increase or decrease to your speed changes this additional Movement by the same amount. If your ship’s speed of 300 feet is reduced to 150 feet, for instance, your ship can move up to 300 feet this turn if you Fly.</p>\n<p>This action affects your entire ship: any skill check or attack made by your ship or anyone on it also has disadvantage until the end of your ship’s next turn.</p>\n<p>Only a deployed pilot can take the Fly action.</p>"
+		},
+		{
+			"id": "fE0uUdSA8JkHduaJ",
+			"name": "Bedrängen",
+			"description": "<p>Du kannst einen Feind bedrängen und ihn in eine Reihe von Nahkampfmanövern verwickeln, um seine Flucht zu verhindern. Wenn du die Aktion Bedrängen ausführst, führe eine umstrittene Geschicklichkeitsüberprüfung (Manöver) gegen ein Ziel durch, das sich innerhalb einer Größenklasse von dir und in normaler Reichweite von mindestens einer deiner nach vorne gerichteten Primärwaffen befindet. Diese Waffe kann in diesem Zug nicht für eine Feuer-Aktion verwendet werden. Wenn das Ziel bei einem Erfolg sein Feld vor Beginn deines nächsten Zuges freiwillig verlässt, erleidet es so viel Schaden, als hätte es einen kritischen Treffer mit der Primärwaffe erlitten, mit der du es bedrängt hast.</p>\n<p>Nur ein eingesetzter Pilot kann die Aktion Bedrängen ausführen.</p>"
+		},
+		{
+			"id": "yT32O9CVWxCk5PKg",
+			"name": "Verstecken",
+			"description": "<p>Wenn du die Aktion Verstecken ausführst, versuchst du mit einer Geschicklichkeitsprobe (Verstecken), dein Schiff zu verstecken, und befolgst dabei die Regeln in Kapitel 7 zum Verstecken. Wenn du erfolgreich bist, erhältst du bestimmte Vorteile, wie im Abschnitt 'Unsichtbare Angreifer und Ziele' weiter unten in diesem Kapitel beschrieben.</p>\n<p>Nur ein eingesetzter Pilot kann die Aktion Verstecken durchführen.</p>"
+		},
+		{
+			"id": "dp8pkpYsF3vWkvPz",
+			"name": "Stören",
+			"description": "<p>Du kannst versuchen, eine andere Kreatur im Umkreis von 1.000 Fuß, die sich auf einem Schiff befindet, zu stören, wenn du dir ihrer Anwesenheit und ihres Standorts bewusst bist, um eine Aufgabe zu erfüllen. Wenn du die Aktion Einmischen ausführst, legst du eine Charisma-Probe (Einmischen) ab, die durch eine Weisheits-Probe (Scannen) des Ziels angefochten wird. Wenn du erfolgreich bist, hat das Ziel einen Nachteil bei der nächsten Fähigkeitsprüfung oder dem nächsten Angriffswurf, den es vor Beginn deines nächsten Zuges macht. Die Aktion Einmischen kann mehrmals in einem Schiffszug ausgeführt werden.</p>>"
+		},
+		{
+			"id": "o6Bt78NCyV0fYf1k",
+			"name": "Ausbessern",
+			"description": "<p>Du kannst versuchen, den Schaden, den das Schiff erlitten hat, mit einem seiner Hüllenwürfel auszubessern. Wenn du die Aktion Flicken ausführst, machst du einen Konstitutions-(Flicken-)Check (DC = 10 oder die Hälfte der fehlenden Hüllenpunkte des Schiffes, je nachdem, welche Zahl höher ist). Bei einem Fehlschlag hast du einen Nachteil beim Würfeln mit dem Hüllenwürfel. Bei einem Erfolg wirfst du den Hüllenwürfel normal. Wenn du eine Konstitutionsüberprüfung (Flicken) machen würdest, darfst du stattdessen eine Intelligenzüberprüfung (Mechanikerkasten) mit Nachteil machen. Die Aktion Flicken kann mehrmals in einem Schiffszug durchgeführt werden.</p>>"
+		},
+		{
+			"id": "bIpGPTNtTQBB4Oo5",
+			"name": "Rammen",
+			"description": "<p>Du kannst versuchen, ein anderes Schiff zu rammen, während du durch seinen Raum fliegst. Wenn du die Ramm-Aktion ausführst, machst du eine Stärke-(Rammen)-Prüfung gegen eine Geschicklichkeits-(Manövrieren)-Prüfung des Ziels. Bei einem misslungenen Check schlägt die Ramm-Aktion fehl. Bei einem Erfolg erleiden sowohl du als auch das Zielschiff kinetischen Schaden in Höhe von zwei Hüllenwürfeln deines Schiffs + Stärke-Modifikator deines Schiffs. Wenn dein Schiff noch Schildpunkte hat, erleidet es stattdessen die Hälfte dieses Schadens.</p>\n<p>Nur ein eingesetzter Pilot kann die Aktion Rammen durchführen.</p>"
+		},
+		{
+			"id": "mVCdDe3EB8WBkxJc",
+			"name": "Bereit",
+			"description": "<p>Manchmal möchte man einem Feind zuvorkommen oder auf einen bestimmten Umstand warten, bevor man handelt. Zu diesem Zweck kannst du in deinem Zug die Aktion 'Bereit' ausführen, damit du später in der Runde mit deiner Reaktion agieren kannst.</p>\n<p>Zuerst entscheidest du, welcher wahrnehmbare Umstand deine Reaktion auslöst. Dann wählst du die Aktion, die du als Reaktion auf diesen Auslöser ausführen wirst. Zum Beispiel: 'Wenn der Feind auftaucht, feuere ich mit meiner Railgun auf ihn.'</p>\n<p>Wenn der Auslöser auftritt, kannst du entweder deine Reaktion direkt nach dem Ende des Auslösers ausführen oder den Auslöser ignorieren. Denke daran, dass du nur eine Reaktion pro Runde ausführen kannst.</p>"
+		},
+		{
+			"id": "qpDYc0VtdAwwu94e",
+			"name": "Schilde regenerieren",
+			"description": "<p>Mit einem seiner Schildwürfel kannst du versuchen, deine Schilde schneller zu regenerieren. Wenn du die Aktion Schilde regenerieren ausführst, machst du einen Stärke-(Verstärkungs-)Check (DC = 10 oder die Hälfte der fehlenden Schildpunkte des Schiffs, je nachdem, welcher Wert höher ist). Bei einem Fehlschlag wirfst du den Schildwürfel zweimal und nimmst den geringeren Wert. Bei einem Erfolg wirfst du den Schildwürfel normal.</p>>"
+		},
+		{
+			"id": "OmVptlRbP2pvLoGG",
+			"name": "Suchen",
+			"description": "<p>Wenn du die Aktion Suchen ausführst, widmest du deine Aufmerksamkeit der Suche nach etwas. Je nach Art der Suche kann der DM einen Weisheits- (Scan) oder einen Intelligenz- (Probe) Check durchführen lassen.</p>"
+		},
+		{
+			"id": "O9t2gB5wl6n86Eh4",
+			"name": "Ein Objekt benutzen",
+			"description": "<p>Wenn ein Objekt deine Aktion erfordert, um es zu benutzen, nimmst du die Aktion 'Objekt benutzen'. Diese Aktion ist auch nützlich, wenn du mit mehr als einem Objekt in deinem Zug interagieren willst. Die Aktion 'Ein Objekt benutzen' kann mehrmals in einem Schiffszug ausgeführt werden.</p>"
+		}
+	]
+}

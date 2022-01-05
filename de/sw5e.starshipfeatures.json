@@ -1,0 +1,715 @@
+{
+	"label": "Raumschiff: Merkmale",
+	"entries": [
+				{
+					"id": "y8GijjLGOMxi5BgS",
+					"name": "Ein Blatt im Wind",
+					"description": "<p>Auch auf der 5. Stufe, wenn dein Schiff oder ein eingesetztes Besatzungsmitglied eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf macht, kann ein eingesetztes Besatzungsmitglied seine Reaktion nutzen, um den gewürfelten Betrag auf dem Würfel als 20 zu behandeln.</p>\r\n<p>Wenn diese Funktion einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "LUbYxort97HhJtcZ",
+					"name": "Adaptive Rüstung",
+					"description": "<p>Auch auf Stufe 4 kann ein eingesetzter Pilot, wenn sein Schiff von einem Angriffswurf getroffen wird, den Konstitutionsmodifikator des Schiffes zum AC addieren, was dazu führen kann, dass der Angriff fehlschlägt.</p>\r\n<p>Diese Fähigkeit kann so oft eingesetzt werden, wie es dem Rang deines Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff neu ausgerüstet wird.</p>>"
+				},
+				{
+					"id": "2NdCkukz1KSGRTTa",
+					"name": "Rüstungsklassenverbesserung",
+					"description": "<p>Ab der zweiten Stufe verbessert sich die Rüstungsklasse deines Schiffes, wodurch es einen +1-Bonus auf seine AC erhält. Es erhält einen zusätzlichen Bonus von +1 auf den AC bei der 3. Stufe (insgesamt +2), der 4. Stufe (insgesamt +3) und der 5. Stufe (insgesamt +4)</p>"
+				},
+				{
+					"id": "4L5USxm1lbmlG5E1",
+					"name": "Rüstungsklassenverbesserung",
+					"description": "<p>Beginnend mit der zweiten Stufe verbessert sich die Rüstungsklasse deines Schiffes, wodurch es einen Bonus von +1 auf seine AC erhält. Ab der 3. Stufe (+2 insgesamt), der 4. Stufe (+3 insgesamt) und der 5. Stufe (+4 insgesamt) erhält es einen zusätzlichen Bonus von +1 auf den AC-Wert.</p>"
+				},
+				{
+					"id": "GlQzWpsmNOJDAcE8",
+					"name": "Verbesserung der Rüstungsklasse",
+					"description": "<p>Ab der zweiten Stufe verbessert sich die Rüstungsklasse deines Schiffes, wodurch dein Schiff einen +1-Bonus auf seine AC erhält. Ab der 3. Stufe (+2 insgesamt), der 4. Stufe (+3 insgesamt) und der 5. Stufe (+4 insgesamt) erhält es einen zusätzlichen Bonus von +1 auf den AC-Wert.</p>"
+				},
+				{
+					"id": "sjhPJz4pobuxoioE",
+					"name": "Verbesserung der Rüstungsklasse",
+					"description": "<p>Ab der zweiten Stufe verbessert sich die Rüstungsklasse deines Schiffes, wodurch dein Schiff einen +1-Bonus auf seine AC erhält. Ab der 3. Stufe (+2 insgesamt), der 4. Stufe (+3 insgesamt) und der 5. Stufe (+4 insgesamt) erhält es einen zusätzlichen Bonus von +1 auf den AC-Wert.</p>"
+				},
+				{
+					"id": "t1el0r5U2rA11aNE",
+					"name": "Verbesserung der Rüstungsklasse",
+					"description": "<p>Ab der zweiten Stufe verbessert sich die Rüstungsklasse deines Schiffes, wodurch dein Schiff einen +1-Bonus auf seine AC erhält. Ab der 3. Stufe (+2 insgesamt), der 4. Stufe (+3 insgesamt) und der 5. Stufe (+4 insgesamt) erhält es einen zusätzlichen Bonus von +1 auf den AC-Wert.</p>"
+				},
+				{
+					"id": "wZ1zZstHedBTZ1zw",
+					"name": "Verbesserung der Panzerklasse",
+					"description": "<p>Ab der zweiten Stufe verbessert sich die Rüstungsklasse deines Schiffes, wodurch dein Schiff einen +1-Bonus auf seine AC erhält. Ab der 3. Stufe (+2 insgesamt), der 4. Stufe (+3 insgesamt) und der 5. Stufe (+4 insgesamt) erhält es einen zusätzlichen Bonus von +1 auf den AC-Wert.</p>"
+				},
+				{
+					"id": "Ps2LiBeSQQAi57Kf",
+					"name": "Auto-Thruster",
+					"description": "<p>Außerdem kann dein Schiff ab Stufe 3 die Hälfte seines Stärke-Modifikators (abgerundet, mindestens eins) zu seinen Geschicklichkeits-Würfen addieren.</p>"
+				},
+				{
+					"id": "bjJkjFPB3UggQQFJ",
+					"name": "Blockadebrecher",
+					"description": "<p>Außerdem erhält dein Raumschiff auf Stufe 1 die Fähigkeit, auf Schaden durch große Schiffe zu reagieren.</p>\r\n<p>Als Reaktion auf einen Angriffswurf eines großen oder größeren Schiffes kann ein eingesetzter Pilot sein Schiff sofort um die Hälfte seiner Fluggeschwindigkeit (abgerundet) vorwärts bewegen und dann einen Blockadebrecher-Würfel (d4) werfen, der von dem auslösenden Angriffswurf abgezogen wird und ihn möglicherweise verfehlen kann.</p>\r\n<p>Der Blockade-Runner-Würfel deines Schiffes ändert sich, wenn es bestimmte Ränge erreicht. Der Würfel wird zu einem d6 bei Stufe 2, einem d8 bei Stufe 3, einem d10 bei Stufe 4 und einem d12 bei Stufe 5.</p>\r\n<p>Diese Funktion kann so oft eingesetzt werden, wie es der dreifachen Stufe deines Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "ws8dEJLq6i8S0sll",
+					"name": "Breitseite",
+					"description": "<p>Auch auf Stufe 4 kann ein Besatzungsmitglied, wenn es einen Schiffsangriff durchführt, einmal in jedem seiner Züge einen weiteren Angriff mit derselben Waffe gegen ein anderes Schiff durchführen, das sich innerhalb von 100 Fuß um das ursprüngliche Ziel und in Reichweite seiner Waffe befindet.</p>"
+				},
+				{
+					"id": "eYs1oLGIuRjrAaJi",
+					"name": "Großes Railgun",
+					"description": "<p>Auch auf der 3. Stufe ist dein Schiff mit einer vorwärts montierten Spezialversion einer Heavy Slug Railgun an seinem Steuer ausgestattet. Es wird davon ausgegangen, dass dein Schiff die Konstitutionsvoraussetzungen für diese Waffe erfüllt, unabhängig von den Konstitutionsfähigkeiten deines Schiffes. Der von dieser Heavy Slug Railgun verursachte Schaden beträgt 7d12.</p>\r\n<p>Diese Waffe nutzt keinen Waffen-Hardpoint und zählt nicht als solcher.</p>"
+				},
+				{
+					"id": "SpqPIgt1VzPz9Kj4",
+					"name": "Großes Schiff",
+					"description": "<p>Auch auf Stufe 5 kann ein Besatzungsmitglied als Bonusaktion einen Aktionsplan an die Besatzung delegieren. Das Schiff kann sich sofort bis zu seiner Fluggeschwindigkeit bewegen, und bis zu fünf Besatzungsmitglieder auf diesem Schiff können ihre Reaktion nutzen, um sofort eine Aktion auszuführen.</p>\r\n<p>Wenn diese Fähigkeit einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "5o4AwUTPjDfloRjd",
+					"name": "Zitadelle",
+					"description": "<p>Auch auf Stufe 4 wird die Kapazität aller Suiten verdoppelt. Wenn die Kapazität eines Suiten-Typs bereits verdoppelt wurde, wird seine Größe stattdessen von der Standardgröße verdreifacht. Außerdem verdoppelt sich die maximale Kapazität deines Raumschiffs für Treibstoff und Verbrauchsmaterialien, und Zivilisten, Besatzungsmitglieder und Truppen an Bord deines Raumschiffs haben einen Vorteil bei Konstitutionsrettungswürfen, um Erschöpfung zu vermeiden. Wenn die Kapazität für Treibstoff und/oder Verbrauchsmaterialien bereits doppelt so hoch war wie die Standardkapazität, ist sie nun dreifach so hoch wie die ursprüngliche Kapazität.</p>>"
+				},
+				{
+					"id": "AmZvh5sRfZMJQSmr",
+					"name": "Konzentriertes Feuer",
+					"description": "<p>Auch auf der 2. Stufe hast du einmal pro Runde einen Vorteil, wenn du ein Schiff der Größe Large oder größer angreifst und es seit dem Ende seiner letzten Runde von den Waffen eines verbündeten Schiffes der Größe Large oder größer getroffen wurde. Wenn du bereits einen Nachteil hattest, darfst du stattdessen einen der Würfel einmal neu werfen (deine Wahl).</p>"
+				},
+				{
+					"id": "VPkdsE9elNtUVRwf",
+					"name": "Schadenskontrolle",
+					"description": "<p>Außerdem erhält dein Raumschiff auf der 1. Stufe die Fähigkeit, Schaden von Schiffen automatisch zu mindern.</p>\r\n<p>Einmal pro Runde kann ein Besatzungsmitglied als Reaktion auf Schaden durch eine Schiffswaffe einen Schadenskontrollwürfel (d4) werfen und diesen von dem Schadenswurf abziehen.</p>\r\n<p>Der Schadenskontrollwürfel deines Schiffs ändert sich, wenn es bestimmte Stufen erreicht. Der Würfel wird zu einem d6 bei Stufe 2, einem d8 bei Stufe 3, einem d10 bei Stufe 4 und einem d12 bei Stufe 5.</p>\r\n<p>Diese Funktion kann so oft eingesetzt werden, wie es der 4fachen Stufe deines Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "s1UWyG0MYtL734cj",
+					"name": "Zerstörer",
+					"description": "<p>Auch auf Stufe 5 kann ein einzelnes Besatzungsmitglied als Aktion dem Schiff für 1 Minute die folgenden Vorteile verleihen:</p>\r\n<ul>\r\n<li>Dein Schiff ist resistent gegen jeglichen Schaden.</li>\r\n<li>Die Schiffsangriffe deines Schiffes erzielen einen kritischen Treffer bei einem Wurf von 19 oder 20 auf einem d20.</li>\r\n</ul>\r\n<p>Dieser Effekt endet vorzeitig, wenn das Schiff deaktiviert wird. Wurde diese Eigenschaft einmal benutzt, kann sie erst wieder verwendet werden, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "BsyAajkYG8yoCLvj",
+					"name": "Ausweichmanöver",
+					"description": "<p>Auch auf der 1. Stufe, wenn ein eingesetzter Pilot für die Initiative würfelt, kann er das Schiff sofort bewegen. Diese Bewegung geschieht, bevor die Reihenfolge der Initiative bestimmt wird.</p>\r\n<p>Das Ausmaß der Bewegung des Schiffes wird bestimmt, indem ein Ausweichmanöver-Würfel geworfen wird, der eine d4 ist, und mit 50 Fuß multipliziert wird. Das Schiff gewinnt dann so viele Fuß, wie es sich bewegen oder für eine Wende ausgeben kann.</p> <p>\r\n<p>Der Würfel für Ausweichmanöver ändert sich, wenn dein Schiff bestimmte Stufen erreicht. Der Würfel wird zu einem d6 auf Stufe 2, einem d8 auf Stufe 3, einem d10 auf Stufe 4 und einem d12 auf Stufe 5.</p>\r\n<p>Diese Funktion kann so oft eingesetzt werden, wie es der 2fachen Stufe deines Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "VyhLdoFj3hgjeqji",
+					"name": "Zusammenhalten",
+					"description": "<p>Auch auf Stufe 3, wenn dein Schiff Schaden nimmt, während es 0 Hüllenpunkte hat, macht es einen Zerstörungswurf, anstatt automatisch zu versagen.</p>"
+				},
+				{
+					"id": "ifzshePkchoWX3ut",
+					"name": "Flinkes Raumschiff",
+					"description": "<p>Außerdem kann dein Schiff ab Stufe 2 die Hälfte seines Geschicklichkeitsmodifikators (mindestens eins) zu jedem Rettungswurf addieren, der nicht bereits diesen Modifikator enthält.</p>"
+				},
+				{
+					"id": "yRCUfeUabdtfJ5TX",
+					"name": "Paragon-Kreuzer",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse. Eine der Fähigkeitswertungen deines Schiffes erhöht sich um 4, und sein Maximum für diese Wertung erhöht sich um 4. Zwei weitere Fähigkeitswertungen erhöhen sich um 2, und sein Maximum für diese Wertungen erhöht sich um 2.</p>>"
+				},
+				{
+					"id": "D7omkkFZv6a0yePr",
+					"name": "Paragon-Dreadnought",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse. Zwei Fähigkeitswerte deines Schiffes erhöhen sich um 4, und das Maximum für diese Werte steigt um 4. Ein weiterer Fähigkeitspunkt erhöht sich um 2, und das Maximum für diesen Wert steigt um 2.</p> <p>"
+				},
+				{
+					"id": "iYhin18nEisfow7e",
+					"name": "Paragon Fregatte",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse. Drei Fähigkeitswerte deines Schiffes erhöhen sich um 2, das Maximum für diese Werte erhöht sich um 2.</p>"
+				},
+				{
+					"id": "eW3twcCUuobEJPM4",
+					"name": "Paragon Snubfighter: Bomber",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse.</p>\r\n<h3>Bomber</h3>\r\n<p>Der Weisheitswert deines Schiffes erhöht sich um 2, das Maximum für diesen Wert steigt um 2.</p>"
+				},
+				{
+					"id": "DlrjrflL4TeIr78E",
+					"name": "Paragon Stöpseljäger: Abfangjäger",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse.</p>\r\n<h3>Abfangjäger</h3>\r\n<p>Der Geschicklichkeitswert deines Schiffes erhöht sich um 2. Der Maximalwert für diesen Wert steigt um 2.</p>"
+				},
+				{
+					"id": "pa5QvWAtkqD2oqth",
+					"name": "Paragon Stöpseljäger: Aufklärer",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse.</p>\r\n<h3>Scout</h3>\r\n<p>Der Intelligenzwert deines Schiffes erhöht sich um 2. Der Maximalwert für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "VVXVp32GnMWeuoAX",
+					"name": "Paragon Stöpseljäger: Scrambler",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse.</p>\r\n<h3>Scrambler</h3>\r\n<p>Der Charisma-Wert deines Schiffes erhöht sich um 2. Sein Maximum für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "1Q0pqzjsgR7uQyPC",
+					"name": "Paragon Stöpseljäger: Shuttle",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse.</p>\r\n<h3>Shuttle</h3>\r\n<p>Der Konstitutionswert deines Schiffes erhöht sich um 2. Das Maximum für diesen Wert erhöht sich um 2.</p>"
+				},
+				{
+					"id": "AUX4XLJarKhIZFKe",
+					"name": "Paragon Stöpseljäger: Strike Fighter",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse.</p>\r\n<h3>Strike Fighter</h3>\r\n<p>Der Stärkewert deines Schiffes erhöht sich um 2. Das Maximum für diesen Wert steigt um 2.</p>"
+				},
+				{
+					"id": "U8KNQB2MDTgsow5K",
+					"name": "Paragon Transport",
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse. Zwei der Fähigkeitswertungen deines Schiffes erhöhen sich um 2. Seine Maximalwerte für diese Wertungen erhöhen sich um zwei.</p>"
+				},
+				{
+					"id": "5izWUYBCKNHqUTg6",
+					"name": "Pinpoint Strike",
+					"description": "<p>Außerdem erhält dein Raumschiff auf Stufe 1 die Fähigkeit, unter den Schilden eines gegnerischen Schiffes durchzuschlüpfen.</p>\r\n<p>Wenn dein Schiff dasselbe Feld besetzt wie ein Zielschiff und der Pilot einen Angriffswurf macht, kann er als Reaktion vor dem Angriffswurf einen Pinpoint Strike-Würfel (d4) werfen und ihn zum Angriffswurf addieren. Wenn der Angriff stattdessen einen Schutzwurf erfordert, darfst du den Pinpoint Strike-Würfel vom Schutzergebnis des Ziels abziehen. Bei einem Treffer verursacht der Angriff normalen Schaden, der alle Schilde umgeht und direkt den Rumpf des Zielschiffs trifft. Diese Fähigkeit kann nur vom Piloten und nur einmal pro Runde eingesetzt werden.</p>>\r\n<p>Der Pinpoint Strike-Würfel deines Schiffes ändert sich, wenn es bestimmte Ränge erreicht. Ab der 2. Stufe wird der Würfel zu einem d6, ab der 3. Stufe zu einem d8, ab der 4. Stufe zu einem d10 und ab der 5. Stufe zu einem d12.</p>\r\n<p>Diese Funktion kann so oft verwendet werden, wie es der Stufe des Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "91Jke9fNoVjpIHC2",
+					"name": "Primäre Doktrin",
+					"description": "<p>Auch auf Stufe 2 versetzt dein Raumschiff deine Feinde in Angst und Schrecken. Wenn die Besatzungsmitglieder die Initiative würfeln, kann ein Besatzungsmitglied versuchen, andere Schiffe zu erschrecken. Jedes Besatzungsmitglied, das auf einem feindlichen Schiff eingesetzt wird, muss einen Weisheitswurf ablegen, der durch eine Charisma (Bedrohung)-Überprüfung bestätigt wird. Bei einem misslungenen Schutzwurf haben die betroffenen Besatzungsmitglieder 1 Minute lang einen Nachteil bei der ersten Fähigkeitsprüfung, dem ersten Angriffswurf oder dem ersten Rettungswurf, den sie pro Runde durchführen. Am Ende jeder ihrer Runden wiederholen sie diesen Schutzwurf und beenden diesen Effekt bei einem Erfolg. Außerdem werden sie bei einem erfolgreichen Schutzwurf für einen Tag immun gegen diese Eigenschaft.</p>>\r\n<p>Wenn diese Fähigkeit einmal eingesetzt wurde, kann sie erst wieder eingesetzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "wcrP5FTiW9MIUG5G",
+					"name": "Retro-Triebwerke",
+					"description": "<p>Wenn ein Angreifer, den ein eingesetzter Pilot oder Operator sehen kann, deinem Schiff mit einer Waffe Schaden zufügt, kann er seine Reaktion nutzen, um das Schiff sofort bis zu 50 Fuß in eine Richtung seiner Wahl zu bewegen, wodurch der Schaden, den dein Schiff nimmt, halbiert wird. Die Ausrichtung des Schiffes ändert sich dabei nicht.</p>\r\n<p>Wenn diese Fähigkeit einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "rtWTtywsBtZr8c6Y",
+					"name": "Rollenbeherrschung: Botschafter",
+					"description": "<p>Auf Stufe 4 beherrscht man einen bestimmten Designstil für sein Schiff.</p>\r\n<h3>Botschafter</h3>\r\n<p>Dein Schiff hat einen Vorteil bei Rettungswürfen, um nicht gerammt oder mit einem Traktorstrahl beschossen zu werden.</p>"
+				},
+				{
+					"id": "VNZIXXtdUrH9cyQn",
+					"name": "Rollenbeherrschung: Schlachtschiff",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Schlachtschiff</h3>\r\n<p>Wenn ein eingesetzter Schütze eine 1 oder 2 auf einem Schadenswürfel für eine Primär- oder Sekundärwaffe würfelt, kann er den Würfel neu werfen und muss den neuen Wurf verwenden, auch wenn der neue Wurf eine 1 oder 2 ist.</p>"
+				},
+				{
+					"id": "L2kFiXoAE2aTdnme",
+					"name": "Rollenbeherrschung: Blockadeschiff",
+					"description": "<p>Auf Stufe 4 beherrscht man einen bestimmten Designstil für sein Schiff.</p>\r\n<h3>Blockadenschiff</h3>\r\n<p>Die Schildregenerationsrate deines Schiffes verdoppelt sich.</p>"
+				},
+				{
+					"id": "OlQGJl4uAeXRHIKQ",
+					"name": "Rollenbeherrschung: Bomber",
+					"description": "<p>Auf Stufe 4 beherrschst du einen besonderen Designstil für dein Schiff.</p>\r\n<h3>Bomber</h3>\r\n<p>Raumschiffe, die eine oder mehrere Größen größer sind als du, haben einen Nachteil bei Schutzwürfen gegen deine tertiären und quaternären Waffen.</p>"
+				},
+				{
+					"id": "HPiCqS3Ra6Snj49T",
+					"name": "Rollenbeherrschung: Flugzeugträger",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Trägerschiff</h3>\r\n<p>Wenn Schiffe von deinem Träger aus eingesetzt werden, haben sie einen Vorteil bei der ersten Fähigkeitsprüfung, dem ersten Angriffswurf oder dem ersten Rettungswurf, den sie vor dem Ende ihrer nächsten Umrüstung machen. Wenn ein Schiff einmal von dieser Eigenschaft profitiert hat, kann es sie erst wieder nutzen, wenn es umgerüstet wird.</p>"
+				},
+				{
+					"id": "5WCQbT1EbAsDds8T",
+					"name": "Rollenbeherrschung: Kolonisator",
+					"description": "<p>Auf Stufe 4 beherrscht man einen bestimmten Designstil für sein Schiff.</p>\r\n<h3>Kolonisator</h3>\r\n<p>Die Treibstoffkapazität deines Schiffes verdoppelt sich, wie in der Tabelle Treibstoffkapazität der Raumschiffsgröße\" angegeben. Außerdem verbraucht dein Schiff bei Reisen im Realraum nur noch die halbe Treibstoffmenge.</p>\""
+				},
+				{
+					"id": "qKqx33WQDBYwhieu",
+					"name": "Rollenbeherrschung: Kommandoschiff",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Kommandoschiff</h3>\r\n<p>Dein Schiff erhält die Modifikationen Kommunikationspaket, Premium und Kommunikationspaket, Prototyp ohne Kosten. Zusätzlich hast du einen Vorteil bei Charisma (Bedrohung) Checks.</p>"
+				},
+				{
+					"id": "8ZB5HoJocUH56yo7",
+					"name": "Rollen-Beherrschung: Korvette",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Korvette</h3>\r\n<p>Die Fluggeschwindigkeit deines Schiffes erhöht sich um 50 Fuß.</p>"
+				},
+				{
+					"id": "EhVutUuou1oLpisu",
+					"name": "Rollenbeherrschung: Kurier",
+					"description": "<p>Auf der 4. Stufe beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Kurier</h3>\r\n<p>Dein Schiff erhält die Modifikation Backup-Hyperantrieb\" ohne Kosten. Jeder installierte Hyperantrieb arbeitet als einer der nächst schnelleren Klasse. Wenn du einen Hyperantrieb der Klasse 0.5 installiert hast, funktioniert er wie ein 0.4 Hyperantrieb.</p>\""
+				},
+				{
+					"id": "rQIay5wZWpuzdwMj",
+					"name": "Rollen-Beherrschung: Kreuzer",
+					"description": "<p>Auf Stufe 4 beherrscht man einen bestimmten Designstil für sein Schiff.</p>\r\n<h3>Kreuzer</h3>\r\n<p>Wenn du eine tertiäre oder quaternäre Waffe abfeuerst, kannst du jede Waffe mit mehreren Munitionstypen bis zu deiner Nachladezahl laden und auswählen, welche du abfeuerst, wenn du die Angriffsaktion mit dieser Waffe ausführst.</p>"
+				},
+				{
+					"id": "U6XhLMkqCO4Ik7dh",
+					"name": "Rollenbeherrschung: Entdecker",
+					"description": "<p>Auf der 4. Stufe beherrschst du einen bestimmten Design-Stil für dein Schiff.</p>\r\n<h3>Forscher</h3>\r\n<p>Dein Schiff kann Schiffe, die sich durch den Hyperraum bewegen, mit seinen Scannern aufspüren und ignoriert Umgebungseffekte, die seine Scanner beeinträchtigen würden.</p>"
+				},
+				{
+					"id": "ydh3dtYUMg0FI5vK",
+					"name": "Rollenbeherrschung: Flaggschiff",
+					"description": "<p>Auf Stufe 4 beherrscht du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Flaggschiff</h3>\r\n<p>Ein Koordinator, der in einer Kommandozentrale eingesetzt wird, kann als Aktion einen Befehl an ein riesiges oder kleineres Schiff geben. Dieses Schiff kann sofort seine Fluggeschwindigkeit erreichen, und bis zu fünf Besatzungsmitglieder auf diesem Schiff können ihre Reaktion nutzen, um sofort eine Aktion durchzuführen.</p>\r\n<p>Wenn diese Fähigkeit einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "4jLcqnxPuOpM0AlD",
+					"name": "Rollenbeherrschung: Frachter",
+					"description": "<p>Auf der 4. Stufe beherrscht man einen bestimmten Designstil für sein Schiff.</p>\r\n<h3>Frachter</h3>\r\n<p>Wenn ein Stärke- oder Geschicklichkeitswurf misslingt, kann ein eingesetztes Besatzungsmitglied seine Reaktion nutzen, um einen Teil der in den Staufächern gelagerten Fracht über Bord zu werfen. Wenn du mindestens 50 Tonnen Fracht über Bord wirfst, kannst du den Rettungswurf wiederholen und musst den neuen Wurf verwenden. Wenn du jedoch mindestens 75 Tonnen Ladung abwirfst, gelingt dir der Rettungswurf automatisch. Außerdem wird das Gebiet in einer Linie von 300 Fuß Länge und 100 Fuß Breite hinter deinem Schiff für 1 Minute zu schwierigem Gelände.</p>"
+				},
+				{
+					"id": "wsTSPrQmpRkj1gmX",
+					"name": "Rollen-Beherrschung: Kanonenboot",
+					"description": "<p>Auf der 4. Stufe beherrschst du einen bestimmten Design-Stil für dein Schiff.</p>\r\n<h3>Kanonenboot</h3>\r\n<p>Einmal pro Runde kann ein eingesetzter Kanonier bei der Bestimmung des zusätzlichen Schadens für einen kritischen Treffer mit einem Schiffsangriff ein zusätzliches Mal mit den Waffenschadenwürfeln würfeln.</p>"
+				},
+				{
+					"id": "WYhpBT2nO8fwfeCE",
+					"name": "Rollenbeherrschung: Industriezentrum",
+					"description": "<p>Auf der 4. Stufe beherrscht man einen bestimmten Designstil für sein Schiff.</p>\r\n<h3>Industrielles Zentrum</h3>\r\n<p>Dein Schiff erhält zwei Docking Bay-Suiten ohne Kosten, die nicht auf die Gesamtzahl der Suiten angerechnet werden. Außerdem wird die Kapazität der Andockbuchten verdoppelt.</p>"
+				},
+				{
+					"id": "Tt5cNgH9JiXXDgvw",
+					"name": "Rollenbeherrschung: Abfangjäger",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Abfangjäger</h3>\r\n<p>Die Drehgeschwindigkeit deines Schiffes verringert sich um 50 Fuß. Wenn dadurch die Drehgeschwindigkeit deines Schiffes auf 0 sinken würde, erhöht sich stattdessen die Fluggeschwindigkeit deines Schiffes um 50 Fuß.</p>"
+				},
+				{
+					"id": "bSF5KuhV8rtE6iXL",
+					"name": "Rollenbeherrschung: Interdictor",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Interdictor</h3>\r\n<p>Schiffe aller Größen haben einen Nachteil bei den Schutzwürfen gegen deine Traktorstrahlen. Zusätzlich kannst du Schiffe der Größe Large und kleiner dazu zwingen, einen der Würfel einmal zu wiederholen.</p>"
+				},
+				{
+					"id": "SB5TDnQbCSRwwRDv",
+					"name": "Rollen-Beherrschung: Juggernaut",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Juggernaut</h3>\r\n<p>Wenn du mit einer Ramme Schaden verursachst, erhöht sich der Schaden, den du anderen Schiffen zufügst, um +2 pro Hüllenwürfel deines Schiffes.</p>"
+				},
+				{
+					"id": "LL6Z5oFihs3E4Bew",
+					"name": "Rollen-Beherrschung: Raketenboot",
+					"description": "<p>Auf Stufe 4 beherrscht du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Raketenboot</h3>\r\n<p>Wenn du eine tertiäre oder quaternäre Waffe abfeuerst, kannst du jede Waffe mit mehreren Munitionstypen bis zu deiner Nachladezahl laden und auswählen, welche du abfeuerst, wenn du die Angriffsaktion mit dieser Waffe ausführst.</p>"
+				},
+				{
+					"id": "pWXpDwitnnUuPScy",
+					"name": "Rollen-Beherrschung: Mobile Metropole",
+					"description": "<p>Auf Stufe 4 beherrscht du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Mobile Metropolis</h3>\r\n<p>Die Treibstoffkapazität deines Schiffes (siehe Tabelle Treibstoffkapazität\") und die Lagerkapazität (siehe Tabelle \"Lagerkapazität\") verdoppeln sich. Außerdem verbraucht dein Schiff bei Reisen im Realraum nur halb so viel Treibstoff wie normal.</p>\""
+				},
+				{
+					"id": "HEc61c6KYUwN24Ft",
+					"name": "Rollen-Beherrschung: Navigator",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Navigator</h3>\r\n<p>Dein Schiff ist resistent gegen Schäden durch Umwelteinflüsse und hat einen Vorteil bei Rettungswürfen, um den Auswirkungen von Umwelteinflüssen zu widerstehen.</p>"
+				},
+				{
+					"id": "AlzSRtyu7Oj10ZO5",
+					"name": "Rollen-Beherrschung: Streikpostenschiff",
+					"description": "<p>Auf Stufe 4 beherrscht du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Picketschiff</h3>\r\n<p>Die Nah- und Fernreichweiten deiner Punktverteidigungssysteme erhöhen sich um 100 Fuß. Außerdem haben große oder kleinere Schiffe einen Nachteil bei Schutzwürfen gegen deine Punktverteidigungssysteme.</p>"
+				},
+				{
+					"id": "zs3QstSyQeHLzs26",
+					"name": "Rollen-Beherrschung: Forscher",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Forscher</h3>\r\n<p>Wenn du die Superwaffe deines Schiffes einsetzt, kannst du seine Funktionalität verändern. Anstatt Schaden zu verursachen, werden Schiffe, die einen Rettungswurf nicht bestehen, geblendet, geschockt und für 1 Minute geschockt. Schiffe, denen der Rettungswurf gelingt, erleiden diese Effekte stattdessen bis zum Beginn des nächsten Zuges des eingesetzten Operators.</p>"
+				},
+				{
+					"id": "s2D3kplaY2Hhy5sl",
+					"name": "Rollenbeherrschung: Späher",
+					"description": "<p>Auf der 4. Stufe beherrschst du einen bestimmten Design-Stil für dein Schiff.</p>\r\n<h3>Scout</h3>\r\n<p>Dein Schiff erhält einen Bonus von +2 auf Intelligenz (Astrogation) Checks und feindliche Schiffe haben einen Nachteil auf Weisheit (Scan) Checks, um dein Schiff beim Eintritt in und Austritt aus dem Hyperraum zu entdecken.</p>"
+				},
+				{
+					"id": "72pK7CVMgRoPPRct",
+					"name": "Rollenbeherrschung: Scrambler",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Scrambler</h3>\r\n<p>Dein Schiff erhält einen Bonus von +2 auf Charisma (Interferenz)-Prüfungen.</p>"
+				},
+				{
+					"id": "QohFE0mskT3Fn1Pa",
+					"name": "Rollenbeherrschung: Schiffstender",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Design-Stil für dein Schiff.</p>\r\n<h3>Schiffstender</h3>\r\n<p>Dein Schiff erhält die Modifikation Nano-Droiden-Verteiler ohne Kosten. Zusätzlich wird die Reichweite seiner Effekte um 400 Fuß erhöht.</p>"
+				},
+				{
+					"id": "QVrHDCax0GJBEPdk",
+					"name": "Rollenbeherrschung: Shuttle",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Design-Stil für dein Schiff.</p>\r\n<h3>Shuttle</h3>\r\n<p>Dein Schiff erhält ein Suiten-System deiner Wahl ohne Kosten. Deine Raumschiffsgrößen-Suite hat eine Kapazität von 2.</p>"
+				},
+				{
+					"id": "io6GbflLUvVivvmk",
+					"name": "Rollenbeherrschung: Angriffsjäger",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Strike Fighter</h3>\r\n<p>Die Schildregenerationsrate deines Schiffes wird verdoppelt.</p>"
+				},
+				{
+					"id": "10Tl6Ac42kq34Hjv",
+					"name": "Rollen-Beherrschung: Kriegsschiff",
+					"description": "<p>Auf Stufe 4 beherrschst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Kriegsschiff</h3>\r\n<p>Wenn ein Schütze auf deinem Schiff das Maximum auf einem Schadenswürfel für eine Schiffswaffe würfelt, kann er einen zusätzlichen Würfel werfen.</p>"
+				},
+				{
+					"id": "pavslRxbQIGCI3Vl",
+					"name": "Rollenbeherrschung: Yacht",
+					"description": "<p>Auf Stufe 4 beherrscht du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Yacht</h3>\r\n<p>Du hast einen Vorteil bei Charisma-Checks gegen Personen, die dein Schiff sehen können.</p>"
+				},
+				{
+					"id": "bDChmgF21xyMbvlZ",
+					"name": "Rollen-Spez: Botschafter",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Botschafter</h3>\r\n<p>Dein Schiff erhält kostenlos eine Suite in einem Luxusquartier. Wenn du Gäste auf deinem Schiff beherbergst, haben die Besatzungsmitglieder außerdem einen Vorteil bei Charisma-Proben gegen sie.</p>"
+				},
+				{
+					"id": "0ukmJcPNeU4Sp8bN",
+					"name": "Rollen-Spez: Schlachtschiff",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Schlachtschiff</h3>\r\n<p>Dein Schiff erhält zwei Festpunkt-Modifikationen ohne Kosten. Zusätzlich erhält dein Schiff einen Bonus von +1 auf Schadenswürfe mit Schiffswaffen.</p>"
+				},
+				{
+					"id": "zCFuj5DkuZcRgcvw",
+					"name": "Rollen-Spez: Blockadeschiff",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Blockadeschiff</h3>\r\n<p>Dein Schiff erhält die Modifikationen Notstromgenerator und Notstromversorgung ohne Kosten. Außerdem werden die Schilde deines Schiffes weiter um es herum erweitert. Immer wenn ein Schiff der eigenen Seite Schaden erleiden würde, während es sich innerhalb von 500 Fuß um dein Schiff befindet, nehmen die Schilde deines Schiffes diesen Schaden auf, wenn die Quelle des Schadens mehr als 500 Fuß von deinem Schiff entfernt ist und deine Schilde aktiv sind. Wenn der Schaden die Schilde deines Schiffes auf 0 reduziert, erleidet das geschützte Schiff den restlichen Schaden.</p>"
+				},
+				{
+					"id": "d1gzEqho7W1pNVN8",
+					"name": "Rollen-Spez: Bomber",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Bomber</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf Schadenswürfe mit Schiffswaffen.</p>"
+				},
+				{
+					"id": "ZFFW6f3WY869qDFy",
+					"name": "Rollenspezifikation: Flugzeugträger",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Trägerschiff</h3>\r\n<p>Dein Schiff erhält zwei Docking Bay Suites ohne Kosten. Außerdem wird die Kapazität deiner Andockbuchten verdoppelt.</p>"
+				},
+				{
+					"id": "ytSkXHfoo17kbGse",
+					"name": "Rollenspezifikation: Kolonisator",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kolonisator</h3>\r\n<p>Dein Schiff erhält zwei Kasernensuiten ohne Kosten. Außerdem werden Rettungswürfe gegen Gift und Krankheit auf deinem Schiff mit Vorteil durchgeführt.</p>"
+				},
+				{
+					"id": "lLsVBqNn408Xwwwo",
+					"name": "Rollenspezifikation: Kommandoschiff",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kommandoschiff</h3>\r\n<p>Dein Schiff erhält die Modifikationen Comms Package, Premium und Command Center Suite kostenlos. Außerdem hast du einen Vorteil bei Charisma (Beeindrucken)-Prüfungen.</p>"
+				},
+				{
+					"id": "Imf8Bcwv9nOoyZcG",
+					"name": "Rollenspezifikation: Korvette",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Korvette</h3>\r\n<p>Dein Schiff erhält ohne Kosten eine Modifikation für einen festen Punkt. Außerdem erhält dein Schiff einen Bonus von +1 auf Schadenswürfe mit Schiffswaffen.</p>"
+				},
+				{
+					"id": "sp5NlnjG1oX34pDp",
+					"name": "Rollen-Spez: Kurier",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kurier</h3>\r\n<p>Die Fluggeschwindigkeit deines Schiffes erhöht sich um 50 Fuß.</p>"
+				},
+				{
+					"id": "B5L1PCdWLWoedo7g",
+					"name": "Rollen-Spez: Kreuzer",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kreuzer</h3>\r\n<p>Raumschiffe, die eine oder mehrere Größen größer sind als du, haben einen Nachteil bei Schutzwürfen gegen deine tertiären und quaternären Waffen.</p>"
+				},
+				{
+					"id": "rr9JZdItlbpvsVyr",
+					"name": "Rollen-Spez: Entdecker",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Entdecker</h3>\r\n<p>Dein Schiff erhält die Modifikation Scanner, Premium ohne Kosten. Zusätzlich wird die Reichweite seiner Scanner um 1.000 Fuß erhöht.</p>"
+				},
+				{
+					"id": "rx71793fT9xpvai3",
+					"name": "Rollen-Spez: Flaggschiff",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Flaggschiff</h3>\r\n<p>Dein Schiff erhält die Modifikationen Kommandozentrale und Traktorstrahl ohne Kosten. Wenn ein Besatzungsmitglied, das in einer Kommandozentrale eingesetzt wird, die Aktion Direkt\" ausführt, kann das Ziel der Aktion \"Direkt\" einen der Würfel einmal wiederholen.</p>\""
+				},
+				{
+					"id": "GIHx1MlYWoN13Jr9",
+					"name": "Rollenspezifikation: Frachter",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Frachter</h3>\r\n<p>Dein Schiff erhält die Modifikation Lagerraum ohne Kosten. Außerdem erhöht sich die Grundladekapazität deines Schiffes auf 50 Tonnen.</p>"
+				},
+				{
+					"id": "rDcgrMQtlySCwkRB",
+					"name": "Rollen-Spez: Kanonenboot",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kanonenboot</h3>\r\n<p>Dein Schiff erhält ohne Kosten eine Modifikation für einen festen Punkt. Zusätzlich erhält dein Schiff einen Bonus von +1 auf Schadenswürfe mit Schiffswaffen.</p>"
+				},
+				{
+					"id": "FOC7oAj2mLTltK9U",
+					"name": "Rollen-Spezifikation: Industriezentrum",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Industrielles Zentrum</h3>\r\n<p>Dein Schiff erhält zwei kostenlose Werkstattmodifikationen. Außerdem verdoppelt sich die Geschwindigkeit, mit der Waren in deinen Werkstätten hergestellt werden.</p>"
+				},
+				{
+					"id": "XiOJBm5PA7hY9oqQ",
+					"name": "Rollenspezifikation: Abfangjäger",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Abfangjäger</h3>\r\n<p>Die Fluggeschwindigkeit deines Schiffes erhöht sich um 50 Fuß.</p>"
+				},
+				{
+					"id": "LIpBrdZuJ82bZ8ks",
+					"name": "Rollen-Spezifikation: Interdictor",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Interdictor</h3>\r\n<p>Dein Schiff erhält die Modifikationen Traktorstrahl und Gravitationsbrunnenprojektor ohne Kosten. Zusätzlich haben Schiffe mit der Größe Riesig oder kleiner einen Nachteil bei Schutzwürfen gegen deine Traktorstrahlen.</p>"
+				},
+				{
+					"id": "IeEhOFpety68HCIk",
+					"name": "Rollen-Spezifikation: Juggernaut",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Juggernaut</h3>\r\n<p>Dein Hüllenpunktmaximum erhöht sich um einen Betrag, der der doppelten Anzahl deiner Hüllenwürfel entspricht. Jedes Mal, wenn du danach einen Hüllenwürfel gewinnst, erhöht sich dein Hüllenpunktmaximum um weitere 2 Hüllenpunkte.</p>"
+				},
+				{
+					"id": "Oe66XBKfy21TWQkV",
+					"name": "Rollen-Spez: Raketenboot",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Raketenschiff</h3>\r\n<p>Raumschiffe, die eine oder mehrere Größen größer sind als du, haben einen Nachteil bei Rettungswürfen gegen deine tertiären und quartären Waffen.</p>"
+				},
+				{
+					"id": "kmqgykMD4ByszTRN",
+					"name": "Rollenspezifikation: Mobile Metropole",
+					"description": "<p>Auf der zweiten Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Mobile Metropole</h3>\r\n<p>Dein Schiff erhält kostenlos einen Wohnbereich und einen Aufenthaltsbereich. Außerdem verdoppelt sich die Kapazität der Wohnquartiere.</p>"
+				},
+				{
+					"id": "kffEXBOZz7riFt3o",
+					"name": "Rollen-Spez: Navigator",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Navigator</h3>\r\n<p>Dein Schiff erhält die Navcomputer-Modifikation ohne Kosten. Zusätzlich kann ein Besatzungsmitglied, wenn es auf der Hyperraum-Pannen-Tabelle würfeln muss, zweimal würfeln und eine der beiden Summen wählen.</p>"
+				},
+				{
+					"id": "cvvysFnajl06MDa3",
+					"name": "Rollenspezifikation: Mahnwachenschiff",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Picketschiff</h3>\r\n<p>Dein Schiff kann ein einzelnes Punktverteidigungssystem in einem Hardpoint installieren. Dieser Hardpoint kann so modifiziert werden, dass er mehr als nur einen einzigen begrenzten Feuerbogen enthält.</p>"
+				},
+				{
+					"id": "ComTgRDyH4OKyzDK",
+					"name": "Rollen-Spez: Forscher",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Forscher</h3>\r\n<p>Dein Schiff erhält die Modifikationen Labor und Werkstatt ohne Kosten. Außerdem werden Intelligenz-(Macht)-Prüfungen auf deinem Schiff mit Vorteil durchgeführt.</p>"
+				},
+				{
+					"id": "ZOE6ZoQOTiSGpDY4",
+					"name": "Rollen-Spez: Späher",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Scout</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf Weisheits- (Scannen) und Intelligenz- (Sondieren) Checks.</p>"
+				},
+				{
+					"id": "SZxO3J71LCWtZYVI",
+					"name": "Rollen-Spez: Scrambler",
+					"description": "<p>Auf Stufe 2 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Scrambler</h3>\r\n<p>Die Besatzung deines Schiffes kann Einmischen\" als Bonusaktion nutzen.</p>\""
+				},
+				{
+					"id": "5mmvSODyCfwYF7DR",
+					"name": "Rollen-Spez: Schiffsbeiboot",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Schiffstender</h3>\r\n<p>Dein Schiff erhält eine kostenlose Modifikation für die Treibstofflagerung.</p>"
+				},
+				{
+					"id": "4Rdl3p0fg55B7VZP",
+					"name": "Rollen-Spez: Raumfähre",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Shuttle</h3>\r\n<p>Dein Schiff erhält oder ersetzt ein Suiten-System deiner Wahl ohne Kosten, aber es zählt zu deinen maximalen Suiten. Die Suitenkapazität deines Raumschiffs für diese Suite beträgt 2. Deine maximale Suitenanzahl beträgt mindestens 2.</p>"
+				},
+				{
+					"id": "orciEjuUBSjF05Ny",
+					"name": "Rollen-Spez: Angriffsjäger",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Strike Fighter</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Angriffswürfe und Schutz-DCs seiner Schiffswaffen.</p>"
+				},
+				{
+					"id": "UZEiP5j4iGJztqvN",
+					"name": "Rollenspezifikation: Kriegsschiff",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kriegsschiff</h3>\r\n<p>Dein Schiff erhält zwei Festpunkt-Modifikationen ohne Kosten. Zusätzlich erhält dein Schiff einen Bonus von +1 auf Schadenswürfe mit Schiffswaffen.</p>"
+				},
+				{
+					"id": "05QNnT4eULR2VXud",
+					"name": "Rollen-Spez: Yacht",
+					"description": "<p>Auf Stufe 2 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Yacht</h3>\r\n<p>Dein Schiff erhält die Modifikation Erholung ohne Kosten. Außerdem haben Gäste, die du auf deinem Schiff beherbergst, einen Nachteil bei Intelligenz- und Weisheitsproben.</p>"
+				},
+				{
+					"id": "6Fe8zW4OZ4bSwCAC",
+					"name": "Rolle: Bomber",
+					"description": "<p>Auf Stufe 0 wählst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Bomber</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Weisheit.</p>"
+				},
+				{
+					"id": "bMxdqW7vKf385DCd",
+					"name": "Rolle: Botschafter",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Botschafter</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Charisma und Konstitution.</p>"
+				},
+				{
+					"id": "BXnWIl4JqYhabKOG",
+					"name": "Rolle: Schlachtschiff",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Schlachtschiff</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Weisheit und Stärke.</p>"
+				},
+				{
+					"id": "EHlofEGK4xqasQto",
+					"name": "Rolle: Blockadeschiff",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Blockade-Schiff</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Geschicklichkeit und Stärke.</p>"
+				},
+				{
+					"id": "AOBENbNM2dtBXA8b",
+					"name": "Rolle: Flugzeugträger",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Trägerschiff</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Charisma und Intelligenz.</p>"
+				},
+				{
+					"id": "Un42G6fWkbsPB6me",
+					"name": "Rolle: Kolonisator",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kolonisator</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Konstitution und Intelligenz.</p>"
+				},
+				{
+					"id": "bp6p7LOLOOmfgXFY",
+					"name": "Rolle: Kommandoschiff",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Design-Stil für dein Schiff an.</p>\r\n<h3>Kommandoschiff</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Charisma und Weisheit.</p>"
+				},
+				{
+					"id": "fEQuNheeRjtlHEcv",
+					"name": "Rolle: Korvette",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Korvette</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Stärke und Geschicklichkeit.</p>"
+				},
+				{
+					"id": "Ep2i8cByXDvwBJIw",
+					"name": "Rolle: Kurier",
+					"description": "<p>Auf der 2. Stufe nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kurier</h3>\r\n<p>Die Fluggeschwindigkeit deines Schiffes erhöht sich um 50 Fuß.</p>"
+				},
+				{
+					"id": "AyaJSSiyf2EXIR61",
+					"name": "Rolle: Kreuzer",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kreuzer</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Weisheit und Stärke.</p>"
+				},
+				{
+					"id": "Ua7zFsdwJv2AMx2t",
+					"name": "Rolle: Entdecker",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Entdecker</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Geschicklichkeit und Intelligenz.</p>"
+				},
+				{
+					"id": "scgMCbgKZp6GheGo",
+					"name": "Rolle: Flaggschiff",
+					"description": "<p>Auf Stufe 0 wählst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Flaggschiff</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Charisma und Weisheit.</p>"
+				},
+				{
+					"id": "VdHmWXHvkK5ZyoWw",
+					"name": "Rolle: Frachter",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Frachter</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Konstitution.</p>"
+				},
+				{
+					"id": "jgF0iBtvzesRwiTs",
+					"name": "Rolle: Kanonenboot",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kanonenboot</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Stärke\".</p>\""
+				},
+				{
+					"id": "5PYCw1D57qogLP9C",
+					"name": "Rolle: Industriezentrum",
+					"description": "<p>Auf Stufe 0 wählst du einen bestimmten Designstil für dein Schiff.</p>\r\n<h3>Industrielles Zentrum</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Konstitution und Stärke.</p>"
+				},
+				{
+					"id": "36dTmDP0uGACXGdi",
+					"name": "Rolle: Abfangjäger",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Abfangjäger</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Geschicklichkeit.</p>"
+				},
+				{
+					"id": "UT3PQ3cccIoDyEVo",
+					"name": "Rolle: Interdictor",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Interdiktator</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Geschicklichkeit und Stärke.</p>"
+				},
+				{
+					"id": "lKQFLBmhC4zNVs4J",
+					"name": "Rolle: Juggernaut",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Juggernaut</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Konstitution und Stärke.</p>"
+				},
+				{
+					"id": "cS3RuXNxF3VkWBUb",
+					"name": "Rolle: Raketenboot",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Raketenboot</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Weisheit.</p>"
+				},
+				{
+					"id": "e93wVYJLJsoWh22n",
+					"name": "Rolle: Mobile Metropole",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Mobile Metropole</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Konstitution und Weisheit.</p>"
+				},
+				{
+					"id": "orHT35d7S5bKtRGt",
+					"name": "Die Rolle: Navigator",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Navigator</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Intelligenz.</p>"
+				},
+				{
+					"id": "9QGz0LlGiQqr7285",
+					"name": "Rolle: Streikpostenschiff",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Picketschiff</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Geschicklichkeit und Weisheit.</p>"
+				},
+				{
+					"id": "zAjyNwIXm8QF6HrW",
+					"name": "Rolle: Forscher",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Forscher</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Intelligenz und Weisheit.</p>"
+				},
+				{
+					"id": "mjH1qoKoKtFk7IMh",
+					"name": "Rolle: Aufklärer",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Scout</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Intelligenz.</p>"
+				},
+				{
+					"id": "ZYkjbmRDMB2FAt6f",
+					"name": "Rolle: Scrambler",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Scrambler</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Charisma.</p>"
+				},
+				{
+					"id": "NiXjHNW5U7kXJiu9",
+					"name": "Rolle: Beiboot des Schiffes",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Schiffstender</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Konstitution und Stärke.</p>"
+				},
+				{
+					"id": "DDh6BOqoVnnqpjGK",
+					"name": "Rolle: Raumfähre",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Shuttle</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Konstitution.</p>"
+				},
+				{
+					"id": "nE5oQmhOrK0Coirv",
+					"name": "Rolle: Angriffsjäger",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Strike Fighter</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Stärke.</p>"
+				},
+				{
+					"id": "uokunSKATOfWwOP9",
+					"name": "Rolle: Kriegsschiff",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Kriegsschiff</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf die Attribute Weisheit und Stärke.</p>"
+				},
+				{
+					"id": "U1S8haQSb90YulZq",
+					"name": "Rolle: Yacht",
+					"description": "<p>Auf Stufe 0 nimmst du einen bestimmten Designstil für dein Schiff an.</p>\r\n<h3>Jacht</h3>\r\n<p>Dein Schiff erhält einen Bonus von +1 auf das Attribut Charisma.</p>"
+				},
+				{
+					"id": "uJyL88mJC15E1aIb",
+					"name": "Spinal Mount",
+					"description": "<p>Auch auf Stufe 5 kann jedes Besatzungsmitglied einmal in seinem Zug den Stärke-Modifikator des Schiffes zum Angriffswurf oder den Intelligenz-Modifikator des Schiffes zum Schadenswurf eines Angriffs addieren. Sie können wählen, ob sie diese Eigenschaft vor oder nach dem Wurf nutzen, aber bevor die Effekte des Wurfs angewendet werden.</p>>"
+				},
+				{
+					"id": "OGN9eY7cKjSjp8Da",
+					"name": "Aufmarschplatz",
+					"description": "<p>Auch auf der 2. Stufe wird die Kapazität der Kasernen, Wohnquartiere und Luxusquartiere verdoppelt. Außerdem haben Besatzungsmitglieder oder Truppen, wenn sie ausrücken, einen Vorteil bei ihrer ersten Fähigkeitsprüfung, ihrem ersten Angriffswurf oder ihrem ersten Rettungswurf, den sie vor dem Ende ihrer nächsten langen Pause machen. Sobald ein Besatzungsmitglied oder ein Trupp von dieser Eigenschaft profitiert hat, kann er sie erst wieder nutzen, wenn er eine lange Ruhepause abgeschlossen hat.</p>"
+				},
+				{
+					"id": "SHzcWYzGKQIfefX9",
+					"name": "Bereitschaft",
+					"description": "<p>Auch auf der 4. Stufe kann dein Schiff für einen Moment über seine normalen Grenzen hinaus getrieben werden. In seinem Zug kann ein eingesetztes Besatzungsmitglied eine zusätzliche Aktion zu seiner normalen Aktion und eine mögliche Bonusaktion ausführen.</p>\r\n<p>Wenn diese Fähigkeit einmal genutzt wurde, kann sie erst wieder genutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "626iiZQjabHqsckW",
+					"name": "Raumschiff-Verbesserungen",
+					"description": "<h3>Verbesserung der Fähigkeitspunkte</h3>\r\n<p>Auf der 1. Stufe und erneut auf der 2., 3., 4. und 5. Stufe kannst du eine der Fähigkeitsstufen deines Schiffes um 2 erhöhen, oder du kannst zwei dieser Fähigkeitsstufen um 1 erhöhen. Du kannst mit dieser Funktion keine anderen Fähigkeitsstufen als Konstitution über 20 oder deine Konstitution über 24 erhöhen.</p>\r\n<h3>Zusätzliche Hüllen- und Schildwürfel</h3>\r\n<p>Dein Schiff erhält 2 zusätzliche Hüllenwürfel und 2 zusätzliche Schildwürfel. Es erhält 2 zusätzliche Hüllenwürfel und 2 zusätzliche Schildwürfel auf der 2. Stufe (je 4), 3. Stufe (je 6), 4. Stufe (je 8) und 5. Stufe (je 10).</p>"
+				},
+				{
+					"id": "6gwCB9vjQ3R8Yfaz",
+					"name": "Raumschiff-Verbesserungen",
+					"description": "<h3>Geschicklichkeitswertverbesserung</h3>\r\n<p>Auf der 1. Stufe und erneut auf der 2., 3., 4. und 5. Stufe kannst du einen der Fähigkeits-Werte deines Schiffes um 2 erhöhen, oder du kannst zwei dieser Fähigkeits-Werte um 1 erhöhen. Du kannst mit dieser Funktion keine anderen Fähigkeits-Werte als die Konstitution über 20 oder die Konstitution über 26 erhöhen.</p>\r\n<h3>Zusätzliche Hüllen- und Schildwürfel</h3>\r\n<p>Dein Schiff erhält 2 zusätzliche Hüllenwürfel und 2 zusätzliche Schildwürfel. Es erhält 2 zusätzliche Hüllenwürfel und 2 zusätzliche Schildwürfel auf der 2. Stufe (je 4), 3. Stufe (je 6), 4. Stufe (je 8) und 5. Stufe (je 10).</p>"
+				},
+				{
+					"id": "OiSUH7AQT3c9Ol1c",
+					"name": "Verbesserungen am Raumschiff",
+					"description": "<h3>Geschicklichkeitswertverbesserung</h3>\r\n<p>Auf der 1. Stufe und erneut auf der 2., 3., 4. und 5. Stufe kannst du eine der Fähigkeitsstufen deines Schiffes um 2 erhöhen, oder du kannst zwei dieser Fähigkeitsstufen um 1 erhöhen. Du kannst mit dieser Funktion keine anderen Fähigkeitsstufen als Konstitution über 20 oder deine Konstitution über 22 erhöhen.</p>\r\n<h3>Zusätzliche Hüllen- und Schildwürfel</h3>\r\n<p>Dein Schiff erhält 1 zusätzlichen Hüllenwürfel und 1 zusätzlichen Schildwürfel. Es erhält 1 zusätzlichen Hüllenwürfel und 1 zusätzlichen Schildwürfel auf Stufe 2 (je 2), Stufe 3 (je 3), Stufe 4 (je 4) und Stufe 5 (je 5).</p>"
+				},
+				{
+					"id": "SHeGJHU2yqe5xyuN",
+					"name": "Verbesserungen am Raumschiff",
+					"description": "<h3>Geschicklichkeitswertverbesserung</h3>\r\n<p>Auf der 1. Stufe und erneut auf der 2., 3., 4. und 5. Stufe kannst du einen der Fähigkeits-Werte deines Schiffes um 2 erhöhen, oder du kannst zwei dieser Fähigkeits-Werte um 1 erhöhen. Du kannst mit dieser Funktion keine anderen Fähigkeits-Werte als Geschicklichkeit über 20 oder deine Geschicklichkeit über 24 erhöhen.</p>\r\n<h3>Zusätzliche Hüllen- und Schildwürfel</h3>\r\n<p>Dein Schiff erhält 1 zusätzlichen Hüllenwürfel und einen zusätzlichen Schildwürfel. Es erhält 1 zusätzlichen Hüllenwürfel und einen zusätzlichen Schildwürfel auf Stufe 2 (je 2), Stufe 3 (je 3), Stufe 4 (je 4) und Stufe 5 (je 5).</p>"
+				},
+				{
+					"id": "juGYpOumS9niLt2R",
+					"name": "Verbesserungen am Raumschiff",
+					"description": "<h3>Geschicklichkeitswertverbesserung</h3>\r\n<p>Auf der 1. Stufe und erneut auf der 2., 3., 4. und 5. Stufe kannst du eine der Fähigkeitsstufen deines Schiffes um 2 erhöhen, oder du kannst zwei dieser Fähigkeitsstufen um 1 erhöhen. Du kannst mit dieser Funktion deine Fähigkeitsstufen nicht über 20 erhöhen.</p>\r\n<h3>Zusätzliche Hüllen- und Schildwürfel</h3>\r\n<p>Dein Schiff erhält 1 zusätzlichen Hüllenwürfel und einen zusätzlichen Schildwürfel. Es erhält 1 zusätzlichen Hüllenwürfel und einen zusätzlichen Schildwürfel auf Stufe 2 (je 2), Stufe 3 (je 3), Stufe 4 (je 4) und Stufe 5 (je 5).</p>"
+				},
+				{
+					"id": "xs1MlcfBFFiUyCQv",
+					"name": "Verbesserungen an Raumschiffen",
+					"description": "<h3>Geschicklichkeitswertverbesserung</h3>\r\n<p>Auf der 1. Stufe und erneut auf der 2., 3., 4. und 5. Stufe kannst du einen der Fähigkeits-Werte deines Schiffes um 2 erhöhen, oder du kannst zwei dieser Fähigkeits-Werte um 1 erhöhen. Du kannst mit dieser Funktion weder deine anderen Fähigkeits-Werte als Geschicklichkeit über 20 noch deine Geschicklichkeit über 22 erhöhen.</p>\r\n<h3>Zusätzliche Hüllen- und Schildwürfel</h3>\r\n<p>Dein Schiff erhält 1 zusätzlichen Hüllenwürfel und einen zusätzlichen Schildwürfel. Es erhält 1 zusätzlichen Hüllenwürfel und einen zusätzlichen Schildwürfel auf Stufe 2 (je 2), Stufe 3 (je 3), Stufe 4 (je 4) und Stufe 5 (je 5).</p>"
+				},
+				{
+					"id": "LoG2SioeRsCQdo7H",
+					"name": "Superschwere Turbolaser-Batterie",
+					"description": "<p>Auch auf der 3. Stufe ist dein Schiff mit einer vorne montierten Spezialversion eines Turbolasers ausgestattet. Es wird davon ausgegangen, dass dein Schiff die Konstitutionsvoraussetzungen für diese Waffe erfüllt, unabhängig vom Konstitutionsfähigkeitswert deines Schiffes. Der von diesem Turbolaser verursachte Schaden beträgt 3d12.</p>>\r\n<p>Diese Waffe nutzt keinen Waffen-Hardpoint und zählt nicht als solcher.</p>"
+				},
+				{
+					"id": "P2cJTyboU0Xsjq5n",
+					"name": "Überlegene Feuerkraft",
+					"description": "<p>Auch auf Stufe 1 kann die Feuerkraft deines Raumschiffs größere Schiffe überwältigen.</p>\r\n<p>Wenn ein Besatzungsmitglied einem großen oder größeren Schiff mit einer Schiffswaffe Schaden zufügt, kann das Besatzungsmitglied den Schaden erhöhen, indem es einen Würfel für Überlegene Feuerkraft (d4) wirft und ihn zum Schadenswurf hinzufügt (keine Aktion erforderlich).</p>\r\n<p>Der Würfel für die Überlegene Feuerkraft eines Schiffes ändert sich, wenn es bestimmte Stufen erreicht. Der Würfel wird bei Stufe 2 zu einem d6, bei Stufe 3 zu einem d8, bei Stufe 4 zu einem d10 und bei Stufe 5 zu einem d12.</p>>\r\n<p>Diese Funktion kann so oft verwendet werden, wie es der dreifachen Stufe deines Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff aufgeladen wird.</p>"
+				},
+				{
+					"id": "db0LHu2rFIbO98e6",
+					"name": "Superwaffe",
+					"description": "<p>Auch auf Stufe 3 ist dein Schiff mit einer Superwaffe ausgestattet. Als Aktion kann ein eingesetzter Operator die Superwaffe aktivieren, die, wie in Kapitel 9 beschrieben, einen begrenzten Feuerbogen hat. Wenn sie aktiviert wird, schießt ein Strahl zerstörerischer Energie, der eine Linie von 10.000 Fuß Länge und 100 Fuß Breite bildet, aus der Waffe. Jedes Schiff in der Linie muss einen Geschicklichkeitswurf machen (DC = 8 + Fertigkeitsbonus des Besatzungsmitglieds + Stärke-Modifikator des Schiffs). Bei einem misslungenen Rettungswurf erleidet das Schiff 15d10 Energieschaden, bei einem erfolgreichen Wurf die Hälfte davon.</p>>\r\n<p>Wenn diese Fähigkeit einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "b9bkZCxfdHdm4Axx",
+					"name": "Taktischer Rückzug",
+					"description": "<p>Auch auf Stufe 4 kann ein Besatzungsmitglied, wenn es bei einer Intelligenzüberprüfung (Astrogation) eine 1 würfelt, um die Astrogation zu berechnen, oder bei einem Konstitutionsrettungswurf, um den Hyperantriebsstart aufrechtzuerhalten, den Würfel neu werfen. Sie müssen den neuen Wurf verwenden.</p>"
+				},
+				{
+					"id": "tvmpW08rASQAN647",
+					"name": "Das beste Schiff im Verse",
+					"description": "<p>Auch auf der 5. Stufe kann ein eingesetztes Besatzungsmitglied als Aktion dem Schiff für 1 Minute Resistenz gegen nicht verstärkten Schaden durch Schiffswaffen verleihen.</p>\r\n<p>Dieser Effekt endet vorzeitig, wenn das Schiff deaktiviert wird. Wurde diese Eigenschaft einmal genutzt, kann sie erst wieder verwendet werden, wenn das Schiff wieder aufgeladen ist.</p>"
+				},
+				{
+					"id": "oJewN8Cxqnzjz52G",
+					"name": "Vielseitiger Kreuzer",
+					"description": "<p>Ab der 3. Stufe kann ein Besatzungsmitglied, wenn es eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf durchführt, seine Reaktion einsetzen, um einen Vorteil bei dem Wurf zu haben. Ein Besatzungsmitglied kann diese Eigenschaft wählen, nachdem es seinen Wurf gemacht hat, aber bevor der Spielleiter sagt, ob der Wurf erfolgreich war oder nicht.</p>\r\n<p>Diese Eigenschaft kann so oft eingesetzt werden, wie es dem 2fachen Rang des Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "8a0Au46c4o1abU9F",
+					"name": "Vielseitiger Dreadnought",
+					"description": "<p>Ab dem 3. Rang kann ein Besatzungsmitglied, wenn es eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf durchführt, seine Reaktion einsetzen, um bei dem Wurf einen Vorteil zu haben. Ein Besatzungsmitglied kann diese Funktion nutzen, nachdem es seinen Wurf gemacht hat, aber bevor der Spielleiter sagt, ob der Wurf erfolgreich war oder nicht.</p>\r\n<p>Diese Eigenschaft kann so oft eingesetzt werden, wie es dem 2fachen Rang des Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+				},
+				{
+					"id": "WVWEADTBJgfx4lyK",
+					"name": "Vielseitige Fregatte",
+					"description": "<p>Ab dem 3. Rang kann ein Besatzungsmitglied, wenn es mit dem Schiff eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf durchführt, seine Reaktion einsetzen, um bei dem Wurf einen Vorteil zu haben. Ein Besatzungsmitglied kann sich entscheiden, diese Eigenschaft zu nutzen, nachdem es seinen Wurf gemacht hat, aber bevor der Spielleiter sagt, ob der Wurf erfolgreich war oder nicht.</p>\r\n<p>Diese Eigenschaft kann so oft eingesetzt werden, wie es der dreifachen Schiffsklasse entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "coOEQY872uAvwrPe",
+					"name": "Vielseitiger Snubfighter",
+					"description": "<p>Ab dem 3. Rang kann ein eingesetztes Besatzungsmitglied, wenn es eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf durchführt, seine Reaktion einsetzen, um bei dem Wurf einen Vorteil zu haben. Ein eingesetztes Besatzungsmitglied kann sich entscheiden, diese Eigenschaft zu nutzen, nachdem es seinen Wurf gemacht hat, aber bevor der GM sagt, ob der Wurf erfolgreich war oder nicht.</p>\r\n<p>Diese Eigenschaft kann so oft verwendet werden, wie es der Stufe des Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
+				},
+				{
+					"id": "OiZHrN5BsNYW1W3F",
+					"name": "Vielseitiger Transport",
+					"description": "<p>Ab der 3. Stufe kann ein eingesetztes Besatzungsmitglied, wenn es eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf durchführt, seine Reaktion einsetzen, um bei dem Wurf einen Vorteil zu haben. Ein eingesetztes Besatzungsmitglied kann sich entscheiden, diese Eigenschaft zu nutzen, nachdem es seinen Wurf gemacht hat, aber bevor der GM sagt, ob der Wurf erfolgreich war oder nicht.</p>\r\n<p>Diese Eigenschaft kann so oft eingesetzt werden, wie es dem 2fachen Rang des Schiffes entspricht. Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff neu ausgerüstet wird.</p>"
+				}
+			]
+		}

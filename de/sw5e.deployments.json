@@ -1,0 +1,29 @@
+{
+	"label": "Stationierung",
+	"entries": [
+		{
+			"id": "hx1NvLOzuEscPrJf",
+			"name": "Koordinator"
+		},
+		{
+			"id": "8B0449FqtXP02WVs",
+			"name": "Kanonier"
+		},
+		{
+			"id": "NCOjzgFbOg6DsjSF",
+			"name": "Mechaniker"
+		},
+		{
+			"id": "6t3DOvGdpOMkYUtI",
+			"name": "Betreiber"
+		},
+		{
+			"id": "TuvDqpPYOvnUGIoQ",
+			"name": "Pilot"
+		},
+		{
+			"id": "goeBsNfPxPVrNanH",
+			"name": "Techniker"
+		}
+	]
+}

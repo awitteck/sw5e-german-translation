@@ -1,0 +1,310 @@
+{
+	"label": "Wagnisse",
+	"entries": [
+				{
+					"id": "dhvjTcuHf2Np6DcZ",
+					"name": "Analytischer Koordinator",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Stufe in Gelehrter</em></p><p>Wenn ein Verbündeter eine Fähigkeitsüberprüfung oder einen Angriffswurf durchführt, der von deiner Direkten Aktion betroffen ist, und er auch das Ziel deiner Klassenfunktion Kritische Analyse ist, kann er ebenfalls einen Würfelwurf machen und ihn zu der Fähigkeitsüberprüfung oder dem Angriffswurf hinzufügen.</p>"
+				},
+				{
+					"id": "PTAgOkWW8iF5TnkW",
+					"name": "Kalkulierender Kanonier",
+					"description": "Wenn du einen Angriffswurf mit einer sekundären Schiffswaffe machst, kannst du deinen Intelligenzmodifikator anstelle des Intelligenzmodifikators des Schiffes für die Angriffswürfe verwenden.</p>"
+				},
+				{
+					"id": "3Vmv4bRSE2q12dkQ",
+					"name": "Verbrennende Salve",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Tech-Kräfte zu wirken, mindestens 1 Rang im Schützen</em></p><p>Einmal pro Runde, wenn du ein Ziel mit einem Schiffsangriff mit einer Primär- oder Sekundärwaffe triffst, kannst du als Reaktion einen Tech-Punkt ausgeben, um dem Ziel zu Beginn deiner nächsten Runde Feuerschaden in Höhe deines Modifikators für die Fähigkeit Tech-Wirken zuzufügen. </p>"
+				},
+				{
+					"id": "TkdGlKE4PQJmJ5f9",
+					"name": "Konterlokführer",
+					"description": "Wenn du das Ziel der Aktion Einmischen bist und zu einer Weisheitsprüfung (Scannen) gezwungen wirst, hast du, wenn du die Prüfung bestehst, einen Vorteil bei der nächsten Charismaprüfung (Einmischen), die du vor dem Ende deines nächsten Zuges machst.</p>"
+				},
+				{
+					"id": "ItEBs8d4m8E9Iyry",
+					"name": "Gerissener Operator",
+					"description": "Wenn du die Aktion Einmischen ausführst und die Anfechtung misslingt, kannst du deine Bonusaktion nutzen, um die Prüfung gegen dasselbe Ziel zu wiederholen.</p>>"
+				},
+				{
+					"id": "nJeEMiSReNAG8rSr",
+					"name": "Diamant-Einsatz",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 14 Stufen in Mönch</em></p><p>Wenn dein Schiff im Einsatz einen Rettungswurf nicht besteht, kannst du 1 Fokuspunkt ausgeben, um den Würfel erneut zu werfen.</p>"
+				},
+				{
+					"id": "RQIMrS2H0LlwpYbR",
+					"name": "Dogfighter Überlegenheit",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Kämpfer</em></p><p>Wenn du einen Würfel verbrauchst, der dir durch deinen Einsatz gewährt wird, wirfst du den Würfel ganz normal, kannst ihn aber stattdessen von deinem Pool an Überlegenheitswürfeln abziehen.</p>"
+				},
+				{
+					"id": "30OjHPm2Xh2hV1bw",
+					"name": "Doppelte Rollen",
+					"description": "Wenn du eine Doppelrolle einnimmst, wähle eine sekundäre Aufstellung. Wenn du in deiner primären Aufstellung einen Rang vorrückst, darfst du ein Manöver aus deiner sekundären Aufstellung anstelle deiner primären Aufstellung wählen.</p>"
+				},
+				{
+					"id": "OTC9779u1CU4M3wW",
+					"name": "Erfahrener Aufschlitzer",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Operator</em></p><p>Beim Festlegen des Schutz-DCs für Störungen deines Operators und jedes Mal, wenn eine Störung den Charisma-Modifikator deines Schiffs verwendet, darfst du die Hälfte deines Intelligenz-Modifikators hinzufügen.</p>"
+				},
+				{
+					"id": "Nr2aqIzrnxbTAq5O",
+					"name": "Explosive Gambits",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 3 Ränge in Kanonier</em></p><p>Einmal pro Runde, wenn du das Maximum auf einen Gambit-Würfel wirfst, darfst du einen zusätzlichen Würfel werfen und zu dem Wurf hinzufügen.</p>"
+				},
+				{
+					"id": "yprQDRJWb5DhdTtC",
+					"name": "Feuersturm",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Mönch</em></p><p>Unmittelbar nachdem du die Aktion Feuer ausgeführt hast, kannst du 1 Fokuspunkt ausgeben, um einen zusätzlichen Angriff als Bonusaktion durchzuführen. Dieser zusätzliche Angriff muss mit einer Primärwaffe ausgeführt werden.</p>"
+				},
+				{
+					"id": "e1cGetXnR5RVzkDf",
+					"name": "Macht-Pilotierung",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Kraftkräfte zu wirken</em></p><p>Wenn du an Bord deines Schiffes eine Geschicklichkeitsüberprüfung machst, kannst du zu deinem Ergebnis die Hälfte (aufrunden) deines Weisheits- oder Charisma-Modifikators (nach deiner Wahl) addieren. Zusätzlich kannst du die Hälfte (aufrunden) deines Weisheits- oder Charisma-Modifikators (deiner Wahl) zum AC deines Schiffes addieren, während du als Pilot eingesetzt wirst.</p>"
+				},
+				{
+					"id": "LD0uyH5xj6zREyWY",
+					"name": "Kraftverstärkte Genauigkeit",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Konsular</em></p><p>Einmal pro Runde, wenn du mit einem Schiffsangriff daneben schießt oder wenn ein Ziel einen Rettungswurf gegen eine Schiffswaffe schafft, kannst du 1 Kraftpunkt ausgeben, um den Würfel neu zu werfen. Du musst den neuen Wurf verwenden.</p>"
+				},
+				{
+					"id": "GYBpaH88JnqON5a6",
+					"name": "Machtgestütztes Sprengen",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Beschützer</em></p><p>Einmal pro Runde, wenn du mit einer Schiffswaffe Schaden verursachst, kannst du 1 Kraftpunkt ausgeben, um dem Ziel zusätzlich 1d8 Schaden zuzufügen. Der Schaden ist vom gleichen Typ wie der Schaden der Waffe.</p>"
+				},
+				{
+					"id": "zTgZVw4RFiAZDYoc",
+					"name": "Kraftverstärktes Schießen",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Wächter</em></p><p>Wenn du die Aktion Feuer ausführst, kannst du 1 Kraftpunkt ausgeben und deine Bonusaktion nutzen, um einen zusätzlichen Angriff durchzuführen. Dieser zusätzliche Angriff muss mit einer Primärwaffe ausgeführt werden.</p>"
+				},
+				{
+					"id": "JREOCyLjoDkCyCoX",
+					"name": "Wütender Schütze",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Stufe in Berserker</em></p><p>Während du wütest und eine Primärwaffe abfeuerst, kannst du einen Malus auf deinen Angriffswurf in Höhe deines Wut-Schadensbonus hinnehmen und den doppelten Betrag zum Schadenswurf bei einem Treffer hinzufügen.</p>"
+				},
+				{
+					"id": "PErA9WrdfMk8H3Wq",
+					"name": "Größeres Spacecasting",
+					"description": "<p><em><strong>Voraussetzung:</strong> Verbessertes Wagnis der Weltraumwirkung</em></p><p>Wenn du an Bord deines Schiffes und im Weltraum eine Kraft- oder Tech-Macht wirkst, wird die Reichweite der Macht stattdessen mit 100 multipliziert. Du kannst eine feindliche Kreatur nur dann mit einer Kraft anvisieren, wenn du dir ihrer Anwesenheit und ihres Standorts bewusst bist.</p>"
+				},
+				{
+					"id": "A7wMSHk58PwFvoeL",
+					"name": "Kanonier-Adept",
+					"description": "<p><em><strong>Voraussetzung:</strong> 2. Rang</em></p><p>Du hast ein Schützentraining, das dir erlaubt, spezielle Kampfgambits auszuführen. Du erlernst zwei Gambits deiner Wahl aus den Gambits, die dem Scharfschützeneinsatz zur Verfügung stehen. </p>"
+				},
+				{
+					"id": "IgzI7pPKUTkzKjwt",
+					"name": "Meister der Schießkunst",
+					"description": "<p><em><strong>Voraussetzung:</strong> 5. Rang</em></p><p>Du beherrschst einen bestimmten Stil des Schießens. Wähle eine der Optionen für die Beherrschung des Schießens, die später in diesem Kapitel beschrieben werden. Du kannst eine Waffenmeisterschaftsoption nicht mehr als einmal wählen, auch wenn du sie später noch einmal wählen darfst. Du kannst dieses Vorhaben mehrmals wählen. </p>"
+				},
+				{
+					"id": "2PyiTCJJuJyFIqF6",
+					"name": "Schieß-Stylist",
+					"description": "<p><em><strong>Voraussetzung:</strong> 3. Rang</em></p><p>Du wählst einen bestimmten Schießstil als deine Spezialität. Wähle eine der Optionen für einen Waffenstil, die später in diesem Kapitel beschrieben werden. Du kannst einen Waffenstil nicht mehr als einmal wählen, auch wenn du ihn später noch einmal wählen kannst. Du kannst dieses Wagnis mehrmals wählen. </p>"
+				},
+				{
+					"id": "ErMXwjzLHB7aWYVT",
+					"name": "Heißer Draht",
+					"description": "Wenn du an Bord deines Schiffes einen Konstitutions-Check (Patch) machen würdest, kannst du stattdessen einen Intelligenz-Check (Mechanic's Kit) machen.</p>"
+				},
+				{
+					"id": "l1eQtSgsUMMQef25",
+					"name": "Verbessertes Spacecasting",
+					"description": "<p><em><strong>Voraussetzung:</strong> Spacecasting-Abenteuer</em></p><p>Wenn du an Bord deines Schiffes und im Weltraum eine Kraft- oder Tech-Macht wirkst, wird die Reichweite der Macht stattdessen mit 10 multipliziert. Du kannst eine feindliche Kreatur nicht mit einer Kraft anvisieren, es sei denn, du bist dir ihrer Anwesenheit und ihres Standorts bewusst.</p>"
+				},
+				{
+					"id": "rSOjOPxD49soIMaM",
+					"name": "Unbezwingbares Raumschiff",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 9 Stufen in Kämpfer</em></p><p>Wenn dein Schiff im Einsatz einen Rettungswurf nicht besteht, kannst du dein Klassenmerkmal Unbeugsamkeit einsetzen, um den Würfelwurf zu wiederholen.</p>"
+				},
+				{
+					"id": "WtrQOrZ6YT4fcHSa",
+					"name": "Schiffswaffe infundieren",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Ingenieur</em></p><p>Schiffswaffen werden zu gültigen Zielen für deine Klassenfunktion \"Gegenstand einführen\".</p>"
+				},
+				{
+					"id": "TbgfiuUrcqaQ56vA",
+					"name": "Intuitiver Schütze",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Kraftmächte zu wirken</em></p><p>Wenn du den Schutz-DC für eine tertiäre Schiffswaffe bestimmst, während du dich auf einem mittleren oder kleineren Schiff befindest, kannst du die Hälfte deines Weisheits- oder Charisma-Modifikators (deiner Wahl) zum Schutz-DC addieren. </p>"
+				},
+				{
+					"id": "drTe0erGKuBdZvd8",
+					"name": "Bube für alle Rollen",
+					"description": "<p><em><strong>Voraussetzung:</strong> 5. Rang, Mehrrollen-Abenteuer</em></p><p>Während einer langen Pause kannst du eine Anzahl von Manövern, die du kennst, bis zu deinem Intelligenzmodifikator (mindestens 1) gegen eine gleiche Anzahl von Manövern aus anderen Einsätzen austauschen. </p>"
+				},
+				{
+					"id": "EjFWpOkDM9DDrWMO",
+					"name": "Scharfes Auge",
+					"description": "<p><em><strong>Voraussetzung:</strong> 4. Rang</em></p><p>Wenn du die Aktion Suchen ausführst und eine Weisheitsprüfung (Scannen) oder eine Intelligenzprüfung (Sonde) mit Hilfe der Scanner deines Schiffes erfolgreich ablegst, kannst du bestimmte Informationen über ein Ziel in Erfahrung bringen, sofern sie dir bekannt sind. Der Spielleiter sagt dir, ob das Schiff deinem Schiff in einer der folgenden Eigenschaften deiner Wahl gleichwertig, überlegen oder unterlegen ist:<ul><li>Ein beliebiger Fähigkeitswert</li><li>Rüstungsklasse</li><li>Aktuelle Gesamtpunkte für Hülle und Schilde</li><li>Aktueller Schildwürfeltyp und -anzahl sowie Schildregenerationsrate</li><li>Gesamtschiffsrang (falls vorhanden)</li><li>Gesamte Einsatzränge (falls vorhanden)</li></ul></p>"
+				},
+				{
+					"id": "A6I7VApYuQI0p8LE",
+					"name": "Legendäres Multitasking",
+					"description": "<p><em><strong>Voraussetzung:</strong> 5. Rang, geteiltes fokussiertes Wagnis</em></p><p>Wenn du ein Schiff bedienst, erhältst du eine zweite Aktion, die du mit dem Schiff ausführen kannst.</p>"
+				},
+				{
+					"id": "0scqI7Y5e2VsEjgU",
+					"name": "Legendäres Spacecasting",
+					"description": "<p><em><strong>Voraussetzung:</strong> Wagnis \"Meister der Raumwirkung\"</em></p><p>Wenn du an Bord deines Schiffes und im Weltraum eine Kraft oder Tech-Macht wirkst, die einen Bereich betrifft, werden die Dimensionen des Bereichs stattdessen mit 1.000 multipliziert.</p>"
+				},
+				{
+					"id": "ks1XMj0qAeKZX3cr",
+					"name": "Meisterliches Spacecasting",
+					"description": "<p><em><strong>Voraussetzung:</strong> Großes Wagnis der Raumwirkung</em></p><p>Wenn du an Bord deines Schiffes und im Weltraum eine Kraft- oder Tech-Macht wirkst, wird die Reichweite der Macht stattdessen mit 1.000 multipliziert. Du kannst eine feindliche Kreatur nur dann mit einer Kraft anvisieren, wenn du dir ihrer Anwesenheit und ihres Standorts bewusst bist.</p>>"
+				},
+				{
+					"id": "6AtbJ4PKePAUc4M0",
+					"name": "Multi-Rollen",
+					"description": "<p><em><strong>Voraussetzung:</strong> Dual Roles Venture</em></p><p>Wenn du in deinem primären Einsatz einen Rang aufsteigst, darfst du ein Manöver aus einem beliebigen Einsatz anstelle deines primären Einsatzes wählen.</p>"
+				},
+				{
+					"id": "JH5YHT1JawypbHGD",
+					"name": "Multitasker",
+					"description": "Wenn du ein Schiff bedienst, erhältst du eine zweite Reaktion, die du mit dem Schiff ausführen kannst.</p>"
+				},
+				{
+					"id": "XNhgOjpzpcETVVAx",
+					"name": "Natürlicher Aufschneider",
+					"description": "Immer wenn du einen Charisma-Check (Einmischen) machst, darfst du stattdessen einen Intelligenz-Check (Schneidewerkzeuge) machen.</p>"
+				},
+				{
+					"id": "68gm4jJt2g2an572",
+					"name": "Scharfsinniger Techie",
+					"description": "Wenn du an Bord deines Schiffes eine Überprüfung auf Weisheit (Scannen) oder Intelligenz (Probe) durchführst, darfst du deinen Weisheitsmodifikator anstelle des Fähigkeitsmodifikators deines Schiffes verwenden.</p>"
+				},
+				{
+					"id": "fEI7hwGbDzBDfdke",
+					"name": "Anhaltende Störung",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 3 Ränge in Operator</em></p><p>Wenn du die Aktion Einmischen ausführst und dabei erfolgreich bist, hat das Ziel bis zum Ende deines nächsten Zuges einen Nachteil bei der nächsten Charisma-Überprüfung (Einmischen).</p>"
+				},
+				{
+					"id": "N9WaiwtgA6nRulAw",
+					"name": "Pilot Adept",
+					"description": "<p><em><strong>Voraussetzung:</strong> 2. Rang</em></p><p>Du hast eine Pilotenausbildung, die es dir erlaubt, spezielle Kampftaktiken anzuwenden. Du erlernst zwei Taktiken deiner Wahl aus den für den Piloteneinsatz verfügbaren Taktiken. </p>"
+				},
+				{
+					"id": "2Irn12psV0MHffd4",
+					"name": "Pilot in Ausbildung",
+					"description": "Wenn du während deines Einsatzes als Pilot eine Geschicklichkeitsüberprüfung machst, kannst du deinen Fertigkeitsbonus zu deinen Überprüfungen addieren, wenn du dies nicht bereits tust.</p>"
+				},
+				{
+					"id": "VHtQNIaz75e9MEHQ",
+					"name": "Präzisionsschütze",
+					"description": "Wenn du einen Angriffswurf mit einer primären Schiffswaffe machst, während du dich auf einem mittleren oder kleineren Schiff befindest, kannst du deinen Geschicklichkeitsmodifikator anstelle des Intelligenzmodifikators des Schiffs für die Angriffswürfe verwenden.</p>"
+				},
+				{
+					"id": "5ocdFyhyQPBqjj9J",
+					"name": "Rücksichtsloses Ramming",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Berserker</em></p><p>Wenn du die Aktion Rammbock ausführst, kannst du alle Bedenken bezüglich der Verteidigung über Bord werfen und mit wilder Verzweiflung angreifen. Das Ziel hat einen Nachteil bei der Geschicklichkeitsprüfung (Manöver), und du verursachst zusätzlichen Schaden in Höhe deines Wut-Schadensbonus. Der erste Angriffswurf gegen dein Schiff vor dem Beginn deines nächsten Zuges hat Vorteil.</p>"
+				},
+				{
+					"id": "9L2LihZWReZzksed",
+					"name": "Wiederkehrende Reparaturen",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 3 Ränge in Mechanik</em></p><p>Wenn du bei einer Konstitutions-(Flicken)-Überprüfung als Teil einer Flicken-Aktion, die du machst, erfolgreich bist, hast du Vorteil bei der nächsten Konstitutions-(Flicken)-Überprüfung, die du als Teil der Flicken-Aktion, die du machst, vor dem Ende deines nächsten Zuges machst.</p>"
+				},
+				{
+					"id": "H6qXSuLUO0Yxpl80",
+					"name": "Einfallsreicher Boost",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Mechanik</em></p><p>Einmal pro Runde, wenn du deine Eigenschaft Systemverstärkung einsetzt, kannst du den Tech-Würfel zweimal werfen und eines der Ergebnisse nehmen.</p>"
+				},
+				{
+					"id": "p9RR1JJzHxqI04SP",
+					"name": "Einfallsreiche Anzeige",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Koordinator</em></p><p>Einmal pro Runde, wenn du oder ein Verbündeter mit deinem Inspirierende Anzeige-Würfel eine Inspirierende Anzeige würfelst, können sie den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+				},
+				{
+					"id": "Do4ZGW8VensNJzoU",
+					"name": "Einfallsreiche Störung",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Operator</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel als Teil der Störung eines Operators wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+				},
+				{
+					"id": "UOxpXRC2MCCx8DYP",
+					"name": "Einfallsreiche Gambits",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Gunner</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel für ein Gunner's Gambit wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+				},
+				{
+					"id": "q9BXIUW2jbMIoDvU",
+					"name": "Einfallsreiche Taktik",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Pilot</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel als Teil einer Pilotentaktik wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+				},
+				{
+					"id": "Ws9tdDqC5rdi8S8L",
+					"name": "Einfallsreicher Techniker",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Techniker</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel als Teil einer Techniker-Strategie wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+				},
+				{
+					"id": "FGQRhvmHD3GLtjbx",
+					"name": "Reimsalve",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Tech-Kräfte zu wirken, mindestens 1 Rang im Schützen</em></p><p>Einmal pro Runde, wenn du ein Ziel mit einem Schiffsangriff aus einer Primär- oder Sekundärwaffe triffst, darfst du eine Reaktion verwenden, um einen Tech-Punkt auszugeben, damit das Ziel bis zum Ende seiner Runde um 1 Stufe verlangsamt wird, während die Hülle in eiskaltes Karbonit gehüllt wird.</p>"
+				},
+				{
+					"id": "UcE2oiQHyVRWzn00",
+					"name": "Scanner-Spezialist",
+					"description": "Wenn du die Aktion \"Suchen\" ausführst, hast du einen Vorteil bei Weisheits- (Scannen) und Intelligenz- (Sondieren) Überprüfungen, die sich auf den Scanner stützen.</p>"
+				},
+				{
+					"id": "XCfImlUdBzvW8UGp",
+					"name": "Gerissener Verhörspezialist",
+					"description": "Wenn du an Bord deines Schiffes eine Überprüfung auf Weisheit (Einsicht) oder Charisma (Täuschung) durchführst, darfst du deinen Intelligenz-Modifikator anstelle deines Weisheits- oder Charisma-Modifikators verwenden. </p>"
+				},
+				{
+					"id": "Ks8TffMcgBcJFPSm",
+					"name": "Schlüpfriger Pilot",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Operativ</em></p><p>Deine schnelle Auffassungsgabe und Beweglichkeit erlauben es dir, schnell zu handeln und dein Schiff zu bewegen. Du kannst in jeder deiner Runden im Kampf eine Bonusaktion ausführen. Diese Aktion kann nur verwendet werden, um die Aktionen \"Hetzen\", \"Ausweichen\" oder \"Verstecken\" auszuführen.</p>>"
+				},
+				{
+					"id": "r0as3L57tmg0kcdM",
+					"name": "Schleichende Schießerei",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Stufe in Operativ</em></p><p>Einmal pro Runde kannst du einem Schiff, das du mit einem Schiffsangriff triffst, zusätzlich 1d6 Schaden zufügen, wenn du beim Angriffswurf im Vorteil bist.  Du kannst dieses Wagnis mehrere Male wählen.</p>"
+				},
+				{
+					"id": "IYISdGaTflGHxJSY",
+					"name": "Weltraumforscher",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Stufe in Späher</em></p><p>Während deines Einsatzes erstrecken sich Teile deines Klassenmerkmals \"Geschickter Entdecker\" auf dein Schiff:<ul><li>Dein Schiff wird durch schwieriges Gelände nicht verlangsamt.</li><li>Dein Schiff kann sich nicht mit unverbesserlichen Mitteln verirren.</li><li>Dein Schiff kann sich verstohlen mit normaler Geschwindigkeit bewegen.</li></ul></p>"
+				},
+				{
+					"id": "ECGFElbSJoH7YoWh",
+					"name": "Spacecasting",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Kraft- oder Tech-Kräfte zu wirken</em></p><p>Wenn du an Bord deines Schiffes und im Weltraum eine Kraft- oder Tech-Kraft wirkst, wird die Reichweite der Kraft mit 2 multipliziert. Du kannst eine feindliche Kreatur nur dann mit einer Kraft anvisieren, wenn du dir ihrer Anwesenheit und ihres Standorts bewusst bist.</p>"
+				},
+				{
+					"id": "f4x0mJvFucA7oyaP",
+					"name": "Split fokussiert",
+					"description": "<p><em><strong>Voraussetzung:</strong> Multitasker-Abenteuer</em></p><p>Wenn du ein Schiff bedienst, erhältst du eine zweite Bonusaktion, die du mit dem Schiff ausführen kannst.</p>"
+				},
+				{
+					"id": "3fHlNmzGAt2OkCte",
+					"name": "Stürmender Kanonier",
+					"description": "Du kannst deine immense Stärke nutzen, um Primärwaffen mit den Eigenschaften Burst, Rapid oder Saturate zu stabilisieren.  Wenn du auf einem mittleren oder kleineren Schiff einen Angriffswurf mit einer primären Schiffswaffe mit mindestens einer dieser Eigenschaften durchführst, kannst du deinen Stärke-Modifikator anstelle des Intelligenz-Modifikators des Schiffes für die Angriffswürfe oder die Festlegung des DC für die Schutzwürfe der Ziele verwenden.</p>"
+				},
+				{
+					"id": "jNoh3rqIqdTo9IX1",
+					"name": "Alleine stark, gemeinsam noch stärker",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 3 Ränge in Koordinator</em></p><p>Wenn du die Aktion Direkt ausführst, hast du Vorteil bei der nächsten Fähigkeitsprüfung oder dem nächsten Rettungswurf, den du vor Beginn deines nächsten Zuges machst.</p>"
+				},
+				{
+					"id": "g3nhoUfyGnuFstUg",
+					"name": "Taktische Überlegenheit",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Gelehrter</em></p><p>Wenn du einen Machtwürfel verbrauchst, wirfst du den Würfel ganz normal, kannst ihn aber stattdessen von deinem Pool an Überlegenheitswürfeln abziehen.</p>"
+				},
+				{
+					"id": "cdJIX7FymQXYn5TZ",
+					"name": "Zielgerichtete Salve",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Tech-Kräfte zu wirken, mindestens 1 Rang in Schütze</em></p><p>Einmal pro Runde, wenn du ein Ziel mit einem Schiffsangriff aus einer Primär- oder Sekundärwaffe triffst, darfst du als Reaktion einen Tech-Punkt ausgeben, um das Ziel nur für dich sichtbar zu markieren. Der nächste Angriffswurf, den du vor dem Ende deines nächsten Zuges gegen das Schiff machst, darf nicht von Nachteil sein.</p>>"
+				},
+				{
+					"id": "uWRzpIJBC4QBFfg3",
+					"name": "Die Nadel einfädeln",
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 3 Ränge in Pilot</em></p><p>Wenn du die Aktion \"Ausweichen\" ausführst, kannst du die Vorteile von \"Ausweichen\" nur gegen ein einziges Ziel nutzen, um den Nachteil bei einer Fertigkeitsprüfung oder einem Angriffswurf deines Schiffes oder einer Person darauf zu vermeiden.</p>"
+				},
+				{
+					"id": "B21ZmA0ZJG5xYsDM",
+					"name": "Waffenverbesserung",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Tech-Kräfte der Stufe 3 zu wirken</em></p><p>Eine nicht verbesserte Schiffswaffe auf deinem Schiff wird zu einer verbesserten Waffe. Wähle eine der folgenden Schadensarten: Säure, Kälte, Energie, Feuer, Ionen, Kinetisch oder Blitz. Für die Dauer der Umwandlung erhält eine nicht verbesserte Schiffswaffe, die du berührst, +1 auf Angriffswürfe und verursacht zusätzlich 1d4 Schaden des gewählten Typs.</p>"
+				},
+				{
+					"id": "e9gE2Mr9Hu48qP2F",
+					"name": "Überhitzung der Waffe",
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Tech-Kräfte der 2. Stufe zu wirken</em></p><p>Als Bonusaktion kannst du drei Tech-Punkte ausgeben, um eine Schiffswaffe an deinem Schiff zu verstärken. Für die Dauer dieser Aktion kannst du die Waffe einmal pro Runde abkühlen, ohne eine Aktion zu benutzen, und als Bonusaktion kannst du in jeder deiner Runden einen Angriff mit der Waffe durchführen.</p>"
+				}
+			]
+		}

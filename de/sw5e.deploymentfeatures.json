@@ -1,0 +1,550 @@
+{
+    "label": "Stationierungsmerkmale",
+    "entries": [
+        {
+            "id": "dSMbwvdqRmrHWvwl",
+            "name": "Winkeldeflektorschilde",
+            "description": "<p><em><strong>Power Die Location:</strong> Schilde</em><br>Wenn du von einem Schiffsangriff getroffen wirst, kannst du als Reaktion einen Machtwürfel ausgeben, um einen Teil des Aufpralls umzulenken. Verringere den von deinen Schilden absorbierten Schaden um den mit dem Energiewürfel gewürfelten Wert plus den Intelligenzmodifikator des Schiffes.</p>"
+        },
+        {
+            "id": "JY0Pb98JhGUAyGeU",
+            "name": "Angriffsmuster Delta",
+            "description": "<p><em><strong>Power Die Location:</strong> Triebwerke</em><br>Wenn dein Schiff einen Schiffsangriff durchführt, während sich ein befreundetes Schiff im Umkreis von 100 Fuß befindet, kannst du einen Power Die ausgeben, um einen Vorteil beim Wurf zu erhalten. Wenn der Angriff trifft, addiere das Ergebnis des Würfels zum Schadenswurf des Angriffs.</p>"
+        },
+        {
+            "id": "OzcohUskPdHG9wId",
+            "name": "Kampfstationen",
+            "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br>Wenn du zu Beginn des Kampfes überrascht wirst und nicht handlungsunfähig bist, kannst du einen Power Die ausgeben, um normal zu handeln. Zusätzlich kannst du in deinem ersten Zug im Kampf als Bonusaktion eine Anzahl von Kreaturen in Höhe der gewürfelten Augenzahl des Machtwürfels wählen, die dich sehen oder hören können, um in ihrem ersten Zug normal zu handeln.</p>"
+        },
+        {
+            "id": "akxzwk9XmNTX9KMU",
+            "name": "Bolster",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Kommunikation</em><br> In deinem Zug kannst du deine Aktion nutzen und einen Kraftwürfel ausgeben, um die Entschlossenheit der Besatzung deines oder eines anderen verbündeten Schiffs zu stärken. Das Schiff erhält vorübergehend Trefferpunkte in Höhe des gewürfelten Machtwürfels + dein Charisma-Modifikator.</p>"
+        },
+        {
+            "id": "9hfNnkr1SKOCZknx",
+            "name": "Für den Aufprall vorbereiten",
+            "description": "<p><em><strong>Machtwürfel Standort:</strong> Schilde</em><br>Wenn du auf null Schilde reduziert wirst, kannst du als Reaktion einen Machtwürfel ausgeben, um deine Schilde stattdessen auf eins zu reduzieren.</p>"
+        },
+        {
+            "id": "aaJBvhIo9mFBaU4U",
+            "name": "Breche die Sperre auf",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Triebwerke</em><br>Wenn das Schiff einen Rettungswurf auf Stärke, Geschicklichkeit oder Konstitution nicht besteht, kannst du als Reaktion einen Kraftwürfel ausgeben, um zu versuchen, sich zu erholen. Wirf den Würfel und addiere das Ergebnis zu deinem Rettungswurf.</p>"
+        },
+        {
+            "id": "hbxNu6cTyA58N6hM",
+            "name": "Bringt sie wieder hoch!",
+            "description": "<p><em><strong>Kräftewürfel Standort:</strong> Schilde</em><br>Wenn du keine Schilde hast, kannst du als Aktion einen Energiewürfel ausgeben, um einen Schildwürfel zu benutzen, um deine Schilde mit einem Wert gleich der Regenerationsrate deines Schiffes plus dem gewürfelten Wert des Energiewürfels wieder online zu bringen.</p>"
+        },
+        {
+            "id": "VMOayuwvc9eD754b",
+            "name": "Brutal kritisch",
+            "description": "<p>Auch im 3. Rang kannst du ein zusätzliches Mal mit den Waffenschadenswürfeln würfeln, um den zusätzlichen Schaden für einen kritischen Treffer mit einer Schiffswaffe zu bestimmen.</p>"
+        },
+        {
+            "id": "2FXFUjMbxTFaisyv",
+            "name": "Ruf nach Verstärkung",
+            "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br>Wenn ein Schiff einen Angriffswurf gegen dein Schiff macht, kannst du deine Reaktion einsetzen und einen Power Die ausgeben und einem anderen willigen verbündeten Schiff im Umkreis von 300 Fuß um das feindliche Schiff befehlen, einzugreifen. Ein Besatzungsmitglied dieses verbündeten Schiffes, das eine Waffenstation besetzt, muss dazu seine Reaktion einsetzen. Das feindliche Schiff ist dann gezwungen, stattdessen einen Angriff auf das verbündete Schiff durchzuführen. Wenn der Angriff fehlschlägt, kann das Besatzungsmitglied sofort einen Waffenangriff gegen das feindliche Schiff als Teil der gleichen Reaktion durchführen. Wirf den Machtwürfel und addiere das Ergebnis zum Angriffswurf des Verbündeten.</p>"
+        },
+        {
+            "id": "ySoRjQ6Fx6npb3yW",
+            "name": "Kanonen-Meisterschaft",
+            "description": "<p>Du bist der Meister der Laserkanonen. Wenn du eine Primärwaffe abfeuerst und die Aktion Angriff ausführst, kannst du dich dafür entscheiden, schnell zu feuern - auf Kosten der Genauigkeit. Deine Angriffe werden ohne die Hilfe deines Beherrschungsbonus ausgeführt, aber du nutzt deine Bonusaktion, um einen zusätzlichen Angriff auszuführen, ebenfalls ohne deinen Beherrschungsbonus.</p>"
+        },
+        {
+            "id": "qXDMAo7RIIFboDx3",
+            "name": "Kanonier",
+            "description": "<p>Du bist geschickt im Umgang mit Laserkanonen. Während du eine Primärwaffe abfeuerst, erhältst du einen Bonus von +2 auf Schadenswürfe und Schutz-DCs.</p> <p>"
+        },
+        {
+            "id": "7HcsxIt1o5OLfXcU",
+            "name": "Explosionstüren schließen",
+            "description": "<p><em><strong>Kraftwürfelposition:</strong> Schilde</em><br>Wenn du von einem Schiffsangriff getroffen wirst, kannst du als Reaktion einen Kraftwürfel ausgeben, um einen Teil des Schadens zu mildern. Verringere den Schaden an deiner Hülle um den gewürfelten Wert des Machtwürfels plus den Konstitutionsmodifikator des Schiffes.</p> <p>"
+        },
+        {
+            "id": "x3hIvJ33mMBLdn9N",
+            "name": "Befehlsgewaltige Anwesenheit",
+            "description": "<p>Auf Rang 4 lernst du eine neue Art, deine Inspirierende Anzeige zu nutzen. Wenn an Bord deines Schiffes eine Kreatur, die dich sehen oder hören kann, eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf nicht besteht, kannst du deine Reaktion nutzen, um dieser Kreatur zu helfen, sofern sie in diesem Zug nicht bereits einen Würfel für Inspirierende Zurschaustellung hatte oder benutzt hat. Die Kreatur kann dann den Würfel werfen und ihn zum Ergebnis addieren.</p><p>Du kannst diese Fähigkeit so oft einsetzen, wie es deinem Fertigkeitsbonus entspricht. Du erhältst alle verbrauchten Einsätze zurück, wenn du eine lange Ruhepause beendest.</p>"
+        },
+        {
+            "id": "cgXu21dmJHNe1IUY",
+            "name": "Kommunikationsverstärkung",
+            "description": "<p>Als Bonusaktion kannst du einen Technologiewürfel würfeln und ihn zur nächsten Charisma (Einmischung)-Überprüfung deines Schiffes vor dem Ende deines nächsten Zuges hinzufügen.</p>"
+        },
+        {
+            "id": "Ed71yER1DyL9WIS3",
+            "name": "Kontingenzplan",
+            "description": "<p>Auch im 4. Rang kannst du an Bord deines Schiffes zwei Verbündete statt einem wählen, wenn du die Aktion Direkt wählst.</p>"
+        },
+        {
+            "id": "Fp2Mv7aql9gZ3tpt",
+            "name": "Koordinierende Führung",
+            "description": "<p>Auch im 1. Rang erlernst du Kollaborationen, die durch spezielle Würfel, die sogenannten Machtwürfel, unterstützt werden.</p><h3>Kollaborationen</h3><p>Du erlernst zwei Kollaborationen deiner Wahl, die weiter unten unter 'Kollaborationen' beschrieben werden. Du kannst nur eine Kollaboration pro Runde benutzen, und du kannst jede Kollaboration nur einmal pro Runde benutzen.</p><p>Du lernst eine zusätzliche Kollaboration auf dem 2., 3., 4. und 5. Jedes Mal, wenn du eine neue Kollaboration erlernst, kannst du auch eine bereits bekannte Kollaboration durch eine andere ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Kollaboration nutzen zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu aktivieren.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p>"
+        },
+        {
+            "id": "uIJwWQbv92GSHJTN",
+            "name": "Gegenmaßnahmen",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Schilde</em><br>Wenn du einen durch eine Schiffswaffe erzwungenen Rettungswurf in Geschicklichkeit nicht schaffst, kannst du als Reaktion einen Kraftwürfel ausgeben. Bis zum Beginn deines nächsten Zuges hat dein Schiff einen Bonus auf Geschicklichkeitswürfe in Höhe des gewürfelten Betrages auf dem Machtwürfel. Dies gilt auch für den auslösenden Rettungswurf.</p>"
+        },
+        {
+            "id": "JlBFNmACItJ0vFlP",
+            "name": "Verkrüppelnder Schuss",
+            "description": "<p><em><strong>Power Die Location:</strong> Waffen</em><br>Wenn du ein Schiff mit einem Schiffsangriff triffst, kannst du einen Power Die ausgeben, um es zu verkrüppeln. Addiere den Machtwürfel zum Schadenswurf des Angriffs, und die Fluggeschwindigkeit des Zielschiffs wird bis zum Ende seines nächsten Zugs halbiert.</p>"
+        },
+        {
+            "id": "j38Mv9jlqn3528U4",
+            "name": "Gerissenes Ausweichen",
+            "description": "<p>Auch im 3. Rang kannst du einmal pro Runde, wenn dein Schiff von einem Schiffsangriff getroffen wird oder ein Rettungswurf misslingt, eine Geschicklichkeitsüberprüfung machen und stattdessen diesen Wert für deinen AC oder Rettungswurf verwenden.</p>"
+        },
+        {
+            "id": "9sKkrdkDLFTvdKiX",
+            "name": "Verteidigungsschirm",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Triebwerke</em><br>Als Bonusaktion kannst du einen Kraftwürfel ausgeben und eine defensive Formation einnehmen, solange sich ein befreundetes Schiff im Umkreis von 100 Fuß um dich befindet. Wenn du dies tust, erhöht sich dein AC bis zum Beginn deines nächsten Zuges um den gewürfelten Wert.</p>"
+        },
+        {
+            "id": "rufV6GZiNRlxwnGJ",
+            "name": "Verteidigungs-Strategeme",
+            "description": "<p>Auch im 1. Rang erlernst du Strategeme, die von speziellen Würfeln, den sogenannten Machtwürfeln, gespeist werden.</p><h3>Strategeme</h3><p>Du erlernst zwei Strategeme deiner Wahl, die weiter unten unter 'Strategeme' beschrieben werden. Viele Strategeme verbessern eine Verteidigung auf irgendeine Weise. Du kannst nur ein Gambit pro Angriff benutzen und jedes Strategem nur einmal pro Runde.</p><p>Du lernst ein zusätzliches Strategem auf dem 2. Jedes Mal, wenn du ein neues Strategem lernst, kannst du auch ein Strategem, das du kennst, durch ein anderes ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Strategeme anwenden zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Besatzungsmitglieder zu aktivieren.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p>>"
+        },
+        {
+            "id": "WFOYYe3vDHoNUUI9",
+            "name": "Zuverlässige Schadensbegrenzung",
+            "description": "<p>Ab dem 3. Rang kannst du, wenn dein Schiff einen Konstitutions-Erhaltungswurf machen würde, das Maximum nehmen, anstatt zu würfeln. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Du kannst diese Fähigkeit einmal vor einer kurzen oder langen Ruhepause benutzen.</p>"
+        },
+        {
+            "id": "DzQgoRfhN5BBRaft",
+            "name": "Zuverlässiger Schütze",
+            "description": "<p>Ab dem 3. Rang kannst du, wenn du mit einer Schiffswaffe für Schaden würfelst, einen der Würfel wiederholen, aber du musst das neue Ergebnis verwenden.  Du kannst diese Fähigkeit so oft benutzen, wie es deinem Rang als Schütze entspricht.  Du erhältst alle verbrauchten Einsätze zurück, wenn du eine lange Pause einlegst.</p>"
+        },
+        {
+            "id": "KkMIZcjcecE3trO8",
+            "name": "Zuverlässiger Pilot",
+            "description": "<p>Ab dem 3. Rang kannst du, wenn du als Pilot eine Geschicklichkeitsüberprüfung machen würdest, das Maximum nehmen, anstatt zu würfeln. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Du kannst diese Fähigkeit so oft einsetzen, wie es deinem Rang in Pilotieren entspricht.  Du erhältst alle verbrauchten Einsätze zurück, wenn du eine lange Pause einlegst.</p>"
+        },
+        {
+            "id": "Ct294qAfWB2ueHsL",
+            "name": "Zuverlässige Technik",
+            "description": "<p>Beginnend mit dem 3. Rang kannst du die Nutzung deines anfänglichen Technologiewürfels als Reaktion wiedererlangen.  Sobald du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p> <p>"
+        },
+        {
+            "id": "EOFtXi7actzLQrCl",
+            "name": "Entschärfungsschuss",
+            "description": "<p><em><strong>Power Die Location:</strong> Waffen</em><br>Wenn du einen Angriffswurf gegen ein Schiff machst, kannst du einen Power Die ausgeben, um ihn dem Wurf hinzuzufügen. Bei einem Treffer hat das Schiff bei der nächsten Fähigkeitsprüfung oder dem nächsten Angriffswurf, den es vor dem Ende deines nächsten Zuges macht, einen Nachteil.</p>"
+        },
+        {
+            "id": "PbKfAYFLeuxBpP4d",
+            "name": "Entwaffnender Schuss",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Sensoren</em><br>Als Aktion kannst du einen Kraftwürfel ausgeben, um zu versuchen, das Ziel zu entwaffnen. Du addierst den Energiewürfel zum nächsten Angriffswurf deines Schiffes.  Bei einem Treffer muss das Ziel zusätzlich zum normalen Schaden einen Konstitutionsschutzwurf ablegen. Bei einem misslungenen Schutzwurf machst du eine Waffe des Zielschiffs deiner Wahl unbrauchbar, bis das Schiff wieder aufgeladen ist.</p>"
+        },
+        {
+            "id": "88koeLGnTfBR2yyu",
+            "name": "Gestörte Verteidigungen",
+            "description": "<p>Ab dem 3. Rang erleidet das Ziel deiner Systemstörung beim ersten Mal in jeder Runde zusätzlichen Schaden in Höhe deines Systemstörungswürfels. Der Schaden ist vom gleichen Typ wie der des ursprünglichen Angriffs.</p> <p>"
+        },
+        {
+            "id": "eGPYPKMmAahccHGj",
+            "name": "Ablenkungsschuss",
+            "description": "<p><em><strong>Kraftwürfelposition:</strong> Waffen</em><br>Wenn du ein Schiff mit einem Schiffsangriff triffst, kannst du einen Kraftwürfel ausgeben, um deinen Verbündeten eine Chance zu geben. Du addierst den Machtwürfel zum Schadenswurf des Angriffs, und der nächste Angriffswurf eines anderen Spielers gegen das Ziel hat einen Vorteil, wenn der Angriff vor Beginn deines nächsten Zuges ausgeführt wird.</p>"
+        },
+        {
+            "id": "vkjxkQWUsfX5ekjI",
+            "name": "Effiziente Umleitung",
+            "description": "<p>Auch im 4. Rang halbierst du beim Umleiten von Macht nur die Macht auf ein anderes System deiner Wahl.</p>"
+        },
+        {
+            "id": "TneJLAOFQ2HYHTmZ",
+            "name": "Motor-Tuning",
+            "description": "<p>Als Aktion kannst du deinen Technologiewürfel werfen.  Nimm das Ergebnis des Würfels und multipliziere es mit 50. Die Fluggeschwindigkeit deines Schiffes erhöht sich bis zum Ende deines nächsten Zuges um diesen Wert.</p>"
+        },
+        {
+            "id": "CXpsc3IX1mUE7g78",
+            "name": "Verbessern von Zielfernrohren",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Sensoren</em><br>Als Bonusaktion kannst du einen Kraftwürfel ausgeben, um die Reichweite des nächsten Primär- oder Sekundärwaffenangriffs deines Schiffs um 500 Fuß zu erhöhen. Wenn du triffst, addierst du den Energiewürfel zum Schadenswurf des Angriffs.</p>"
+        },
+        {
+            "id": "048AtEOXxrKPAAVi",
+            "name": "Ausweichen",
+            "description": "<p>Auch auf Rang 4 lässt dich deine instinktive Beweglichkeit bestimmten Flächeneffekten ausweichen. Wenn dein Schiff einem Effekt ausgesetzt ist, wie z.B. einem Protonentorpedo oder einer seismischen Ladung, der deinem Schiff erlaubt, einen Rettungswurf auf Geschicklichkeit zu machen, um nur die Hälfte des Schadens zu erleiden, erleidet es stattdessen keinen Schaden, wenn der Rettungswurf gelingt, und nur die Hälfte des Schadens, wenn er misslingt.</p>"
+        },
+        {
+            "id": "3DjYpf6WaOjJ0XbP",
+            "name": "Explosiver Schuss",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Waffen</em><br>Wenn du ein Schiff auf 0 Trefferpunkte reduzierst, kannst du einen Kraftwürfel ausgeben und eine Bonusaktion in deinem Zug nutzen, um einen zusätzlichen Schiffsangriff gegen ein anderes Schiff in Reichweite durchzuführen. Wenn dieser Angriff trifft, addiere den Energiewürfel zum Schadenswurf des Angriffs.</p>"
+        },
+        {
+            "id": "PlI0gpY9bSXOTdm7",
+            "name": "Schwachstelle aufdecken",
+            "description": "<p><em><strong>Power Die Location:</strong> Waffen</em><br>Wenn du ein Schiff mit einem Schiffsangriff triffst, kannst du einen Power Die ausgeben und zusätzlichen Schaden in Höhe der gewürfelten Zahl verursachen. Dieser Schaden kann in keiner Weise reduziert werden.</p>"
+        },
+        {
+            "id": "GjPn4M3GHYmpNjNz",
+            "name": "Feintuning-Schuss",
+            "description": "<p><em><strong>Kraftwürfelort:</strong> Waffen</em><br>Du kannst einen Kraftwürfel ausgeben und eine Bonusaktion in deinem Zug nutzen, um eine Finte durchzuführen, wobei du ein Schiff innerhalb der normalen Reichweite deiner Primärwaffe als Ziel wählst. Du hast einen Vorteil bei deinem nächsten Angriffswurf gegen dieses Schiff. Wenn dieser Angriff trifft, addiere den Machtwürfel zum Schadenswurf des Angriffs.</p>>"
+        },
+        {
+            "id": "btd77ZPsBBLROfg8",
+            "name": "Scharfschützen-Techniken",
+            "description": "<p>Auch im 1. Rang erlernst du Gambits, die von speziellen Würfeln, den Machtwürfeln, unterstützt werden.</p><h3>Gambits</h3><p>Du erlernst zwei Gambits deiner Wahl, die weiter unten unter 'Gambits' beschrieben werden. Viele Gambits verstärken einen Angriff auf irgendeine Weise. Du kannst nur ein Gambit pro Angriff verwenden, und du kannst jedes Gambit nur einmal pro Runde verwenden.</p><p>Du lernst ein zusätzliches Gambit im 2., 3., 4. und 5. Jedes Mal, wenn du ein neues Gambit lernst, kannst du auch ein Gambit, das du kennst, durch ein anderes ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um das Gambit zu benutzen.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu unterstützen.  Die Art deiner Energiewürfel wird durch deinen Schiffsrang bestimmt.</p>>"
+        },
+        {
+            "id": "NcdJUlCVRxJHiYmZ",
+            "name": "Meisterhaftes Schießen",
+            "description": "<p>Auf Rang 4 beherrschst du eine bestimmte Art der Bewaffnung. Wähle eine der Optionen für die Beherrschung von Geschützen, die in Kapitel 6 beschrieben werden. Du kannst eine Schießmeisterschaftsoption nicht mehr als einmal wählen, auch wenn du später noch einmal wählen kannst.</p>"
+        },
+        {
+            "id": "MtyVkb4XFvjKsHGO",
+            "name": "Schießstil",
+            "description": "<p>Auf Rang 2 wählst du einen bestimmten Schießstil als deine Spezialität. Wähle eine der Schießstil-Optionen, die in Kapitel 6 beschrieben werden. Du kannst eine Schießstil-Option nicht mehr als einmal wählen, auch wenn du später noch einmal wählen darfst.</p>"
+        },
+        {
+            "id": "kQ9Pc3QNb4deJLrM",
+            "name": "Gehackte Kommunikation",
+            "description": "<p><em><strong>Kraftwürfel Standort:</strong> Kommunikation</em><br>Als Aktion kannst du einen Kraftwürfel ausgeben und eine beliebige Anzahl von Schiffen wählen, die du im Umkreis von 600 Fuß um dich herum sehen kannst. Jedes Schiff muss einen Weisheitswurf bestehen oder erleidet Ionenschaden in Höhe der gewürfelten Zahl + Charisma-Modifikator deines Schiffs (mindestens eins). Bei einem misslungenen Rettungswurf werden außerdem die Kommunikationsgeräte des Schiffes bis zum Neustart deaktiviert.</p>"
+        },
+        {
+            "id": "L4rvUVp9SLw7EQSB",
+            "name": "Haywire",
+            "description": "<p>Auch auf Rang 4, wenn du ein Schiff mit deiner Eigenschaft Systemstörung angreifst, muss es einen Konstitutionsrettungswurf machen (DC = 8 + dein Bonus auf Störungsprüfungen). Bei einem fehlgeschlagenen Schutzwurf muss das Ziel, solange es das Ziel deiner Eigenschaft Systemstörung ist, beim ersten Angriffswurf oder Rettungswurf jeder Runde einen d4 werfen und die gewürfelte Zahl vom Angriffswurf oder Rettungswurf subtrahieren.</p>"
+        },
+        {
+            "id": "7J5M5TWI7j6qIMG9",
+            "name": "Kopf hoch",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Kommunikation</em><br>Wenn du die Initiative würfelst und nicht überrascht wirst, kannst du einen Kraftwürfel ausgeben und die gewürfelte Zahl zur Initiative eines beliebigen befreundeten Schiffes, einschließlich deines eigenen, addieren.</p>"
+        },
+        {
+            "id": "U7EWM1BOvgRDjo4k",
+            "name": "Schweres Geschütz Meisterung",
+            "description": "<p>Du bist der Meister der Railguns und Turbolasers. Wenn du eine Sekundärwaffe abfeuerst, bevor du einen Angriff ausführst, kannst du wählen, ob du deinen Befähigungsbonus verdoppelst. Wenn der Angriff trifft, reduzierst du den verursachten Schaden um einen Betrag, der deinem Beherrschungsbonus entspricht.</p>>"
+        },
+        {
+            "id": "AbRJD4oCtbLlj34R",
+            "name": "Schwerer Kanonier",
+            "description": "<p>Du bist geschickt im Umgang mit Railguns und Turbolasern. Während du eine Sekundärwaffe abfeuerst, erhältst du einen Bonus von +2 auf Angriffswürfe und Schutz-DCs.</p> <p>"
+        },
+        {
+            "id": "T4AijVDwLiIizBL0",
+            "name": "Ich brauche mehr Power!",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Schilde</em><br>Wenn du deine Aktion zur Regeneration der Schilde deines Schiffes verwendest, kannst du eine Bonusaktion nutzen, um einen Kraftwürfel auszugeben und sein Ergebnis zur regenerierten Menge zu addieren.</p>"
+        },
+        {
+            "id": "VmkxPzNndRFPwvdA",
+            "name": "Ich versuch's mit Spinning",
+            "description": "<p>Am 2. Rang kannst du, wenn du die Aktion 'Ausweichen' benutzt, wählen, dass alle Angriffe gegen dich von einem einzelnen Schiff bis zum Beginn des nächsten Zuges deines Schiffes einen Nachteil haben.</p><p>Wenn du diese Eigenschaft einmal benutzt hast, kannst du sie erst wieder benutzen, wenn du eine lange Pause gemacht hast.</p>"
+        },
+        {
+            "id": "V3fT3R6dhqeo4Yud",
+            "name": "Verbesserter kritischer Treffer",
+            "description": "<p>Auch im 2. Rang erhöht sich deine Reichweite für kritische Treffer mit Primär- und Sekundärwaffen um 1, und wenn ein Schiff bei einem Rettungswurf gegen eine tertiäre oder quaternäre Waffe, die du kontrollierst, eine 1 würfelt, behandelt es den Schaden des Effekts so, als hätte es das Maximum gewürfelt.</p>"
+        },
+        {
+            "id": "ztIE2ALy6aPI9lAg",
+            "name": "Verbesserte Interferenz",
+            "description": "<p>Auch im 2. Rang, wenn du die Aktion Einmischen einsetzt, hast du einen Vorteil bei der Charisma (Einmischen)-Überprüfung. Wenn du bereits einen Vorteil hast, kannst du stattdessen einen der Würfel einmal neu werfen.</p>"
+        },
+        {
+            "id": "UfnbGK8T1ho44lAq",
+            "name": "Anfeuern",
+            "description": "<h3>Anregen</h3><p><em><strong>Kräftewürfel Standort:</strong> Kommunikation</em><br> In deinem Zug kannst du eine Aktion nutzen und einen Kraftwürfel ausgeben, um die Entschlossenheit einer Besatzung auf deinem oder einem anderen verbündeten Schiff, die dich sehen oder hören kann, zu stärken. Das verbündete Schiff kann den Charisma-Modifikator deines Schiffes zu einer Anzahl von Schadenswürfen addieren, die bis zum Beginn deines nächsten Zuges der gewürfelten Zahl entspricht.</p>"
+        },
+        {
+            "id": "OGpaIWWJUTx2UVmO",
+            "name": "Inspirierende Anzeige",
+            "description": "<p>Auch im 2. Rang kannst du andere durch aufrüttelnde Worte inspirieren. Du verbringst die nächste Minute damit, deine Verbündeten mit einer inspirierenden Rede zu versammeln. Du gewährst einer Anzahl von Schiffen bis zu deinem Befähigungsbonus temporäre Hüllenpunkte in Höhe deines Charisma-Modifikators.  Außerdem gewährst du einer Anzahl von Besatzungsmitgliedern dieser Schiffe bis zu deinem Fertigkeitsbonus einen Würfel für Inspirierende Darstellung, einen d6. Einmal innerhalb der nächsten 10 Minuten kann die Kreatur diesen Würfel werfen und die gewürfelte Zahl zu einer Fähigkeitsprüfung, einem Angriffswurf oder einem Rettungswurf addieren. Die Kreatur kann warten, bis sie den Würfel gewürfelt hat, bevor sie sich entscheidet, den Würfel für die Inspirierende Zurschaustellung zu benutzen, aber sie muss sich entscheiden, bevor der Spielleiter sagt, ob der Wurf erfolgreich war oder nicht. Sobald der Würfel für die Inspirierende Schau gewürfelt wurde, ist er verloren. Eine Kreatur kann immer nur einen Würfel für 'Inspirierende Darstellung' haben.</p><p>Wenn du diese Eigenschaft einmal benutzt hast, kannst du sie erst wieder benutzen, wenn du eine lange Pause gemacht hast.</p><p>Dein Würfel für 'Inspirierende Darstellung' ändert sich, wenn du bestimmte Ränge in diesem Einsatz erreichst. Der Würfel wird beim 3. Rang zu einem d8, beim 4. Rang zu einem d10 und beim 5. Rang zu einem d12.</p>"
+        },
+        {
+            "id": "rC1rUMK9ydrYST6E",
+            "name": "Schilde intensivieren",
+            "description": "<p><em><strong>Kraftwürfel Standort:</strong> Schilde</em><br>Wenn du von einem Schiffsangriff getroffen wirst, kannst du als Reaktion einen Kraftwürfel ausgeben. Bis zum Beginn deines nächsten Zuges hat dein Schiff einen AC-Bonus in Höhe des gewürfelten Wertes des Machtwürfels. Dies gilt auch für den auslösenden Angriff.</p>"
+        },
+        {
+            "id": "5PaDhVwt5qs6DQob",
+            "name": "Koiogran-Drehung",
+            "description": "<p><em><strong>Power Die Location:</strong> Triebwerke</em><br>Wenn du das Ziel eines Angriffswurfs bist, kannst du einen Machtwürfel ausgeben und versuchen, aus der Schusslinie zu manövrieren. Wirf den Würfel, nimm das Ergebnis und multipliziere es mit 50. Du bewegst dich sofort so viele Meter in eine Richtung deiner Wahl. Die Ausrichtung deines Schiffes ändert sich dabei nicht.</p>>"
+        },
+        {
+            "id": "vHUmONolfVq8xCFj",
+            "name": "Letzte Zuflucht",
+            "description": "<p>Auch im 4. Rang, wenn dein Schiff einen Zerstörungsschutzwurf macht, addiert es seinen Konstitutionsmodifikator zum Wurf (mindestens +1). Wenn du außerdem einen Hüllenwürfel wirfst, um Hüllenpunkte wiederzugewinnen, oder einen Schildwürfel, um Schildpunkte wiederzugewinnen, entspricht die Mindestanzahl der Punkte, die es durch den Wurf wiedergewinnen kann, dem doppelten Konstitutionsmodifikator des Schiffes (mindestens 2).</p>"
+        },
+        {
+            "id": "5xo8nrgomVc9jOSM",
+            "name": "Außergewöhnlicher Anführer",
+            "description": "<p>Du erhältst alle verbrauchten Einsätze deiner Eigenschaften Inspirierende Zurschaustellung, Sammelnder Schrei und Befehlshaberische Präsenz zurück, wenn du eine kurze oder lange Ruhepause beendest.</p><p>Zusätzlich kannst du, wenn du eine Zahl der Erhebenden Direktive würfelst, das Maximum nehmen, anstatt zu würfeln. Du kannst diese Eigenschaft vor oder nach dem Wurf nutzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Eigenschaft benutzt hast, musst du eine kurze oder lange Ruhepause einlegen, bevor du sie wieder benutzen kannst.</p><p>Schließlich, wenn eine Kreatur einen Würfel für Inspirierende Darstellung benutzt, nimmt sie das Maximum, anstatt zu würfeln.  Wenn du diese Fähigkeit einmal benutzt hast, kannst du sie erst wieder benutzen, wenn du eine kurze oder lange Pause gemacht hast.</p>>"
+        },
+        {
+            "id": "zqN0Gdp5x3G206VZ",
+            "name": "Meisterhafte Direktive",
+            "description": "<p>Auch im 3. Rang kannst du, wenn du als Teil der Aktion 'Direkt' deine Zahl für 'Erhebende Anweisung' würfelst, deine Bonusaktion nutzen, um deine Zahl für 'Erhebende Anweisung' um einen Betrag zu erhöhen, der deinem Befähigungsbonus entspricht. Wenn dies den Wert deiner 'Erhebende Direktive'-Zahl auf mehr als 20 erhöhen würde, wird sie stattdessen 20.</p>>"
+        },
+        {
+            "id": "8LGucgZjtdXIl6b0",
+            "name": "Meisterhafte Einmischung",
+            "description": "<p>Ab dem 4. Rang kannst du bei der Aktion 'Stören' auf deinen Fertigkeitsbonus verzichten. Gelingt dir die Prüfung, hat das Ziel bei allen Fähigkeitsprüfungen oder Angriffswürfen, die es bis zum Beginn deines nächsten Zuges durchführt, einen Nachteil, anstatt einen.</p>"
+        },
+        {
+            "id": "uJGsPzJhAieYxO9L",
+            "name": "Maximale Macht",
+            "description": "<p>Auch im 5. Rang kannst du, wenn du ein Schiff mit einem Schiffsangriff triffst, mit diesem Angriff maximalen Schaden anrichten.</p><p>Wenn du diese Eigenschaft einmal benutzt hast, kannst du sie erst wieder benutzen, wenn du eine kurze oder lange Pause gemacht hast.</p>"
+        },
+        {
+            "id": "VFz9qzr3AxxCrCgn",
+            "name": "Operative Kontrolle",
+            "description": "<p>Außerdem erlernst du mit dem 1. Rang Unterbrechungen, die durch spezielle Würfel, sogenannte Powerwürfel, verstärkt werden.</p><h3>Unterbrechungen</h3><p>Du erlernst zwei Unterbrechungen deiner Wahl, die unter 'Unterbrechungen' weiter unten beschrieben werden. Du kannst nur eine Unterbrechung pro Runde benutzen, und du kannst jede Unterbrechung nur einmal pro Runde benutzen.</p><p>Du lernst eine zusätzliche Unterbrechung auf dem 2., 3., 4. und 5. Jedes Mal, wenn du eine neue Unterbrechung erlernst, kannst du auch eine Unterbrechung, die du kennst, durch eine andere ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Störung nutzen zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu unterstützen.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p><h3>Sicherheitswürfe</h3><p>Bei einigen deiner Unterbrechungen muss dein Ziel einen Rettungswurf machen, um den Effekten der Unterbrechung zu widerstehen. Der Rettungswurf-DC wird wie folgt berechnet:</p><p><strong>Unterbrechungsschutz-DC</strong> = 8 + dein Fertigkeitsbonus + Charisma-Modifikator deines Schiffs</p>"
+        },
+        {
+            "id": "2GMuH7TIypF8O3bB",
+            "name": "Überlastete Systeme",
+            "description": "<p>Auch im 5. Rang lernst du, wie du die Systeme eines Schiffes aus der Ferne überlasten kannst. Als Aktion kannst du versuchen, die Systeme des Ziels deiner Systemstörung zu durchbrechen. Das Schiff muss einen Konstitutionsschutzwurf machen (DC = 8 + dein Bonus auf Störungsprüfungen). Bei einem misslungenen Schutzwurf wird die Fluggeschwindigkeit des Ziels halbiert, seine Drehgeschwindigkeit verdoppelt, es erleidet einen Malus von -2 auf Schutzwürfe für Willenskraft und Geschicklichkeit, seine Schilde regenerieren sich nicht mehr und es kann keine Reaktionen einsetzen. In seinem Zug kann es entweder eine Aktion oder eine Bonusaktion ausführen, nicht beides. Unabhängig von den Fähigkeiten, der Besatzung oder der Ausrüstung des Schiffes kann es während seines Zuges nicht mehr als einen Angriff durchführen.</p><p>Der Pilot des Schiffes macht am Ende seines Zuges einen weiteren Konstitutions-Erhaltungswurf. Bei einem erfolgreichen Schutzwurf endet der Effekt.</p><p>Wenn du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
+        },
+        {
+            "id": "2NUqt5H4hmf2X9Gl",
+            "name": "Überwältigende Anwesenheit",
+            "description": "<p><em><strong>Kräftewürfel Standort:</strong> Kommunikation</em><br>Als Aktion kannst du eine Fertigkeitsprüfung auf Charisma (Beeindrucken) oder Charisma (Bedrohen) ablegen und einen Energiewürfel aufwenden, um zu versuchen, eine humanoide Kreatur im Umkreis von 600 Fuß zu bezaubern oder zu erschrecken, die dein Schiff sehen und wahrnehmen kann. Addiere den Machtwürfel zu deinem Wurf. Das Ziel macht eine umstrittene Intelligenzüberprüfung (Probe). Wenn deine Probe erfolgreich ist, wird das Ziel bis zum Ende deines nächsten Zuges von dir verzaubert, wenn du 'Beeindrucken' benutzt hast, oder es wird von dir verängstigt, wenn du 'Bedrohen' benutzt hast.</p>"
+        },
+        {
+            "id": "0ChMqVmu5Zbm1MdK",
+            "name": "Paragon-Koordinator",
+            "description": "<p>Ab der 5. Stufe bist du ein Vorbild für deinen Einsatz. Wenn du einen Machtwürfel oder einen Würfel für Beeindruckende Darstellung ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Eigenschaft nur einmal pro Runde nutzen.</p>"
+        },
+        {
+            "id": "UXrfTXCo0SUfGfkL",
+            "name": "Paragon-Schütze",
+            "description": "<p>Am 5. Rang kannst du, wenn du einen Machtwürfel ausgeben würdest, einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Eigenschaft nur einmal pro Runde benutzen.</p><p>Zusätzlich kannst du, wenn du einen Angriffswurf machst, während du als Schütze eingesetzt wirst, wählen, ob der Wurf ein kritischer Treffer sein soll. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Nachdem du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
+        },
+        {
+            "id": "cWApupkpuwEgtUY5",
+            "name": "Paragon-Operator",
+            "description": "<p>Ab dem 5. Rang bist du ein Musterbeispiel für deinen Einsatz. Wenn du einen Machtwürfel oder einen Systemstörungswürfel ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Fähigkeit nur einmal pro Runde benutzen.</p><p>Zusätzlich erhältst du alle verbrauchten Würfel für die Systemunterbrechung zurück, wenn du eine kurze oder lange Pause machst.</p><p>Schließlich kannst du, wenn du eine Stör-, Scan- oder Probeüberprüfung machen würdest, während du als Operator im Einsatz bist, das Maximum nehmen, anstatt zu werfen. Du kannst diese Funktion vor oder nach dem Wurf nutzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Eigenschaft benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>>"
+        },
+        {
+            "id": "ne9IKjZ0KB6nI3ko",
+            "name": "Paragon-Pilot",
+            "description": "<p>Ab der 5. Stufe bist du ein Musterbeispiel für deinen Einsatz. Wenn du einen Machtwürfel ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Fähigkeit nur einmal pro Runde nutzen.</p>>"
+        },
+        {
+            "id": "4FymUPeOoWd7sBty",
+            "name": "Paragon-Techniker",
+            "description": "<p>Ab der 5. Stufe bist du ein Aushängeschild deiner Aufstellung. Stufe kannst du bei einer Stärke- (Verstärken) oder Konstitutions- (Regulieren) -Überprüfung das Maximum nehmen, anstatt zu würfeln. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>>"
+        },
+        {
+            "id": "EHbxsR3TYqgx14ox",
+            "name": "Paragon der Verteidigung",
+            "description": "<p>Ab dem 5. Rang bist du ein Musterbeispiel für deinen Einsatz. Wenn du einen Machtwürfel ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Eigenschaft nur einmal pro Runde nutzen.</p><p>Zusätzlich kannst du, wenn du die Aktion Schilde verstärken oder Flicken ausführst, das Maximum nehmen, anstatt zu würfeln, wenn du Hüllen- oder Schildpunkte wiederherstellen würdest. Du kannst diese Funktion vor oder nach dem Würfeln nutzen. Sobald du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p> <p>"
+        },
+        {
+            "id": "7ETJnTSCSBz1Uxne",
+            "name": "Lieferung der Nutzlast",
+            "description": "<p>Du bist geschickt im Umgang mit Minen, Raketen und anderen explosiven Waffen. Wenn du eine 1 oder 2 auf einem Schadenswürfel für eine tertiäre oder quaternäre Waffe würfelst, kannst du den Würfel neu werfen und musst den neuen Wurf verwenden, auch wenn der neue Wurf eine 1 oder 2 ist.</p>"
+        },
+        {
+            "id": "TTg5J1WepZxAqkOS",
+            "name": "Beherrschung der Nutzlast",
+            "description": "<p>Du bist der Meister der Raketen, Flugkörper und anderer explosiver Waffen an Bord. Während du eine Tertiär- oder Quartärwaffe abfeuerst, kannst du den DC um einen Betrag in Höhe deines Befähigungsbonus reduzieren. Wenn du dies tust und das Ziel den Schutzwurf nicht besteht, erleidet es zusätzlichen Schaden in Höhe des doppelten Befähigungsbonus.</p>"
+        },
+        {
+            "id": "SpWkFzgpS2crMmwo",
+            "name": "Durchdringender Schuss",
+            "description": "<p><em><strong>Power Die Location:</strong> Waffen</em><br>Wenn du ein Schiff mit einem Schiffsangriff triffst, kannst du einen Power Die ausgeben, um zu versuchen, ein anderes Schiff mit demselben Angriff zu beschädigen. Wähle ein zweites Schiff im Umkreis von 150 Fuß von und direkt hinter deinem ersten Ziel. Wenn der ursprüngliche Angriffswurf das zweite Schiff treffen würde, erleidet es Schaden in Höhe der Zahl, die du mit deinem Machtwürfel würfelst. Der Schaden ist vom gleichen Typ wie der des ursprünglichen Angriffs.</p>>"
+        },
+        {
+            "id": "izw9rhXgoBbRRjQK",
+            "name": "Außergewöhnlicher Pilot",
+            "description": "<p>Auch im 5. Rang bist du ein Meister am Ruder. Als Bonusaktion kannst du dir deine Erfahrung in einem kurzen, aber beeindruckenden Ausbruch zunutze machen. Bis zum Ende deines nächsten Zuges bist du bei Geschicklichkeitswürfen im Vorteil, dein Schiff hat einen Vorteil bei Schutzwürfen auf Stärke und Geschicklichkeit, und Angriffswürfe gegen dein Schiff haben einen Nachteil.</p><p>Wenn du diese Fähigkeit einmal benutzt hast, kannst du sie erst nach einer kurzen oder langen Pause wieder einsetzen.</p>"
+        },
+        {
+            "id": "HPbueMMRtKK6TcG2",
+            "name": "Pilotenverfahren",
+            "description": "<p>Außerdem erlernst du mit dem 1. Rang Taktiken, die durch spezielle Würfel, die sogenannten Machtwürfel, unterstützt werden.</p><h3>Taktiken</h3><p>Du erlernst zwei Taktiken deiner Wahl, die weiter unten unter 'Taktiken' beschrieben werden. Du kannst nur eine Taktik pro Runde benutzen und jede Taktik nur einmal pro Runde.</p><p>Du lernst eine zusätzliche Taktik auf Rang 2, 3, 4 und 5 in diesem Einsatz. Jedes Mal, wenn du eine neue Taktik lernst, kannst du auch eine Taktik, die du kennst, durch eine andere ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Taktik anwenden zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu unterstützen.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p>>"
+        },
+        {
+            "id": "9gB0RnUmYpU58uHq",
+            "name": "Energieverteilung",
+            "description": "<p>Als Bonusaktion kannst du deinen Technologiewürfel werfen und die entsprechende Anzahl von Energiewürfeln von ihrem aktuellen Standort an einen anderen Ort verschieben.</p>"
+        },
+        {
+            "id": "b8m62D2EelLhHlZv",
+            "name": "Kraftvolles Pflaster",
+            "description": "<h3>Mächtiges Pflaster</h3><p><em><strong>Powerwürfelort:</strong> Schilde</em><br>Als Aktion kannst du einen Powerwürfel ausgeben, um einen Hüllenwürfel zu verwenden und Hüllenpunkte zu erhalten.  Du erhältst zusätzliche Hüllenpunkte in Höhe der gewürfelten Menge des Machtwürfels.</p>"
+        },
+        {
+            "id": "6R7dm1mCOW7Y4bfC",
+            "name": "Präzisionsschuss",
+            "description": "<p><em><strong>Powerwürfelort:</strong> Waffen</em><br>Wenn du einen Angriffswurf gegen ein Schiff machst, kannst du einen Powerwürfel ausgeben, um ihn zu dem Wurf hinzuzufügen. Wenn der Angriff trifft, wird der Energiewürfel zum Schadenswurf des Angriffs addiert. Du kannst diese Fähigkeit vor oder nach dem Angriffswurf einsetzen, aber bevor die Effekte des Angriffs angewendet werden.</p>"
+        },
+        {
+            "id": "palv7BFYTist5fg9",
+            "name": "Protean-Schütze",
+            "description": "<p>Auch im 4. Rang kannst du eine zweite Gunning Style Option wählen.</p>"
+        },
+        {
+            "id": "17Az370jZXcMRWDn",
+            "name": "Schnell-Fixierer",
+            "description": "<p>Ab dem 2. Rang, wenn du die Aktion Flicken ausführst oder während des Aufladens Schiffsreparaturen durchführst, hast du einen Vorteil bei der Konstitutionsprüfung (Flicken). Wenn du bereits einen Vorteil hast, kannst du stattdessen einen der Würfel einmal wiederholen.</p>"
+        },
+        {
+            "id": "RZxFrOs6LwFxQgyB",
+            "name": "Schnelle Regeneration",
+            "description": "<p>Auf Rang 2 hast du, wenn du die Aktion Schilde verstärken ausführst, einen Vorteil bei der Überprüfung der Stärke (Verstärkung). Wenn du bereits einen Vorteil hast, kannst du stattdessen einen der Würfel einmal neu werfen.</p>"
+        },
+        {
+            "id": "SyiaGrnvJyBupkuq",
+            "name": "Leise Elektronik",
+            "description": "<p>Als Bonusaktion kannst du einen Technologiewürfel werfen und ihn zur nächsten Geschicklichkeitsüberprüfung deines Schiffes vor dem Ende deines nächsten Zuges hinzufügen.</p>"
+        },
+        {
+            "id": "YKYT8RRcFYpPByyD",
+            "name": "Sammelnder Schrei",
+            "description": "<p>Ab dem 3. Rang kannst du als Bonusaktion einen Schlachtruf an alle richten, die dich hören können. Wähle eine Anzahl befreundeter Kreaturen bis zum Doppelten deines Charisma-Modifikators, die dich sehen oder hören können. Jede dieser Kreaturen erhält einen Würfel für Anfeuernde Zurschaustellung, der bis zum Ende deines nächsten Zuges gültig ist.</p><p>Wenn du diese Fähigkeit einmal benutzt hast, kannst du sie erst wieder nach einer langen Pause einsetzen.</p>"
+        },
+        {
+            "id": "CSUFg11onuVBt0Rw",
+            "name": "Schnell-Reparateur",
+            "description": "<p>Ab dem 4. Rang kannst du bei der Flick-Aktion auf den Bonus für kompetente Ausrüstung verzichten. Wenn du die Probe bestehst, kannst du 2 Hüllenwürfel statt eines Würfels ausgeben. Für jeden Hüllenwürfel, den du auf diese Weise ausgibst, wirfst du einen Würfel und addierst den Konstitutionsmodifikator des Schiffes dazu.</p>"
+        },
+        {
+            "id": "RrKCi2wsalQrLNH9",
+            "name": "Schnell-Reparateur",
+            "description": "<p>Ab dem 4. Rang kannst du bei der Aktion Flicken auf den Bonus für tüchtige Ausrüstung verzichten. Wenn du die Prüfung bestehst, darfst du 2 Hüllenwürfel ausgeben, statt einem. Für jeden auf diese Weise ausgegebenen Hüllenwürfel wirfst du einen Würfel und addierst den Konstitutionsmodifikator des Schiffes dazu.</p>"
+        },
+        {
+            "id": "PMxG5cMOa1Ke5xSZ",
+            "name": "Reaktor-Boost",
+            "description": "<p>Als Aktion kannst du deinen Technologiewürfel werfen.  Dein Reaktor produziert sofort so viele Energiewürfel, wie er aufgrund der Energiekopplung deines Schiffes sofort gelagert werden muss.  Für jeden Energiewürfel, der über die Speicherkapazität deines Schiffes hinaus produziert wird, erleidet dein Schiff so viele Hüllenpunkte Schaden.</p><p>Zusätzlich muss dein Schiff einen Konstitutions-(Regulierungs-)Check bestehen (DC = 10 + die gewürfelte Zahl deines Technologiewürfels) oder Hüllenschaden in Höhe eines Hüllenwürfels + deines Stärkemodifikators nehmen.</p>"
+        },
+        {
+            "id": "zHih7MUFtxy6v1KD",
+            "name": "Reaktor Verwundbarkeit",
+            "description": "<p><em><strong>Kräftewürfel Standort:</strong> Kommunikation</em><br>Wenn ein befreundetes Schiff ein Schiff mit einem Waffenangriff trifft, kannst du als Reaktion einen Überlegenheitswürfel ausgeben, um den Reaktor des Schiffes vorübergehend zu destabilisieren. Addiere die gewürfelte Zahl zum Schaden des Waffenangriffs und das Schiff muss einen Konstitutionsrettungswurf bestehen oder bis zum Ende seiner nächsten Runde geschockt sein.</p>"
+        },
+        {
+            "id": "ncymxu1MtAHKWAUq",
+            "name": "Ferngesteuerte Sensoren",
+            "description": "<p><em><strong>Power Die Location:</strong> Sensoren</em><br>Immer wenn du einen Wisdom (Scan) oder Intelligence (Probe) Check machst, kannst du die Hilfe von Fernsensoren in Anspruch nehmen, indem du einen Power Die einsetzt und die gewürfelte Zahl zu dem Check addierst. Du kannst dieses Manöver vor oder nach der Fähigkeitsprüfung einsetzen, aber bevor die Ergebnisse der Fähigkeitsprüfung ermittelt werden.</p> <p>"
+        },
+        {
+            "id": "MPE9v00SrW329UWR",
+            "name": "Energie umleiten",
+            "description": "<p>Auch im 3. Rang kannst du als Aktion in jedem deiner Züge die Energie zwischen den Triebwerken, Schilden und Waffen deines Schiffes umleiten, indem du die Energiekupplung des Schiffes benutzt. Eine Energiekupplung kann auf neutral geschaltet werden, wo alle drei Aspekte normal funktionieren, oder sie kann Energie auf ein bestimmtes System umleiten.</p><p>Wenn du Energie auf ein System umleitest, werden die Effekte dieses Systems verdoppelt:</p><ul><li><strong>Triebwerke:</strong> Die Fluggeschwindigkeit eines Schiffes wird verdoppelt.</li><li><strong>Schilde:</strong> Schilde erleiden die Hälfte des Schadens und die Schildregenerationsrate wird verdoppelt. </li><li><strong>Waffen:</strong> Waffen verursachen doppelten Schaden.</li></ul><p>Wenn Energie zu einem System umgeleitet wird, wird die Energie für die anderen Systeme halbiert:</p><ul><li><strong>Triebwerke:</strong> Die Fluggeschwindigkeit eines Schiffes wird um die Hälfte reduziert. </li><li><strong>Schilde:</strong> Schilde erleiden doppelten Schaden und die Schildregenerationsrate wird um die Hälfte reduziert.</li><li><strong>Waffen:</strong> Der Waffenschaden eines Schiffes wird um die Hälfte reduziert.</li></ul>"
+        },
+        {
+            "id": "MZLYQTFwmVQlgWpv",
+            "name": "Energie umleiten",
+            "description": "<p>Wenn die Schilde deines Schiffes völlig erschöpft sind, kannst du außerdem deine Reaktion einsetzen, um sofort eine Anzahl von Schildpunkten in Höhe deines Intelligenzmodifikators wiederherzustellen. Sobald du diese Fähigkeit benutzt hast, musst du eine lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>>"
+        },
+        {
+            "id": "lJI403bCY0sK5aip",
+            "name": "Sensor-Explosion",
+            "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br>Wenn ein befreundetes Schiff ein Ziel mit einem Waffenangriff trifft, kannst du als Reaktion einen Machtwürfel ausgeben, um zu versuchen, die Sensoren des Ziels zu sättigen. Du addierst den Energiewürfel zum Schadenswurf des Angriffs, und das Ziel muss einen Weisheitssparwurf ablegen. Bei einem misslungenen Schutzwurf hat das Ziel bis zum Ende deines nächsten Zuges einen Nachteil bei allen Angriffswürfen gegen andere Ziele als dein Schiff.</p>>"
+        },
+        {
+            "id": "2jb6jifQOX4qBVCg",
+            "name": "Sensorverstärkung",
+            "description": "<p>Als Bonusaktion kannst du einen Technologiewürfel werfen und ihn zu der nächsten Weisheits- (Scannen) oder Intelligenz- (Sondieren) Überprüfung deines Schiffes vor dem Ende deines nächsten Zuges addieren.</p>"
+        },
+        {
+            "id": "31BW3kMPL0x4Mdfu",
+            "name": "Schild-Verstärkung",
+            "description": "<p>Als Bonusaktion kannst du deinen Technologiewürfel werfen.  Deine Schilde regenerieren sich sofort um das Ergebnis des Würfels.</p>"
+        },
+        {
+            "id": "NuRAuSavRUTntle8",
+            "name": "Schiffsmechaniker",
+            "description": "<p>Auch im 2. Rang, wenn du neue Ausrüstung oder Upgrades installierst, zählst du als zwei Mitglieder einer Belegschaft, anstatt als eins.</p>"
+        },
+        {
+            "id": "HeyQ4XmQDZRbiNSD",
+            "name": "Schiffstechniker",
+            "description": "<p>Auch im 2. Rang zählt man beim Installieren von neuer Ausrüstung oder Upgrades als zwei Mitglieder einer Belegschaft, anstatt als eines.</p>"
+        },
+        {
+            "id": "aqA8Oqnw1oj7ex1z",
+            "name": "Über die Oberfläche gleiten",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Triebwerke</em><br>Als Bonusaktion kannst du einen Kraftwürfel ausgeben und versuchen, durch den Raum eines feindlichen Schiffs zu fliegen. Wirf den Würfel, nimm das Ergebnis und multipliziere es mit 50. Die Fluggeschwindigkeit deines Schiffes erhöht sich bis zum Ende deines Zuges um diesen Wert. Außerdem zählt die Bewegung durch den Raum eines feindlichen Schiffes in diesem Zug nicht als feindliches Gelände.</p>"
+        },
+        {
+            "id": "cUyB5pogFQW0K1vl",
+            "name": "Schnapprolle",
+            "description": "<p><em><strong>Stärkewürfelposition:</strong> Triebwerke</em><br>Wenn du von einem Schiffsangriff getroffen wirst, kannst du einen Stärkewürfel ausgeben und versuchen zu würfeln, um den Schaden zu mildern. Wenn du dies tust, wird der Schaden, den du durch den Angriff erleidest, um den gewürfelten Betrag reduziert.</p>"
+        },
+        {
+            "id": "Ja3M4Dsep6lfYUTW",
+            "name": "Raumschiff-Ladung",
+            "description": "<p><em><strong>Kraftwürfelort:</strong> Triebwerke</em><br>Wenn du die Aktion Rammen ausführst, kannst du einen Kraftwürfel ausgeben, um den Schaden zu erhöhen. Bei einem misslungenen Schutzwurf erleidet das Zielschiff zusätzlichen kinetischen Schaden in Höhe des gewürfelten Betrags + Stärke-Modifikator deines Schiffs. Dein Schiff ist gegen den zusätzlichen Schaden, der durch diese Taktik verursacht wird, resistent.</p>"
+        },
+        {
+            "id": "FcEz9wGm9RTlQKVI",
+            "name": "Stetig wie sie geht",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Kommunikation</em><br>Als Aktion kannst du einen Kraftwürfel ausgeben, um die Verteidigung deiner Verbündeten zu stärken. Wirf einen Machtwürfel. Bis zum Ende deines nächsten Zuges erhalten dein Schiff und alle verbündeten Schiffe im Umkreis von 500 Fuß um dich, wenn du diese Aktion ausführst, einen Bonus auf alle Schutzwürfe, die sie machen, in Höhe des gewürfelten Betrags.</p>"
+        },
+        {
+            "id": "iq1avDe2RfQ7N5qR",
+            "name": "Supreme Boost",
+            "description": "<p>Ab dem 5. Rang lernst du, das System deines Schiffes kurzzeitig und massiv zu verstärken. Wenn du eine Technik einsetzt, die eine Bonusaktion verwendet, kannst du in diesem Zug eine andere Technik einsetzen, die ebenfalls eine Bonusaktion verwendet. Außerdem kannst du, anstatt deinen Tech-Würfel für diese Einsätze zu werfen, das Maximum nehmen.</p><p>Wenn du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
+        },
+        {
+            "id": "nbsrtzVPHmEBhUhi",
+            "name": "Supreme speichern",
+            "description": "<p>Ab dem 5. Rang lernst du, wie du massiven Schaden an deinem Schiff schnell isolieren kannst. Als Reaktion darauf, wenn du sonst auf null Hüllenpunkte reduziert würdest, kannst du stattdessen deine Hüllenpunkte auf eins reduzieren.</p><p>Wenn du diese Fähigkeit benutzt hast, musst du eine lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
+        },
+        {
+            "id": "kIfJI9XlQjnhvrBV",
+            "name": "System-Schub",
+            "description": "<p>Auch im 1. Rang erlernst du Techniken, mit denen du schnell verschiedene Systeme deines Schiffes verbessern kannst, die durch spezielle Würfel, die sogenannten Tech-Würfel, gespeist werden.</p><h3>Techniken</h3><p>Du erlernst zwei Techniken deiner Wahl, die unter 'Techniken' weiter unten beschrieben werden. Du kannst nur eine Technik pro Runde benutzen und jede Technik nur einmal pro Runde.</p><p>Du erlernst eine zusätzliche Technik auf dem 2, 3, 4 und 5. Jedes Mal, wenn du eine neue Technik erlernst, kannst du auch eine Technik, die du kennst, durch eine andere ersetzen.</p><h3>Technologiewürfel</h3><p>Deine Techniken werden durch deinen Technologiewürfel dargestellt, dessen Anfangsgröße eine d4 ist. Wenn du deinen Technologiewürfel benutzt, wird er nicht verbraucht.</p><p>Dein Technologiewürfel ändert sich, wenn du bestimmte Ränge in diesem Einsatz erreichst. Der Würfel wird beim 2. Rang zu einem d6, beim 3. Rang zu einem d8, beim 4. Rang zu einem d10 und beim 5. Rang zu einem d12.</p><h3>Kreatives Denken</h3><p>Wenn du eine 1 auf deinen Technologiewürfel wirfst, sinkt er bis zum Ende deines nächsten Zuges um eine Würfelgröße. Das bedeutet, dass du deine Kreativität verbrauchst. Wenn der Würfel zum Beispiel ein d6 ist und du eine 1 würfelst, wird er zu einem d4. Ist es eine d4 und du würfelst eine 1, wird er bis zum Ende deines nächsten Zuges unbrauchbar.</p><p>Umgekehrt gilt: Wenn du die Höchstzahl auf deinem Technikwürfel würfelst, steigt er bis zum Ende deines nächsten Zuges um eine Würfelgröße, bis zu einer d12. Dies bedeutet, dass du einen kreativen Durchbruch erzielt hast. Wenn du zum Beispiel eine 4 auf einer d4 würfelst, wird der Würfel zu einer d6. Wenn es eine 12 ist und du eine 12 würfelst, kannst du bei zukünftigen Würfen bis zum Ende deines nächsten Zuges einen zusätzlichen Würfel werfen und wählen, welchen Würfel du verwenden möchtest.</p>"
+        },
+        {
+            "id": "nBl18Fr4ATBb43hQ",
+            "name": "System-Unterbrechung",
+            "description": "<p>Auf Rang 2 kannst du als Bonusaktion während deines Einsatzes als Operator ein Schiff auswählen, das du innerhalb von 1.000 Fuß sehen kannst, und dessen Systeme zur Störung anvisieren. Für die nächste Minute oder bis du ein anderes Ziel unterbrichst, hast du Vorteil bei jeder Weisheits- (Scannen) oder Intelligenz- (Sondieren) Prüfung, die du machst, um es zu finden.</p><p>Zusätzlich kannst du, wenn das Schiff eine Fähigkeitsprüfung, einen Angriffswurf oder einen Rettungswurf macht, deine Reaktion nutzen, um die Funktionen des Schiffs zu stören. Wirf einen Systemunterbrechungswürfel, also einen Würfel mit der Augenzahl 6, und ziehe ihn von der Fähigkeitsprüfung, dem Angriffswurf oder dem Rettungswurf ab. Du kannst diese Funktion nutzen, nachdem das Schiff seinen Wurf gemacht hat, aber bevor der Spielleiter sagt, ob der Wurf erfolgreich war oder nicht. Du kannst diese Eigenschaft zweimal verwenden. Du erhältst eine weitere Nutzung dieser Eigenschaft auf dem 3., 4. und 5. Rang in diesem Einsatz. Du erhältst alle verbrauchten Einsätze zurück, wenn du eine lange Pause beendest.</p><p>Dein Systemstörungswürfel ändert sich, wenn du bestimmte Ränge in dieser Aufstellung erreichst. Der Würfel wird beim 3. Rang zu einem d8, beim 4. Rang zu einem d10 und beim 5. Rang zu einem d12.</p>"
+        },
+        {
+            "id": "T3NM6sGjXhqJ6mFK",
+            "name": "Systeme blockieren",
+            "description": "<p><em><strong>Stärkewürfel Standort:</strong> Kommunikation</em><br>Wenn ein befreundetes Schiff einen Angriffswurf macht, kannst du deine Reaktion einsetzen und einen Stärkewürfel ausgeben und zum Angriffswurf hinzufügen. Bei einem Treffer hat der nächste Angriff des Ziels einen Nachteil und es kann bis zum Beginn deines nächsten Zuges keine Schildpunkte zurückgewinnen.</p>"
+        },
+        {
+            "id": "5AKFz91XZsgc3AuX",
+            "name": "Erfasstes Ziel",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Triebwerke</em><br>Als Bonusaktion kannst du einen Kraftwürfel ausgeben und ein Ziel anvisieren, das du sehen kannst. Der nächste Angriffswurf deines Schiffes hat Vorteil, und wenn der Angriff trifft, addiere das Ergebnis des Würfels zum Schadenswurf des Angriffs.</p>"
+        },
+        {
+            "id": "0BYJ96ps3bjlHgxt",
+            "name": "Gezielter Schlag",
+            "description": "<p><em><strong>Energiewürfelstandort:</strong> Sensoren</em><br>Wenn ein befreundetes Schiff einen Angriff gegen ein Ziel durchführt, kannst du deine Reaktion nutzen, um einen Energiewürfel auszugeben. Du addierst den Energiewürfel zum Angriffswurf und zum Schadenswurf, wenn er trifft. Du kannst dieses Manöver vor oder nach dem Angriffswurf einsetzen, aber bevor der Spielleiter entscheidet, ob der Angriff trifft oder nicht.</p> <p>"
+        },
+        {
+            "id": "4ktPeAWuEbtF8UkV",
+            "name": "Das ist ein guter Trick",
+            "description": "<p>Am 4. Rang kannst du eine Reaktion ausführen, um einem gegen dein Schiff erklärten Angriff einen Nachteil zu geben.</p><p>Wenn du diese Eigenschaft einmal benutzt hast, kannst du sie erst nach einer langen Pause wieder benutzen.</p>"
+        },
+        {
+            "id": "mLSe2KZoyfq7gZgV",
+            "name": "Einschätzung der Bedrohung",
+            "description": "<p>Auch auf Rang 3 kannst du als Bonusaktion bestimmte Informationen über die Fähigkeiten des Ziels deiner Systemstörung erfahren. Der Spielleiter sagt dir, ob das Schiff deinem Schiff in zwei der folgenden Eigenschaften deiner Wahl ebenbürtig, überlegen oder unterlegen ist:</p><ul><li>Ein Fähigkeitswert</li><li>Rüstungsklasse</li><li>Aktuelle Gesamtzahl der Hüllen- und Schildpunkte</li><li>Gesamtzahl der Schiffsränge (falls vorhanden)</li><li>Gesamtzahl der Einsatzränge (falls vorhanden)</li></ul>"
+        },
+        {
+            "id": "GIW5yAeEha7epKqY",
+            "name": "Unheimliches Ausweichen",
+            "description": "<p>Auch im 2. Rang kannst du, wenn ein Angreifer, den du sehen kannst, dein Schiff mit einem Angriff trifft, deine Reaktion nutzen, um den Schaden des Angriffs gegen dein Schiff zu halbieren.</p>"
+        },
+        {
+            "id": "eIS5gnYe7POBq7dc",
+            "name": "Aufmunternde Richtlinie",
+            "description": "<p>Auf Rang 2 wirfst du, wenn du die Aktion Direkt ausführst, einen Würfel. Notiere die Zahl auf dem Würfel. </p><p>Wenn ein Verbündeter einen Fähigkeits- oder Angriffswurf macht, der von deiner Direkten Aktion betroffen ist, kannst du das Ergebnis eines Würfels mit einem Würfelwurf durch den Wert des Wurfs mit der Erhöhenden Direktive ersetzen, solange du eine Erhöhende Direktive hast. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Du kannst immer nur einen erhebenden Direktivenwurf haben, und du verlierst alle ungenutzten erhebenden Direktivenwürfe, wenn du eine kurze oder lange Pause machst.</p>"
+        },
+        {
+            "id": "LLUJ5KWK4yQCi7OG",
+            "name": "Wagnis",
+            "description": "<p>Beginnend mit der Wahl dieses Einsatzes als Spezialität, auf dem 1. Rang und erneut auf dem 2., 3., 4. und 5. Rang kannst du ein Wagnis wählen (siehe Kapitel 6 von <u>Starships of the Galaxy</u> für eine Liste der Wagnisse).</p>"
+        },
+        {
+            "id": "tdCvvsmTpTmDSvcm",
+            "name": "Aufpassen",
+            "description": "<p><em><strong>Kraftwürfelstandort:</strong> Kommunikation</em><br>Wenn ein befreundetes Schiff, einschließlich deines eigenen, das dich sehen oder hören kann, einen Rettungswurf macht, kannst du deine Reaktion einsetzen und einen Kraftwürfel ausgeben, indem du die gewürfelte Zahl zum Ergebnis des Rettungswurfs addierst. Du kannst diese Zusammenarbeit vor oder nach dem Rettungswurf nutzen, aber bevor die Auswirkungen des Rettungswurfs bestimmt werden.</p>"
+        },
+        {
+            "id": "04VuHxn1zFFcJHRa",
+            "name": "Überlastung der Waffe",
+            "description": "<p>Als Bonusaktion kannst du deinen Technologiewürfel werfen.  Das nächste Mal, wenn eine Schiffswaffe vor dem Ende deines nächsten Zuges Schaden verursacht, verursacht sie zusätzlichen Schaden in Höhe des Würfelergebnisses. Der Schaden ist vom gleichen Typ wie der des ursprünglichen Angriffs.</p> <p>"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+	"label": "Raumschiff: Ausrüstung",
+	"entries": [
+		{
+			"id": "oqB8RltTDjHnaS1Y",
+			"name": "Direkte Stromkopplung",
+			"description": "<p>Die direkte Leistungskopplung hat einen zentralen Leistungskondensator, der die einzelnen Systeme direkt mit Strom versorgt.</p>"
+		},
+		{
+			"id": "VzkRXuQx2sqN9nd0",
+			"name": "Verteilte Leistungskopplung",
+			"description": "<p>Die verteilte Energiekopplung geht zu Lasten der Flexibilität, da die Energie jedem System separat zugewiesen wird.</p>"
+		},
+		{
+			"id": "jk7zL3cqhufDKsuh",
+			"name": "Brennstoffzellen-Reaktor",
+			"description": "<p>Brennstoffzellenreaktoren sind die gängigsten und ausgewogensten Reaktoren auf dem Markt.</p>"
+		},
+		{
+			"id": "sP1BC9NGrvBmLoph",
+			"name": "Nabe & Speiche Powerkupplung",
+			"description": "<p>Ein Naben- und Speichen-Kupplungssystem kombiniert die Eigenschaften der beiden anderen Systeme und bietet eine gewisse Flexibilität und eine erhöhte Energiespeicherkapazität.</p>"
+		},
+		{
+			"id": "MVXftcjJ1yzsCU3N",
+			"name": "Hyperdrive, Klasse 0.5",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsplatz verfügen.</p>"
+		},
+		{
+			"id": "EYi7guLJdSnebhcC",
+			"name": "Hyperdrive, Klasse 0,75",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsplatz verfügen.</p>"
+		},
+		{
+			"id": "o9DmeVhCJNezkjdI",
+			"name": "Hyperdrive, Klasse 1.0",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsslot verfügen.</p>"
+		},
+		{
+			"id": "EllirPMc7jJSHZpL",
+			"name": "Hyperdrive, Klasse 1.5",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsslot verfügen.</p>"
+		},
+		{
+			"id": "InvkgxmcbufkjOUR",
+			"name": "Hyperdrive, Klasse 15",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsslot verfügen.</p>"
+		},
+		{
+			"id": "7hFjCN43VSv73NIM",
+			"name": "Hyperdrive, Klasse 2",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsslot verfügen.</p>"
+		},
+		{
+			"id": "rFm20P0THnzZRUxB",
+			"name": "Hyperdrive, Klasse 3",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsslot verfügen.</p>"
+		},
+		{
+			"id": "ysZZRgNNjNrsqz4F",
+			"name": "Hyperdrive, Klasse 4",
+			"description": "<p>The hyperdrive is a propulsion system that allows a starship to reach hyperspeed and traverse the void between stars in the alternate dimension of hyperspace. For a starship to have a hyperdrive, it must have a vacant hyperdrive slot modification.</p>"
+		},
+		{
+			"id": "U4BhpyMxJdbnNErJ",
+			"name": "Hyperdrive, Klasse 5",
+			"description": "<p>The hyperdrive is a propulsion system that allows a starship to reach hyperspeed and traverse the void between stars in the alternate dimension of hyperspace. For a starship to have a hyperdrive, it must have a vacant hyperdrive slot modification.</p>"
+		},
+		{
+			"id": "P84rgL4vBaWw0GJe",
+			"name": "Hyperdrive, Klasse 8",
+			"description": "<p>Der Hyperantrieb ist ein Antriebssystem, das es einem Raumschiff ermöglicht, Hypergeschwindigkeit zu erreichen und die Leere zwischen den Sternen in der alternativen Dimension des Hyperraums zu durchqueren. Damit ein Raumschiff über einen Hyperantrieb verfügen kann, muss es über einen freien Hyperantriebsslot verfügen.</p>"
+		},
+		{
+			"id": "ZyEdKtLwSXuUQs0P",
+			"name": "Ionisationsreaktor",
+			"description": "<p>Ionisationsreaktoren sind hochgradig brennstoffeffiziente Reaktoren, die Leistung gegen Brennstoffeinsparung eintauschen.</p>"
+		},
+		{
+			"id": "UAiau5ZNXVJAJFUn",
+			"name": "Leistungskernreaktor",
+			"description": "<p>Leistungskernreaktoren verfügen über eine hochgradig variable Leistungsabgabe, haben aber Nachteile bei der Brennstoffeinsparung</p>."
+		}
+	]
+}

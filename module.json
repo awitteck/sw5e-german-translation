@@ -28,6 +28,6 @@
       "version": "1.11.1.0"
     }],
   "url": "https://github.com/awitteck/sw5e-german-translation",
-  "manifest": "https://github.com/awitteck/sw-card-games/raw/main/module.json",
+  "manifest": "https://github.com/awitteck/sw5e-german-translation/raw/main/module.json",
   "download": "https://github.com/awitteck/sw5e-german-translation/archive/master.zip"
 }

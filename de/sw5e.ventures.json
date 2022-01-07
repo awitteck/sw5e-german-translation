@@ -214,22 +214,22 @@
 				{
 					"id": "Do4ZGW8VensNJzoU",
 					"name": "Einfallsreiche Störung",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Operator</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel als Teil der Störung eines Operators wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Operator</em></p><p>Einmal pro Runde, wenn du einen Powerwürfel als Teil der Störung eines Operators wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
 				},
 				{
 					"id": "UOxpXRC2MCCx8DYP",
 					"name": "Einfallsreiche Gambits",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Gunner</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel für ein Gunner's Gambit wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Gunner</em></p><p>Einmal pro Runde, wenn du einen Powerwürfel für ein Gunner's Gambit wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
 				},
 				{
 					"id": "q9BXIUW2jbMIoDvU",
 					"name": "Einfallsreiche Taktik",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Pilot</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel als Teil einer Pilotentaktik wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Pilot</em></p><p>Einmal pro Runde, wenn du einen Powerwürfel als Teil einer Pilotentaktik wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
 				},
 				{
 					"id": "Ws9tdDqC5rdi8S8L",
 					"name": "Einfallsreicher Techniker",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Techniker</em></p><p>Einmal pro Runde, wenn du einen Machtwürfel als Teil einer Techniker-Strategie wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 1 Rang in Techniker</em></p><p>Einmal pro Runde, wenn du einen Powerwürfel als Teil einer Techniker-Strategie wirfst, kannst du den Würfel zweimal werfen und ein beliebiges Ergebnis nehmen.</p>"
 				},
 				{
 					"id": "FGQRhvmHD3GLtjbx",
@@ -284,7 +284,7 @@
 				{
 					"id": "g3nhoUfyGnuFstUg",
 					"name": "Taktische Überlegenheit",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Gelehrter</em></p><p>Wenn du einen Machtwürfel verbrauchst, wirfst du den Würfel ganz normal, kannst ihn aber stattdessen von deinem Pool an Überlegenheitswürfeln abziehen.</p>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Gelehrter</em></p><p>Wenn du einen Powerwürfel verbrauchst, wirfst du den Würfel ganz normal, kannst ihn aber stattdessen von deinem Pool an Überlegenheitswürfeln abziehen.</p>"
 				},
 				{
 					"id": "cdJIX7FymQXYn5TZ",

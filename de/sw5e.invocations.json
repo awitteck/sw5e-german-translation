@@ -14,7 +14,7 @@
         {
             "id": "Absorption Shield",
             "name": "Absorptionsschild",
-            "description": "<p><em><strong>Voraussetzung:</strong> Physischer Schild</em></p> <p>Du modifizierst deinen physischen Schild, um eingehenden Schaden abzuwehren. Als Bonusaktion kannst du diese Fähigkeit aktivieren und erhältst temporäre Trefferpunkte in Höhe von [[/r 1W4]] + Intelligenzmodifikator, die eine Stunde lang anhalten.</p> <p>Du kannst diese Funktion so oft verwenden zu Ihrem Intelligenzmodifikator (mindestens einmal). Du erhältst alle verbrauchten Verwendungen zurück, wenn du eine lange Pause beendet hast.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> Physischer Schild</em></p> <p>Du modifizierst deinen physischen Schild, um eingehenden Schaden abzuwehren. Als Bonusaktion kannst du diese Fähigkeit aktivieren und erhältst temporäre Trefferpunkte in Höhe von [[/r 1d4]] + Intelligenzmodifikator, die eine Stunde lang anhalten.</p> <p>Du kannst diese Funktion so oft verwenden zu Ihrem Intelligenzmodifikator (mindestens einmal). Du erhältst alle verbrauchten Verwendungen zurück, wenn du eine lange Pause beendet hast.</p>"
         },
         {
             "id": "Academic Memory",
@@ -69,7 +69,7 @@
         {
             "id": "Additonal Beam Port",
             "name": "Zusätzliche Strahlöffnung",
-            "description": "<p>Sie installieren einen zweiten Beamport in Ihrem modifizierten Lichtschwert. Dein modifiziertes Lichtschwert erhält die Eigenschaft double ([[/r 1W8]]). Du kannst nur von dieser Eigenschaft profitieren, wenn du dein modifiziertes Lichtschwert mit zwei Händen schwingst.</p>"
+            "description": "<p>Sie installieren einen zweiten Beamport in Ihrem modifizierten Lichtschwert. Dein modifiziertes Lichtschwert erhält die Eigenschaft double ([[/r 1d8]]). Du kannst nur von dieser Eigenschaft profitieren, wenn du dein modifiziertes Lichtschwert mit zwei Händen schwingst.</p>"
         },
         {
             "id": "Adegan Crystal",
@@ -159,7 +159,7 @@
         {
             "id": "Advanced Power Fist",
             "name": "Erweiterte Powerfaust",
-            "description": "<p><em><strong>Voraussetzung:</strong> 11. Stufe, Prototype Power Fist</em></p> <p>Du modifizierst den Panzerhandschuh deiner modifizierten Rüstung mit erhöhter Verstärkung und höherem Gewicht. Der waffenlose Schlag deiner modifizierten Rüstung verursacht [[/r 1W8]] Kinetikschaden. Außerdem erhöht sich deine kritische Trefferreichweite mit deinen waffenlosen Schlägen um 1.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 11. Stufe, Prototype Power Fist</em></p> <p>Du modifizierst den Panzerhandschuh deiner modifizierten Rüstung mit erhöhter Verstärkung und höherem Gewicht. Der waffenlose Schlag deiner modifizierten Rüstung verursacht [[/r 1d8]] Kinetikschaden. Außerdem erhöht sich deine kritische Trefferreichweite mit deinen waffenlosen Schlägen um 1.</p>"
         },
         {
             "id": "Advanced Remote Healer",
@@ -329,12 +329,12 @@
         {
             "id": "Battle Song Enhancement",
             "name": "Verbesserung des Kampfliedes",
-            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Während du dein Lied der Schlacht spielst, kannst du als Aktion Büsten gerichteter Schallenergie aussenden zwei Fernkampfangriffe. Diese Angriffe können auf dieselbe Kreatur mit unterschiedlichen Zielen abzielen. Führe für jeden Stoß separate Angriffswürfe durch. Der Angriff hat eine Reichweite, die dem Radius deines Liedes entspricht, und verursacht bei einem Treffer [[/r 1W8]] Schallschaden. </p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Während du dein Lied der Schlacht spielst, kannst du als Aktion Büsten gerichteter Schallenergie aussenden zwei Fernkampfangriffe. Diese Angriffe können auf dieselbe Kreatur mit unterschiedlichen Zielen abzielen. Führe für jeden Stoß separate Angriffswürfe durch. Der Angriff hat eine Reichweite, die dem Radius deines Liedes entspricht, und verursacht bei einem Treffer [[/r 1d8]] Schallschaden. </p>"
         },
         {
             "id": "Bayonet",
             "name": "Bajonett",
-            "description": "<p><em><strong>Voraussetzung:</strong> Blaster</em></p> <p>Du befestigst eine kurze Klinge am Lauf deiner modifizierten Blaster-Waffe, mit der du einen Nahkampfwaffenangriff ausführen kannst es. Die Klinge ist eine Nahkampfwaffe mit der Finesse-Eigenschaft, mit der Sie vertraut sind, und verursacht [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> Blaster</em></p> <p>Du befestigst eine kurze Klinge am Lauf deiner modifizierten Blaster-Waffe, mit der du einen Nahkampfwaffenangriff ausführen kannst es. Die Klinge ist eine Nahkampfwaffe mit der Finesse-Eigenschaft, mit der Sie vertraut sind, und verursacht [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "Beam Gem Lens",
@@ -369,7 +369,7 @@
         {
             "id": "Blastsaber Conversion",
             "name": "Blasschwert-Umwandlung",
-            "description": "<p><em>Inkompatibel mit anderen Konvertierungen</em></p> <p>Du modifizierst deine Leichtwaffe stark, um dir einen Fernkampfangriff zu ermöglichen. Mit dieser Modifikation können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1W6]] Energieschaden.</p> <p>Zusätzlich kannst du bei deinem ersten Angriff in deinem Zug die Eigenschaften deines modifizierten Lichtschwerts ändern. Bis zum Beginn deines nächsten Zuges wird die Schadensart deines modifizierten Lichtschwerts in Ionen geändert. </p> <p>Du kannst diese Eigenschaft so oft verwenden, wie es deinem Intelligenzmodifikator entspricht (mindestens einmal). Du erhältst alle verbrauchten Nutzungen zurück, wenn du eine kurze oder lange Pause machst.</p>"
+            "description": "<p><em>Inkompatibel mit anderen Konvertierungen</em></p> <p>Du modifizierst deine Leichtwaffe stark, um dir einen Fernkampfangriff zu ermöglichen. Mit dieser Modifikation können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1d6]] Energieschaden.</p> <p>Zusätzlich kannst du bei deinem ersten Angriff in deinem Zug die Eigenschaften deines modifizierten Lichtschwerts ändern. Bis zum Beginn deines nächsten Zuges wird die Schadensart deines modifizierten Lichtschwerts in Ionen geändert. </p> <p>Du kannst diese Eigenschaft so oft verwenden, wie es deinem Intelligenzmodifikator entspricht (mindestens einmal). Du erhältst alle verbrauchten Nutzungen zurück, wenn du eine kurze oder lange Pause machst.</p>"
         },
         {
             "id": "Blurrg's Instinct",
@@ -389,7 +389,7 @@
         {
             "id": "Booming Strikes",
             "name": "Boomende Streiks",
-            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Du packst zusätzliche Kraft in deine modifizierte Waffe. Einmal pro Runde, wenn du mit der Waffe triffst, kannst du zusätzlich [[/r 1W6]] Schaden verursachen. Wenn Sie dies tun, macht die Waffe einen lauten Knall, der in 100ft Entfernung zu hören ist. Wenn du versteckt bist, sind Intelligenz- (Ermittlung) und Weisheits- (Wahrnehmungs-) Prüfungen von Vorteil, um dich zu lokalisieren, die auf Geräusche angewiesen sind.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Du packst zusätzliche Kraft in deine modifizierte Waffe. Einmal pro Runde, wenn du mit der Waffe triffst, kannst du zusätzlich [[/r 1d6]] Schaden verursachen. Wenn Sie dies tun, macht die Waffe einen lauten Knall, der in 100ft Entfernung zu hören ist. Wenn du versteckt bist, sind Intelligenz- (Ermittlung) und Weisheits- (Wahrnehmungs-) Prüfungen von Vorteil, um dich zu lokalisieren, die auf Geräusche angewiesen sind.</p>"
         },
         {
             "id": "Brawler Adept",
@@ -424,7 +424,7 @@
         {
             "id": "Carbonite Shot",
             "name": "Karbonitschuss",
-            "description": "<p>Wenn dieser Schuss sein Ziel trifft, wickeln sich Karbonitsplitter um das Ziel. Die vom Schuss getroffene Kreatur erleidet zusätzlich [[/r 2W6]] Kälteschaden, sie erhält 1 Verlangsamungsstufe und sie erleidet [[/r 2W6]] Kinetikschaden das erste Mal in jeder Runde, in der sie sich 1 Fuß oder mehr bewegt, ohne teleportieren. Das Ziel oder jede Kreatur, die es erreichen kann, kann seine Aktion verwenden, um den Karbonit mit einem erfolgreichen Wurf auf Stärke (Athletik) gegen deinen SG für Spezialmunitionswürfe zu entfernen. Andernfalls hält der Karbonit 1 Minute lang an oder bis Sie diese Option erneut verwenden.</p> <p>Der Kälteschaden und der kinetische Schaden erhöhen sich beide auf [[/r 4W6]], wenn Sie die 18. Stufe dieser Klasse erreichen.</ p>"
+            "description": "<p>Wenn dieser Schuss sein Ziel trifft, wickeln sich Karbonitsplitter um das Ziel. Die vom Schuss getroffene Kreatur erleidet zusätzlich [[/r 2d6]] Kälteschaden, sie erhält 1 Verlangsamungsstufe und sie erleidet [[/r 2d6]] Kinetikschaden das erste Mal in jeder Runde, in der sie sich 1 Fuß oder mehr bewegt, ohne teleportieren. Das Ziel oder jede Kreatur, die es erreichen kann, kann seine Aktion verwenden, um den Karbonit mit einem erfolgreichen Wurf auf Stärke (Athletik) gegen deinen SG für Spezialmunitionswürfe zu entfernen. Andernfalls hält der Karbonit 1 Minute lang an oder bis Sie diese Option erneut verwenden.</p> <p>Der Kälteschaden und der kinetische Schaden erhöhen sich beide auf [[/r 4d6]], wenn Sie die 18. Stufe dieser Klasse erreichen.</ p>"
         },
         {
             "id": "Celerity Leg Prosthesis",
@@ -454,7 +454,7 @@
         {
             "id": "Clever Applications",
             "name": "Clevere Anwendungen",
-            "description": "<p>Sie erwerben Kenntnisse im Umgang mit improvisierten Waffen, und sie erhalten die Finesse-Eigenschaft für Sie. Außerdem verursacht ein Angriff mit einer improvisierten Waffe [[/r 1W6]] Schaden.</p> <p>Du kannst deine Weiser-Rate-Funktion verwenden, um befreundeten Kreaturen improvisierte Waffenfähigkeiten zu verleihen, falls sie dies nicht bereits tun haben Sie es, indem Sie den gleichen Regeln dieses Features folgen, als ob es eine Fertigkeit oder ein Werkzeug wäre. Die befreundeten Kreaturen behalten diese Fähigkeit stattdessen für die gesamte Dauer.</p>"
+            "description": "<p>Sie erwerben Kenntnisse im Umgang mit improvisierten Waffen, und sie erhalten die Finesse-Eigenschaft für Sie. Außerdem verursacht ein Angriff mit einer improvisierten Waffe [[/r 1d6]] Schaden.</p> <p>Du kannst deine Weiser-Rate-Funktion verwenden, um befreundeten Kreaturen improvisierte Waffenfähigkeiten zu verleihen, falls sie dies nicht bereits tun haben Sie es, indem Sie den gleichen Regeln dieses Features folgen, als ob es eine Fertigkeit oder ein Werkzeug wäre. Die befreundeten Kreaturen behalten diese Fähigkeit stattdessen für die gesamte Dauer.</p>"
         },
         {
             "id": "Climbing Gloves",
@@ -469,7 +469,7 @@
         {
             "id": "Coercing Shot",
             "name": "Erzwingender Schuss",
-            "description": "<p>Sie verbessern Ihren Schuss mit Chemikalien, die das Ziel verwirren. Die vom Schuss getroffene Kreatur erleidet zusätzlich [[/r 2W6]] Giftschaden und wähle einen deiner Verbündeten innerhalb von 30ft um das Ziel. Dem Ziel muss ein Weisheitsrettungswurf gelingen, oder es wird bis zum Beginn deines nächsten Zuges vom gewählten Verbündeten bezaubert. Dieser Effekt endet vorzeitig, wenn der gewählte Verbündete das verzauberte Ziel angreift, ihm Schaden zufügt oder es zu einem Rettungswurf zwingt.</p> <p>Der Giftschaden erhöht sich auf [[/r 4W6]], wenn du das 18. Niveau in dieser Klasse.</p>"
+            "description": "<p>Sie verbessern Ihren Schuss mit Chemikalien, die das Ziel verwirren. Die vom Schuss getroffene Kreatur erleidet zusätzlich [[/r 2d6]] Giftschaden und wähle einen deiner Verbündeten innerhalb von 30ft um das Ziel. Dem Ziel muss ein Weisheitsrettungswurf gelingen, oder es wird bis zum Beginn deines nächsten Zuges vom gewählten Verbündeten bezaubert. Dieser Effekt endet vorzeitig, wenn der gewählte Verbündete das verzauberte Ziel angreift, ihm Schaden zufügt oder es zu einem Rettungswurf zwingt.</p> <p>Der Giftschaden erhöht sich auf [[/r 4d6]], wenn du das 18. Niveau in dieser Klasse.</p>"
         },
         {
             "id": "Cold Read",
@@ -669,7 +669,7 @@
         {
             "id": "Electroshock Shield",
             "name": "Elektroschock-Schild",
-            "description": "<p><em><strong>Voraussetzung:</strong> Schildgenerator</em></p> <p>Du installierst Elektroschocker in deinem Schildgenerator. Immer wenn ein Feind dich mit einem Nahkampfangriff verfehlt, kannst du deine Reaktion nutzen, um dem Angreifer [[/r 1W4]] + deinen Intelligenzmodifikator Blitzschaden zuzufügen.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> Schildgenerator</em></p> <p>Du installierst Elektroschocker in deinem Schildgenerator. Immer wenn ein Feind dich mit einem Nahkampfangriff verfehlt, kannst du deine Reaktion nutzen, um dem Angreifer [[/r 1d4]] + deinen Intelligenzmodifikator Blitzschaden zuzufügen.</p>"
         },
         {
             "id": "Enhanced Endurance",
@@ -764,7 +764,7 @@
         {
             "id": "Explosive Shot",
             "name": "Explosiver Schuss",
-            "description": "<p>Sie feuern einen Schusssatz ab, der beim Aufprall explodiert. Der Schuss detoniert nach Ihrem Angriff. Unmittelbar nachdem der Schuss die Kreatur getroffen hat, erleiden das Ziel und alle anderen Kreaturen innerhalb von 10ft Entfernung jeweils [[/r 2W6]] Feuerschaden.</p> <p>Der Feuerschaden erhöht sich auf [[/r 4W6]] wenn du die 18. Stufe in dieser Klasse erreichst.</p>"
+            "description": "<p>Sie feuern einen Schusssatz ab, der beim Aufprall explodiert. Der Schuss detoniert nach Ihrem Angriff. Unmittelbar nachdem der Schuss die Kreatur getroffen hat, erleiden das Ziel und alle anderen Kreaturen innerhalb von 10ft Entfernung jeweils [[/r 2d6]] Feuerschaden.</p> <p>Der Feuerschaden erhöht sich auf [[/r 4d6]] wenn du die 18. Stufe in dieser Klasse erreichst.</p>"
         },
         {
             "id": "Exsanguination",
@@ -924,7 +924,7 @@
         {
             "id": "Grappling Harpoon",
             "name": "Greifende Harpune",
-            "description": "<p><em><strong>Voraussetzung:</strong> Rüstung</em></p> <p>Deine modifizierte Rüstung erhält eine integrierte Enterhakenharpune in deinem Handschuh. Mit dieser Harpune können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1W6]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird von der Harpune aufgespießt. Als Aktion kann eine Kreatur versuchen, die Harpune zu entfernen. Das Entfernen der Harpune erfordert einen Stärke-Check. Während die Harpune im Ziel steckt, bist du über ein 60ft langes Kabel mit dem Ziel verbunden.</p> <p>Während die Harpune ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich an den Ort zu ziehen wenn das Ziel größer ist als Sie. Eine Kreatur oder ein Objekt deiner Größe oder kleiner wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht mehr verwenden, bis Sie die Harpune wiederhergestellt und als Aktion wieder eingeführt haben.</ p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> Rüstung</em></p> <p>Deine modifizierte Rüstung erhält eine integrierte Enterhakenharpune in deinem Handschuh. Mit dieser Harpune können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1d6]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird von der Harpune aufgespießt. Als Aktion kann eine Kreatur versuchen, die Harpune zu entfernen. Das Entfernen der Harpune erfordert einen Stärke-Check. Während die Harpune im Ziel steckt, bist du über ein 60ft langes Kabel mit dem Ziel verbunden.</p> <p>Während die Harpune ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich an den Ort zu ziehen wenn das Ziel größer ist als Sie. Eine Kreatur oder ein Objekt deiner Größe oder kleiner wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht mehr verwenden, bis Sie die Harpune wiederhergestellt und als Aktion wieder eingeführt haben.</ p>"
         },
         {
             "id": "Grappling Hunter",
@@ -934,7 +934,7 @@
         {
             "id": "Greatsaber Array",
             "name": "Großschwert-Array",
-            "description": "<p>Sie erweitern die Konfiguration Ihres modifizierten Lichtschwerts. Dein modifiziertes Lichtschwert erhält die Zweihand-Eigenschaft und sein Schadenswürfel erhöht sich auf [[/r 1W12]].</p>"
+            "description": "<p>Sie erweitern die Konfiguration Ihres modifizierten Lichtschwerts. Dein modifiziertes Lichtschwert erhält die Zweihand-Eigenschaft und sein Schadenswürfel erhöht sich auf [[/r 1d12]].</p>"
         },
         {
             "id": "Grounding System",
@@ -964,7 +964,7 @@
         {
             "id": "Hallucinogen Shot",
             "name": "Halluzinogen-Schuss",
-            "description": "<p>Du verbesserst deine Aufnahme mit halluzinogenen Chemikalien. Die von dem Schuss getroffene Kreatur erleidet zusätzlichen [[/r 2W6]] psychischen Schaden und muss einen Weisheitsrettungswurf erfolgreich abschließen oder bis zum Beginn deines nächsten Zuges nichts weiter als  5ft weit sehen können.</p> <p>Der psychische Schaden erhöht sich auf [[/r 4W6]], wenn du die 18. Stufe in dieser Klasse erreichst.</p>"
+            "description": "<p>Du verbesserst deine Aufnahme mit halluzinogenen Chemikalien. Die von dem Schuss getroffene Kreatur erleidet zusätzlichen [[/r 2d6]] psychischen Schaden und muss einen Weisheitsrettungswurf erfolgreich abschließen oder bis zum Beginn deines nächsten Zuges nichts weiter als  5ft weit sehen können.</p> <p>Der psychische Schaden erhöht sich auf [[/r 4d6]], wenn du die 18. Stufe in dieser Klasse erreichst.</p>"
         },
         {
             "id": "Hardened Mind",
@@ -984,12 +984,12 @@
         {
             "id": "Harpoon Hand",
             "name": "Harpunenhand",
-            "description": "<p>Diese Erweiterung ersetzt eine Hand.</p> <p>Du veränderst deine Hand, sodass sie sich in eine Harpune verwandeln kann. Mit dieser Hand können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 ausführen. Bei einem Treffer verursacht es [[/r 1W6]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird von der Harpune aufgespießt. Als Aktion kann eine Kreatur versuchen, die Harpune zu entfernen. Das Entfernen der Harpune erfordert einen Stärke-Check. Während die Harpune im Ziel steckt, bist du über ein 60ft langes Kabel mit dem Ziel verbunden.</p> <p>Während die Harpune ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich an den Ort zu ziehen wenn das Ziel größer ist als Sie. Eine Kreatur oder ein Objekt deiner Größe oder kleiner wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie Ihre Hand nicht mehr verwenden, bis Sie sie wiederhergestellt und als Aktion wieder eingeführt haben.</p> p> <p>Sie können diese Modifikation mehrmals auswählen.</p>"
+            "description": "<p>Diese Erweiterung ersetzt eine Hand.</p> <p>Du veränderst deine Hand, sodass sie sich in eine Harpune verwandeln kann. Mit dieser Hand können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 ausführen. Bei einem Treffer verursacht es [[/r 1d6]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird von der Harpune aufgespießt. Als Aktion kann eine Kreatur versuchen, die Harpune zu entfernen. Das Entfernen der Harpune erfordert einen Stärke-Check. Während die Harpune im Ziel steckt, bist du über ein 60ft langes Kabel mit dem Ziel verbunden.</p> <p>Während die Harpune ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich an den Ort zu ziehen wenn das Ziel größer ist als Sie. Eine Kreatur oder ein Objekt deiner Größe oder kleiner wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie Ihre Hand nicht mehr verwenden, bis Sie sie wiederhergestellt und als Aktion wieder eingeführt haben.</p> p> <p>Sie können diese Modifikation mehrmals auswählen.</p>"
         },
         {
             "id": "Harpoon Reel",
             "name": "Harpunenrolle",
-            "description": "<p>Sie installieren einen sekundären Feuermodus, der eine Harpune abfeuert, die an einer fest aufgewickelten Schnur befestigt ist. Mit dieser Harpune können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1W6]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird von der Harpune aufgespießt. Als Aktion kann eine Kreatur versuchen, die Harpune zu entfernen. Das Entfernen der Harpune erfordert einen Stärke-Check. Während die Harpune im Ziel steckt, bist du mit einem 60-Fuß-Kabel mit dem Ziel verbunden.</p> <p>Während du auf diese Weise verbunden bist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich selbst an den Ort zu ziehen wenn das Ziel Ihre Größe oder größer ist. Eine Kreatur oder ein Objekt, das kleiner ist als du, wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht mehr verwenden, bis Sie die Harpune wiederhergestellt und als Aktion wieder eingesteckt haben.</ p>"
+            "description": "<p>Sie installieren einen sekundären Feuermodus, der eine Harpune abfeuert, die an einer fest aufgewickelten Schnur befestigt ist. Mit dieser Harpune können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1d6]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird von der Harpune aufgespießt. Als Aktion kann eine Kreatur versuchen, die Harpune zu entfernen. Das Entfernen der Harpune erfordert einen Stärke-Check. Während die Harpune im Ziel steckt, bist du mit einem 60-Fuß-Kabel mit dem Ziel verbunden.</p> <p>Während du auf diese Weise verbunden bist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich selbst an den Ort zu ziehen wenn das Ziel Ihre Größe oder größer ist. Eine Kreatur oder ein Objekt, das kleiner ist als du, wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht mehr verwenden, bis Sie die Harpune wiederhergestellt und als Aktion wieder eingesteckt haben.</ p>"
         },
         {
             "id": "Hawk's Instinct",
@@ -1114,7 +1114,7 @@
         {
             "id": "Injection Apparatus",
             "name": "Injektionsgerät",
-            "description": "<p>Sie installieren ein am Handgelenk befestigtes Injektionsgerät in Ihrem modifizierten Biochemiker-Paket. Es ist ein einfacher Vibroweapon mit den Finesse- und Lichteigenschaften und verursacht bei einem Treffer [[/r 1W4]] kinetischen Schaden. Ihr Injektionsgerät füllt den Handschlitz nicht, aber Sie können es nicht benutzen, solange die Hand voll ist.</p> <p>Wenn Sie mit der Waffe treffen, können Sie Ihren Verteiler aktivieren, um eine Ihrer Mischungen einzusetzen. Wenn du dies tust, hat das Ziel einen Nachteil beim Rettungswurf gegen deine Mischung.</p>"
+            "description": "<p>Sie installieren ein am Handgelenk befestigtes Injektionsgerät in Ihrem modifizierten Biochemiker-Paket. Es ist ein einfacher Vibroweapon mit den Finesse- und Lichteigenschaften und verursacht bei einem Treffer [[/r 1d4]] kinetischen Schaden. Ihr Injektionsgerät füllt den Handschlitz nicht, aber Sie können es nicht benutzen, solange die Hand voll ist.</p> <p>Wenn Sie mit der Waffe treffen, können Sie Ihren Verteiler aktivieren, um eine Ihrer Mischungen einzusetzen. Wenn du dies tust, hat das Ziel einen Nachteil beim Rettungswurf gegen deine Mischung.</p>"
         },
         {
             "id": "Inoculation",
@@ -1169,12 +1169,12 @@
         {
             "id": "Ionizing Phased Array",
             "name": "Ionisierendes Phased Array",
-            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Während dein ionisierendes Feld aktiv ist, kannst du als Aktion Strahlen gerichteter ionischer Energie aussenden. Führen Sie zwei technische Fernkampfangriffe gegen Ziele innerhalb des Feldes durch. Diese Angriffe können dieselbe oder verschiedene Kreaturen als Ziel haben. Machen Sie für jede Explosion separate Angriffswürfe. Der Angriff verursacht [[/r 1W6]] Ionenschaden bei einem Treffer.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Während dein ionisierendes Feld aktiv ist, kannst du als Aktion Strahlen gerichteter ionischer Energie aussenden. Führen Sie zwei technische Fernkampfangriffe gegen Ziele innerhalb des Feldes durch. Diese Angriffe können dieselbe oder verschiedene Kreaturen als Ziel haben. Machen Sie für jede Explosion separate Angriffswürfe. Der Angriff verursacht [[/r 1d6]] Ionenschaden bei einem Treffer.</p>"
         },
         {
             "id": "Iridonian Grav-lev Hand",
             "name": "Iridonian Grav-lev Hand",
-            "description": "<p>Diese Verstärkung ersetzt eine Hand.</p> <p>Deine unbewaffneten Schläge mit diesem Arm verursachen [[/r 1W4]] Ionenschaden und deine Tragfähigkeit und das Gewicht, das du schieben, ziehen oder heben kannst, verdoppeln sich. Außerdem fügst du mit deinen unbewaffneten Schlägen doppelten Schaden an energiebasierten Strukturen zu.</p> <p>Du kannst diese Modifikation mehrmals wählen.</p>"
+            "description": "<p>Diese Verstärkung ersetzt eine Hand.</p> <p>Deine unbewaffneten Schläge mit diesem Arm verursachen [[/r 1d4]] Ionenschaden und deine Tragfähigkeit und das Gewicht, das du schieben, ziehen oder heben kannst, verdoppeln sich. Außerdem fügst du mit deinen unbewaffneten Schlägen doppelten Schaden an energiebasierten Strukturen zu.</p> <p>Du kannst diese Modifikation mehrmals wählen.</p>"
         },
         {
             "id": "It Belongs in a Museum",
@@ -1184,7 +1184,7 @@
         {
             "id": "Jagged Oscillator",
             "name": "Gezackter Oszillator",
-            "description": "<p><em><strong>Voraussetzung:</strong> Vibrowaffe</em></p> <p>Wenn Sie mit der Waffe einen kritischen Treffer erzielen, verursachen Sie zusätzlich [[/r 1W8]] Kinetikschaden.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> Vibrowaffe</em></p> <p>Wenn Sie mit der Waffe einen kritischen Treffer erzielen, verursachen Sie zusätzlich [[/r 1d8]] Kinetikschaden.</p>"
         },
         {
             "id": "Jamming Phased Array",
@@ -1429,7 +1429,7 @@
         {
             "id": "Overcharge Weapon",
             "name": "Waffe überladen",
-            "description": "<p><em><strong>Voraussetzung:</strong> 11. Stufe, Boomende Schläge</em></p> <p>Du erhältst die Fähigkeit, deine Tech-Power zu kanalisieren, um den Schaden deiner Waffe zu erhöhen. Sie können einen Tech-Slot aufwenden, um dem Ziel zusätzlichen Schaden zuzufügen. Der zusätzliche Schaden beträgt [[/r 1W6]] für einen Tech-Slot der 1. Stufe plus [[/r 1W6]] für jede Slot-Stufe über der 1. Stufe, bis zu einem Maximum von [[/r 5W6]]. Der Schaden ist vom gleichen Typ wie der Waffenschaden. Wenn du deine Boomenden Schläge auch mit einem Angriff verwendest, addierst du diesen Schaden zum zusätzlichen Schaden deiner Boomenden Schläge.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 11. Stufe, Boomende Schläge</em></p> <p>Du erhältst die Fähigkeit, deine Tech-Power zu kanalisieren, um den Schaden deiner Waffe zu erhöhen. Sie können einen Tech-Slot aufwenden, um dem Ziel zusätzlichen Schaden zuzufügen. Der zusätzliche Schaden beträgt [[/r 1d6]] für einen Tech-Slot der 1. Stufe plus [[/r 1d6]] für jede Slot-Stufe über der 1. Stufe, bis zu einem Maximum von [[/r 5d6]]. Der Schaden ist vom gleichen Typ wie der Waffenschaden. Wenn du deine Boomenden Schläge auch mit einem Angriff verwendest, addierst du diesen Schaden zum zusätzlichen Schaden deiner Boomenden Schläge.</p>"
         },
         {
             "id": "Overload Shield",
@@ -1474,12 +1474,12 @@
         {
             "id": "Piercing Shot",
             "name": "Durchdringender Schuss",
-            "description": "<p>Du verbesserst deinen Schuss mit panzerbrechenden Eigenschaften. Wenn Sie diese Option verwenden, machen Sie keinen Angriffswurf für den Angriff. Stattdessen schießt der Schuss in einer Linie nach vorne, die 1 Fuß breit und 30ft lang ist, bevor er verschwindet. Der Schuss geht durch Objekte hindurch und ignoriert die Deckung. Jede Kreatur in dieser Reihe muss einen Geschicklichkeitsrettungswurf machen. Bei einem fehlgeschlagenen Rettungswurf erleidet eine Kreatur Schaden, als ob sie vom Schuss getroffen worden wäre, plus zusätzlich [[/r 1W6]] Schaden des Waffentyps. Bei einem erfolgreichen Rettungswurf erleidet ein Ziel halb so viel Schaden.</p> <p>Der zusätzliche Schaden erhöht sich auf [[/r 2W6]], wenn du die 18. Stufe in dieser Klasse erreichst.</p>"
+            "description": "<p>Du verbesserst deinen Schuss mit panzerbrechenden Eigenschaften. Wenn Sie diese Option verwenden, machen Sie keinen Angriffswurf für den Angriff. Stattdessen schießt der Schuss in einer Linie nach vorne, die 1 Fuß breit und 30ft lang ist, bevor er verschwindet. Der Schuss geht durch Objekte hindurch und ignoriert die Deckung. Jede Kreatur in dieser Reihe muss einen Geschicklichkeitsrettungswurf machen. Bei einem fehlgeschlagenen Rettungswurf erleidet eine Kreatur Schaden, als ob sie vom Schuss getroffen worden wäre, plus zusätzlich [[/r 1d6]] Schaden des Waffentyps. Bei einem erfolgreichen Rettungswurf erleidet ein Ziel halb so viel Schaden.</p> <p>Der zusätzliche Schaden erhöht sich auf [[/r 2d6]], wenn du die 18. Stufe in dieser Klasse erreichst.</p>"
         },
         {
             "id": "Power Fist",
             "name": "Kraftfaust",
-            "description": "<p><em><strong>Voraussetzung:</strong> Rüstung</em></p> <p>Du modifizierst deinen modifizierten Panzerhandschuh mit erhöhter Verstärkung und erhöhtem Gewicht. Der unbewaffnete Schlag deiner modifizierten Rüstung verursacht [[/r 1W4]] Kinetikschaden.</p> <p>Zusätzlich kannst du, wenn du die Angriffsaktion ausführst und einen unbewaffneten Angriff ausführst, einen zusätzlichen unbewaffneten Angriff als Bonusaktion ausführen.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> Rüstung</em></p> <p>Du modifizierst deinen modifizierten Panzerhandschuh mit erhöhter Verstärkung und erhöhtem Gewicht. Der unbewaffnete Schlag deiner modifizierten Rüstung verursacht [[/r 1d4]] Kinetikschaden.</p> <p>Zusätzlich kannst du, wenn du die Angriffsaktion ausführst und einen unbewaffneten Angriff ausführst, einen zusätzlichen unbewaffneten Angriff als Bonusaktion ausführen.</p>"
         },
         {
             "id": "Power Loop",
@@ -1594,7 +1594,7 @@
         {
             "id": "Prototype Power Fist",
             "name": "Prototyp Power Fist",
-            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe, Power Fist</em></p> <p>Du modifizierst deinen modifizierten Panzerhandschuh mit erhöhter Verstärkung und höherem Gewicht. Der unbewaffnete Schlag deiner modifizierten Rüstung verursacht [[/r 1W6]] Kinetikschaden und hat die folgende Eigenschaft.</p> <p>Wenn du oder dein Ziel sich unmittelbar vor einem unbewaffneten Angriff mindestens 10ft in einer geraden Linie bewegen, Der erste unbewaffnete Angriff, den du ausführst, verursacht zusätzlichen Schaden in Höhe deines Intelligenzmodifikators.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe, Power Fist</em></p> <p>Du modifizierst deinen modifizierten Panzerhandschuh mit erhöhter Verstärkung und höherem Gewicht. Der unbewaffnete Schlag deiner modifizierten Rüstung verursacht [[/r 1d6]] Kinetikschaden und hat die folgende Eigenschaft.</p> <p>Wenn du oder dein Ziel sich unmittelbar vor einem unbewaffneten Angriff mindestens 10ft in einer geraden Linie bewegen, Der erste unbewaffnete Angriff, den du ausführst, verursacht zusätzlichen Schaden in Höhe deines Intelligenzmodifikators.</p>"
         },
         {
             "id": "Prototype Support Enhancement",
@@ -1619,7 +1619,7 @@
         {
             "id": "Quell Shot",
             "name": "Quell Shot",
-            "description": "<p>Du feuerst einen Schuss ab, der mit einem schwächenden Gift verstärkt ist. Die vom Schuss getroffene Kreatur erleidet zusätzlich [[/r 2W6]] Giftschaden. Dem Ziel muss auch ein Konstitutionsrettungswurf gelingen, oder der durch seine Waffenangriffe verursachte Schaden wird bis zum Beginn deines nächsten Zuges halbiert.</p> <p>Der Giftschaden erhöht sich auf [[/r 4W6]], wenn du Erreiche die 18. Stufe in dieser Klasse.</p>"
+            "description": "<p>Du feuerst einen Schuss ab, der mit einem schwächenden Gift verstärkt ist. Die vom Schuss getroffene Kreatur erleidet zusätzlich [[/r 2d6]] Giftschaden. Dem Ziel muss auch ein Konstitutionsrettungswurf gelingen, oder der durch seine Waffenangriffe verursachte Schaden wird bis zum Beginn deines nächsten Zuges halbiert.</p> <p>Der Giftschaden erhöht sich auf [[/r 4d6]], wenn du Erreiche die 18. Stufe in dieser Klasse.</p>"
         },
         {
             "id": "Quick Analysis",
@@ -1719,7 +1719,7 @@
         {
             "id": "Restful Melody",
             "name": "Erholsame Melodie",
-            "description": "<p>Während einer kurzen Pause können Sie ein verjüngendes Lied spielen, um die Genesung Ihrer Verbündeten zu unterstützen. Wenn du oder eine befreundete Kreatur, die deine Leistung hören kann, am Ende der kurzen Pause Trefferpunkte zurückerlangt, erhält jede dieser Kreaturen [[/r 1W6]] zusätzliche Trefferpunkte zurück.</p> <p>Die zusätzlichen Trefferpunkte steigt, wenn du bestimmte Stufen in dieser Klasse erreichst: auf [[/r 1W8]] auf der 9. Stufe, auf 1W 10 auf der 13. Stufe und auf [[/r 1W12]] auf der 17. Stufe.</p>"
+            "description": "<p>Während einer kurzen Pause können Sie ein verjüngendes Lied spielen, um die Genesung Ihrer Verbündeten zu unterstützen. Wenn du oder eine befreundete Kreatur, die deine Leistung hören kann, am Ende der kurzen Pause Trefferpunkte zurückerlangt, erhält jede dieser Kreaturen [[/r 1d6]] zusätzliche Trefferpunkte zurück.</p> <p>Die zusätzlichen Trefferpunkte steigt, wenn du bestimmte Stufen in dieser Klasse erreichst: auf [[/r 1d8]] auf der 9. Stufe, auf 1W 10 auf der 13. Stufe und auf [[/r 1d12]] auf der 17. Stufe.</p>"
         },
         {
             "id": "Return Fire",
@@ -1784,7 +1784,7 @@
         {
             "id": "Seeking Shot",
             "name": "Suche nach Schuss",
-            "description": "<p>Sie legen Ihrem Schuss ein Verfolgungssignal an. Wenn Sie diese Option verwenden, machen Sie keinen Angriffswurf für den Angriff. Wähle stattdessen eine Kreatur aus, die du in der letzten Minute gesehen hast. Der Schuss fliegt auf diese Kreatur zu, bewegt sich bei Bedarf um Ecken und ignoriert Dreiviertel- und Halbdeckung. Befindet sich das Ziel in Reichweite der Waffe und gibt es einen Weg, der groß genug ist, damit der Schuss das Ziel erreichen kann, muss das Ziel einen Geschicklichkeitsrettungswurf ausführen. Andernfalls verschwindet der Schuss, nachdem er so weit wie möglich gereist ist. Bei einem fehlgeschlagenen Rettungswurf erleidet das Ziel Schaden, als ob es von dem Schuss getroffen worden wäre, plus zusätzlich [[/r 1W6]] Kinetikschaden, und du erfährst die aktuelle Position des Ziels. Bei einem erfolgreichen Rettungswurf erleidet das Ziel halb so viel Schaden und du erfährst seine Position nicht.</p> <p>Der kinetische Schaden erhöht sich auf [[/r 2W6]], wenn du die 18. Stufe in dieser Klasse erreichst. </p>"
+            "description": "<p>Sie legen Ihrem Schuss ein Verfolgungssignal an. Wenn Sie diese Option verwenden, machen Sie keinen Angriffswurf für den Angriff. Wähle stattdessen eine Kreatur aus, die du in der letzten Minute gesehen hast. Der Schuss fliegt auf diese Kreatur zu, bewegt sich bei Bedarf um Ecken und ignoriert Dreiviertel- und Halbdeckung. Befindet sich das Ziel in Reichweite der Waffe und gibt es einen Weg, der groß genug ist, damit der Schuss das Ziel erreichen kann, muss das Ziel einen Geschicklichkeitsrettungswurf ausführen. Andernfalls verschwindet der Schuss, nachdem er so weit wie möglich gereist ist. Bei einem fehlgeschlagenen Rettungswurf erleidet das Ziel Schaden, als ob es von dem Schuss getroffen worden wäre, plus zusätzlich [[/r 1d6]] Kinetikschaden, und du erfährst die aktuelle Position des Ziels. Bei einem erfolgreichen Rettungswurf erleidet das Ziel halb so viel Schaden und du erfährst seine Position nicht.</p> <p>Der kinetische Schaden erhöht sich auf [[/r 2d6]], wenn du die 18. Stufe in dieser Klasse erreichst. </p>"
         },
         {
             "id": "Self-Injection Module",
@@ -1804,17 +1804,17 @@
         {
             "id": "Sentry Turret",
             "name": "Wachturm",
-            "description": "<p>Sie lernen, wie man kleine Wachtürme in Form von Kugeln herstellt, die auf jeder Oberfläche haften können. Als Aktion oder Bonusaktion (Ihrer Wahl) können Sie einen Wachposten zu einem Punkt werfen, den Sie in Reichweite (30 Fuß + Ihr Stärkemodifikator x 5) sehen können. Am Ende jedes deiner Züge zielt ein aufgestellter Posten automatisch auf eine feindliche Kreatur innerhalb von 10ft Entfernung. Wenn mehrere Ziele verfügbar sind, wird zufällig eines ausgewählt. Das Ziel muss einen Geschicklichkeitsrettungswurf ausführen. Bei einem fehlgeschlagenen Rettungswurf erleidet es [[/r 1W4]] Energieschaden und erhält bis zum Ende deines nächsten Zuges 1 Verlangsamungsstufe. Wenn eine Kreatur von mehr als einer dieser Wachen anvisiert würde, macht sie diesen Rettungswurf nur einmal und erleidet zusätzlich [[/r d4]] Schaden für jede weitere Wache über die erste hinaus.</p> <p>Die Wachen haben 1 Trefferpunkt, eine Rüstungsklasse von 10 und kann während einer langen Pause repariert werden. Jeder Wachposten dauert 1 Minute, bevor er deaktiviert wird. Sie können eine Anzahl von Wachen in Höhe Ihres Intelligenzmodifikators unterhalten. Sobald eine Wache aktiviert wurde, kann sie nicht wieder aktiviert werden, bis Sie eine kurze oder lange Pause beendet haben.</p>"
+            "description": "<p>Sie lernen, wie man kleine Wachtürme in Form von Kugeln herstellt, die auf jeder Oberfläche haften können. Als Aktion oder Bonusaktion (Ihrer Wahl) können Sie einen Wachposten zu einem Punkt werfen, den Sie in Reichweite (30 Fuß + Ihr Stärkemodifikator x 5) sehen können. Am Ende jedes deiner Züge zielt ein aufgestellter Posten automatisch auf eine feindliche Kreatur innerhalb von 10ft Entfernung. Wenn mehrere Ziele verfügbar sind, wird zufällig eines ausgewählt. Das Ziel muss einen Geschicklichkeitsrettungswurf ausführen. Bei einem fehlgeschlagenen Rettungswurf erleidet es [[/r 1d4]] Energieschaden und erhält bis zum Ende deines nächsten Zuges 1 Verlangsamungsstufe. Wenn eine Kreatur von mehr als einer dieser Wachen anvisiert würde, macht sie diesen Rettungswurf nur einmal und erleidet zusätzlich [[/r d4]] Schaden für jede weitere Wache über die erste hinaus.</p> <p>Die Wachen haben 1 Trefferpunkt, eine Rüstungsklasse von 10 und kann während einer langen Pause repariert werden. Jeder Wachposten dauert 1 Minute, bevor er deaktiviert wird. Sie können eine Anzahl von Wachen in Höhe Ihres Intelligenzmodifikators unterhalten. Sobald eine Wache aktiviert wurde, kann sie nicht wieder aktiviert werden, bis Sie eine kurze oder lange Pause beendet haben.</p>"
         },
         {
             "id": "Sentry Turret",
             "name": "Wachturm",
-            "description": "<p>Sie lernen, wie man kleine Wachtürme in Form von Kugeln herstellt, die auf jeder Oberfläche haften können. Als Aktion oder Bonusaktion (Ihrer Wahl) können Sie einen Wachposten zu einem Punkt werfen, den Sie in Reichweite (30 Fuß + Ihr Stärkemodifikator x 5) sehen können. Am Ende jedes deiner Züge zielt ein aufgestellter Posten automatisch auf eine feindliche Kreatur innerhalb von 10ft Entfernung. Wenn mehrere Ziele verfügbar sind, wird zufällig eines ausgewählt. Das Ziel muss einen Geschicklichkeitsrettungswurf ausführen. Bei einem fehlgeschlagenen Rettungswurf erleidet er [[/r 1W4]] Energieschaden und erhält 1 Verlangsamungsstufe bis zum Ende deines nächsten Zuges.</p> <p>Die Wachen haben 1 Trefferpunkt, eine Rüstungsklasse von 10 und kann im Laufe einer langen Pause repariert werden. Jeder Wachposten dauert 1 Minute, bevor er deaktiviert wird. Sie können eine Anzahl von Wachen in Höhe Ihres Intelligenzmodifikators unterhalten. Sobald eine Wache aktiviert wurde, kann sie nicht wieder aktiviert werden, bis Sie eine kurze oder lange Pause beendet haben.</p>"
+            "description": "<p>Sie lernen, wie man kleine Wachtürme in Form von Kugeln herstellt, die auf jeder Oberfläche haften können. Als Aktion oder Bonusaktion (Ihrer Wahl) können Sie einen Wachposten zu einem Punkt werfen, den Sie in Reichweite (30 Fuß + Ihr Stärkemodifikator x 5) sehen können. Am Ende jedes deiner Züge zielt ein aufgestellter Posten automatisch auf eine feindliche Kreatur innerhalb von 10ft Entfernung. Wenn mehrere Ziele verfügbar sind, wird zufällig eines ausgewählt. Das Ziel muss einen Geschicklichkeitsrettungswurf ausführen. Bei einem fehlgeschlagenen Rettungswurf erleidet er [[/r 1d4]] Energieschaden und erhält 1 Verlangsamungsstufe bis zum Ende deines nächsten Zuges.</p> <p>Die Wachen haben 1 Trefferpunkt, eine Rüstungsklasse von 10 und kann im Laufe einer langen Pause repariert werden. Jeder Wachposten dauert 1 Minute, bevor er deaktiviert wird. Sie können eine Anzahl von Wachen in Höhe Ihres Intelligenzmodifikators unterhalten. Sobald eine Wache aktiviert wurde, kann sie nicht wieder aktiviert werden, bis Sie eine kurze oder lange Pause beendet haben.</p>"
         },
         {
             "id": "Sharp Noise",
             "name": "Scharfes Rauschen",
-            "description": "<p>Wählen Sie als Aktion beim Tragen Ihres modifizierten Instruments eine Kreatur, die Sie sehen können. Wenn es dich hören kann, muss es einen Konstitutionsrettungswurf erfolgreich durchführen oder [[/r 1W4]] Schallschaden erleiden und bei seinem nächsten Angriffswurf vor dem Ende seines nächsten Zuges einen Nachteil haben.</p> <p>Diese Funktion ist Der Schaden erhöht sich um [[/r 1W4]], wenn du die 5. Stufe ([[/r 2W4]]), die 11. Stufe ([[/r 3W4]]) und die 17. Stufe ([[/r 4W4]]) erreichst. </p>"
+            "description": "<p>Wählen Sie als Aktion beim Tragen Ihres modifizierten Instruments eine Kreatur, die Sie sehen können. Wenn es dich hören kann, muss es einen Konstitutionsrettungswurf erfolgreich durchführen oder [[/r 1d4]] Schallschaden erleiden und bei seinem nächsten Angriffswurf vor dem Ende seines nächsten Zuges einen Nachteil haben.</p> <p>Diese Funktion ist Der Schaden erhöht sich um [[/r 1d4]], wenn du die 5. Stufe ([[/r 2d4]]), die 11. Stufe ([[/r 3d4]]) und die 17. Stufe ([[/r 4d4]]) erreichst. </p>"
         },
         {
             "id": "Sharpshooter's Routine",
@@ -1859,12 +1859,12 @@
         {
             "id": "Shocking Oscillator",
             "name": "Schockierender Oszillator",
-            "description": "<p><em><strong>Voraussetzung:</strong> 9. Stufe, Vibrowaffe</em></p> <p>Wenn du mit der Waffe triffst, kannst du einen elektronischen Stoß erzeugen. Jede Kreatur in einem 15ft großen Kegel, der sich um die getroffene Kreatur dreht, muss einen Geschicklichkeitswurf gegen deinen SG für Technologiewürfe machen und erleidet [[/r 1W8]] Blitzschaden bei einem fehlgeschlagenen Rettungswurf oder halb so viel bei einem erfolgreichen.</p> <p>Nachdem Sie diese Funktion verwendet haben, müssen Sie eine lange Pause einlegen, bevor Sie sie wieder verwenden können.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 9. Stufe, Vibrowaffe</em></p> <p>Wenn du mit der Waffe triffst, kannst du einen elektronischen Stoß erzeugen. Jede Kreatur in einem 15ft großen Kegel, der sich um die getroffene Kreatur dreht, muss einen Geschicklichkeitswurf gegen deinen SG für Technologiewürfe machen und erleidet [[/r 1d8]] Blitzschaden bei einem fehlgeschlagenen Rettungswurf oder halb so viel bei einem erfolgreichen.</p> <p>Nachdem Sie diese Funktion verwendet haben, müssen Sie eine lange Pause einlegen, bevor Sie sie wieder verwenden können.</p>"
         },
         {
             "id": "Side Effects",
             "name": "Nebenwirkungen",
-            "description": "<p>| [[/r d20]] | Nebenwirkungen |</p> <p>|:----:|:------------|</p> <p>| 1 | Es stellt sich heraus, dass die Kreatur gegen diese spezielle Behandlung allergisch ist. Jeder Fähigkeitswert wird um 1 reduziert. |</p> <p>| 2 | Die Kreatur beginnt unkontrolliert zu niesen. Jeder Angriffswurf mit einem Würfelwert von 19 führt zu einem Fehlschlag aufgrund eines schlecht getimten Niesens. |</p> <p>| 3 | Die Beine der Kreatur schwellen an. Die Kreatur erhält 1 Verlangsamungsstufe. |</p> <p>| 4 | Die Kreatur wird eine Nummer größer oder kleiner. |</p> <p>| 5 | Die Haut an ihren Gelenken verwandelt sich in ein Holzmaterial, was ihnen einen Bonus von +2 auf die RK gibt. |</p> <p>| 6 | Der Körper der Kreatur beginnt, starke Magensäure in großen Mengen zu produzieren. Die Kreatur kann eine Aktion verwenden, um Magensäure in einen 15ft langen Kegel zu spucken. Der SG für diesen Rettungswurf beträgt 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator. Eine Kreatur erleidet [[/r 2W6]] Säureschaden bei einem fehlgeschlagenen Rettungswurf und halb so viel Schaden bei einem erfolgreichen. Der Schaden erhöht sich auf [[/r 3W6]] auf der 5. Stufe, [[/r 4W6]] auf der 11. Stufe und [[/r 5W6]] auf der 17. Stufe. | </p> <p>| 7 | Die Kreatur wird stumm und hat unkontrollierbares Gas. Sie haben einen Nachteil bei Geschicklichkeitsprüfungen (Heimlichkeit), die auf Geruch beruhen.|</p> <p>| 8 | Die Augen der Kreatur leuchten leuchtend rot. Die Kreatur erhält auch Dunkelsicht, aber wenn sie bereits Dunkelsicht hat, bekommt sie stattdessen leichte Kopfschmerzen. |</p> <p>| 9 | Die Kreatur erhält einen Vorteil bei Wahrnehmungswürfen basierend auf dem Gehör, aber alles erscheint ihnen unangenehm laut. Sie werden anfällig für Schallschaden. |</p> <p>| 10 | Die Behandlung verlangsamt ihre Gehirnfunktion und reduziert ihre Intelligenz um 4.|</p> <p>| 11 | Die Haut der Kreatur wird dunkelviolett. Wenn sie bereits lila sind, werden sie stattdessen hellrosa. |</p> <p>| 12 | Die Kreatur wird mit kränklichen, grünen Pusteln bedeckt. Wenn die Kreatur von einem Nahkampfangriff getroffen wird, erleidet der Angreifer [[/r 1W4]] Giftschaden. |</p> <p>| 13 | Die Haut der Kreatur beginnt sich durch den inneren Druckaufbau stark aufzublähen und kann bei einem starken Aufprall explodieren. Immer wenn die Kreatur Schaden erleidet, muss sie einen Konzentrationswurf bestehen oder die Kreatur erleidet Bewegungsschaden in Höhe der Hälfte ihrer maximalen Trefferpunkte. Andere Kreaturen innerhalb von 10ft um die Explosion erleiden ebenfalls ein Viertel des Schadens. Sobald diese Explosion auftritt, wird ihre Haut sehr weich. |</p> <p>| 14 | Die Kreatur lässt schnell überall Körperbehaarung wachsen, einschließlich des Gesichts, bis sie einem Wookiee ähneln. Wenn sie bereits ein Wookiee sind, tritt der umgekehrte Effekt auf; alle Haare fallen sofort ab und die Haut bleibt frei. |</p> <p>| 15 | Die Körpertemperatur der Kreatur schwankt extrem. Sie gewinnen Widerstand gegen Kälte- und Feuerschaden.|</p> <p>| 16 | Die Kreatur wird hungrig. Jede Stunde, die sie nicht gegessen haben, werden sie erschöpft. |</p> <p>| 17 | Die Kreatur glaubt, dass sie der Auserwählte ist. |</p> <p>| 18 | Die Kreatur hat Schwierigkeiten, sich auszuruhen. Die Menge, die sie von Trefferwürfeln heilen, wird jetzt halbiert. |</p> <p>| 19 | Die Bewegungsgeschwindigkeit der Kreatur wird um 15ft erhöht und Gelegenheitsangriffe auf sie haben Nachteile. |</p> <p>| 20 | Die Kreatur erhält [[/r 10W10]] Trefferpunkte und sie fühlt sich glücklich und sorglos. |</p>"
+            "description": "<p>| [[/r d20]] | Nebenwirkungen |</p> <p>|:----:|:------------|</p> <p>| 1 | Es stellt sich heraus, dass die Kreatur gegen diese spezielle Behandlung allergisch ist. Jeder Fähigkeitswert wird um 1 reduziert. |</p> <p>| 2 | Die Kreatur beginnt unkontrolliert zu niesen. Jeder Angriffswurf mit einem Würfelwert von 19 führt zu einem Fehlschlag aufgrund eines schlecht getimten Niesens. |</p> <p>| 3 | Die Beine der Kreatur schwellen an. Die Kreatur erhält 1 Verlangsamungsstufe. |</p> <p>| 4 | Die Kreatur wird eine Nummer größer oder kleiner. |</p> <p>| 5 | Die Haut an ihren Gelenken verwandelt sich in ein Holzmaterial, was ihnen einen Bonus von +2 auf die RK gibt. |</p> <p>| 6 | Der Körper der Kreatur beginnt, starke Magensäure in großen Mengen zu produzieren. Die Kreatur kann eine Aktion verwenden, um Magensäure in einen 15ft langen Kegel zu spucken. Der SG für diesen Rettungswurf beträgt 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator. Eine Kreatur erleidet [[/r 2d6]] Säureschaden bei einem fehlgeschlagenen Rettungswurf und halb so viel Schaden bei einem erfolgreichen. Der Schaden erhöht sich auf [[/r 3d6]] auf der 5. Stufe, [[/r 4d6]] auf der 11. Stufe und [[/r 5d6]] auf der 17. Stufe. | </p> <p>| 7 | Die Kreatur wird stumm und hat unkontrollierbares Gas. Sie haben einen Nachteil bei Geschicklichkeitsprüfungen (Heimlichkeit), die auf Geruch beruhen.|</p> <p>| 8 | Die Augen der Kreatur leuchten leuchtend rot. Die Kreatur erhält auch Dunkelsicht, aber wenn sie bereits Dunkelsicht hat, bekommt sie stattdessen leichte Kopfschmerzen. |</p> <p>| 9 | Die Kreatur erhält einen Vorteil bei Wahrnehmungswürfen basierend auf dem Gehör, aber alles erscheint ihnen unangenehm laut. Sie werden anfällig für Schallschaden. |</p> <p>| 10 | Die Behandlung verlangsamt ihre Gehirnfunktion und reduziert ihre Intelligenz um 4.|</p> <p>| 11 | Die Haut der Kreatur wird dunkelviolett. Wenn sie bereits lila sind, werden sie stattdessen hellrosa. |</p> <p>| 12 | Die Kreatur wird mit kränklichen, grünen Pusteln bedeckt. Wenn die Kreatur von einem Nahkampfangriff getroffen wird, erleidet der Angreifer [[/r 1d4]] Giftschaden. |</p> <p>| 13 | Die Haut der Kreatur beginnt sich durch den inneren Druckaufbau stark aufzublähen und kann bei einem starken Aufprall explodieren. Immer wenn die Kreatur Schaden erleidet, muss sie einen Konzentrationswurf bestehen oder die Kreatur erleidet Bewegungsschaden in Höhe der Hälfte ihrer maximalen Trefferpunkte. Andere Kreaturen innerhalb von 10ft um die Explosion erleiden ebenfalls ein Viertel des Schadens. Sobald diese Explosion auftritt, wird ihre Haut sehr weich. |</p> <p>| 14 | Die Kreatur lässt schnell überall Körperbehaarung wachsen, einschließlich des Gesichts, bis sie einem Wookiee ähneln. Wenn sie bereits ein Wookiee sind, tritt der umgekehrte Effekt auf; alle Haare fallen sofort ab und die Haut bleibt frei. |</p> <p>| 15 | Die Körpertemperatur der Kreatur schwankt extrem. Sie gewinnen Widerstand gegen Kälte- und Feuerschaden.|</p> <p>| 16 | Die Kreatur wird hungrig. Jede Stunde, die sie nicht gegessen haben, werden sie erschöpft. |</p> <p>| 17 | Die Kreatur glaubt, dass sie der Auserwählte ist. |</p> <p>| 18 | Die Kreatur hat Schwierigkeiten, sich auszuruhen. Die Menge, die sie von Trefferwürfeln heilen, wird jetzt halbiert. |</p> <p>| 19 | Die Bewegungsgeschwindigkeit der Kreatur wird um 15ft erhöht und Gelegenheitsangriffe auf sie haben Nachteile. |</p> <p>| 20 | Die Kreatur erhält [[/r 10d10]] Trefferpunkte und sie fühlt sich glücklich und sorglos. |</p>"
         },
         {
             "id": "Siege Weapon",
@@ -2049,7 +2049,7 @@
         {
             "id": "Tech Blast",
             "name": "Tech-Explosion",
-            "description": "<p><em><strong>Voraussetzung:</strong> Rüstung</em></p> <p>Du modifizierst deinen modifizierten Panzerhandschuh mit einer Blasterwaffe, mit der du geübt bist. Die Waffe verwendet deinen Intelligenzmodifikator für ihre Angriffs- und Schadenswürfe und verursacht bei einem Treffer [[/r 1W8]] Energieschaden. Es hat eine normale Reichweite von 30 Fuß und eine lange Reichweite von 120 Fuß.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> Rüstung</em></p> <p>Du modifizierst deinen modifizierten Panzerhandschuh mit einer Blasterwaffe, mit der du geübt bist. Die Waffe verwendet deinen Intelligenzmodifikator für ihre Angriffs- und Schadenswürfe und verursacht bei einem Treffer [[/r 1d8]] Energieschaden. Es hat eine normale Reichweite von 30 Fuß und eine lange Reichweite von 120 Fuß.</p>"
         },
         {
             "id": "Technologist's Exploit",
@@ -2064,7 +2064,7 @@
         {
             "id": "Tend the Wounded",
             "name": "Kümmere dich um die Verwundeten",
-            "description": "<p>Wenn du oder eine befreundete Kreatur, die du berühren kannst, am Ende einer kurzen Pause Trefferpunkte zurückgewinnst, indem du einen oder mehrere Trefferwürfel ausgibst, erhält jede dieser Kreaturen [[/r 1W4]] zusätzliche Trefferpunkte zurück.</p> <p>Dieser Würfel erhöht sich, wenn du bestimmte Stufen in dieser Klasse erreichst: [[/r 1W6]] auf der 5. Stufe, [[/r 1W8]] auf der 9. Stufe, [[/r 1W10]] auf der 13. Stufe und bis [[/r 1W12]] auf der 17. Stufe.</p>"
+            "description": "<p>Wenn du oder eine befreundete Kreatur, die du berühren kannst, am Ende einer kurzen Pause Trefferpunkte zurückgewinnst, indem du einen oder mehrere Trefferwürfel ausgibst, erhält jede dieser Kreaturen [[/r 1d4]] zusätzliche Trefferpunkte zurück.</p> <p>Dieser Würfel erhöht sich, wenn du bestimmte Stufen in dieser Klasse erreichst: [[/r 1d6]] auf der 5. Stufe, [[/r 1d8]] auf der 9. Stufe, [[/r 1d10]] auf der 13. Stufe und bis [[/r 1d12]] auf der 17. Stufe.</p>"
         },
         {
             "id": "Terentatek's Instinct",
@@ -2094,7 +2094,7 @@
         {
             "id": "Tomb of the Ancients",
             "name": "Grab der Ahnen",
-            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Als Reaktion, wenn du Schaden erleidest, kannst du dich bis zum Ende deines nächsten Zuges in der Macht begraben . Für die Dauer hast du Widerstand gegen den auslösenden Schaden, du erhältst temporäre Trefferpunkte in Höhe von [[/r 1W10]] + deinem universellen Forcecast-Fähigkeitsmodifikator + deiner Gelehrtenstufe, um den Angriff potenziell zu absorbieren, und deine Geschwindigkeit wird auf 0 reduziert. </p> <p>Wenn Sie diese Funktion einmal verwendet haben, können Sie sie nicht wieder verwenden, bis Sie eine kurze oder lange Pause beendet haben. </p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 5. Stufe</em></p> <p>Als Reaktion, wenn du Schaden erleidest, kannst du dich bis zum Ende deines nächsten Zuges in der Macht begraben . Für die Dauer hast du Widerstand gegen den auslösenden Schaden, du erhältst temporäre Trefferpunkte in Höhe von [[/r 1d10]] + deinem universellen Forcecast-Fähigkeitsmodifikator + deiner Gelehrtenstufe, um den Angriff potenziell zu absorbieren, und deine Geschwindigkeit wird auf 0 reduziert. </p> <p>Wenn Sie diese Funktion einmal verwendet haben, können Sie sie nicht wieder verwenden, bis Sie eine kurze oder lange Pause beendet haben. </p>"
         },
         {
             "id": "Totem of the Acklay",
@@ -2119,7 +2119,7 @@
         {
             "id": "Totem of the Sarlacc",
             "name": "Totem des Sarlacc",
-            "description": "<p>Dieses Totem kanalisiert die Erfahrung eines uralten Sarlacc und verleiht dir Erfahrung mit jedem Werkzeug, das du beherrschst.</p> <p>Wenn du eine Kreatur mit einem Waffenangriff triffst, kannst du außerdem das Totem beschwören, um beschwöre die Tentakel der Kreatur: Dem Ziel muss ein Stärkerettungswurf gelingen oder es wird 1 Minute lang gefesselt. Während es von den Tentakeln festgehalten wird, erleidet das Ziel zu Beginn jeder seiner Züge [[/r 2W6]] Säureschaden. Das Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und bei einem Erfolg losreißen.</p>"
+            "description": "<p>Dieses Totem kanalisiert die Erfahrung eines uralten Sarlacc und verleiht dir Erfahrung mit jedem Werkzeug, das du beherrschst.</p> <p>Wenn du eine Kreatur mit einem Waffenangriff triffst, kannst du außerdem das Totem beschwören, um beschwöre die Tentakel der Kreatur: Dem Ziel muss ein Stärkerettungswurf gelingen oder es wird 1 Minute lang gefesselt. Während es von den Tentakeln festgehalten wird, erleidet das Ziel zu Beginn jeder seiner Züge [[/r 2d6]] Säureschaden. Das Ziel kann den Rettungswurf am Ende jedes seiner Züge wiederholen und bei einem Erfolg losreißen.</p>"
         },
         {
             "id": "Totem of the Vornskr",
@@ -2189,7 +2189,7 @@
         {
             "id": "Unnatural Weaponry",
             "name": "Unnatürliche Waffen",
-            "description": "<p>Du sprießt Krallen oder eine andere natürliche Waffe. Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und du kannst deinen Stärke-, Geschick- oder Kritischen Analyse-Modifikator für die Angriffs- und Schadenswürfe verwenden. Sie müssen für beide Würfe denselben Modifikator verwenden. Wenn Sie Ihre mutagene Transformation durchmachen, erhöhen sich Ihre unbewaffneten Schläge auf [[/r W6]] und gelten für die Dauer als verstärkt. Außerdem fügst du zusätzlich [[/r 1W4]] Säure-, Blitz- oder Giftschaden zu, wenn du damit triffst.</p>"
+            "description": "<p>Du sprießt Krallen oder eine andere natürliche Waffe. Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und du kannst deinen Stärke-, Geschick- oder Kritischen Analyse-Modifikator für die Angriffs- und Schadenswürfe verwenden. Sie müssen für beide Würfe denselben Modifikator verwenden. Wenn Sie Ihre mutagene Transformation durchmachen, erhöhen sich Ihre unbewaffneten Schläge auf [[/r d6]] und gelten für die Dauer als verstärkt. Außerdem fügst du zusätzlich [[/r 1d4]] Säure-, Blitz- oder Giftschaden zu, wenn du damit triffst.</p>"
         },
         {
             "id": "Varactyl's Instinct",
@@ -2209,7 +2209,7 @@
         {
             "id": "Venomous Oscillator",
             "name": "Giftiger Oszillator",
-            "description": "<p><em><strong>Voraussetzung:</strong> 9. Stufe, Vibrowaffe</em></p> <p>Als Bonusaktion kannst du deine Waffe 1 Minute lang mit einer dünnen Giftschicht überziehen. Wenn du das nächste Mal mit der Waffe triffst, muss die Kreatur einen Konstitutionsrettungswurf gegen deinen Tech-Save-SG machen. Bei einem fehlgeschlagenen Rettungswurf erleidet eine Kreatur [[/r 1W10]] Giftschaden und wird 1 Minute lang vergiftet.</p> <p>Nachdem Sie diese Funktion verwendet haben, müssen Sie eine lange Pause einlegen, bevor Sie sie verwenden können wieder.</p>"
+            "description": "<p><em><strong>Voraussetzung:</strong> 9. Stufe, Vibrowaffe</em></p> <p>Als Bonusaktion kannst du deine Waffe 1 Minute lang mit einer dünnen Giftschicht überziehen. Wenn du das nächste Mal mit der Waffe triffst, muss die Kreatur einen Konstitutionsrettungswurf gegen deinen Tech-Save-SG machen. Bei einem fehlgeschlagenen Rettungswurf erleidet eine Kreatur [[/r 1d10]] Giftschaden und wird 1 Minute lang vergiftet.</p> <p>Nachdem Sie diese Funktion verwendet haben, müssen Sie eine lange Pause einlegen, bevor Sie sie verwenden können wieder.</p>"
         },
         {
             "id": "Versatile Explorer",
@@ -2224,7 +2224,7 @@
         {
             "id": "Vow of Deflection",
             "name": "Ablenkungsgelübde",
-            "description": "<p>Du kannst deine Reaktion nutzen, um einen Schlag abzulenken, wenn dir ein Nahkampfwaffenangriff Schaden zufügt. Wenn du dies tust, wird der durch den Angriff erlittene Schaden um [[/r 1W10]] + deinen Geschicklichkeitsmodifikator + deine Mönchsstufe reduziert.</p>"
+            "description": "<p>Du kannst deine Reaktion nutzen, um einen Schlag abzulenken, wenn dir ein Nahkampfwaffenangriff Schaden zufügt. Wenn du dies tust, wird der durch den Angriff erlittene Schaden um [[/r 1d10]] + deinen Geschicklichkeitsmodifikator + deine Mönchsstufe reduziert.</p>"
         },
         {
             "id": "Vow of Fate",
@@ -2354,12 +2354,12 @@
         {
             "id": "Wrist-Mounted Grappling Hook",
             "name": "Am Handgelenk befestigter Enterhaken",
-            "description": "<p>Sie stellen eine am Handgelenk befestigte Enterhakenwaffe her, die an einer eng gewickelten Schnur befestigt ist. Mit dieser Vorrichtung können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1W4]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird vom Haken aufgespießt. Als Aktion kann eine Kreatur versuchen, den Haken zu entfernen. Das Entfernen des Hakens erfordert eine Festigkeitsprüfung. Während der Haken im Ziel steckt, bist du mit einem 60-Fuß-Kabel mit dem Ziel verbunden.</p> <p>Während der Haken ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich selbst an den Ort zu ziehen wenn das Ziel Ihre Größe oder größer ist. Eine Kreatur oder ein Objekt, das kleiner ist als du, wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht wieder verwenden, bis Sie den Haken als Aktion wiederhergestellt und wieder eingeführt haben.</ p>"
+            "description": "<p>Sie stellen eine am Handgelenk befestigte Enterhakenwaffe her, die an einer eng gewickelten Schnur befestigt ist. Mit dieser Vorrichtung können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1d4]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird vom Haken aufgespießt. Als Aktion kann eine Kreatur versuchen, den Haken zu entfernen. Das Entfernen des Hakens erfordert eine Festigkeitsprüfung. Während der Haken im Ziel steckt, bist du mit einem 60-Fuß-Kabel mit dem Ziel verbunden.</p> <p>Während der Haken ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich selbst an den Ort zu ziehen wenn das Ziel Ihre Größe oder größer ist. Eine Kreatur oder ein Objekt, das kleiner ist als du, wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht wieder verwenden, bis Sie den Haken als Aktion wiederhergestellt und wieder eingeführt haben.</ p>"
         },
         {
             "id": "Wrist-Mounted Grappling Hook",
             "name": "Am Handgelenk befestigter Enterhaken",
-            "description": "<p>Sie stellen eine am Handgelenk befestigte Enterhakenwaffe her, die an einer eng gewickelten Schnur befestigt ist. Mit dieser Vorrichtung können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1W4]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird vom Haken aufgespießt. Als Aktion kann eine Kreatur versuchen, den Haken zu entfernen. Das Entfernen des Hakens erfordert eine Festigkeitsprüfung. Während der Haken im Ziel steckt, bist du mit einem 60-Fuß-Kabel mit dem Ziel verbunden.</p> <p>Während der Haken ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich selbst an den Ort zu ziehen wenn das Ziel Ihre Größe oder größer ist. Eine Kreatur oder ein Objekt, das kleiner ist als du, wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht wieder verwenden, bis Sie den Haken als Aktion wiederhergestellt und wieder eingeführt haben.</ p>"
+            "description": "<p>Sie stellen eine am Handgelenk befestigte Enterhakenwaffe her, die an einer eng gewickelten Schnur befestigt ist. Mit dieser Vorrichtung können Sie einen Fernkampfangriff mit einer Reichweite von 30/60 durchführen. Bei einem Treffer verursacht es [[/r 1d4]] Kinetikschaden. Dieser Angriff kann auf eine Oberfläche, ein Objekt oder eine Kreatur abzielen.</p> <p>Eine von diesem Angriff getroffene Kreatur wird vom Haken aufgespießt. Als Aktion kann eine Kreatur versuchen, den Haken zu entfernen. Das Entfernen des Hakens erfordert eine Festigkeitsprüfung. Während der Haken im Ziel steckt, bist du mit einem 60-Fuß-Kabel mit dem Ziel verbunden.</p> <p>Während der Haken ausgefahren ist, kannst du deine Bonusaktion nutzen, um die Rolle zu aktivieren und dich selbst an den Ort zu ziehen wenn das Ziel Ihre Größe oder größer ist. Eine Kreatur oder ein Objekt, das kleiner ist als du, wird zu dir gezogen. Alternativ können Sie das Kabel freigeben (keine Aktion erforderlich).</p> <p>Nachdem Sie diese Funktion verwendet haben, können Sie sie nicht wieder verwenden, bis Sie den Haken als Aktion wiederhergestellt und wieder eingeführt haben.</ p>"
         },
         {
             "id": "X-Ray Targeting",

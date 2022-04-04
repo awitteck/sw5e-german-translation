@@ -1999,12 +1999,12 @@
         {
             "id": "4DJLc1nZQ1zOuVqP",
             "name": "Arkanische Brillanz",
-            "description": "<p>Immer wenn du eine Fähigkeitsprobe, einen Angriffswurf oder einen Rettungswurf mit Intelligenz machst, kannst du wählen, ob du [[/r 1W4]] zum Ergebnis hinzufügen möchtest. Sie können dies tun, nachdem der Wurf gewürfelt wurde, aber bevor der DM feststellt, ob Sie den Wurf bestanden oder nicht bestanden haben. Sie können dies nicht wiederholen, bis Sie eine kurze oder lange Pause abgeschlossen haben.</p>"
+            "description": "<p>Immer wenn du eine Fähigkeitsprobe, einen Angriffswurf oder einen Rettungswurf mit Intelligenz machst, kannst du wählen, ob du [[/r 1d4]] zum Ergebnis hinzufügen möchtest. Sie können dies tun, nachdem der Wurf gewürfelt wurde, aber bevor der DM feststellt, ob Sie den Wurf bestanden oder nicht bestanden haben. Sie können dies nicht wiederholen, bis Sie eine kurze oder lange Pause abgeschlossen haben.</p>"
         },
         {
             "id": "SvJYy3WIodHlfXOj",
             "name": "Armklingen",
-            "description": "<p>Deine einziehbaren Afterkrallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Deine einziehbaren Afterkrallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "2YmSgQPiEsji55Ci",
@@ -2074,27 +2074,27 @@
         {
             "id": "33ybhn9hr9d06VEN",
             "name": "Beissen",
-            "description": "<p>Ihre scharfen Zähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Ihre scharfen Zähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "I9NLX0vKmcmoDd79",
             "name": "Beissen",
-            "description": "<p>Ihre scharfen Zähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Bissangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs, du erhältst vorübergehende Trefferpunkte in Höhe deines Konstitutionsmodifikators (mindestens 1) und du kannst diese Eigenschaft nicht wieder verwenden, bis du eine kurze oder lange Pause beendet hast.</p>"
+            "description": "<p>Ihre scharfen Zähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Bissangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs, du erhältst vorübergehende Trefferpunkte in Höhe deines Konstitutionsmodifikators (mindestens 1) und du kannst diese Eigenschaft nicht wieder verwenden, bis du eine kurze oder lange Pause beendet hast.</p>"
         },
         {
             "id": "YheaLNOTSpUbqNa3",
             "name": "Beissen",
-            "description": "<p>Ihre Stoßzähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Ihre Stoßzähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "sGS7FtJUTXpSvI3y",
             "name": "Beissen",
-            "description": "<p>Deine Reißzähne sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Bissangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs und muss einen Konstitutionsrettungswurf ausführen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Bei einem fehlgeschlagenen Rettungswurf wird das Ziel bis zum Ende seines nächsten Zuges vergiftet und du kannst diese Funktion erst wieder verwenden, wenn du eine kurze oder lange Pause abgeschlossen hast.</p>"
+            "description": "<p>Deine Reißzähne sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Bissangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs und muss einen Konstitutionsrettungswurf ausführen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Bei einem fehlgeschlagenen Rettungswurf wird das Ziel bis zum Ende seines nächsten Zuges vergiftet und du kannst diese Funktion erst wieder verwenden, wenn du eine kurze oder lange Pause abgeschlossen hast.</p>"
         },
         {
             "id": "zX34fGf7JePlbMkN",
             "name": "Beissen",
-            "description": "<p>Ihre scharfen Zähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Bissangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs, du erhältst vorübergehende Trefferpunkte in Höhe deines Konstitutionsmodifikators (mindestens 1) und du kannst diese Eigenschaft nicht wieder verwenden, bis du eine kurze oder lange Pause beendet hast.</p>"
+            "description": "<p>Ihre scharfen Zähne sind eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Bissangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs, du erhältst vorübergehende Trefferpunkte in Höhe deines Konstitutionsmodifikators (mindestens 1) und du kannst diese Eigenschaft nicht wieder verwenden, bis du eine kurze oder lange Pause beendet hast.</p>"
         },
         {
             "id": "ReT17u67FjIVPh6M",
@@ -2149,7 +2149,7 @@
         {
             "id": "ZFlAqsVaF4UEXvxg",
             "name": "Katzenkrallen",
-            "description": "<p>Sie haben eine Steiggeschwindigkeit von 20ft. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Sie haben eine Steiggeschwindigkeit von 20ft. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "VU2jGMUTcPxzxctk",
@@ -2179,52 +2179,52 @@
         {
             "id": "JjzF120A8WMSTDqx",
             "name": "Krallen",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "MUu1MtCM9kb5SRA9",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "SBRz4Sr38EkRHy36",
             "name": "Krallen",
-            "description": "<p>Ihre scharfen Krallen sind natürliche Waffen, mit denen Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Ihre scharfen Krallen sind natürliche Waffen, mit denen Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "ZzOS9MLjAyaRn8Qd",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Deine Krallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "bY7svfzd3A224liw",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "kwEe0SubChkZjXDJ",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "mvCqEfNcfcJ57xKW",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Deine Krallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "pZG6CBeQN7dVcsMB",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft. Schließlich können Sie als Bonusaktion einen speziellen Klauenangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs und muss einen Konstitutionsrettungswurf ausführen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Bei einem fehlgeschlagenen Rettungswurf wird das Ziel bis zum Ende seines nächsten Zuges vergiftet und du kannst diese Funktion erst wieder verwenden, wenn du eine kurze oder lange Pause abgeschlossen hast.</p>"
+            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft. Schließlich können Sie als Bonusaktion einen speziellen Klauenangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs und muss einen Konstitutionsrettungswurf ausführen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Bei einem fehlgeschlagenen Rettungswurf wird das Ziel bis zum Ende seines nächsten Zuges vergiftet und du kannst diese Funktion erst wieder verwenden, wenn du eine kurze oder lange Pause abgeschlossen hast.</p>"
         },
         {
             "id": "syc3Y26hue7XhOin",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "y2d7cLML6sjURYd9",
             "name": "Krallen",
-            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Deine Krallen sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "8QrCV3ObiaVW8ozf",
@@ -2799,7 +2799,7 @@
         {
             "id": "VREyaJ9PBZqqJXby",
             "name": "Handgreiflichkeiten",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "0lBGdGvFlBIJWgYB",
@@ -3044,7 +3044,7 @@
         {
             "id": "LToF6JQF2YxWXEfc",
             "name": "Kopfwappen",
-            "description": "<p>Dein Kopfaufsatz ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Dein Kopfaufsatz ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "ZZZVuhI9ravdlNef",
@@ -3054,7 +3054,7 @@
         {
             "id": "x6XqpQkduRwfmzM7",
             "name": "Erhöhte Reflexe",
-            "description": "<p>Immer wenn du einen Fertigkeitswurf, einen Angriffswurf oder einen Rettungswurf machst, kannst du dem Ergebnis [[/r 1W4]] hinzufügen. Sie können dies vor oder nach dem Wurf verwenden, aber bevor der SL das Ergebnis des Wurfs bestimmt. Nachdem Sie diese Funktion verwendet haben, müssen Sie eine kurze oder lange Pause einlegen, bevor Sie sie wieder verwenden können.</p>"
+            "description": "<p>Immer wenn du einen Fertigkeitswurf, einen Angriffswurf oder einen Rettungswurf machst, kannst du dem Ergebnis [[/r 1d4]] hinzufügen. Sie können dies vor oder nach dem Wurf verwenden, aber bevor der SL das Ergebnis des Wurfs bestimmt. Nachdem Sie diese Funktion verwendet haben, müssen Sie eine kurze oder lange Pause einlegen, bevor Sie sie wieder verwenden können.</p>"
         },
         {
             "id": "B9pfkNYnMtp0zBTi",
@@ -3159,17 +3159,17 @@
         {
             "id": "7KqcD3T5iaooakC3",
             "name": "Hufe und Hörner",
-            "description": "<p>Ihre Hufe (und je nach Alter auch Hörner) sind natürliche Waffen, mit denen Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Ihre Hufe (und je nach Alter auch Hörner) sind natürliche Waffen, mit denen Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "WsCuTmUQjEjTfzd4",
             "name": "Horn",
-            "description": "<p>Dein scharfes Horn ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Dein scharfes Horn ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "dcg4swE3q8E0N5VF",
             "name": "Hörner",
-            "description": "<p>Deine Hörner sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Deine Hörner sind eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "6aTSGPq5ckKMtP8h",
@@ -4509,7 +4509,7 @@
         {
             "id": "Z86yNPHFAlDQx3Kr",
             "name": "Primitive Nerven",
-            "description": "<p>Aufgrund ihres primitiven Nervensystems sind Tognath immun gegen die meisten Schmerzen, sodass sie größere Verletzungen abschütteln können. Wenn du Schaden erleidest, kannst du deine Reaktion nutzen, um einen [[/r W12]] zu würfeln. Addiere deinen Konstitutionsmodifikator zur gewürfelten Zahl und reduziere den Schaden um diese Summe. Sobald Sie diese Eigenschaft verwendet haben, können Sie sie nicht wieder verwenden, bis Sie eine kurze oder lange Pause beendet haben.</p>"
+            "description": "<p>Aufgrund ihres primitiven Nervensystems sind Tognath immun gegen die meisten Schmerzen, sodass sie größere Verletzungen abschütteln können. Wenn du Schaden erleidest, kannst du deine Reaktion nutzen, um einen [[/r d12]] zu würfeln. Addiere deinen Konstitutionsmodifikator zur gewürfelten Zahl und reduziere den Schaden um diese Summe. Sobald Sie diese Eigenschaft verwendet haben, können Sie sie nicht wieder verwenden, bis Sie eine kurze oder lange Pause beendet haben.</p>"
         },
         {
             "id": "ekRLBbh6zP1ZbMYZ",
@@ -4539,7 +4539,7 @@
         {
             "id": "5zbkMFFBi3OnVXwF",
             "name": "Reflexe des Rennfahrers",
-            "description": "<p>Immer wenn du einen Geschicklichkeitswurf, einen Angriffswurf oder einen Rettungswurf machst, kannst du dem Ergebnis [[/r 1W4]] hinzufügen. Sie können dies tun, nachdem der Wurf gewürfelt wurde, aber bevor der DM feststellt, ob Sie den Wurf bestanden oder nicht bestanden haben. Sie können dies nicht wiederholen, bis Sie eine kurze oder lange Pause abgeschlossen haben.</p>"
+            "description": "<p>Immer wenn du einen Geschicklichkeitswurf, einen Angriffswurf oder einen Rettungswurf machst, kannst du dem Ergebnis [[/r 1d4]] hinzufügen. Sie können dies tun, nachdem der Wurf gewürfelt wurde, aber bevor der DM feststellt, ob Sie den Wurf bestanden oder nicht bestanden haben. Sie können dies nicht wiederholen, bis Sie eine kurze oder lange Pause abgeschlossen haben.</p>"
         },
         {
             "id": "DTKvv29MeYhTQRVz",
@@ -5404,7 +5404,7 @@
         {
             "id": "PajbdnlY0awgB85M",
             "name": "Schnauze",
-            "description": "<p>Sie haben die höchste Kontrolle über Ihre Schnauze und können damit sowohl Objekte als auch Ihre Hände manipulieren. Darüber hinaus ist Ihre Schnauze eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Sie haben die höchste Kontrolle über Ihre Schnauze und können damit sowohl Objekte als auch Ihre Hände manipulieren. Darüber hinaus ist Ihre Schnauze eine natürliche Waffe, mit der Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "fc49KUFM5ePoC2h4",
@@ -5414,12 +5414,12 @@
         {
             "id": "GHsshomtLF233lun",
             "name": "Sonic Scream",
-            "description": "<p>Als Aktion können Sie Luft in einem 15ft hohen Kegel gewaltsam ausstoßen. Wenn du dies tust, muss jede Kreatur im Bereich der Ausatmung einen Weisheitsrettungswurf machen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Eine Kreatur erleidet [[/r 2W6]] Schallschaden bei einem fehlgeschlagenen Rettungswurf und halb so viel Schaden bei einem erfolgreichen. Der Schaden erhöht sich auf [[/r 4W6]] auf der 5. Stufe, [[/r 6W6]] auf der 11. Stufe und [[/r 8W6]] auf der 17. Stufe. Diese Fähigkeit hat keine Auswirkung auf Konstrukte. Sie können diese Funktion mehrmals in Höhe Ihres Kompetenzbonus nutzen. Du erhältst alle verbrauchten Nutzungen zurück, wenn du eine lange Pause einlegst.</p>"
+            "description": "<p>Als Aktion können Sie Luft in einem 15ft hohen Kegel gewaltsam ausstoßen. Wenn du dies tust, muss jede Kreatur im Bereich der Ausatmung einen Weisheitsrettungswurf machen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Eine Kreatur erleidet [[/r 2d6]] Schallschaden bei einem fehlgeschlagenen Rettungswurf und halb so viel Schaden bei einem erfolgreichen. Der Schaden erhöht sich auf [[/r 4d6]] auf der 5. Stufe, [[/r 6d6]] auf der 11. Stufe und [[/r 8d6]] auf der 17. Stufe. Diese Fähigkeit hat keine Auswirkung auf Konstrukte. Sie können diese Funktion mehrmals in Höhe Ihres Kompetenzbonus nutzen. Du erhältst alle verbrauchten Nutzungen zurück, wenn du eine lange Pause einlegst.</p>"
         },
         {
             "id": "WwLA9qBZgUBxCCnY",
             "name": "Sonic Scream",
-            "description": "<p>Als Aktion können Sie Luft in einem 15ft hohen Kegel gewaltsam ausstoßen. Wenn du dies tust, muss jede Kreatur im Bereich der Ausatmung einen Weisheitsrettungswurf machen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Eine Kreatur erleidet [[/r 2W6]] Schallschaden bei einem fehlgeschlagenen Rettungswurf und halb so viel Schaden bei einem erfolgreichen. Der Schaden erhöht sich auf [[/r 4W6]] auf der 5. Stufe, [[/r 6W6]] auf der 11. Stufe und [[/r 8W6]] auf der 17. Stufe. Diese Fähigkeit hat keine Auswirkung auf Konstrukte. Sie können diese Funktion mehrmals in Höhe Ihres Kompetenzbonus nutzen. Du erhältst alle verbrauchten Nutzungen zurück, wenn du eine lange Pause einlegst.</p>"
+            "description": "<p>Als Aktion können Sie Luft in einem 15ft hohen Kegel gewaltsam ausstoßen. Wenn du dies tust, muss jede Kreatur im Bereich der Ausatmung einen Weisheitsrettungswurf machen (SG = 8 + dein Fähigkeitsbonus + dein Konstitutionsmodifikator). Eine Kreatur erleidet [[/r 2d6]] Schallschaden bei einem fehlgeschlagenen Rettungswurf und halb so viel Schaden bei einem erfolgreichen. Der Schaden erhöht sich auf [[/r 4d6]] auf der 5. Stufe, [[/r 6d6]] auf der 11. Stufe und [[/r 8d6]] auf der 17. Stufe. Diese Fähigkeit hat keine Auswirkung auf Konstrukte. Sie können diese Funktion mehrmals in Höhe Ihres Kompetenzbonus nutzen. Du erhältst alle verbrauchten Nutzungen zurück, wenn du eine lange Pause einlegst.</p>"
         },
         {
             "id": "KhjIhIYeFeEdNvOt",
@@ -6094,7 +6094,7 @@
         {
             "id": "DROXXgEI8pygRfh8",
             "name": "Stachel",
-            "description": "<p>Dein Stachel ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W4]] Kinetikschaden.</p>"
+            "description": "<p>Dein Stachel ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d4]] Kinetikschaden.</p>"
         },
         {
             "id": "Y9cmV8C9OoDW5zah",
@@ -6179,17 +6179,17 @@
         {
             "id": "6l4JVqwH5sYuhYEQ",
             "name": "Überraschungsattacke",
-            "description": "<p>Wenn du eine Kreatur in deinem ersten Zug im Kampf überraschst und sie mit einem Angriff triffst, fügt der Angriff ihr zusätzlich [[/r 2W6]] Schaden zu. Du kannst diese Eigenschaft nur einmal pro Kampf verwenden.</p>"
+            "description": "<p>Wenn du eine Kreatur in deinem ersten Zug im Kampf überraschst und sie mit einem Angriff triffst, fügt der Angriff ihr zusätzlich [[/r 2d6]] Schaden zu. Du kannst diese Eigenschaft nur einmal pro Kampf verwenden.</p>"
         },
         {
             "id": "PR0fOTHhNGg5t4bM",
             "name": "Überraschungsattacke",
-            "description": "<p>Wenn du eine Kreatur in deinem ersten Zug im Kampf überraschst und sie mit einem Angriff triffst, fügt der Angriff ihr zusätzlich [[/r 2W6]] Schaden zu. Du kannst diese Eigenschaft nur einmal pro Kampf verwenden.</p>"
+            "description": "<p>Wenn du eine Kreatur in deinem ersten Zug im Kampf überraschst und sie mit einem Angriff triffst, fügt der Angriff ihr zusätzlich [[/r 2d6]] Schaden zu. Du kannst diese Eigenschaft nur einmal pro Kampf verwenden.</p>"
         },
         {
             "id": "u0bgIf0ROxlWF3C8",
             "name": "Überraschungsattacke",
-            "description": "<p>Wenn du eine Kreatur in deinem ersten Zug im Kampf überraschst und sie mit einem Angriff triffst, fügt der Angriff ihr zusätzlich [[/r 2W6]] Schaden zu. Du kannst diese Eigenschaft nur einmal pro Kampf verwenden.</p>"
+            "description": "<p>Wenn du eine Kreatur in deinem ersten Zug im Kampf überraschst und sie mit einem Angriff triffst, fügt der Angriff ihr zusätzlich [[/r 2d6]] Schaden zu. Du kannst diese Eigenschaft nur einmal pro Kampf verwenden.</p>"
         },
         {
             "id": "zvbh9FKxljSyhWkr",
@@ -6384,7 +6384,7 @@
         {
             "id": "WOpNuTiTJb8ph8mH",
             "name": "Dickschädel",
-            "description": "<p>Dein Schädel ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Dein Schädel ist eine natürliche Waffe, mit der du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "mSTeGqlwWfrU5FR0",
@@ -6419,17 +6419,17 @@
         {
             "id": "BWXfbxtMAe73iYFF",
             "name": "Zahn und Nagel",
-            "description": "<p>Ihre scharfen Zähne und Klauen sind natürliche Waffen, mit denen Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Klauenangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs, du erhältst vorübergehende Trefferpunkte in Höhe deines Konstitutionsmodifikators (mindestens 1) und du kannst diese Eigenschaft nicht wieder verwenden, bis du eine kurze oder lange Pause beendet hast.</p>"
+            "description": "<p>Ihre scharfen Zähne und Klauen sind natürliche Waffen, mit denen Sie unbewaffnete Schläge ausführen können. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden. Schließlich können Sie als Bonusaktion einen speziellen Klauenangriff ausführen. Bei einem Treffer erleidet das Ziel die normalen Effekte des Angriffs, du erhältst vorübergehende Trefferpunkte in Höhe deines Konstitutionsmodifikators (mindestens 1) und du kannst diese Eigenschaft nicht wieder verwenden, bis du eine kurze oder lange Pause beendet hast.</p>"
         },
         {
             "id": "b6AFSARAWcmSiM6l",
             "name": "Zahn und Nagel",
-            "description": "<p>Deine Reißzähne und Klauen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Deine Reißzähne und Klauen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "f0ueo5rHCiUwKNF8",
             "name": "Zahn und Nagel",
-            "description": "<p>Deine Reißzähne und Klauen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1W6]] Kinetikschaden.</p>"
+            "description": "<p>Deine Reißzähne und Klauen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Außerdem verursachen deine unbewaffneten Schläge [[/r 1d6]] Kinetikschaden.</p>"
         },
         {
             "id": "4g6gRSk30MpztgTZ",
@@ -6584,37 +6584,37 @@
         {
             "id": "AdIM23KabPyqavcj",
             "name": "Unbewaffneter Kämpfer",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "Ail6QfpnD20bDpRB",
             "name": "Unbewaffneter Kämpfer",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "Gkw9yAv6ezOeLLhA",
             "name": "Unbewaffneter Kämpfer",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "JDr90Bc9idi7vMXU",
             "name": "Unbewaffneter Kämpfer",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "WKJVAX8Tf8M3wEYg",
             "name": "Unbewaffneter Kämpfer",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W6]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d6]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "Y0He91hXBiVwSvyF",
             "name": "Unbewaffneter Kämpfer",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "xfwtCqZMTOMjjFCA",
             "name": "Unbewaffneter Kämpfer",
-            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1W4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
+            "description": "<p>Deine unbewaffneten Schläge verursachen [[/r 1d4]] kinetischen Schaden und haben die Finesse-Eigenschaft.</p>"
         },
         {
             "id": "0v0vikjv3HXoEO0e",

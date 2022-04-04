@@ -19,7 +19,7 @@
         {
             "id": "Bone light shield",
             "name": "Knochenlichtschild",
-            "description": "<h3>Stachelig ([[/r 1W4]])</h3> <p>Wenn dir ein Wurf auf Stärke (Leichtathletik) gelingt, eine Kreatur zu stoßen oder zu stolpern, während du einen Schild mit der Stacheleigenschaft schwingst, erleidet die Kreatur Kinetikschaden Verwenden Sie den Stachelschaden (der in Klammern mit der Eigenschaft angezeigt wird) + Ihren Stärkemodifikator.</p>"
+            "description": "<h3>Stachelig ([[/r 1d4]])</h3> <p>Wenn dir ein Wurf auf Stärke (Leichtathletik) gelingt, eine Kreatur zu stoßen oder zu stolpern, während du einen Schild mit der Stacheleigenschaft schwingst, erleidet die Kreatur Kinetikschaden Verwenden Sie den Stachelschaden (der in Klammern mit der Eigenschaft angezeigt wird) + Ihren Stärkemodifikator.</p>"
         },
         {
             "id": "Combat suit",

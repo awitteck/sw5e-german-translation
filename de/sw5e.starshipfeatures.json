@@ -9,7 +9,7 @@
 				{
 					"id": "LUbYxort97HhJtcZ",
 					"name": "Adaptive Rüstung",
-					"description": "<p>Auch auf Stufe 4 kann ein eingesetzter Pilot, wenn sein Schiff von einem Angriffswurf getroffen wird, den Konstitutionsmodifikator des Schiffes zum AC addieren, was dazu führen kann, dass der Angriff fehlschlägt.</p>\r\n<p>Diese Fähigkeit kann so oft eingesetzt werden, wie es dem Rang deines Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff neu ausgerüstet wird.</p>>"
+					"description": "<p>Auch auf Stufe 4 kann ein eingesetzter Pilot, wenn sein Schiff von einem Angriffswurf getroffen wird, den Konstitutionsmodifikator des Schiffes zum AC addieren, was dazu führen kann, dass der Angriff fehlschlägt.</p>\r\n<p>Diese Fähigkeit kann so oft eingesetzt werden, wie es dem Rang deines Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff neu ausgerüstet wird.</p>"
 				},
 				{
 					"id": "2NdCkukz1KSGRTTa",
@@ -69,7 +69,7 @@
 				{
 					"id": "5o4AwUTPjDfloRjd",
 					"name": "Zitadelle",
-					"description": "<p>Auch auf Stufe 4 wird die Kapazität aller Suiten verdoppelt. Wenn die Kapazität eines Suiten-Typs bereits verdoppelt wurde, wird seine Größe stattdessen von der Standardgröße verdreifacht. Außerdem verdoppelt sich die maximale Kapazität deines Raumschiffs für Treibstoff und Verbrauchsmaterialien, und Zivilisten, Besatzungsmitglieder und Truppen an Bord deines Raumschiffs haben einen Vorteil bei Konstitutionsrettungswürfen, um Erschöpfung zu vermeiden. Wenn die Kapazität für Treibstoff und/oder Verbrauchsmaterialien bereits doppelt so hoch war wie die Standardkapazität, ist sie nun dreifach so hoch wie die ursprüngliche Kapazität.</p>>"
+					"description": "<p>Auch auf Stufe 4 wird die Kapazität aller Suiten verdoppelt. Wenn die Kapazität eines Suiten-Typs bereits verdoppelt wurde, wird seine Größe stattdessen von der Standardgröße verdreifacht. Außerdem verdoppelt sich die maximale Kapazität deines Raumschiffs für Treibstoff und Verbrauchsmaterialien, und Zivilisten, Besatzungsmitglieder und Truppen an Bord deines Raumschiffs haben einen Vorteil bei Konstitutionsrettungswürfen, um Erschöpfung zu vermeiden. Wenn die Kapazität für Treibstoff und/oder Verbrauchsmaterialien bereits doppelt so hoch war wie die Standardkapazität, ist sie nun dreifach so hoch wie die ursprüngliche Kapazität.</p>"
 				},
 				{
 					"id": "AmZvh5sRfZMJQSmr",
@@ -104,7 +104,7 @@
 				{
 					"id": "yRCUfeUabdtfJ5TX",
 					"name": "Paragon-Kreuzer",
-					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse. Eine der Fähigkeitswertungen deines Schiffes erhöht sich um 4, und sein Maximum für diese Wertung erhöht sich um 4. Zwei weitere Fähigkeitswertungen erhöhen sich um 2, und sein Maximum für diese Wertungen erhöht sich um 2.</p>>"
+					"description": "<p>Ab der 5. Stufe ist dein Raumschiff das beste seiner Klasse. Eine der Fähigkeitswertungen deines Schiffes erhöht sich um 4, und sein Maximum für diese Wertung erhöht sich um 4. Zwei weitere Fähigkeitswertungen erhöhen sich um 2, und sein Maximum für diese Wertungen erhöht sich um 2.</p>"
 				},
 				{
 					"id": "D7omkkFZv6a0yePr",
@@ -154,12 +154,12 @@
 				{
 					"id": "5izWUYBCKNHqUTg6",
 					"name": "Pinpoint Strike",
-					"description": "<p>Außerdem erhält dein Raumschiff auf Stufe 1 die Fähigkeit, unter den Schilden eines gegnerischen Schiffes durchzuschlüpfen.</p>\r\n<p>Wenn dein Schiff dasselbe Feld besetzt wie ein Zielschiff und der Pilot einen Angriffswurf macht, kann er als Reaktion vor dem Angriffswurf einen Pinpoint Strike-Würfel (d4) werfen und ihn zum Angriffswurf addieren. Wenn der Angriff stattdessen einen Schutzwurf erfordert, darfst du den Pinpoint Strike-Würfel vom Schutzergebnis des Ziels abziehen. Bei einem Treffer verursacht der Angriff normalen Schaden, der alle Schilde umgeht und direkt den Rumpf des Zielschiffs trifft. Diese Fähigkeit kann nur vom Piloten und nur einmal pro Runde eingesetzt werden.</p>>\r\n<p>Der Pinpoint Strike-Würfel deines Schiffes ändert sich, wenn es bestimmte Ränge erreicht. Ab der 2. Stufe wird der Würfel zu einem d6, ab der 3. Stufe zu einem d8, ab der 4. Stufe zu einem d10 und ab der 5. Stufe zu einem d12.</p>\r\n<p>Diese Funktion kann so oft verwendet werden, wie es der Stufe des Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
+					"description": "<p>Außerdem erhält dein Raumschiff auf Stufe 1 die Fähigkeit, unter den Schilden eines gegnerischen Schiffes durchzuschlüpfen.</p>\r\n<p>Wenn dein Schiff dasselbe Feld besetzt wie ein Zielschiff und der Pilot einen Angriffswurf macht, kann er als Reaktion vor dem Angriffswurf einen Pinpoint Strike-Würfel (d4) werfen und ihn zum Angriffswurf addieren. Wenn der Angriff stattdessen einen Schutzwurf erfordert, darfst du den Pinpoint Strike-Würfel vom Schutzergebnis des Ziels abziehen. Bei einem Treffer verursacht der Angriff normalen Schaden, der alle Schilde umgeht und direkt den Rumpf des Zielschiffs trifft. Diese Fähigkeit kann nur vom Piloten und nur einmal pro Runde eingesetzt werden.</p>\r\n<p>Der Pinpoint Strike-Würfel deines Schiffes ändert sich, wenn es bestimmte Ränge erreicht. Ab der 2. Stufe wird der Würfel zu einem d6, ab der 3. Stufe zu einem d8, ab der 4. Stufe zu einem d10 und ab der 5. Stufe zu einem d12.</p>\r\n<p>Diese Funktion kann so oft verwendet werden, wie es der Stufe des Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
 				},
 				{
 					"id": "91Jke9fNoVjpIHC2",
 					"name": "Primäre Doktrin",
-					"description": "<p>Auch auf Stufe 2 versetzt dein Raumschiff deine Feinde in Angst und Schrecken. Wenn die Besatzungsmitglieder die Initiative würfeln, kann ein Besatzungsmitglied versuchen, andere Schiffe zu erschrecken. Jedes Besatzungsmitglied, das auf einem feindlichen Schiff eingesetzt wird, muss einen Weisheitswurf ablegen, der durch eine Charisma (Bedrohung)-Überprüfung bestätigt wird. Bei einem misslungenen Schutzwurf haben die betroffenen Besatzungsmitglieder 1 Minute lang einen Nachteil bei der ersten Fähigkeitsprüfung, dem ersten Angriffswurf oder dem ersten Rettungswurf, den sie pro Runde durchführen. Am Ende jeder ihrer Runden wiederholen sie diesen Schutzwurf und beenden diesen Effekt bei einem Erfolg. Außerdem werden sie bei einem erfolgreichen Schutzwurf für einen Tag immun gegen diese Eigenschaft.</p>>\r\n<p>Wenn diese Fähigkeit einmal eingesetzt wurde, kann sie erst wieder eingesetzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+					"description": "<p>Auch auf Stufe 2 versetzt dein Raumschiff deine Feinde in Angst und Schrecken. Wenn die Besatzungsmitglieder die Initiative würfeln, kann ein Besatzungsmitglied versuchen, andere Schiffe zu erschrecken. Jedes Besatzungsmitglied, das auf einem feindlichen Schiff eingesetzt wird, muss einen Weisheitswurf ablegen, der durch eine Charisma (Bedrohung)-Überprüfung bestätigt wird. Bei einem misslungenen Schutzwurf haben die betroffenen Besatzungsmitglieder 1 Minute lang einen Nachteil bei der ersten Fähigkeitsprüfung, dem ersten Angriffswurf oder dem ersten Rettungswurf, den sie pro Runde durchführen. Am Ende jeder ihrer Runden wiederholen sie diesen Schutzwurf und beenden diesen Effekt bei einem Erfolg. Außerdem werden sie bei einem erfolgreichen Schutzwurf für einen Tag immun gegen diese Eigenschaft.</p>\r\n<p>Wenn diese Fähigkeit einmal eingesetzt wurde, kann sie erst wieder eingesetzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
 				},
 				{
 					"id": "wcrP5FTiW9MIUG5G",
@@ -619,7 +619,7 @@
 				{
 					"id": "uJyL88mJC15E1aIb",
 					"name": "Spinal Mount",
-					"description": "<p>Auch auf Stufe 5 kann jedes Besatzungsmitglied einmal in seinem Zug den Stärke-Modifikator des Schiffes zum Angriffswurf oder den Intelligenz-Modifikator des Schiffes zum Schadenswurf eines Angriffs addieren. Sie können wählen, ob sie diese Eigenschaft vor oder nach dem Wurf nutzen, aber bevor die Effekte des Wurfs angewendet werden.</p>>"
+					"description": "<p>Auch auf Stufe 5 kann jedes Besatzungsmitglied einmal in seinem Zug den Stärke-Modifikator des Schiffes zum Angriffswurf oder den Intelligenz-Modifikator des Schiffes zum Schadenswurf eines Angriffs addieren. Sie können wählen, ob sie diese Eigenschaft vor oder nach dem Wurf nutzen, aber bevor die Effekte des Wurfs angewendet werden.</p>"
 				},
 				{
 					"id": "OGN9eY7cKjSjp8Da",
@@ -664,17 +664,17 @@
 				{
 					"id": "LoG2SioeRsCQdo7H",
 					"name": "Superschwere Turbolaser-Batterie",
-					"description": "<p>Auch auf der 3. Stufe ist dein Schiff mit einer vorne montierten Spezialversion eines Turbolasers ausgestattet. Es wird davon ausgegangen, dass dein Schiff die Konstitutionsvoraussetzungen für diese Waffe erfüllt, unabhängig vom Konstitutionsfähigkeitswert deines Schiffes. Der von diesem Turbolaser verursachte Schaden beträgt 3d12.</p>>\r\n<p>Diese Waffe nutzt keinen Waffen-Hardpoint und zählt nicht als solcher.</p>"
+					"description": "<p>Auch auf der 3. Stufe ist dein Schiff mit einer vorne montierten Spezialversion eines Turbolasers ausgestattet. Es wird davon ausgegangen, dass dein Schiff die Konstitutionsvoraussetzungen für diese Waffe erfüllt, unabhängig vom Konstitutionsfähigkeitswert deines Schiffes. Der von diesem Turbolaser verursachte Schaden beträgt 3d12.</p>\r\n<p>Diese Waffe nutzt keinen Waffen-Hardpoint und zählt nicht als solcher.</p>"
 				},
 				{
 					"id": "P2cJTyboU0Xsjq5n",
 					"name": "Überlegene Feuerkraft",
-					"description": "<p>Auch auf Stufe 1 kann die Feuerkraft deines Raumschiffs größere Schiffe überwältigen.</p>\r\n<p>Wenn ein Besatzungsmitglied einem großen oder größeren Schiff mit einer Schiffswaffe Schaden zufügt, kann das Besatzungsmitglied den Schaden erhöhen, indem es einen Würfel für Überlegene Feuerkraft (d4) wirft und ihn zum Schadenswurf hinzufügt (keine Aktion erforderlich).</p>\r\n<p>Der Würfel für die Überlegene Feuerkraft eines Schiffes ändert sich, wenn es bestimmte Stufen erreicht. Der Würfel wird bei Stufe 2 zu einem d6, bei Stufe 3 zu einem d8, bei Stufe 4 zu einem d10 und bei Stufe 5 zu einem d12.</p>>\r\n<p>Diese Funktion kann so oft verwendet werden, wie es der dreifachen Stufe deines Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff aufgeladen wird.</p>"
+					"description": "<p>Auch auf Stufe 1 kann die Feuerkraft deines Raumschiffs größere Schiffe überwältigen.</p>\r\n<p>Wenn ein Besatzungsmitglied einem großen oder größeren Schiff mit einer Schiffswaffe Schaden zufügt, kann das Besatzungsmitglied den Schaden erhöhen, indem es einen Würfel für Überlegene Feuerkraft (d4) wirft und ihn zum Schadenswurf hinzufügt (keine Aktion erforderlich).</p>\r\n<p>Der Würfel für die Überlegene Feuerkraft eines Schiffes ändert sich, wenn es bestimmte Stufen erreicht. Der Würfel wird bei Stufe 2 zu einem d6, bei Stufe 3 zu einem d8, bei Stufe 4 zu einem d10 und bei Stufe 5 zu einem d12.</p>\r\n<p>Diese Funktion kann so oft verwendet werden, wie es der dreifachen Stufe deines Schiffes entspricht. Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff aufgeladen wird.</p>"
 				},
 				{
 					"id": "db0LHu2rFIbO98e6",
 					"name": "Superwaffe",
-					"description": "<p>Auch auf Stufe 3 ist dein Schiff mit einer Superwaffe ausgestattet. Als Aktion kann ein eingesetzter Operator die Superwaffe aktivieren, die, wie in Kapitel 9 beschrieben, einen begrenzten Feuerbogen hat. Wenn sie aktiviert wird, schießt ein Strahl zerstörerischer Energie, der eine Linie von 10.000 Fuß Länge und 100 Fuß Breite bildet, aus der Waffe. Jedes Schiff in der Linie muss einen Geschicklichkeitswurf machen (DC = 8 + Fertigkeitsbonus des Besatzungsmitglieds + Stärke-Modifikator des Schiffs). Bei einem misslungenen Rettungswurf erleidet das Schiff 15d10 Energieschaden, bei einem erfolgreichen Wurf die Hälfte davon.</p>>\r\n<p>Wenn diese Fähigkeit einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+					"description": "<p>Auch auf Stufe 3 ist dein Schiff mit einer Superwaffe ausgestattet. Als Aktion kann ein eingesetzter Operator die Superwaffe aktivieren, die, wie in Kapitel 9 beschrieben, einen begrenzten Feuerbogen hat. Wenn sie aktiviert wird, schießt ein Strahl zerstörerischer Energie, der eine Linie von 10.000 Fuß Länge und 100 Fuß Breite bildet, aus der Waffe. Jedes Schiff in der Linie muss einen Geschicklichkeitswurf machen (DC = 8 + Fertigkeitsbonus des Besatzungsmitglieds + Stärke-Modifikator des Schiffs). Bei einem misslungenen Rettungswurf erleidet das Schiff 15d10 Energieschaden, bei einem erfolgreichen Wurf die Hälfte davon.</p>\r\n<p>Wenn diese Fähigkeit einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
 				},
 				{
 					"id": "b9bkZCxfdHdm4Axx",

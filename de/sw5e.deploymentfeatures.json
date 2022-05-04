@@ -104,7 +104,7 @@
         {
             "id": "rufV6GZiNRlxwnGJ",
             "name": "Verteidigungs-Strategeme",
-            "description": "<p>Auch im 1. Rang erlernst du Strategeme, die von speziellen Würfeln, den sogenannten Machtwürfeln, gespeist werden.</p><h3>Strategeme</h3><p>Du erlernst zwei Strategeme deiner Wahl, die weiter unten unter 'Strategeme' beschrieben werden. Viele Strategeme verbessern eine Verteidigung auf irgendeine Weise. Du kannst nur ein Gambit pro Angriff benutzen und jedes Strategem nur einmal pro Runde.</p><p>Du lernst ein zusätzliches Strategem auf dem 2. Jedes Mal, wenn du ein neues Strategem lernst, kannst du auch ein Strategem, das du kennst, durch ein anderes ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Strategeme anwenden zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Besatzungsmitglieder zu aktivieren.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p>>"
+            "description": "<p>Auch im 1. Rang erlernst du Strategeme, die von speziellen Würfeln, den sogenannten Machtwürfeln, gespeist werden.</p><h3>Strategeme</h3><p>Du erlernst zwei Strategeme deiner Wahl, die weiter unten unter 'Strategeme' beschrieben werden. Viele Strategeme verbessern eine Verteidigung auf irgendeine Weise. Du kannst nur ein Gambit pro Angriff benutzen und jedes Strategem nur einmal pro Runde.</p><p>Du lernst ein zusätzliches Strategem auf dem 2. Jedes Mal, wenn du ein neues Strategem lernst, kannst du auch ein Strategem, das du kennst, durch ein anderes ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Strategeme anwenden zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Besatzungsmitglieder zu aktivieren.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p>"
         },
         {
             "id": "WFOYYe3vDHoNUUI9",
@@ -179,12 +179,12 @@
         {
             "id": "GjPn4M3GHYmpNjNz",
             "name": "Feintuning-Schuss",
-            "description": "<p><em><strong>Kraftwürfelort:</strong> Waffen</em><br>Du kannst einen Kraftwürfel ausgeben und eine Bonusaktion in deinem Zug nutzen, um eine Finte durchzuführen, wobei du ein Schiff innerhalb der normalen Reichweite deiner Primärwaffe als Ziel wählst. Du hast einen Vorteil bei deinem nächsten Angriffswurf gegen dieses Schiff. Wenn dieser Angriff trifft, addiere den Machtwürfel zum Schadenswurf des Angriffs.</p>>"
+            "description": "<p><em><strong>Kraftwürfelort:</strong> Waffen</em><br>Du kannst einen Kraftwürfel ausgeben und eine Bonusaktion in deinem Zug nutzen, um eine Finte durchzuführen, wobei du ein Schiff innerhalb der normalen Reichweite deiner Primärwaffe als Ziel wählst. Du hast einen Vorteil bei deinem nächsten Angriffswurf gegen dieses Schiff. Wenn dieser Angriff trifft, addiere den Machtwürfel zum Schadenswurf des Angriffs.</p>"
         },
         {
             "id": "btd77ZPsBBLROfg8",
             "name": "Scharfschützen-Techniken",
-            "description": "<p>Auch im 1. Rang erlernst du Gambits, die von speziellen Würfeln, den Machtwürfeln, unterstützt werden.</p><h3>Gambits</h3><p>Du erlernst zwei Gambits deiner Wahl, die weiter unten unter 'Gambits' beschrieben werden. Viele Gambits verstärken einen Angriff auf irgendeine Weise. Du kannst nur ein Gambit pro Angriff verwenden, und du kannst jedes Gambit nur einmal pro Runde verwenden.</p><p>Du lernst ein zusätzliches Gambit im 2., 3., 4. und 5. Jedes Mal, wenn du ein neues Gambit lernst, kannst du auch ein Gambit, das du kennst, durch ein anderes ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um das Gambit zu benutzen.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu unterstützen.  Die Art deiner Energiewürfel wird durch deinen Schiffsrang bestimmt.</p>>"
+            "description": "<p>Auch im 1. Rang erlernst du Gambits, die von speziellen Würfeln, den Machtwürfeln, unterstützt werden.</p><h3>Gambits</h3><p>Du erlernst zwei Gambits deiner Wahl, die weiter unten unter 'Gambits' beschrieben werden. Viele Gambits verstärken einen Angriff auf irgendeine Weise. Du kannst nur ein Gambit pro Angriff verwenden, und du kannst jedes Gambit nur einmal pro Runde verwenden.</p><p>Du lernst ein zusätzliches Gambit im 2., 3., 4. und 5. Jedes Mal, wenn du ein neues Gambit lernst, kannst du auch ein Gambit, das du kennst, durch ein anderes ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um das Gambit zu benutzen.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu unterstützen.  Die Art deiner Energiewürfel wird durch deinen Schiffsrang bestimmt.</p>"
         },
         {
             "id": "NcdJUlCVRxJHiYmZ",
@@ -214,7 +214,7 @@
         {
             "id": "U7EWM1BOvgRDjo4k",
             "name": "Schweres Geschütz Meisterung",
-            "description": "<p>Du bist der Meister der Railguns und Turbolasers. Wenn du eine Sekundärwaffe abfeuerst, bevor du einen Angriff ausführst, kannst du wählen, ob du deinen Befähigungsbonus verdoppelst. Wenn der Angriff trifft, reduzierst du den verursachten Schaden um einen Betrag, der deinem Beherrschungsbonus entspricht.</p>>"
+            "description": "<p>Du bist der Meister der Railguns und Turbolasers. Wenn du eine Sekundärwaffe abfeuerst, bevor du einen Angriff ausführst, kannst du wählen, ob du deinen Befähigungsbonus verdoppelst. Wenn der Angriff trifft, reduzierst du den verursachten Schaden um einen Betrag, der deinem Beherrschungsbonus entspricht.</p>"
         },
         {
             "id": "AbRJD4oCtbLlj34R",
@@ -259,7 +259,7 @@
         {
             "id": "5PaDhVwt5qs6DQob",
             "name": "Koiogran-Drehung",
-            "description": "<p><em><strong>Power Die Location:</strong> Triebwerke</em><br>Wenn du das Ziel eines Angriffswurfs bist, kannst du einen Machtwürfel ausgeben und versuchen, aus der Schusslinie zu manövrieren. Wirf den Würfel, nimm das Ergebnis und multipliziere es mit 50. Du bewegst dich sofort so viele Meter in eine Richtung deiner Wahl. Die Ausrichtung deines Schiffes ändert sich dabei nicht.</p>>"
+            "description": "<p><em><strong>Power Die Location:</strong> Triebwerke</em><br>Wenn du das Ziel eines Angriffswurfs bist, kannst du einen Machtwürfel ausgeben und versuchen, aus der Schusslinie zu manövrieren. Wirf den Würfel, nimm das Ergebnis und multipliziere es mit 50. Du bewegst dich sofort so viele Meter in eine Richtung deiner Wahl. Die Ausrichtung deines Schiffes ändert sich dabei nicht.</p>"
         },
         {
             "id": "vHUmONolfVq8xCFj",
@@ -269,12 +269,12 @@
         {
             "id": "5xo8nrgomVc9jOSM",
             "name": "Außergewöhnlicher Anführer",
-            "description": "<p>Du erhältst alle verbrauchten Einsätze deiner Eigenschaften Inspirierende Zurschaustellung, Sammelnder Schrei und Befehlshaberische Präsenz zurück, wenn du eine kurze oder lange Ruhepause beendest.</p><p>Zusätzlich kannst du, wenn du eine Zahl der Erhebenden Direktive würfelst, das Maximum nehmen, anstatt zu würfeln. Du kannst diese Eigenschaft vor oder nach dem Wurf nutzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Eigenschaft benutzt hast, musst du eine kurze oder lange Ruhepause einlegen, bevor du sie wieder benutzen kannst.</p><p>Schließlich, wenn eine Kreatur einen Würfel für Inspirierende Darstellung benutzt, nimmt sie das Maximum, anstatt zu würfeln.  Wenn du diese Fähigkeit einmal benutzt hast, kannst du sie erst wieder benutzen, wenn du eine kurze oder lange Pause gemacht hast.</p>>"
+            "description": "<p>Du erhältst alle verbrauchten Einsätze deiner Eigenschaften Inspirierende Zurschaustellung, Sammelnder Schrei und Befehlshaberische Präsenz zurück, wenn du eine kurze oder lange Ruhepause beendest.</p><p>Zusätzlich kannst du, wenn du eine Zahl der Erhebenden Direktive würfelst, das Maximum nehmen, anstatt zu würfeln. Du kannst diese Eigenschaft vor oder nach dem Wurf nutzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Eigenschaft benutzt hast, musst du eine kurze oder lange Ruhepause einlegen, bevor du sie wieder benutzen kannst.</p><p>Schließlich, wenn eine Kreatur einen Würfel für Inspirierende Darstellung benutzt, nimmt sie das Maximum, anstatt zu würfeln.  Wenn du diese Fähigkeit einmal benutzt hast, kannst du sie erst wieder benutzen, wenn du eine kurze oder lange Pause gemacht hast.</p>"
         },
         {
             "id": "zqN0Gdp5x3G206VZ",
             "name": "Meisterhafte Direktive",
-            "description": "<p>Auch im 3. Rang kannst du, wenn du als Teil der Aktion 'Direkt' deine Zahl für 'Erhebende Anweisung' würfelst, deine Bonusaktion nutzen, um deine Zahl für 'Erhebende Anweisung' um einen Betrag zu erhöhen, der deinem Befähigungsbonus entspricht. Wenn dies den Wert deiner 'Erhebende Direktive'-Zahl auf mehr als 20 erhöhen würde, wird sie stattdessen 20.</p>>"
+            "description": "<p>Auch im 3. Rang kannst du, wenn du als Teil der Aktion 'Direkt' deine Zahl für 'Erhebende Anweisung' würfelst, deine Bonusaktion nutzen, um deine Zahl für 'Erhebende Anweisung' um einen Betrag zu erhöhen, der deinem Befähigungsbonus entspricht. Wenn dies den Wert deiner 'Erhebende Direktive'-Zahl auf mehr als 20 erhöhen würde, wird sie stattdessen 20.</p>"
         },
         {
             "id": "8LGucgZjtdXIl6b0",
@@ -314,17 +314,17 @@
         {
             "id": "cWApupkpuwEgtUY5",
             "name": "Paragon-Operator",
-            "description": "<p>Ab dem 5. Rang bist du ein Musterbeispiel für deinen Einsatz. Wenn du einen Machtwürfel oder einen Systemstörungswürfel ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Fähigkeit nur einmal pro Runde benutzen.</p><p>Zusätzlich erhältst du alle verbrauchten Würfel für die Systemunterbrechung zurück, wenn du eine kurze oder lange Pause machst.</p><p>Schließlich kannst du, wenn du eine Stör-, Scan- oder Probeüberprüfung machen würdest, während du als Operator im Einsatz bist, das Maximum nehmen, anstatt zu werfen. Du kannst diese Funktion vor oder nach dem Wurf nutzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Eigenschaft benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>>"
+            "description": "<p>Ab dem 5. Rang bist du ein Musterbeispiel für deinen Einsatz. Wenn du einen Machtwürfel oder einen Systemstörungswürfel ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Fähigkeit nur einmal pro Runde benutzen.</p><p>Zusätzlich erhältst du alle verbrauchten Würfel für die Systemunterbrechung zurück, wenn du eine kurze oder lange Pause machst.</p><p>Schließlich kannst du, wenn du eine Stör-, Scan- oder Probeüberprüfung machen würdest, während du als Operator im Einsatz bist, das Maximum nehmen, anstatt zu werfen. Du kannst diese Funktion vor oder nach dem Wurf nutzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Eigenschaft benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
         },
         {
             "id": "ne9IKjZ0KB6nI3ko",
             "name": "Paragon-Pilot",
-            "description": "<p>Ab der 5. Stufe bist du ein Musterbeispiel für deinen Einsatz. Wenn du einen Machtwürfel ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Fähigkeit nur einmal pro Runde nutzen.</p>>"
+            "description": "<p>Ab der 5. Stufe bist du ein Musterbeispiel für deinen Einsatz. Wenn du einen Machtwürfel ausgeben würdest, kannst du einen d4 verwenden, anstatt einen Würfel auszugeben. Du kannst diese Fähigkeit nur einmal pro Runde nutzen.</p>"
         },
         {
             "id": "4FymUPeOoWd7sBty",
             "name": "Paragon-Techniker",
-            "description": "<p>Ab der 5. Stufe bist du ein Aushängeschild deiner Aufstellung. Stufe kannst du bei einer Stärke- (Verstärken) oder Konstitutions- (Regulieren) -Überprüfung das Maximum nehmen, anstatt zu würfeln. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>>"
+            "description": "<p>Ab der 5. Stufe bist du ein Aushängeschild deiner Aufstellung. Stufe kannst du bei einer Stärke- (Verstärken) oder Konstitutions- (Regulieren) -Überprüfung das Maximum nehmen, anstatt zu würfeln. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
         },
         {
             "id": "EHbxsR3TYqgx14ox",
@@ -344,7 +344,7 @@
         {
             "id": "SpWkFzgpS2crMmwo",
             "name": "Durchdringender Schuss",
-            "description": "<p><em><strong>Power Die Location:</strong> Waffen</em><br>Wenn du ein Schiff mit einem Schiffsangriff triffst, kannst du einen Power Die ausgeben, um zu versuchen, ein anderes Schiff mit demselben Angriff zu beschädigen. Wähle ein zweites Schiff im Umkreis von 150 Fuß von und direkt hinter deinem ersten Ziel. Wenn der ursprüngliche Angriffswurf das zweite Schiff treffen würde, erleidet es Schaden in Höhe der Zahl, die du mit deinem Machtwürfel würfelst. Der Schaden ist vom gleichen Typ wie der des ursprünglichen Angriffs.</p>>"
+            "description": "<p><em><strong>Power Die Location:</strong> Waffen</em><br>Wenn du ein Schiff mit einem Schiffsangriff triffst, kannst du einen Power Die ausgeben, um zu versuchen, ein anderes Schiff mit demselben Angriff zu beschädigen. Wähle ein zweites Schiff im Umkreis von 150 Fuß von und direkt hinter deinem ersten Ziel. Wenn der ursprüngliche Angriffswurf das zweite Schiff treffen würde, erleidet es Schaden in Höhe der Zahl, die du mit deinem Machtwürfel würfelst. Der Schaden ist vom gleichen Typ wie der des ursprünglichen Angriffs.</p>"
         },
         {
             "id": "izw9rhXgoBbRRjQK",
@@ -354,7 +354,7 @@
         {
             "id": "HPbueMMRtKK6TcG2",
             "name": "Pilotenverfahren",
-            "description": "<p>Außerdem erlernst du mit dem 1. Rang Taktiken, die durch spezielle Würfel, die sogenannten Machtwürfel, unterstützt werden.</p><h3>Taktiken</h3><p>Du erlernst zwei Taktiken deiner Wahl, die weiter unten unter 'Taktiken' beschrieben werden. Du kannst nur eine Taktik pro Runde benutzen und jede Taktik nur einmal pro Runde.</p><p>Du lernst eine zusätzliche Taktik auf Rang 2, 3, 4 und 5 in diesem Einsatz. Jedes Mal, wenn du eine neue Taktik lernst, kannst du auch eine Taktik, die du kennst, durch eine andere ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Taktik anwenden zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu unterstützen.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p>>"
+            "description": "<p>Außerdem erlernst du mit dem 1. Rang Taktiken, die durch spezielle Würfel, die sogenannten Machtwürfel, unterstützt werden.</p><h3>Taktiken</h3><p>Du erlernst zwei Taktiken deiner Wahl, die weiter unten unter 'Taktiken' beschrieben werden. Du kannst nur eine Taktik pro Runde benutzen und jede Taktik nur einmal pro Runde.</p><p>Du lernst eine zusätzliche Taktik auf Rang 2, 3, 4 und 5 in diesem Einsatz. Jedes Mal, wenn du eine neue Taktik lernst, kannst du auch eine Taktik, die du kennst, durch eine andere ersetzen.</p><h3>Machtwürfel</h3><p>Ein Machtwürfel wird verbraucht, wenn du ihn benutzt. Dein Schiff muss einen Energiewürfel auf dem erforderlichen System haben, um die Taktik anwenden zu können.</p><p>Dein Schiff erhält Energiewürfel, die hauptsächlich auf der Reaktorproduktion basieren.  Diese Energiewürfel werden in einer Zentrale und/oder in Systemkondensatoren gespeichert, um die Fähigkeiten der eingesetzten Crewmitglieder zu unterstützen.  Der Typ deines Energiewürfels wird durch deinen Schiffsrang bestimmt.</p>"
         },
         {
             "id": "9gB0RnUmYpU58uHq",
@@ -429,12 +429,12 @@
         {
             "id": "MZLYQTFwmVQlgWpv",
             "name": "Energie umleiten",
-            "description": "<p>Wenn die Schilde deines Schiffes völlig erschöpft sind, kannst du außerdem deine Reaktion einsetzen, um sofort eine Anzahl von Schildpunkten in Höhe deines Intelligenzmodifikators wiederherzustellen. Sobald du diese Fähigkeit benutzt hast, musst du eine lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>>"
+            "description": "<p>Wenn die Schilde deines Schiffes völlig erschöpft sind, kannst du außerdem deine Reaktion einsetzen, um sofort eine Anzahl von Schildpunkten in Höhe deines Intelligenzmodifikators wiederherzustellen. Sobald du diese Fähigkeit benutzt hast, musst du eine lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
         },
         {
             "id": "lJI403bCY0sK5aip",
             "name": "Sensor-Explosion",
-            "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br>Wenn ein befreundetes Schiff ein Ziel mit einem Waffenangriff trifft, kannst du als Reaktion einen Machtwürfel ausgeben, um zu versuchen, die Sensoren des Ziels zu sättigen. Du addierst den Energiewürfel zum Schadenswurf des Angriffs, und das Ziel muss einen Weisheitssparwurf ablegen. Bei einem misslungenen Schutzwurf hat das Ziel bis zum Ende deines nächsten Zuges einen Nachteil bei allen Angriffswürfen gegen andere Ziele als dein Schiff.</p>>"
+            "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br>Wenn ein befreundetes Schiff ein Ziel mit einem Waffenangriff trifft, kannst du als Reaktion einen Machtwürfel ausgeben, um zu versuchen, die Sensoren des Ziels zu sättigen. Du addierst den Energiewürfel zum Schadenswurf des Angriffs, und das Ziel muss einen Weisheitssparwurf ablegen. Bei einem misslungenen Schutzwurf hat das Ziel bis zum Ende deines nächsten Zuges einen Nachteil bei allen Angriffswürfen gegen andere Ziele als dein Schiff.</p>"
         },
         {
             "id": "2jb6jifQOX4qBVCg",

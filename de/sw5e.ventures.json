@@ -24,7 +24,7 @@
 				{
 					"id": "ItEBs8d4m8E9Iyry",
 					"name": "Gerissener Operator",
-					"description": "Wenn du die Aktion Einmischen ausführst und die Anfechtung misslingt, kannst du deine Bonusaktion nutzen, um die Prüfung gegen dasselbe Ziel zu wiederholen.</p>>"
+					"description": "Wenn du die Aktion Einmischen ausführst und die Anfechtung misslingt, kannst du deine Bonusaktion nutzen, um die Prüfung gegen dasselbe Ziel zu wiederholen.</p>"
 				},
 				{
 					"id": "nJeEMiSReNAG8rSr",
@@ -149,7 +149,7 @@
 				{
 					"id": "ks1XMj0qAeKZX3cr",
 					"name": "Meisterliches Spacecasting",
-					"description": "<p><em><strong>Voraussetzung:</strong> Großes Wagnis der Raumwirkung</em></p><p>Wenn du an Bord deines Schiffes und im Weltraum eine Kraft- oder Tech-Macht wirkst, wird die Reichweite der Macht stattdessen mit 1.000 multipliziert. Du kannst eine feindliche Kreatur nur dann mit einer Kraft anvisieren, wenn du dir ihrer Anwesenheit und ihres Standorts bewusst bist.</p>>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Großes Wagnis der Raumwirkung</em></p><p>Wenn du an Bord deines Schiffes und im Weltraum eine Kraft- oder Tech-Macht wirkst, wird die Reichweite der Macht stattdessen mit 1.000 multipliziert. Du kannst eine feindliche Kreatur nur dann mit einer Kraft anvisieren, wenn du dir ihrer Anwesenheit und ihres Standorts bewusst bist.</p>"
 				},
 				{
 					"id": "6AtbJ4PKePAUc4M0",
@@ -249,7 +249,7 @@
 				{
 					"id": "Ks8TffMcgBcJFPSm",
 					"name": "Schlüpfriger Pilot",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Operativ</em></p><p>Deine schnelle Auffassungsgabe und Beweglichkeit erlauben es dir, schnell zu handeln und dein Schiff zu bewegen. Du kannst in jeder deiner Runden im Kampf eine Bonusaktion ausführen. Diese Aktion kann nur verwendet werden, um die Aktionen \"Hetzen\", \"Ausweichen\" oder \"Verstecken\" auszuführen.</p>>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Operativ</em></p><p>Deine schnelle Auffassungsgabe und Beweglichkeit erlauben es dir, schnell zu handeln und dein Schiff zu bewegen. Du kannst in jeder deiner Runden im Kampf eine Bonusaktion ausführen. Diese Aktion kann nur verwendet werden, um die Aktionen \"Hetzen\", \"Ausweichen\" oder \"Verstecken\" auszuführen.</p>"
 				},
 				{
 					"id": "r0as3L57tmg0kcdM",
@@ -289,7 +289,7 @@
 				{
 					"id": "cdJIX7FymQXYn5TZ",
 					"name": "Zielgerichtete Salve",
-					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Tech-Kräfte zu wirken, mindestens 1 Rang in Schütze</em></p><p>Einmal pro Runde, wenn du ein Ziel mit einem Schiffsangriff aus einer Primär- oder Sekundärwaffe triffst, darfst du als Reaktion einen Tech-Punkt ausgeben, um das Ziel nur für dich sichtbar zu markieren. Der nächste Angriffswurf, den du vor dem Ende deines nächsten Zuges gegen das Schiff machst, darf nicht von Nachteil sein.</p>>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Die Fähigkeit, Tech-Kräfte zu wirken, mindestens 1 Rang in Schütze</em></p><p>Einmal pro Runde, wenn du ein Ziel mit einem Schiffsangriff aus einer Primär- oder Sekundärwaffe triffst, darfst du als Reaktion einen Tech-Punkt ausgeben, um das Ziel nur für dich sichtbar zu markieren. Der nächste Angriffswurf, den du vor dem Ende deines nächsten Zuges gegen das Schiff machst, darf nicht von Nachteil sein.</p>"
 				},
 				{
 					"id": "uWRzpIJBC4QBFfg3",

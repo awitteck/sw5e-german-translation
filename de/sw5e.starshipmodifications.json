@@ -29,7 +29,7 @@
 				{
 					"id": "LtlcZYsKPVOdBJwk",
 					"name": "Alternativer Treibstoffkonverter",
-					"description": "<p>Dein Schiff ist mit einem alternativen Treibstoffkonverter ausgestattet, der die Umwandlung von Materialien in eine potenzielle Treibstoffquelle ermöglicht. Im Laufe von 10 Minuten kann ein Besatzungsmitglied eine Konstitutionsprüfung (DC = 10 oder die Hälfte der Tage seit der letzten Betankung des Schiffes, je nachdem, welche Zahl höher ist) ablegen. Bei einem Erfolg gewinnt das Schiff Treibstoff für einen Tag zurück.</p><p>Diese Fähigkeit kann so oft genutzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Werte werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>>"
+					"description": "<p>Dein Schiff ist mit einem alternativen Treibstoffkonverter ausgestattet, der die Umwandlung von Materialien in eine potenzielle Treibstoffquelle ermöglicht. Im Laufe von 10 Minuten kann ein Besatzungsmitglied eine Konstitutionsprüfung (DC = 10 oder die Hälfte der Tage seit der letzten Betankung des Schiffes, je nachdem, welche Zahl höher ist) ablegen. Bei einem Erfolg gewinnt das Schiff Treibstoff für einen Tag zurück.</p><p>Diese Fähigkeit kann so oft genutzt werden, wie es der Stufe des Schiffes entspricht (mindestens einmal). Alle verbrauchten Werte werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
 				},
 				{
 					"id": "KWcCCOTTo8UFdxhD",
@@ -59,7 +59,7 @@
 				{
 					"id": "1ljWI01OuCXvlJ5H",
 					"name": "Backup-Hyperantrieb",
-					"description": "<p>Diese Modifikation fügt deinem Schiff einen Reserve-Hyperantriebsslot hinzu und beinhaltet einen Hyperantrieb der Klasse 15. Ein Besatzungsmitglied kann mit einer Aktion zum oder vom Backup-Hyperantrieb wechseln.</p>>"
+					"description": "<p>Diese Modifikation fügt deinem Schiff einen Reserve-Hyperantriebsslot hinzu und beinhaltet einen Hyperantrieb der Klasse 15. Ein Besatzungsmitglied kann mit einer Aktion zum oder vom Backup-Hyperantrieb wechseln.</p>"
 				},
 				{
 					"id": "wSPtKKS4IycBAred",
@@ -204,7 +204,7 @@
 				{
 					"id": "OrlQHcI2E4VP7gqe",
 					"name": "Kryogenischer Kondensator",
-					"description": "<p>Du installierst hocheffiziente Reserve-Energiezellen, die dein Schiff in die Lage versetzen, den Spitzenenergiebedarf besser zu decken.  Dein Schiff ist für Stärke (Boost)-Würfe gut ausgerüstet.</p>>"
+					"description": "<p>Du installierst hocheffiziente Reserve-Energiezellen, die dein Schiff in die Lage versetzen, den Spitzenenergiebedarf besser zu decken.  Dein Schiff ist für Stärke (Boost)-Würfe gut ausgerüstet.</p>"
 				},
 				{
 					"id": "MMrhnmG2blkL3e4M",
@@ -294,7 +294,7 @@
 				{
 					"id": "hKC1MALcSPXqzPqD",
 					"name": "Droidengehirn, Mark III",
-					"description": "<p>Du verbesserst das Droidengehirn deines Schiffes erheblich. Der Fertigkeitsbonus deines Droidengehirns erhöht sich auf 4. Außerdem erhält es einen Rang in einem Einsatz deiner Wahl.</p>>"
+					"description": "<p>Du verbesserst das Droidengehirn deines Schiffes erheblich. Der Fertigkeitsbonus deines Droidengehirns erhöht sich auf 4. Außerdem erhält es einen Rang in einem Einsatz deiner Wahl.</p>"
 				},
 				{
 					"id": "jyn2IjSbKTdqcTCI",
@@ -354,7 +354,7 @@
 				{
 					"id": "kUnEuzg9el3MrYTa",
 					"name": "Elektronische Ablenkplatte",
-					"description": "<p>Wenn dein Schiff ionisiert, geschockt oder betäubt werden würde, kann ein Besatzungsmitglied seine Reaktion nutzen, um einen Hüllenwürfel zu werfen und Schaden an der Hülle in Höhe des gewürfelten Betrags zu erleiden, um den auslösenden Zustand zu ignorieren.</p><p>Diese Eigenschaft kann so oft genutzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>>"
+					"description": "<p>Wenn dein Schiff ionisiert, geschockt oder betäubt werden würde, kann ein Besatzungsmitglied seine Reaktion nutzen, um einen Hüllenwürfel zu werfen und Schaden an der Hülle in Höhe des gewürfelten Betrags zu erleiden, um den auslösenden Zustand zu ignorieren.</p><p>Diese Eigenschaft kann so oft genutzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Einsätze werden wiederhergestellt, wenn das Schiff umgerüstet wird.</p>"
 				},
 				{
 					"id": "jCpnhkKLfpX13kAC",
@@ -399,7 +399,7 @@
 				{
 					"id": "ZeCNLOuziz3UU1BI",
 					"name": "Feedback-Schild",
-					"description": "<p>Der Schild deines Schiffes ist so verbessert, dass er Schaden an potentiellen Angreifern reflektiert. Als Reaktion darauf, dass das Schiff von einer Primär- oder Sekundärwaffe getroffen wird, kann ein Besatzungsmitglied seine Reaktion nutzen, um dem angreifenden Schiff Schaden zuzufügen. Der Schaden hängt von der Größe des Schiffes ab: 1d4 für ein winziges Schiff, 1d6 für ein kleines Schiff, 1d8 für ein mittleres Schiff, 1d10 für ein großes Schiff, 1d12 für ein riesiges Schiff oder 1d20 für ein gigantisches Schiff. Der Schaden entspricht dem des ursprünglichen Angriffs.</p>>"
+					"description": "<p>Der Schild deines Schiffes ist so verbessert, dass er Schaden an potentiellen Angreifern reflektiert. Als Reaktion darauf, dass das Schiff von einer Primär- oder Sekundärwaffe getroffen wird, kann ein Besatzungsmitglied seine Reaktion nutzen, um dem angreifenden Schiff Schaden zuzufügen. Der Schaden hängt von der Größe des Schiffes ab: 1d4 für ein winziges Schiff, 1d6 für ein kleines Schiff, 1d8 für ein mittleres Schiff, 1d10 für ein großes Schiff, 1d12 für ein riesiges Schiff oder 1d20 für ein gigantisches Schiff. Der Schaden entspricht dem des ursprünglichen Angriffs.</p>"
 				},
 				{
 					"id": "gwH143Rt48TqS1Ps",
@@ -569,7 +569,7 @@
 				{
 					"id": "3hobQFx1yBtdO6MX",
 					"name": "Mechanikerwerkstatt",
-					"description": "<p>Diese Suite verfügt über die gesamte Ausrüstung, um Droiden und kleine Konstrukte zu beherbergen, einschließlich integrierter Astrotechnik-Werkzeuge, eines Abbruchsatzes und eines Mechaniksatzes. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Fertigkeitsbonus bereits auf deine Würfe anwendest, erhältst du stattdessen den doppelten Fertigkeitsbonus. Wenn du deinen Fertigkeitsbonus bereits auf deine Checks verdoppelt hast, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p><p>Zusätzlich erhältst du bei der Verwendung eines dieser Werkzeuge einen Vorteil, der davon abhängt, welche Werkzeuge du benutzt. </p><ul><li><strong>Entschärfungsset:</strong> Im Laufe einer langen Pause kannst du die Wirksamkeit einer Granate oder Mine vorübergehend verbessern. Wenn der gewählte Sprengstoff vor dem Ende deiner nächsten langen Ruhepause eingesetzt wird, beträgt sein DC 8 + dein Fertigkeitsbonus + dein Intelligenzmodifikator, und er verursacht zusätzlichen Schaden in Höhe deines Intelligenzmodifikators. Der Schaden ist vom selben Typ wie der des gewählten Sprengstoffs.</li><li><strong>Mechanikerbausatz:</strong> Immer wenn du eine Intelligenzüberprüfung (Mechanikerbausatz) machst, um eine Reparatur durchzuführen, kannst du einen Würfelwurf von 9 oder niedriger als 10 behandeln, solange du mindestens zehn Minuten für die Reparatur brauchst. </li></ul><p>Zu guter Letzt kann dieser Raum Droiden und Konstrukte beherbergen, abhängig von der Größe des Schiffes:</p><ul><li><strong>Klein:</strong> Eine kleine Mechanikerwerkstatt kann einen mittleren Droiden oder ein mittleres Konstrukt beherbergen. </li><li><strong>Mittel:</strong> Eine mittlere Mechanikerwerkstatt kann einen riesigen Droiden oder ein riesiges Konstrukt beherbergen.</li><li><strong>Groß:</strong> Eine große Mechanikerwerkstatt kann einen Gargantuan-Droiden oder ein riesiges Konstrukt beherbergen. </li><li><strong>Riesen:</strong> Eine riesige Mechanikerwerkstatt kann 10 Gargantuan-Droiden oder -Konstrukte beherbergen.</li><li><strong>Gargantuan:</strong> Eine Gargantuan-Mechanikerwerkstatt kann 100 Gargantuan-Droiden oder -Konstrukte beherbergen.</li></ul><p>Alternativ kann diese Suite auch Droiden anderer Größen beherbergen. Ein Gargantuan-Droide nimmt den Platz von zwei Riesendroiden ein, die wiederum den Platz von zwei Großdroiden einnehmen, und so weiter.</p>>"
+					"description": "<p>Diese Suite verfügt über die gesamte Ausrüstung, um Droiden und kleine Konstrukte zu beherbergen, einschließlich integrierter Astrotechnik-Werkzeuge, eines Abbruchsatzes und eines Mechaniksatzes. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Fertigkeitsbonus bereits auf deine Würfe anwendest, erhältst du stattdessen den doppelten Fertigkeitsbonus. Wenn du deinen Fertigkeitsbonus bereits auf deine Checks verdoppelt hast, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p><p>Zusätzlich erhältst du bei der Verwendung eines dieser Werkzeuge einen Vorteil, der davon abhängt, welche Werkzeuge du benutzt. </p><ul><li><strong>Entschärfungsset:</strong> Im Laufe einer langen Pause kannst du die Wirksamkeit einer Granate oder Mine vorübergehend verbessern. Wenn der gewählte Sprengstoff vor dem Ende deiner nächsten langen Ruhepause eingesetzt wird, beträgt sein DC 8 + dein Fertigkeitsbonus + dein Intelligenzmodifikator, und er verursacht zusätzlichen Schaden in Höhe deines Intelligenzmodifikators. Der Schaden ist vom selben Typ wie der des gewählten Sprengstoffs.</li><li><strong>Mechanikerbausatz:</strong> Immer wenn du eine Intelligenzüberprüfung (Mechanikerbausatz) machst, um eine Reparatur durchzuführen, kannst du einen Würfelwurf von 9 oder niedriger als 10 behandeln, solange du mindestens zehn Minuten für die Reparatur brauchst. </li></ul><p>Zu guter Letzt kann dieser Raum Droiden und Konstrukte beherbergen, abhängig von der Größe des Schiffes:</p><ul><li><strong>Klein:</strong> Eine kleine Mechanikerwerkstatt kann einen mittleren Droiden oder ein mittleres Konstrukt beherbergen. </li><li><strong>Mittel:</strong> Eine mittlere Mechanikerwerkstatt kann einen riesigen Droiden oder ein riesiges Konstrukt beherbergen.</li><li><strong>Groß:</strong> Eine große Mechanikerwerkstatt kann einen Gargantuan-Droiden oder ein riesiges Konstrukt beherbergen. </li><li><strong>Riesen:</strong> Eine riesige Mechanikerwerkstatt kann 10 Gargantuan-Droiden oder -Konstrukte beherbergen.</li><li><strong>Gargantuan:</strong> Eine Gargantuan-Mechanikerwerkstatt kann 100 Gargantuan-Droiden oder -Konstrukte beherbergen.</li></ul><p>Alternativ kann diese Suite auch Droiden anderer Größen beherbergen. Ein Gargantuan-Droide nimmt den Platz von zwei Riesendroiden ein, die wiederum den Platz von zwei Großdroiden einnehmen, und so weiter.</p>"
 				},
 				{
 					"id": "fDSBIOgEC1JyY3T3",
@@ -579,7 +579,7 @@
 				{
 					"id": "lSTrb5mm1Cx0ZWsD",
 					"name": "Meditationskammer",
-					"description": "<p>Diese Suite verfügt über eine Anzahl separater, einzigartiger Kammern, die einem Viertel der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle angegeben. Wenn ein Forcecaster eine lange Pause mit dieser Suite absolviert, erhält er vorübergehend Kraftpunkte in Höhe seiner maximalen Kraftstufe + seinem Weisheits- oder Charisma-Modifikator (nach seiner Wahl, mindestens einer). Wenn du einen Kraftpunkt ausgeben würdest, während du temporäre Kraftpunkte hast, werden die temporären Kraftpunkte zuerst ausgegeben. Alle temporären Kraftpunkte gehen am Ende der nächsten langen Pause verloren.</p>>"
+					"description": "<p>Diese Suite verfügt über eine Anzahl separater, einzigartiger Kammern, die einem Viertel der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;Tabelle angegeben. Wenn ein Forcecaster eine lange Pause mit dieser Suite absolviert, erhält er vorübergehend Kraftpunkte in Höhe seiner maximalen Kraftstufe + seinem Weisheits- oder Charisma-Modifikator (nach seiner Wahl, mindestens einer). Wenn du einen Kraftpunkt ausgeben würdest, während du temporäre Kraftpunkte hast, werden die temporären Kraftpunkte zuerst ausgegeben. Alle temporären Kraftpunkte gehen am Ende der nächsten langen Pause verloren.</p>"
 				},
 				{
 					"id": "nIEXgLLWL2AfL1la",
@@ -639,7 +639,7 @@
 				{
 					"id": "8EFk1HFrDmOaLrEY",
 					"name": "Stromwandler, Premium",
-					"description": "<p>Du verbesserst die Energiewandler deines Schiffes. Dein Schiff ist für Konstitutions- (Regulierungs-) Checks gut ausgerüstet.</p>>"
+					"description": "<p>Du verbesserst die Energiewandler deines Schiffes. Dein Schiff ist für Konstitutions- (Regulierungs-) Checks gut ausgerüstet.</p>"
 				},
 				{
 					"id": "50FW28s2hpSXm5jr",
@@ -854,7 +854,7 @@
 				{
 					"id": "S2ZaGImPmkWRa7N6",
 					"name": "Schilddurchdringung",
-					"description": "<p>Der Reaktor deines Schiffes wurde überholt, um die Waffenbatterien deines Schiffes vorübergehend zu verstärken. Wenn Ihr Schiff ein anderes Schiff mit einer Primär- oder Sekundärwaffe angreift, während es noch über Schildpunkte verfügt, kann ein Besatzungsmitglied seine Reaktion einsetzen, um einen Teil des Schadens durchbluten zu lassen. Der Schaden, den die Schilde des Schiffes erleiden, wird um einen Betrag in Höhe des Stärke-Modifikators deines Schiffes reduziert. Der Rumpf des Schiffes erleidet dann so viel Schaden. Dieser Schaden ist vom gleichen Typ wie der Schaden der Waffe.</p>>"
+					"description": "<p>Der Reaktor deines Schiffes wurde überholt, um die Waffenbatterien deines Schiffes vorübergehend zu verstärken. Wenn Ihr Schiff ein anderes Schiff mit einer Primär- oder Sekundärwaffe angreift, während es noch über Schildpunkte verfügt, kann ein Besatzungsmitglied seine Reaktion einsetzen, um einen Teil des Schadens durchbluten zu lassen. Der Schaden, den die Schilde des Schiffes erleiden, wird um einen Betrag in Höhe des Stärke-Modifikators deines Schiffes reduziert. Der Rumpf des Schiffes erleidet dann so viel Schaden. Dieser Schaden ist vom gleichen Typ wie der Schaden der Waffe.</p>"
 				},
 				{
 					"id": "k81N2qizzLdaHCk1",
@@ -934,7 +934,7 @@
 				{
 					"id": "Tt5GVwK05lU1s8C3",
 					"name": "Superladestation",
-					"description": "<p>Diese Suite verfügt über eine Anzahl von separaten, einzigartigen Stationen, die einem Viertel der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der Tabelle @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;gezeigt. Wenn ein Techcaster eine lange Ruhepause mit dieser Suite beendet, erhält er, solange er seinen Techcasting-Fokus hat, vorübergehend Tech-Punkte in Höhe seiner maximalen Tech-Machtstufe + seinem Intelligenzmodifikator (mindestens einen). Wenn du einen Tech-Punkt ausgeben würdest, während du temporäre Tech-Punkte hast, werden die temporären Tech-Punkte zuerst ausgegeben. Alle temporären Tech-Punkte gehen am Ende deiner nächsten langen Pause verloren.</p>>"
+					"description": "<p>Diese Suite verfügt über eine Anzahl von separaten, einzigartigen Stationen, die einem Viertel der Suite-Kapazität des Schiffes nach Größe entspricht, wie in der Tabelle @JournalEntry[Mnvw9iBw8gxgfCXw]{Starship Size Suite Capacity}&nbsp;gezeigt. Wenn ein Techcaster eine lange Ruhepause mit dieser Suite beendet, erhält er, solange er seinen Techcasting-Fokus hat, vorübergehend Tech-Punkte in Höhe seiner maximalen Tech-Machtstufe + seinem Intelligenzmodifikator (mindestens einen). Wenn du einen Tech-Punkt ausgeben würdest, während du temporäre Tech-Punkte hast, werden die temporären Tech-Punkte zuerst ausgegeben. Alle temporären Tech-Punkte gehen am Ende deiner nächsten langen Pause verloren.</p>"
 				},
 				{
 					"id": "yFYZPDFifO8qaPZU",
@@ -989,7 +989,7 @@
 				{
 					"id": "MnhP8lE7GpYN93TA",
 					"name": "Traktorstrahl",
-					"description": "<p>Diese Modifikation fügt dem Schiff einen Traktorstrahl hinzu, mit dem man Schiffe und Trümmer erfassen und lenken kann. </p><p>Als Aktion kann man den Traktorstrahl aktivieren, der eine Reichweite von 1.000 Fuß und einen begrenzten Feuerbogen hat, wie in Kapitel 9 beschrieben. Jedes Schiff innerhalb des Feuerbogens muss einen Stärkewurf ablegen (DC = 8 + Schiffsebene + Stärkemodifikator des Schiffs). Bei einem misslungenen Schutzwurf wird das Schiff gezogen.  Als Bonusaktion kann ein Spieler ein gezogenes Schiff 100 Fuß in eine beliebige Richtung bewegen. Als Aktion kann der Pilot eines geschleppten Schiffes den Rettungswurf wiederholen, wobei der Effekt bei einem Erfolg endet.</p><p>Die Rettungswürfe werden mit Vorteil durchgeführt, wenn das Ziel größer ist als du, und mit Nachteil, wenn es kleiner ist. </p><p>Wenn du versuchst, ein Schiff zu traktieren, das größer ist als du, egal ob du scheiterst oder erfolgreich bist, kannst du dich entscheiden, den Zustand \"traktiert\" zu erlangen und dich stattdessen selbst zu bewegen.</p><p>Du kannst den Traktorstrahl jederzeit beenden (keine Aktion erforderlich).</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>>"
+					"description": "<p>Diese Modifikation fügt dem Schiff einen Traktorstrahl hinzu, mit dem man Schiffe und Trümmer erfassen und lenken kann. </p><p>Als Aktion kann man den Traktorstrahl aktivieren, der eine Reichweite von 1.000 Fuß und einen begrenzten Feuerbogen hat, wie in Kapitel 9 beschrieben. Jedes Schiff innerhalb des Feuerbogens muss einen Stärkewurf ablegen (DC = 8 + Schiffsebene + Stärkemodifikator des Schiffs). Bei einem misslungenen Schutzwurf wird das Schiff gezogen.  Als Bonusaktion kann ein Spieler ein gezogenes Schiff 100 Fuß in eine beliebige Richtung bewegen. Als Aktion kann der Pilot eines geschleppten Schiffes den Rettungswurf wiederholen, wobei der Effekt bei einem Erfolg endet.</p><p>Die Rettungswürfe werden mit Vorteil durchgeführt, wenn das Ziel größer ist als du, und mit Nachteil, wenn es kleiner ist. </p><p>Wenn du versuchst, ein Schiff zu traktieren, das größer ist als du, egal ob du scheiterst oder erfolgreich bist, kannst du dich entscheiden, den Zustand \"traktiert\" zu erlangen und dich stattdessen selbst zu bewegen.</p><p>Du kannst den Traktorstrahl jederzeit beenden (keine Aktion erforderlich).</p><p>Diese Fähigkeit kann so oft eingesetzt werden, wie es der Stufe deines Schiffes entspricht (mindestens einmal). Alle verbrauchten Anwendungen werden wiederhergestellt, wenn das Schiff wieder aufgeladen wird.</p>"
 				},
 				{
 					"id": "Peaahgd1s3Y5ZWE8",

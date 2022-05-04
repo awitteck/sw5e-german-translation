@@ -1924,7 +1924,7 @@
         {
             "id": "DLkwuKQnQCNpJgym",
             "name": "Verbündete der Macht",
-            "description": "<p>Immer wenn du einen Weisheitscheck (Einsicht) gegen jemanden machst, von dem du weißt, dass er die Macht führt, gilt man als Experte in der Einsichtsfertigkeit.</p>"
+            "description": "<p>Immer wenn du einen Weisheitscheck (Motiv Erkennen)) gegen jemanden machst, von dem du weißt, dass er die Macht führt, gilt man als Experte in der Einsichtsfertigkeit.</p>"
         },
         {
             "id": "4HvisKLPejDfwXSK",
@@ -2164,7 +2164,7 @@
         {
             "id": "tw3svDEnsf6MZ2n4",
             "name": "Instinkte des Wechselbalgs",
-            "description": "<p>Sie erwerben Kenntnisse mit zwei der folgenden Fähigkeiten Ihrer Wahl: Täuschung, Einschüchterung, Einsicht und Überzeugung</p>"
+            "description": "<p>Sie erwerben Kenntnisse mit zwei der folgenden Fähigkeiten Ihrer Wahl: Täuschung, Einschüchterung, (Motiv Erkennen) und Überzeugung</p>"
         },
         {
             "id": "0ld6P1AXAOkSt0WN",
@@ -2729,7 +2729,7 @@
         {
             "id": "JZQUo3cCOZ2AgCcm",
             "name": "Echani-Kunst",
-            "description": "<p>Falls ein Humanoid, den Sie sehen können, einen Nahkampfwaffenangriff durchführt, können Sie Ihre Reaktion nutzen, um einen Wurf auf Weisheit (Einsicht) gegen das Charisma (Täuschung) des Ziels zu machen. Bei einem Erfolg lernst du eine der folgenden Eigenschaften dieser Kreatur: Stärke, Geschick oder Konstitution; Bonus auf Stärke-, Geschick- oder Konstitutions-Rettungswürfe; Rüstungsklasse; oder aktuelle Trefferpunkte. Bei einem Fehlschlag wird das Ziel für einen Tag gegen diese Funktion immun. Du kannst diese Fähigkeit so oft verwenden, wie es deinem Weisheitsmodifikator entspricht (mindestens einmal). Du erhältst alle verbrauchten Nutzungen bei einer langen Pause zurück.</p>"
+            "description": "<p>Falls ein Humanoid, den Sie sehen können, einen Nahkampfwaffenangriff durchführt, können Sie Ihre Reaktion nutzen, um einen Wurf auf Weisheit (Motiv Erkennen)) gegen das Charisma (Täuschung) des Ziels zu machen. Bei einem Erfolg lernst du eine der folgenden Eigenschaften dieser Kreatur: Stärke, Geschick oder Konstitution; Bonus auf Stärke-, Geschick- oder Konstitutions-Rettungswürfe; Rüstungsklasse; oder aktuelle Trefferpunkte. Bei einem Fehlschlag wird das Ziel für einen Tag gegen diese Funktion immun. Du kannst diese Fähigkeit so oft verwenden, wie es deinem Weisheitsmodifikator entspricht (mindestens einmal). Du erhältst alle verbrauchten Nutzungen bei einer langen Pause zurück.</p>"
         },
         {
             "id": "489xvA1zaV8lCOPR",
@@ -3229,17 +3229,17 @@
         {
             "id": "6IHHIrFSn42JPuZz",
             "name": "Unergründlich",
-            "description": "<p>Ihr ruhiges Auftreten und Ihre Kontrolle machen Sie schwer zu lesen. Würfe auf Weisheit (Einsicht) gegen dich haben einen Nachteil, und du hast einen Vorteil bei jedem Rettungswurf gegen einen Effekt, der deine Gedanken lesen würde.</p>"
+            "description": "<p>Ihr ruhiges Auftreten und Ihre Kontrolle machen Sie schwer zu lesen. Würfe auf Weisheit (Motiv Erkennen)) gegen dich haben einen Nachteil, und du hast einen Vorteil bei jedem Rettungswurf gegen einen Effekt, der deine Gedanken lesen würde.</p>"
         },
         {
             "id": "DfS3oxezhg0ViTpw",
             "name": "Unergründlich",
-            "description": "<p>Ihr ruhiges Auftreten und Ihre Kontrolle machen Sie schwer zu lesen. Würfe auf Weisheit (Einsicht) gegen dich haben einen Nachteil, und du hast einen Vorteil bei jedem Rettungswurf gegen einen Effekt, der deine Gedanken lesen würde.</p>"
+            "description": "<p>Ihr ruhiges Auftreten und Ihre Kontrolle machen Sie schwer zu lesen. Würfe auf Weisheit (Motiv Erkennen)) gegen dich haben einen Nachteil, und du hast einen Vorteil bei jedem Rettungswurf gegen einen Effekt, der deine Gedanken lesen würde.</p>"
         },
         {
             "id": "r8ltVM9DPEBNm768",
             "name": "Aufschlussreich",
-            "description": "<p>Nautolan-Kopftentakel sind geschickt darin, Stimmungen zu bestimmen. Du hast einen Vorteil bei Weisheitswürfen (Einsicht), um Emotionen zu bestimmen.</p>"
+            "description": "<p>Nautolan-Kopftentakel sind geschickt darin, Stimmungen zu bestimmen. Du hast einen Vorteil bei Weisheitswürfen (Motiv Erkennen)), um Emotionen zu bestimmen.</p>"
         },
         {
             "id": "wR1Zft67ybBF57NU",
@@ -4234,7 +4234,7 @@
         {
             "id": "ewnml1inQaXHjKTn",
             "name": "Mimikry",
-            "description": "<p>Sie können gehörte Geräusche nachahmen, einschließlich Stimmen. Eine Kreatur, die die von dir erzeugten Geräusche hört, kann erkennen, dass es sich um Imitationen handelt, wenn du einen erfolgreichen Wurf auf Weisheit (Einsicht) hast, dem dein Wurf auf Charisma (Täuschung) gegenübersteht.</p>"
+            "description": "<p>Sie können gehörte Geräusche nachahmen, einschließlich Stimmen. Eine Kreatur, die die von dir erzeugten Geräusche hört, kann erkennen, dass es sich um Imitationen handelt, wenn du einen erfolgreichen Wurf auf Weisheit (Motiv Erkennen)) hast, dem dein Wurf auf Charisma (Täuschung) gegenübersteht.</p>"
         },
         {
             "id": "IXg4uwBz6NhuQtCu",
@@ -4294,22 +4294,22 @@
         {
             "id": "7n21XdAaCohKBvYg",
             "name": "Natürliche Empathie",
-            "description": "<p>Der starke Geruchssinn von Baragwin ermöglicht es ihnen, die Emotionen ihrer Umgebung zu spüren. Du hast einen Vorteil bei Würfen für Weisheit (Einsicht), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
+            "description": "<p>Der starke Geruchssinn von Baragwin ermöglicht es ihnen, die Emotionen ihrer Umgebung zu spüren. Du hast einen Vorteil bei Würfen für Weisheit (Motiv Erkennen)), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
         },
         {
             "id": "8eM6wFepSLC3oEJj",
             "name": "Natürliche Empathie",
-            "description": "<p>Ssi-ruuk haben Duftzungen, die es ihnen ermöglichen, die Emotionen einzelner Personen zu lesen. Du hast einen Vorteil bei Würfen für Weisheit (Einsicht), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
+            "description": "<p>Ssi-ruuk haben Duftzungen, die es ihnen ermöglichen, die Emotionen einzelner Personen zu lesen. Du hast einen Vorteil bei Würfen für Weisheit (Motiv Erkennen)), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
         },
         {
             "id": "NDVjVITGoNG3lBz6",
             "name": "Natürliche Empathie",
-            "description": "<p>Zeltrons begrenzte Telepathie ermöglicht es ihnen, Stimmungsschwankungen bei ihren Mitmenschen zu spüren. Du hast einen Vorteil bei Würfen für Weisheit (Einsicht), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
+            "description": "<p>Zeltrons begrenzte Telepathie ermöglicht es ihnen, Stimmungsschwankungen bei ihren Mitmenschen zu spüren. Du hast einen Vorteil bei Würfen für Weisheit (Motiv Erkennen)), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
         },
         {
             "id": "fRuWtr6D3T42H8FD",
             "name": "Natürliche Empathie",
-            "description": "<p>Mit den elektromagnetischen Sensoren von Gotal können sie die Emotionen ihrer Umgebung wahrnehmen. Du hast einen Vorteil bei Würfen für Weisheit (Einsicht), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
+            "description": "<p>Mit den elektromagnetischen Sensoren von Gotal können sie die Emotionen ihrer Umgebung wahrnehmen. Du hast einen Vorteil bei Würfen für Weisheit (Motiv Erkennen)), um Emotionen gegen Humanoide und Bestien in einem Umkreis von 10ft um dich zu bestimmen.</p>"
         },
         {
             "id": "BRDvXuTPWpkzJfqO",
@@ -4714,7 +4714,7 @@
         {
             "id": "eKBPlK93QAVJyeex",
             "name": "Klug",
-            "description": "<p>Sie beherrschen die Fähigkeiten Einsicht und Täuschung.</p>"
+            "description": "<p>Sie beherrschen die Fähigkeiten (Motiv Erkennen) und Täuschung.</p>"
         },
         {
             "id": "CuWdNQGF4mxPtUcG",
@@ -6579,7 +6579,7 @@
         {
             "id": "yvYdFbpqvWYJzJC4",
             "name": "Umbaran-Spezialisierung",
-            "description": "<p>Sie verfügen über Kenntnisse in einer der folgenden Fähigkeiten: Einsicht, Technologie, Täuschung oder Wahrnehmung.</p>"
+            "description": "<p>Sie verfügen über Kenntnisse in einer der folgenden Fähigkeiten: (Motiv Erkennen), Technologie, Täuschung oder Wahrnehmung.</p>"
         },
         {
             "id": "AdIM23KabPyqavcj",

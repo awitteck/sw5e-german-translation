@@ -69,7 +69,7 @@
         {
             "id": "cgXu21dmJHNe1IUY",
             "name": "Kommunikationsverstärkung",
-            "description": "<p>Als Bonusaktion kannst du einen Technologiewürfel würfeln und ihn zur nächsten Charisma (Einmischung)-Überprüfung deines Schiffes vor dem Ende deines nächsten Zuges hinzufügen.</p>"
+            "description": "<p>Als Bonusaktion kannst du einen Technologiewürfel würfeln und ihn zur nächsten Charisma (Einmischen)-Überprüfung deines Schiffes vor dem Ende deines nächsten Zuges hinzufügen.</p>"
         },
         {
             "id": "Ed71yER1DyL9WIS3",
@@ -299,7 +299,7 @@
         {
             "id": "2NUqt5H4hmf2X9Gl",
             "name": "Überwältigende Anwesenheit",
-            "description": "<p><em><strong>Kräftewürfel Standort:</strong> Kommunikation</em><br>Als Aktion kannst du eine Fertigkeitsprüfung auf Charisma (Beeindrucken) oder Charisma (Bedrohen) ablegen und einen Energiewürfel aufwenden, um zu versuchen, eine humanoide Kreatur im Umkreis von 600 Fuß zu bezaubern oder zu erschrecken, die dein Schiff sehen und wahrnehmen kann. Addiere den Machtwürfel zu deinem Wurf. Das Ziel macht eine umstrittene Intelligenzüberprüfung (Probe). Wenn deine Probe erfolgreich ist, wird das Ziel bis zum Ende deines nächsten Zuges von dir verzaubert, wenn du 'Beeindrucken' benutzt hast, oder es wird von dir verängstigt, wenn du 'Bedrohen' benutzt hast.</p>"
+            "description": "<p><em><strong>Kräftewürfel Standort:</strong> Kommunikation</em><br>Als Aktion kannst du eine Fertigkeitsprüfung auf Charisma (Beeindrucken) oder Charisma (Drohen) ablegen und einen Energiewürfel aufwenden, um zu versuchen, eine humanoide Kreatur im Umkreis von 600 Fuß zu bezaubern oder zu erschrecken, die dein Schiff sehen und wahrnehmen kann. Addiere den Machtwürfel zu deinem Wurf. Das Ziel macht eine umstrittene Intelligenzüberprüfung (Sondieren). Wenn deine Probe erfolgreich ist, wird das Ziel bis zum Ende deines nächsten Zuges von dir verzaubert, wenn du 'Beeindrucken' benutzt hast, oder es wird von dir verängstigt, wenn du 'Bedrohen' benutzt hast.</p>"
         },
         {
             "id": "0ChMqVmu5Zbm1MdK",
@@ -324,7 +324,7 @@
         {
             "id": "4FymUPeOoWd7sBty",
             "name": "Paragon-Techniker",
-            "description": "<p>Ab der 5. Stufe bist du ein Aushängeschild deiner Aufstellung. Stufe kannst du bei einer Stärke- (Verstärken) oder Konstitutions- (Regulieren) -Überprüfung das Maximum nehmen, anstatt zu würfeln. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
+            "description": "<p>Ab der 5. Stufe bist du ein Aushängeschild deiner Aufstellung. Stufe kannst du bei einer Stärke- (Boost) oder Konstitutions- (Regulieren) -Überprüfung das Maximum nehmen, anstatt zu würfeln. Du kannst diese Fähigkeit vor oder nach dem Wurf einsetzen, aber bevor die Auswirkungen des Wurfs bestimmt werden. Sobald du diese Fähigkeit benutzt hast, musst du eine kurze oder lange Pause einlegen, bevor du sie wieder benutzen kannst.</p>"
         },
         {
             "id": "EHbxsR3TYqgx14ox",
@@ -379,12 +379,12 @@
         {
             "id": "17Az370jZXcMRWDn",
             "name": "Schnell-Fixierer",
-            "description": "<p>Ab dem 2. Rang, wenn du die Aktion Flicken ausführst oder während des Aufladens Schiffsreparaturen durchführst, hast du einen Vorteil bei der Konstitutionsprüfung (Flicken). Wenn du bereits einen Vorteil hast, kannst du stattdessen einen der Würfel einmal wiederholen.</p>"
+            "description": "<p>Ab dem 2. Rang, wenn du die Aktion Flicken ausführst oder während des Aufladens Schiffsreparaturen durchführst, hast du einen Vorteil bei der Konstitutionsprüfung (Patch). Wenn du bereits einen Vorteil hast, kannst du stattdessen einen der Würfel einmal wiederholen.</p>"
         },
         {
             "id": "RZxFrOs6LwFxQgyB",
             "name": "Schnelle Regeneration",
-            "description": "<p>Auf Rang 2 hast du, wenn du die Aktion Schilde verstärken ausführst, einen Vorteil bei der Überprüfung der Stärke (Verstärkung). Wenn du bereits einen Vorteil hast, kannst du stattdessen einen der Würfel einmal neu werfen.</p>"
+            "description": "<p>Auf Rang 2 hast du, wenn du die Aktion Schilde verstärken ausführst, einen Vorteil bei der Überprüfung der Stärke (Boost). Wenn du bereits einen Vorteil hast, kannst du stattdessen einen der Würfel einmal neu werfen.</p>"
         },
         {
             "id": "SyiaGrnvJyBupkuq",
@@ -409,7 +409,7 @@
         {
             "id": "PMxG5cMOa1Ke5xSZ",
             "name": "Reaktor-Boost",
-            "description": "<p>Als Aktion kannst du deinen Technologiewürfel werfen.  Dein Reaktor produziert sofort so viele Energiewürfel, wie er aufgrund der Energiekopplung deines Schiffes sofort gelagert werden muss.  Für jeden Energiewürfel, der über die Speicherkapazität deines Schiffes hinaus produziert wird, erleidet dein Schiff so viele Hüllenpunkte Schaden.</p><p>Zusätzlich muss dein Schiff einen Konstitutions-(Regulierungs-)Check bestehen (DC = 10 + die gewürfelte Zahl deines Technologiewürfels) oder Hüllenschaden in Höhe eines Hüllenwürfels + deines Stärkemodifikators nehmen.</p>"
+            "description": "<p>Als Aktion kannst du deinen Technologiewürfel werfen.  Dein Reaktor produziert sofort so viele Energiewürfel, wie er aufgrund der Energiekopplung deines Schiffes sofort gelagert werden muss.  Für jeden Energiewürfel, der über die Speicherkapazität deines Schiffes hinaus produziert wird, erleidet dein Schiff so viele Hüllenpunkte Schaden.</p><p>Zusätzlich muss dein Schiff einen Konstitutions-(Regulieren-)Check bestehen (DC = 10 + die gewürfelte Zahl deines Technologiewürfels) oder Hüllenschaden in Höhe eines Hüllenwürfels + deines Stärkemodifikators nehmen.</p>"
         },
         {
             "id": "zHih7MUFtxy6v1KD",
@@ -419,7 +419,7 @@
         {
             "id": "ncymxu1MtAHKWAUq",
             "name": "Ferngesteuerte Sensoren",
-            "description": "<p><em><strong>Power Die Location:</strong> Sensoren</em><br>Immer wenn du einen Wisdom (Scan) oder Intelligence (Probe) Check machst, kannst du die Hilfe von Fernsensoren in Anspruch nehmen, indem du einen Power Die einsetzt und die gewürfelte Zahl zu dem Check addierst. Du kannst dieses Manöver vor oder nach der Fähigkeitsprüfung einsetzen, aber bevor die Ergebnisse der Fähigkeitsprüfung ermittelt werden.</p> <p>"
+            "description": "<p><em><strong>Power Die Location:</strong> Sensoren</em><br>Immer wenn du einen Wisdom (Scannen) oder Intelligence (Sondieren) Check machst, kannst du die Hilfe von Fernsensoren in Anspruch nehmen, indem du einen Power Die einsetzt und die gewürfelte Zahl zu dem Check addierst. Du kannst dieses Manöver vor oder nach der Fähigkeitsprüfung einsetzen, aber bevor die Ergebnisse der Fähigkeitsprüfung ermittelt werden.</p> <p>"
         },
         {
             "id": "MPE9v00SrW329UWR",

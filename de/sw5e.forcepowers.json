@@ -33,7 +33,7 @@
         },
         {
             "id": "Battle Insight",
-            "name": "Kampf-Einsicht",
+            "name": "Kampf-(Motiv Erkennen)",
             "description": "<p>Du richtest deinen Fokus auf ein Ziel in Reichweite. Durch die Macht erhältst du einen kurzen Einblick in die Verteidigungsfähigkeit des Ziels. In deinem nächsten Zug erhältst du einen Vorteil auf deinen ersten Angriffswurf gegen das Ziel, vorausgesetzt, diese Macht ist noch nicht beendet.</p> <p>Diese Macht kommt auf höheren Stufen zusätzlichen Angriffen zugute: zwei Angriffe auf Stufe 5, drei Angriffe auf Stufe 11 und vier Angriffe auf Stufe 17.</p>"
         },
         {
@@ -859,7 +859,7 @@
         {
             "id": "Sense Emotion",
             "name": "Emotionen spüren",
-            "description": "<p>Du stimmst deine Sinne darauf ein, die Emotionen anderer für die Dauer der Macht aufzuspüren. Wenn du die Macht wirkst und als deine Aktion in jeder Runde, bis die Macht endet, kannst du deine Sinne auf einen Humanoiden konzentrieren, den du im Umkreis von 30 Fuß sehen kannst. Du erfährst sofort die vorherrschende Emotion des Ziels, egal ob es sich um Liebe, Wut, Schmerz, Angst, Ruhe oder etwas anderes handelt, und du hast einen Vorteil bei Weisheitsprüfungen (Einsicht) gegen das Ziel. Wenn das Ziel nicht humanoid ist oder immun gegen Verzauberung ist, spürst du, dass es ruhig ist.</p>"
+            "description": "<p>Du stimmst deine Sinne darauf ein, die Emotionen anderer für die Dauer der Macht aufzuspüren. Wenn du die Macht wirkst und als deine Aktion in jeder Runde, bis die Macht endet, kannst du deine Sinne auf einen Humanoiden konzentrieren, den du im Umkreis von 30 Fuß sehen kannst. Du erfährst sofort die vorherrschende Emotion des Ziels, egal ob es sich um Liebe, Wut, Schmerz, Angst, Ruhe oder etwas anderes handelt, und du hast einen Vorteil bei Weisheitsprüfungen (Motiv Erkennen)) gegen das Ziel. Wenn das Ziel nicht humanoid ist oder immun gegen Verzauberung ist, spürst du, dass es ruhig ist.</p>"
         },
         {
             "id": "Sense Force",

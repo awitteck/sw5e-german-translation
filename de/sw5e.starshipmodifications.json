@@ -14,7 +14,7 @@
 				{
 					"id": "DQlFYUhnL5pUfnDL",
 					"name": "Aktive Tarnung",
-					"description": "<p>Dieses System verbessert den Tarnmodus deines Schiffes. Während es aktiv ist, hat dein Schiff keinen Nachteil mehr bei Intelligenz- (Probe) und Weisheitsproben (Scannen), die auf Scannern beruhen, und muss nicht mehr auf die Tabelle [Hyperraum-Pannen](#Hyperraum%20Pannen) würfeln, bevor es in den Hyperraum eintritt, während der Tarnmodus aktiv ist.</p><p>Zusätzlich ist dein Schiff für Geschicklichkeits-Proben (Verstecken) gut ausgerüstet.  Wenn es bereits fachmännisch ausgerüstet ist, erhält es stattdessen einen Bonus in Höhe der halben Schiffsstufe (aufgerundet).</p>"
+					"description": "<p>Dieses System verbessert den Tarnmodus deines Schiffes. Während es aktiv ist, hat dein Schiff keinen Nachteil mehr bei Intelligenz- (Sondieren) und Weisheitsproben (Scannen), die auf Scannern beruhen, und muss nicht mehr auf die Tabelle [Hyperraum-Pannen](#Hyperraum%20Pannen) würfeln, bevor es in den Hyperraum eintritt, während der Tarnmodus aktiv ist.</p><p>Zusätzlich ist dein Schiff für Geschicklichkeits-Proben (Verstecken) gut ausgerüstet.  Wenn es bereits fachmännisch ausgerüstet ist, erhält es stattdessen einen Bonus in Höhe der halben Schiffsstufe (aufgerundet).</p>"
 				},
 				{
 					"id": "H1PmkigBok9ThtyJ",
@@ -639,17 +639,17 @@
 				{
 					"id": "8EFk1HFrDmOaLrEY",
 					"name": "Stromwandler, Premium",
-					"description": "<p>Du verbesserst die Energiewandler deines Schiffes. Dein Schiff ist für Konstitutions- (Regulierungs-) Checks gut ausgerüstet.</p>"
+					"description": "<p>Du verbesserst die Energiewandler deines Schiffes. Dein Schiff ist für Konstitutions- (Regulieren-) Checks gut ausgerüstet.</p>"
 				},
 				{
 					"id": "50FW28s2hpSXm5jr",
 					"name": "Stromwandler, Prototyp",
-					"description": "<p>Du verbesserst die Energiewandler deines Schiffes weiter. Dein Schiff ist für Konstitutions- (Regulierungs-) Checks gut gerüstet.</p>"
+					"description": "<p>Du verbesserst die Energiewandler deines Schiffes weiter. Dein Schiff ist für Konstitutions- (Regulieren-) Checks gut gerüstet.</p>"
 				},
 				{
 					"id": "TIakSCO93mkS3Yvs",
 					"name": "Energie-Harpune",
-					"description": "<p>Ein Besatzungsmitglied kann als Aktion einen Schiffswaffenangriff mit der Machtharpune durchführen.  Die Reichweite der Harpune beträgt 400/1600 Fuß.  Bei einem Treffer wird das Ziel harpuniert, wodurch das Schiff über ein 1.600 Fuß langes Kabel mit dem Ziel verbunden wird. </p><p>Wenn die verbundenen Objekte näher als 1600 Fuß sind, kann ein Besatzungsmitglied deines Schiffes jederzeit als freie Aktion wählen, ob das Kabel schlaff oder gespannt sein soll. Wenn das Kabel gespannt ist, zieht jede Bewegung eines Objekts vom anderen weg das andere Objekt mit.  Wenn das Kabel gespannt ist, gilt die Bewegung des ersten Objekts vom anderen Objekt weg als Bewegung durch schwieriges Gelände, wenn sich das erste Objekt innerhalb einer Größenklasse des anderen Objekts befindet.  Ein Objekt, das zwei oder mehr Größenkategorien kleiner als das andere Objekt ist, kann sich nicht vom anderen Objekt wegbewegen, wenn das Kabel gelehrt wird.</p><p>Wenn die Objekte 1600 Fuß voneinander entfernt sind, wird das Kabel immer gelehrt.</p><p>Während es durch das Kabel verbunden ist, kann ein Besatzungsmitglied eine Bonusaktion nutzen, um zu taumeln, wobei es sein Schiff um 200 Fuß in Richtung des Ziels (wenn es größer als sein Schiff ist) oder das Ziel in Richtung seines Schiffs (wenn es gleich groß oder kleiner als sein Schiff ist) zieht. Zu jeder Zeit kann ein Besatzungsmitglied deines Schiffes das Seil loslassen (keine Aktion erforderlich).</p><p>Als Aktion kann ein Besatzungsmitglied eines harpunierten Schiffes versuchen, die Harpune zu entfernen. Dazu muss das Schiff einen Stärke-(Verstärkung) Check bestehen, der von deinem Stärke-(Verstärkung) oder Geschicklichkeits-(Manöver) Check angefochten wird.</p><p>Wenn diese Funktion einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
+					"description": "<p>Ein Besatzungsmitglied kann als Aktion einen Schiffswaffenangriff mit der Machtharpune durchführen.  Die Reichweite der Harpune beträgt 400/1600 Fuß.  Bei einem Treffer wird das Ziel harpuniert, wodurch das Schiff über ein 1.600 Fuß langes Kabel mit dem Ziel verbunden wird. </p><p>Wenn die verbundenen Objekte näher als 1600 Fuß sind, kann ein Besatzungsmitglied deines Schiffes jederzeit als freie Aktion wählen, ob das Kabel schlaff oder gespannt sein soll. Wenn das Kabel gespannt ist, zieht jede Bewegung eines Objekts vom anderen weg das andere Objekt mit.  Wenn das Kabel gespannt ist, gilt die Bewegung des ersten Objekts vom anderen Objekt weg als Bewegung durch schwieriges Gelände, wenn sich das erste Objekt innerhalb einer Größenklasse des anderen Objekts befindet.  Ein Objekt, das zwei oder mehr Größenkategorien kleiner als das andere Objekt ist, kann sich nicht vom anderen Objekt wegbewegen, wenn das Kabel gelehrt wird.</p><p>Wenn die Objekte 1600 Fuß voneinander entfernt sind, wird das Kabel immer gelehrt.</p><p>Während es durch das Kabel verbunden ist, kann ein Besatzungsmitglied eine Bonusaktion nutzen, um zu taumeln, wobei es sein Schiff um 200 Fuß in Richtung des Ziels (wenn es größer als sein Schiff ist) oder das Ziel in Richtung seines Schiffs (wenn es gleich groß oder kleiner als sein Schiff ist) zieht. Zu jeder Zeit kann ein Besatzungsmitglied deines Schiffes das Seil loslassen (keine Aktion erforderlich).</p><p>Als Aktion kann ein Besatzungsmitglied eines harpunierten Schiffes versuchen, die Harpune zu entfernen. Dazu muss das Schiff einen Stärke-(Boost) Check bestehen, der von deinem Stärke-(Boost) oder Geschicklichkeits-(Manövrieren) Check angefochten wird.</p><p>Wenn diese Funktion einmal benutzt wurde, kann sie erst wieder benutzt werden, wenn das Schiff wieder aufgeladen ist.</p>"
 				},
 				{
 					"id": "f1n93igQVbL7dBYB",
@@ -694,7 +694,7 @@
 				{
 					"id": "Hx3L4ZThqS3uYW6t",
 					"name": "Erholung",
-					"description": "<p>Diese Suite verfügt über eine Bar und einen Lounge-Bereich sowie ein Vielfaches jedes Spielgeräts und Musikinstruments und kann eine Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen beherbergen, die der doppelten Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suite-Kapazität}&nbsp;Tabelle angegeben. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Fertigkeitsbonus bereits zu deinen Checks addierst, addierst du stattdessen das Doppelte deines Fertigkeitsbonus. Wenn du bereits deinen Fertigkeitsbonus auf deine Checks verdoppelst, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p>\r\n<p>Während du eines dieser Werkzeuge benutzt, erhältst du zusätzlich einen Vorteil, der davon abhängt, welche Werkzeuge du benutzt.</p>\r\n<ul>\r\n<li><strong>Spielgerät oder Musikinstrument:</strong> Während du eines der Spielgeräte oder Musikinstrumente spielst, kannst du die Emotionen derer, die dir zuhören, immer gut lesen. Während dieser Zeit und bis zu einer Minute nach Beendigung des Spiels hast du einen Vorteil bei Weisheitsprüfungen (Einsicht), um die Emotionen derer zu lesen, für die du gespielt hast oder gegen die du angetreten bist.</li>\r\n</ul>\r\n<p>Schließlich, wenn eine Kreatur eine lange Ruhepause mit dieser Suite abschließt, erhält sie einen Vorteil auf die erste Fähigkeitsprüfung oder den ersten Angriffswurf, den sie vor Beginn ihrer nächsten langen Ruhepause macht.</p>"
+					"description": "<p>Diese Suite verfügt über eine Bar und einen Lounge-Bereich sowie ein Vielfaches jedes Spielgeräts und Musikinstruments und kann eine Anzahl von Zivilisten, Besatzungsmitgliedern oder Truppen beherbergen, die der doppelten Suite-Kapazität des Schiffes nach Größe entspricht, wie in der @JournalEntry[Mnvw9iBw8gxgfCXw]{Schiffsgröße Suite-Kapazität}&nbsp;Tabelle angegeben. Wenn du eines dieser Werkzeuge benutzt, kannst du deinen Fertigkeitsbonus zu deinen Würfen addieren, falls du dies nicht bereits tust. Wenn du deinen Fertigkeitsbonus bereits zu deinen Checks addierst, addierst du stattdessen das Doppelte deines Fertigkeitsbonus. Wenn du bereits deinen Fertigkeitsbonus auf deine Checks verdoppelst, fügst du stattdessen die Hälfte deines regierenden Fähigkeitsmodifikators (abgerundet, mindestens +1) zusätzlich zu deinem Fähigkeitsmodifikator hinzu.</p>\r\n<p>Während du eines dieser Werkzeuge benutzt, erhältst du zusätzlich einen Vorteil, der davon abhängt, welche Werkzeuge du benutzt.</p>\r\n<ul>\r\n<li><strong>Spielgerät oder Musikinstrument:</strong> Während du eines der Spielgeräte oder Musikinstrumente spielst, kannst du die Emotionen derer, die dir zuhören, immer gut lesen. Während dieser Zeit und bis zu einer Minute nach Beendigung des Spiels hast du einen Vorteil bei Weisheitsprüfungen (Motiv Erkennen)), um die Emotionen derer zu lesen, für die du gespielt hast oder gegen die du angetreten bist.</li>\r\n</ul>\r\n<p>Schließlich, wenn eine Kreatur eine lange Ruhepause mit dieser Suite abschließt, erhält sie einen Vorteil auf die erste Fähigkeitsprüfung oder den ersten Angriffswurf, den sie vor Beginn ihrer nächsten langen Ruhepause macht.</p>"
 				},
 				{
 					"id": "SuW4JICEor44cFi3",
@@ -789,17 +789,17 @@
 				{
 					"id": "JP7bwXHUbOx4IyY6",
 					"name": "Scanner, Premium",
-					"description": "<p>Dieses System erweitert den nativen Radarscanner deines Schiffes. Dein Schiff erhält Blindsight bis zu einer Entfernung von 1.000 Fuß.</p><p>Zusätzlich ist dein Schiff für Intelligenz- (Probe) und Weisheits- (Scan) Checks gut ausgerüstet.</p>"
+					"description": "<p>Dieses System erweitert den nativen Radarscanner deines Schiffes. Dein Schiff erhält Blindsight bis zu einer Entfernung von 1.000 Fuß.</p><p>Zusätzlich ist dein Schiff für Intelligenz- (Sondieren) und Weisheits- (Scannen) Checks gut ausgerüstet.</p>"
 				},
 				{
 					"id": "MCf4UdMxbP4S4t0o",
 					"name": "Scanner, Prototyp",
-					"description": "<p>Diese Modifikation verbessert den Radarscanner deines Schiffes.</p><p>Dein Schiff ist für Intelligenz- (Probe) und Weisheits- (Scan) Checks hervorragend ausgerüstet.</p>"
+					"description": "<p>Diese Modifikation verbessert den Radarscanner deines Schiffes.</p><p>Dein Schiff ist für Intelligenz- (Sondieren) und Weisheits- (Scannen) Checks hervorragend ausgerüstet.</p>"
 				},
 				{
 					"id": "XoI65gAyu88yeLfi",
 					"name": "Scanner, Renommiert",
-					"description": "<p>Diese Modifikation verbessert den Radarscanner deines Schiffes massiv. Dein Schiff erhält eine Sichtweite von bis zu 1.000 Fuß.</p><p>Dein Schiff hat einen Vorteil bei Intelligenz- (Probe) und Weisheits- (Scan) Checks, die auf Scannern basieren.</p>"
+					"description": "<p>Diese Modifikation verbessert den Radarscanner deines Schiffes massiv. Dein Schiff erhält eine Sichtweite von bis zu 1.000 Fuß.</p><p>Dein Schiff hat einen Vorteil bei Intelligenz- (Sondieren) und Weisheits- (Scannen) Checks, die auf Scannern basieren.</p>"
 				},
 				{
 					"id": "Aok9P0HQWl1g1air",
@@ -894,7 +894,7 @@
 				{
 					"id": "hU3DRksAgX1IrnKs",
 					"name": "Schockierende Harpune",
-					"description": "<p>Die Harpune deines Schiffes wurde so modifiziert, dass sie Energiestöße in das harpunierte Schiff leiten kann. Ein harpuniertes Schiff hat einen Nachteil bei der Überprüfung der Stärke (Verstärkung), um die Harpune zu entfernen. Zusätzlich kann ein Besatzungsmitglied als Aktion in jedem seiner Züge einem harpunierten Schiff Impulsschaden zufügen. Der Schaden entspricht einem der Schildwürfel deines Schiffes + dem Stärke-Modifikator deines Schiffes.</p><p>Schließlich kann dein Schiff, wenn es eine Stärke-(Ramm)-Überprüfung durchführt, einen der Würfel neu werfen.</p>"
+					"description": "<p>Die Harpune deines Schiffes wurde so modifiziert, dass sie Energiestöße in das harpunierte Schiff leiten kann. Ein harpuniertes Schiff hat einen Nachteil bei der Überprüfung der Stärke (Boost), um die Harpune zu entfernen. Zusätzlich kann ein Besatzungsmitglied als Aktion in jedem seiner Züge einem harpunierten Schiff Impulsschaden zufügen. Der Schaden entspricht einem der Schildwürfel deines Schiffes + dem Stärke-Modifikator deines Schiffes.</p><p>Schließlich kann dein Schiff, wenn es eine Stärke-(Ramm)-Überprüfung durchführt, einen der Würfel neu werfen.</p>"
 				},
 				{
 					"id": "Wzf1sZU4bcewRZwa",
@@ -914,7 +914,7 @@
 				{
 					"id": "z6dpj9B2yJRZe6tD",
 					"name": "Tarnvorrichtung",
-					"description": "<p>Diese Modifikation fügt deinem Schiff eine Tarnvorrichtung hinzu. Dieses Gerät wirkt dem Einsatz von Scannern für und gegen dein Schiff entgegen oder hebt ihn auf. Ein Besatzungsmitglied kann einen Tarnmodus als Aktion aktivieren oder deaktivieren. Solange die Tarnvorrichtung aktiv ist, hat dein Schiff einen Vorteil bei Geschicklichkeits-Proben (Verstecken), die sich auf Scanner beziehen, aber einen Nachteil bei Intelligenz- (Probe) und Weisheitsproben (Scannen), die sich auf Scanner beziehen.</p><p>Wenn du versuchst, in den Hyperraum einzudringen, während die Tarnvorrichtung aktiv ist, musst du zusätzlich einen Wurf auf die Tabelle [Hyperraum-Pannen](#Hyperspace%20Mishaps) auf Seite 76 durchführen.</p><p>Schließlich ist dein Schiff für Geschicklichkeits-Proben (Verstecken) kompetent ausgerüstet.  Wenn dein Schiff bereits tüchtig ausgerüstet ist, gilt es stattdessen als tüchtig ausgerüstet.</p>"
+					"description": "<p>Diese Modifikation fügt deinem Schiff eine Tarnvorrichtung hinzu. Dieses Gerät wirkt dem Einsatz von Scannern für und gegen dein Schiff entgegen oder hebt ihn auf. Ein Besatzungsmitglied kann einen Tarnmodus als Aktion aktivieren oder deaktivieren. Solange die Tarnvorrichtung aktiv ist, hat dein Schiff einen Vorteil bei Geschicklichkeits-Proben (Verstecken), die sich auf Scanner beziehen, aber einen Nachteil bei Intelligenz- (Sondieren) und Weisheitsproben (Scannen), die sich auf Scanner beziehen.</p><p>Wenn du versuchst, in den Hyperraum einzudringen, während die Tarnvorrichtung aktiv ist, musst du zusätzlich einen Wurf auf die Tabelle [Hyperraum-Pannen](#Hyperspace%20Mishaps) auf Seite 76 durchführen.</p><p>Schließlich ist dein Schiff für Geschicklichkeits-Proben (Verstecken) kompetent ausgerüstet.  Wenn dein Schiff bereits tüchtig ausgerüstet ist, gilt es stattdessen als tüchtig ausgerüstet.</p>"
 				},
 				{
 					"id": "P2gZumGzDl0eQ3fy",

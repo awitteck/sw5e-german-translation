@@ -169,7 +169,7 @@
 				{
 					"id": "68gm4jJt2g2an572",
 					"name": "Scharfsinniger Techie",
-					"description": "Wenn du an Bord deines Schiffes eine Überprüfung auf Weisheit (Scannen) oder Intelligenz (Probe) durchführst, darfst du deinen Weisheitsmodifikator anstelle des Fähigkeitsmodifikators deines Schiffes verwenden.</p>"
+					"description": "Wenn du an Bord deines Schiffes eine Überprüfung auf Weisheit (Scannen) oder Intelligenz (Sondieren) durchführst, darfst du deinen Weisheitsmodifikator anstelle des Fähigkeitsmodifikators deines Schiffes verwenden.</p>"
 				},
 				{
 					"id": "fEI7hwGbDzBDfdke",
@@ -194,12 +194,12 @@
 				{
 					"id": "5ocdFyhyQPBqjj9J",
 					"name": "Rücksichtsloses Ramming",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Berserker</em></p><p>Wenn du die Aktion Rammbock ausführst, kannst du alle Bedenken bezüglich der Verteidigung über Bord werfen und mit wilder Verzweiflung angreifen. Das Ziel hat einen Nachteil bei der Geschicklichkeitsprüfung (Manöver), und du verursachst zusätzlichen Schaden in Höhe deines Wut-Schadensbonus. Der erste Angriffswurf gegen dein Schiff vor dem Beginn deines nächsten Zuges hat Vorteil.</p>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 2 Stufen in Berserker</em></p><p>Wenn du die Aktion Rammbock ausführst, kannst du alle Bedenken bezüglich der Verteidigung über Bord werfen und mit wilder Verzweiflung angreifen. Das Ziel hat einen Nachteil bei der Geschicklichkeitsprüfung (Manövrieren), und du verursachst zusätzlichen Schaden in Höhe deines Wut-Schadensbonus. Der erste Angriffswurf gegen dein Schiff vor dem Beginn deines nächsten Zuges hat Vorteil.</p>"
 				},
 				{
 					"id": "9L2LihZWReZzksed",
 					"name": "Wiederkehrende Reparaturen",
-					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 3 Ränge in Mechanik</em></p><p>Wenn du bei einer Konstitutions-(Flicken)-Überprüfung als Teil einer Flicken-Aktion, die du machst, erfolgreich bist, hast du Vorteil bei der nächsten Konstitutions-(Flicken)-Überprüfung, die du als Teil der Flicken-Aktion, die du machst, vor dem Ende deines nächsten Zuges machst.</p>"
+					"description": "<p><em><strong>Voraussetzung:</strong> Mindestens 3 Ränge in Mechanik</em></p><p>Wenn du bei einer Konstitutions-(Patch)-Überprüfung als Teil einer Flicken-Aktion, die du machst, erfolgreich bist, hast du Vorteil bei der nächsten Konstitutions-(Patch)-Überprüfung, die du als Teil der Flicken-Aktion, die du machst, vor dem Ende deines nächsten Zuges machst.</p>"
 				},
 				{
 					"id": "H6qXSuLUO0Yxpl80",
@@ -244,7 +244,7 @@
 				{
 					"id": "XCfImlUdBzvW8UGp",
 					"name": "Gerissener Verhörspezialist",
-					"description": "Wenn du an Bord deines Schiffes eine Überprüfung auf Weisheit (Einsicht) oder Charisma (Täuschung) durchführst, darfst du deinen Intelligenz-Modifikator anstelle deines Weisheits- oder Charisma-Modifikators verwenden. </p>"
+					"description": "Wenn du an Bord deines Schiffes eine Überprüfung auf Weisheit (Motiv Erkennen)) oder Charisma (Täuschung) durchführst, darfst du deinen Intelligenz-Modifikator anstelle deines Weisheits- oder Charisma-Modifikators verwenden. </p>"
 				},
 				{
 					"id": "Ks8TffMcgBcJFPSm",
